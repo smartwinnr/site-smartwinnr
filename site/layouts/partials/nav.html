@@ -1,0 +1,52 @@
+<nav id="main-nav" class="navbar navbar-default purple-background" role="navigation">
+  <div class="container">
+
+    <div class="navbar-header">
+      <button type="button" class="toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="https://smartwinnr.com"><img class="ml-logo" id="navbar-logo" src="{{ relURL "media/images/header/smartwinnr_white_logo.svg" }}" style="height:48px"></a>
+    </div>
+
+    <div class="collapse navbar-collapse navbar-top-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="{{ .Site.BaseURL }}"><span class='nav-home'></span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product <span class="caret"></span></a>
+          <ul class="dropdown-menu dropdown-main-nav">
+            <li><a href="http://localhost:3000/product/product-features">Product Features</a></li>
+            <li><a href="http://localhost:3000/product/enterprise-ready">Enterprise Ready</a></li>
+            <li><a href="http://localhost:3000/product/customer-success">Customer Success</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Solutions <span class="caret"></span></a>
+          <ul class="dropdown-menu dropdown-main-nav">
+            <li><a href="https://smartwinnr.com/?q=sales-performance">Sales</a></li>
+            <li><a href="https://smartwinnr.com/?q=compliance">Legal & Compliance</a></li>
+          </ul>
+        </li>
+        <li><a href="http://localhost:3000/blog/">Blog</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
+          <ul class="dropdown-menu dropdown-main-nav">
+            <li><a href="https://smartwinnr.com/?q=company">Company</a></li>
+            <li><a href="https://smartwinnr.com/?q=privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://smartwinnr.com/?q=acceptable-use-policy">Acceptable Use Policy</a></li>
+          </ul>
+        </li>
+        <li><a href="http://localhost:3000/contact-us/">Contact Us</a></li>
+        <li><a href="http://localhost:3000/resources/">Resources</a></li>
+        <li><a href="http://localhost:3000/partners/">Partners</a></li>
+        <li role="presentation" class="divider-vertical"><span>|</span></li>
+          <li class=""><a href="https://app.smartwinnr.com/">Log in <span class="login-caret"></span></a></li>
+          <!-- <li class="visible-xs"><a href="https://manager.linode.com/session/signup">Sign up</a></li>
+          <li class="hidden-xs"><div><a id="btn-signup-top" class="btn btn-sm btn-green navbar-btn hidden-xs" href="https://manager.linode.com/session/signup">Sign up</a></div></li> -->
+      </ul>
+    </div>
+
+  </div>
+</nav>

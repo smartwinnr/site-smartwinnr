@@ -1,0 +1,48 @@
+{{ with .Pages }}
+{{ $filtered := where . "Params.shortguide" "!=" true }}
+{{ $class := cond (eq (len $.Sections) 0) "primary"  "neutral" }}
+<section class="{{ $class }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        {{ $len := len . }}
+        {{ range $i, $article := $filtered }}
+
+        {{ if modBool $i 2 }}<div class="row">{{ end }}
+
+          <div class="col-md-6 library-article-blurb">
+            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <p>{{ .Description }}</p>
+          </div>
+        {{ if (or (not (modBool $i 2)) (eq (add $i 1) $len)) }}</div>{{ end }}
+
+        {{ end }}
+      </div>
+    </div>
+</section>
+</div>
+{{ end }}
+{{ $sections :=  where .Sections ".Params.show_in_lists" "==" true  }}
+{{ with $sections }}
+<div class="container">
+  <div class="ml-section-tree">
+      {{ range $i, . }}
+      {{ $pages := where .Pages ".Params.deprecated" "!=" true }}
+      {{ if gt (len $pages) 0 }}
+      <section class="ml-section">
+        <h3 class="ml-section-tree-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <ul class="ml-article-list">
+          {{ $pages := where .Pages ".Params.deprecated" "!=" true }}
+          {{ $pages := $pages | intersect (where .Pages ".Params.shortguide" "!=" true) }}
+          {{ $total_articles := (len $pages)}}
+          {{ range first 5 $pages }}
+          <li class="ml-article-list-item"><h4 class="ml-article-list-link"><a href="{{ .Permalink }}">{{ .Title }}{{ if .Params.has_video }}&nbsp;<i class="fa fa-youtube-play"></i>{{ end }}</a></h4></li>
+          {{ end }}
+        </ul>
+        {{if gt $total_articles 5}}<h4 class="ml-see-all-articles"><a href="{{ .Permalink }}">See All {{ $total_articles }} Articles</a></h4>{{ end }}
+      </section>
+      {{ end }}
+      {{ end }}
+  </div>
+</div>
+{{ end }}

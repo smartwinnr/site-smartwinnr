@@ -1,0 +1,8 @@
+<span class="ml-show-link">
+  {{ .Get 0}}
+  {{ range $element :=  after 1 .Params }}
+  <i class="fa fa-arrow-right"></i>
+  {{ $element }}
+  {{ end }}
+</span>
+&nbsp;

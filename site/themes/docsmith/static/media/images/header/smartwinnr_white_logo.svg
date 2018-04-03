@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1474px" height="260px" viewBox="0 0 1474 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>smartwinnr_white_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="smartwinner_white_logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="smartwinnr_white_logo" transform="translate(0.000000, -26.000000)">
+            <g id="smartwinnr_text" transform="translate(330.000000, 0.000000)" font-size="217.14537" font-family="HelveticaNeue-Medium, Helvetica Neue" fill="#FFFFFF" font-weight="400">
+                <g id="layer1" transform="translate(0.739990, 0.160300)">
+                    <g id="text4389" transform="translate(0.008480, 0.572970)">
+                        <text id="SmartWinnr">
+                            <tspan x="0.00848" y="212.57297">Smart</tspan>
+                            <tspan x="599.112557" y="212.57297" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300">Winnr</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="smartwinner_icon" transform="translate(0.000000, 26.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="260" height="260"></rect>
+                <rect id="Rectangle-2" fill="#114A72" x="67" y="19" width="60" height="60"></rect>
+                <rect id="Rectangle-2" fill="#114A72" x="133" y="181" width="60" height="60"></rect>
+                <polygon id="Triangle" fill="#114A72" points="133.176643 19.0392676 193.177057 19.0392676 133.176643 79.0396816"></polygon>
+                <rect id="Rectangle-2" fill="#114A72" x="67" y="85" width="60" height="60"></rect>
+                <rect id="Rectangle-2" fill="#114A72" x="133" y="115" width="60" height="60"></rect>
+                <polygon id="Triangle" fill="#114A72" transform="translate(96.999793, 212.000207) scale(-1, -1) translate(-96.999793, -212.000207) " points="66.999586 182 127 182 66.999586 242.000414"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
