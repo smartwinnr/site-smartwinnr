@@ -4,6 +4,7 @@ categories:
   - ACM
 id: 36
 weight: 6
+slug: "/2016/09/sales-training-not-delivering"
 featured_image: /images/blog6.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
@@ -11,7 +12,6 @@ tags:
   - Tags
 ---
 
-![](/images/blog6.png)
 
 Companies spend a lot of money on sales training, and rightfully so. A well-trained sales force is a high performing sales force.  
 

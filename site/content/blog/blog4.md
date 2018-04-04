@@ -4,14 +4,13 @@ categories:
   - ACM
 id: 36
 weight: 4
+slug: "/2016/09/reduce-ramp-up-time"
 featured_image: /images/blog4.png
-isFeatured: true
+isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
 tags:
   - Tags
 ---
-
-![](/images/blog4.png)
 
 Developing new sales reps has been a challenging task for any sales-focused organization. Though organizations hope to recruit reps who can start selling right from Day 1, the reality is far from that. Even a seasoned sales rep needs time to understand your company, products, customers and competitors.<a id="more"></a>
 

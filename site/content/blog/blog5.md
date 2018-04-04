@@ -4,6 +4,7 @@ categories:
   - ACM
 id: 36
 weight: 5
+slug: "/2016/09/training-the-millenials"
 featured_image: /images/blog5.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
@@ -11,7 +12,6 @@ tags:
   - Tags
 ---
 
-![](/images/blog5.png)
 
 Millennials are the generation who were born between 1980 and 2000. We hear a lot of discussion about how the millennials are different as a customer segment and what companies should do to attract them. Equally important is to realize that they are joining the workforce in vast numbers and will definitely shape the world for years to come.
 

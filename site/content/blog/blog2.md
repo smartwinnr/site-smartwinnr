@@ -4,13 +4,13 @@ categories:
   - ACM
 id: 36
 weight: 2
+slug: "/2014/08/increase-sales-effectiveness"
 featured_image: /images/blog2.png
 isFeatured: false
 date: '2014-08-01T03:09:32+08:00'
 tags:
   - Tags
 ---
-![](/images/blog2.png)
 
 Every organization wants their sales people to be more effective - which means closing more sales in shorter time. But in most organizations, sales reps have to spend significant time doing administrative activities - valuable hours which could have been better spent selling to customers. <a id="more"></a>Sales reps are understandably not too happy about all these administrative tasks and information that they have to fill in different applications.
 
