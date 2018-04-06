@@ -20,6 +20,8 @@
 {{ partial "company" . }}
 {{ else if eq .Title "Privacy Policy"}}
 {{ partial "privacy-policy" . }}
+{{ else if eq .Title "Contact Us"}}
+{{ partial "contact-us" . }}
 {{ else }}
 {{ partial "acceptable-use-policy" . }}
 {{ end }}

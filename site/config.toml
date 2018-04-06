@@ -21,7 +21,7 @@ pygmentsStyle = "perldoc"
 
 disqusShortname="smartwinnr"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy", "taxonomyTerm"]
 
 rssLimit = 15
 
@@ -35,6 +35,7 @@ page = ["HTML"]
 
 [taxonomies]
 category = "categories"
+tag = "tags"
 
 [params]
 description = "Help site for SmartWinnr. Get all your SmartWinnr queries answered here"

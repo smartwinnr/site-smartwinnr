@@ -1,7 +1,7 @@
 <h1 class="ml-doc-title" itemprop="headline">{{ .Params.h1_title | default (.Param "Title") }}</h1>
 <div class="row container">
   <div class="col-sm-6 col-md-6">
-    {{ with .Params.author.name }}<h6 class="ml_body_text_blue ml-font16 ml-padding-bottom10">Author - <strong>{{ . }}</strong>{{ end }}&nbsp;&nbsp;{{ .Date.Format "Mon Jan 2 2006" }}</h6>
+    <h6 class="ml_body_text_blue ml-font16 ml-padding-bottom10">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
   </div>
 </div>
 <!-- <p markdown="0" class="doc-time doc-modified-time">

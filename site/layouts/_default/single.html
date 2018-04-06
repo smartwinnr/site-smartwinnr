@@ -15,7 +15,7 @@
           </div>
           <div id="ml-article-body" class="col-sm-10 doc">
             {{ partial "article_header" . }}
-            {{ with .Params.featured_image }}<img center-align src="{{ . }}">{{ end }}
+            {{ with .Params.featured_image }}<img class="ml-blog-page-image" center-align src="{{ . }}">{{ end }}
            <div class="row">
             {{ if ne .Params.promo false }}
             <!-- <div class="col-sm-9">{{ partial "signup" . }}</div>
