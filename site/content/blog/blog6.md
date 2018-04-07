@@ -7,7 +7,7 @@ slug: "/2016/09/sales-training-not-delivering"
 featured_image: /images/blog6.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Strategies"]
+tags: ["Strategies", "Sales"]
 ---
 
 

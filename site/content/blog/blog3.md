@@ -7,7 +7,7 @@ slug: "/2016/09/accelerate-your-sales-performance"
 featured_image: /images/blog3.png
 isFeatured: true
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Sales"]
+tags: ["Sales", "Gamification"]
 ---
 
 Over the past few years, gamification has become a much talked-about approach towards increasing engagement. From Nike’s Fuelband to My Starbucks Rewards, gamification is being used in every situation as a positive motivational tool. But did you know that gamification approach <a id="more"></a>can really supercharge your sales team’s performance? Let us see how.
