@@ -15,7 +15,7 @@
           </div>
           <div id="ml-article-body" class="col-sm-10 doc">
             {{ partial "article_header" . }}
-            {{ with .Params.featured_image }}<img class="ml-blog-page-image" center-align src="{{ . }}">{{ end }}
+            {{ with .Params.featured_image }}<img class="ml-blog-page-image ml-margin-bottom10" center-align src="{{ . }}">{{ end }}
            <div class="row">
             {{ if ne .Params.promo false }}
             <!-- <div class="col-sm-9">{{ partial "signup" . }}</div>
@@ -26,6 +26,9 @@
             {{ partial "operating_systems" . }}
             {{ partial "deprecated" . }}
             {{ .Content }}
+            <div class="row ml-margin-top30 ml-margin-left10">
+              <p class="ml_body_text_blue ml-font16 ml-padding-top10">Published on {{ .Date.Format "Mon Jan 2 2006" }}</p>
+            </div>
             {{/* partial "more" . */}}
             {{/* partial "related" . */}}
             {{ if and (getenv "HUGO_ENV") (ne .Params.comments false) }}

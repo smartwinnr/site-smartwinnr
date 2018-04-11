@@ -2,6 +2,7 @@
   <!-- <div class="container"> -->
     <div class="row ml-green-tile padding100">
       <div class="text-center container">
+        <h1>{{ with .Site.GetPage "section" "blog" }}{{ .Title }}{{ end }}</h1>
         <h2>Our Company</h2>
         <h3>We help your employees to be at the top of their game.</h3>
         <div> <a class="btn btn-warning" href="#become-a-partner">Become a Partner</a></div>

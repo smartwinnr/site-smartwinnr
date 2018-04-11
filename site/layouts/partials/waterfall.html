@@ -4,7 +4,7 @@
 
     {{ range where .Site.Pages "Section" "blog" }}
     {{ if eq .Params.isFeatured true }}
-    <div class="">
+    <!-- <div class=""> -->
       <div class="row ml-featured-blog">
         <div class="col-sm-8">
           <div class="ml-featured-card">
@@ -27,7 +27,7 @@
             </div>
             {{with .Params.tags}}
             <div class="ml-featured-card-tag">{{ range . }}
-              <a class="ml-font16 ml_body_text_blue ml-blog-tag" href='http://localhost:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+              <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://localhost:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
             </div>
             {{end}}
           </div>
@@ -37,16 +37,26 @@
             <div class="col-sm-12 col-md-12">
               <div class="ml-subscribe">
                 <!-- <aside class="promo "> -->
-                  <div class="promo-content">
-                    <h4 class="ml_body_text_black ml-font16 text-center">Subscribe to our blog</h4>
-                        <h4 class="ml_body_text_black ml-font16">Get the latest posts in your email</h4>
-                        <!-- <p class="subscription-success">
-                          <strong>Thank you for subscribing!</strong>
-                        </p> -->
-                      <div class="subscription">
-                        <iframe src="https://go.pardot.com/l/232142/2017-10-24/jk9v" width="100%" height="95" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
-                      </div>
-                  </div>
+                <!-- Begin MailChimp Signup Form -->
+                <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+                <style type="text/css">
+                	#mc_embed_signup{background:#fff; clear:left; font:15px Roboto,sans-serif; }
+                	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                </style>
+                <div id="mc_embed_signup">
+                <form action="https://smartwinnr.us16.list-manage.com/subscribe/post?u=3372c8181d39adec2a3eaf411&amp;id=54a5499385" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div id="mc_embed_signup_scroll">
+                	<label for="mce-EMAIL">Subscribe to our mailing list</label>
+                	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3372c8181d39adec2a3eaf411_54a5499385" tabindex="-1" value=""></div>
+                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                    </div>
+                </form>
+                </div>
+
+                <!--End mc_embed_signup-->
                 <!-- </aside> -->
               </div>
             </div>
@@ -71,17 +81,17 @@
       </div>
       {{ end }}
       {{ end }}
-    </div>
+    <!-- </div> -->
     {{ else }}
     <div class="container ml-prodfeaturerow">
       <div class="ml-this-tile ml-padding-bottom0">
-        <h1 class="ml-margin-bottom0">Blogs of {{ title (trim (slicestr .Permalink 5) "/") }}</h1>
+        <h1 class="ml-margin-bottom0">Blogs on {{ title (trim (slicestr .Permalink 5) "/") }}</h1>
       </div>
     </div>
     {{ end }}
 
     <div class="waterfall">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}{{ range $paginator.Pages }}
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ range $paginator.Pages }}
       <div class="waterfall__item">
         <div class="card post post-summary reveal enter">
           <div class="card-header postinfo">
@@ -123,7 +133,7 @@
 
           {{with .Params.tags}}
           <div class="card-action card-action-links">{{ range . }}
-            <a class="ml-font16 ml_body_text_blue ml-blog-tag" href='http://localhost:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://localhost:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
           </div>
           {{end}}
         </div>
@@ -132,7 +142,7 @@
     </div>
     <div class="center">
       <div class="pagination">
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }} {{ template "_internal/pagination.html" . }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }} {{ template "_internal/pagination.html" . }}
       </div>
     </div>
   </div>
