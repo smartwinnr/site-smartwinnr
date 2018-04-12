@@ -41,6 +41,7 @@ tag = "tags"
 description = "Help site for SmartWinnr. Get all your SmartWinnr queries answered here"
 default_image_width = 120
 default_image_height = 120
+# custom_css = ["../stylesheets/icomoon.css", "../stylesheets/home.css"]
 
 # Date and time formatting, see https://gohugo.io/functions/format/
 time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
