@@ -2,7 +2,7 @@
   <div class="inner">
     {{ if eq .Title "Blogs" }}
 
-    {{ range where .Site.Pages "Section" "blog" }}
+    {{ range where .Site.Pages "Section" "post" }}
     {{ if eq .Params.isFeatured true }}
     <!-- <div class=""> -->
       <div class="row ml-featured-blog">
