@@ -21624,7 +21624,6 @@ section .row-content:first-child {
 body {
   background-color: #ffffff !important;
   color: #272640;
-  /* font-family: 'pn-light', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   font-weight: 400;
@@ -21638,30 +21637,22 @@ body {
   }
 }
 h1, h2, h3, h4, h5, h6 {
-  /* font-family: 'pn-light', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; */
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin-top: 0 !important;
 }
 h1 {
-  /* font-family: 'pn-light', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
-  font-family: 'Roboto', sans-serif;
-  font-size: 34px !important;
+  font-size: 4.2rem !important;
+  line-height: 110%;
 }
 h2 {
-  /* font-family: 'pn-light', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
-  font-family: 'Roboto', sans-serif;
-  font-size: 26px !important;
+  font-size: 2rem !important;
   font-weight: normal;
 }
 h3 {
-  /* font-family: 'pn-light', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px !important;
+  font-size: 1.25rem !important;
 }
 h4 {
-  /* font-family: 'pn-light', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
-  font-family: 'Roboto', sans-serif;
   font-size: 16px !important;
 }
 a {
@@ -21915,16 +21906,26 @@ ul {
 
 .ml-start {
   background: linear-gradient(to right top, #4030c6, #00d2ff);
-  height: 80%;
+  height: 100%;
   color: #fff !important;
   padding: 20px !important;
 }
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   h1 {
-    font-size: 20px !important;
+    font-size: 2rem !important;
+    line-height: 120%;
+  }
+  h2 {
+    font-size: 1.6rem !important;
   }
   h3 {
-    font-size: 16px !important;
+    font-size: 1.2rem !important;
+  }
+  h4 {
+    font-size: 0.8rem !important;
+  }
+  h5 {
+    font-size: 0.5rem !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
@@ -21950,16 +21951,16 @@ ul {
 .ml-image {
   width: 100%;
   height: auto;
-  margin-top: 5% !important;
+  margin-top: 15% !important;
 }
-/* @media only screen and (min-width: 300px) and (max-width: 767px) {
+@media only screen and (min-width: 300px) and (max-width: 767px) {
   .ml-image {
     width: 100%;
     height: auto;
-    margin-top: 20px !important;
+    margin-top: 30% !important;
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
+/* @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-image {
     width: 70%;
     height: auto;
@@ -22025,10 +22026,10 @@ b, strong {
 dfn {
     font-style: italic;
 }
-h1 {
+/* h1 {
     font-size: 2em;
     margin: .67em 0;
-}
+} */
 mark {
     background: #ff0;
     color: #000;
@@ -22342,43 +22343,7 @@ html {
 }@media only screen and (min-width:1200px) {
     html {
     font-size: 15px;
-}
-}h1, h2, h3, h4, h5, h6 {
-    font-weight: 500;
-    line-height: 1.1;
-}
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    font-weight: inherit;
-}
-h1 {
-    font-size: 4.2rem;
-    margin: 2.1rem 0 1.68rem;
-}
-h1, h2 {
-    line-height: 110%}
-h2 {
-    font-size: 3.56rem;
-    margin: 1.78rem 0 1.424rem;
-}
-h3 {
-    font-size: 2.92rem;
-    margin: 1.46rem 0 1.168rem;
-}
-h3, h4 {
-    line-height: 140%}
-h4 {
-    font-size: 2.28rem;
-    margin: 1.14rem 0 .912rem;
-}
-h5 {
-    font-size: 1.64rem;
-    margin: .82rem 0 .656rem;
-}
-h5, h6 {
-    line-height: 110%}
-h6 {
-    font-size: 1rem;
-    margin: .5rem 0 .4rem;
+  }
 }
 em {
     font-style: italic;
@@ -23294,7 +23259,7 @@ body.mobile-search-active .mobile-search {
     color: #4d4d4d;
     background: #fafafa;
 }
-.article h1 {
+/* .article h1 {
     font-size: 30px;
     line-height: 1.333334em;
     padding-bottom: .5em;
@@ -23314,7 +23279,7 @@ body.mobile-search-active .mobile-search {
     margin: 1.2em 0;
     font-weight: 400;
     font-style: italic;
-}
+} */
 .article h3 a, .article h4 a, .article h5 a, .article h6 a {
     font-weight: 400;
     font-style: normal;
@@ -23536,7 +23501,7 @@ body.mobile-search-active .mobile-search {
 }
 }.post {
     max-width: 100%}
-.post-summary .article h1 {
+/* .post-summary .article h1 {
     font-size: 25px;
     line-height: 1.333334em;
 }
@@ -23550,7 +23515,7 @@ body.mobile-search-active .mobile-search {
     font-size: 15px;
     padding: 0;
     margin: 10px 0;
-}
+} */
 .readmore {
     display: inline-block;
     /* margin-top: 5px; */
@@ -23674,14 +23639,15 @@ body.mobile-search-active .mobile-search {
     width: 150px;
     height: 150px;
 }
-}.splash .splash-content h3 {
+}
+/* .splash .splash-content h3 {
     font-size: 2.2rem;
     margin: 10px 0;
-}
-@media only screen and (min-width:601px) {
+} */
+/* @media only screen and (min-width:601px) {
     .splash .splash-content h3 {
     font-size: 2.5rem;
-}
+} */
 }.splash .splash-content .desc {
     margin: 0;
 }
@@ -24030,10 +23996,6 @@ img {
   background: linear-gradient(to bottom, white 0%, white 45%, #f2f4f4 100%) !important;
   /* height: 90%; */
 }
-/* .btn-warning {
-  background-color: #eb9316;
-} */
-
 .form-text {
   color: #272640;
   padding-left: 8px;
@@ -24132,7 +24094,7 @@ img {
   height: auto;
   padding: 15px;
 }
-.first_letter_capital::first-letter {font-size: 40px;}
+/* .first_letter_capital::first-letter {font-size: 40px;} */
 /* CSS for sales page div tiles */
 .table_container { display: table;}
 .table_container .table_row { height: 100%;}
@@ -24209,7 +24171,7 @@ img {
   margin-top: 10% !important;
   color: #fff !important;
 }
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
+/* @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-text-over-image h1 {
     font-size: 22px !important;
   }
@@ -24230,7 +24192,7 @@ img {
     font-size: 10px !important;
     padding: 1rem 1rem !important;
   }
-}
+} */
 /* Mailing subscription list */
 #mc_embed_signup input {
     /* border: 1px solid #6a67ce !important; */
@@ -24304,6 +24266,7 @@ img {
   padding: 0 20px;
   width: 100%;
   margin: 0 auto;
+  height: 100% !important;
 }
 .ml-key-points {
   height: auto;
@@ -24316,25 +24279,25 @@ img {
   padding: 3%;
   margin: 3px 2px 3px 2px !important;
 }
-.ml-column h1 {
+/* .ml-column h1 {
   font-family: Roboto-Thin, sans-serif;
   font-size: 45px !important;
 }
 .ml-column h6 {
   font-family: Roboto-Thin, sans-serif;
   font-size: 20px !important;
-}
+} */
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .ml-column {
     padding: 1%;
     margin: 2px 1px 2px 1px !important;
   }
-  .ml-column h1 {
+  /* .ml-column h1 {
     font-size: 38px !important;
   }
   .ml-column h6 {
     font-size: 12px !important;
-  }
+  } */
   .ml-icon-blue {
     font-size: 36px !important;
   }
