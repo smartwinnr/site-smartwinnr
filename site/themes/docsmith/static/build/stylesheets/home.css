@@ -9563,7 +9563,7 @@ pre code {
 }
 .navbar {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 1.2rem;
   line-height: 15px;
   font-weight: 300;
   margin-bottom: 0px;
@@ -9576,6 +9576,9 @@ pre code {
 @media screen and (min-width: 768px) {
   .navbar.navbar-default {
     height: 57px;
+  }
+  .navbar {
+    font-size: 0.8rem !important;
   }
 }
 .navbar .navbar-nav > li > a,
@@ -24396,6 +24399,11 @@ img {
   background-color: #5951FF;
   border: 1px solid #5951FF;
   border-radius: 2px;
+}
+@media only screen and (max-width: 768px) {
+  .sign_in_btn {
+    display: none;
+  }
 }
 .ml-button-nav:hover {
   color: #5951FF;
