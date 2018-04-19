@@ -24576,10 +24576,7 @@ img {
 }
 
 .ml-tile-image {
-  /* background-image: url(/images/undraw_finance_0bdk.svg); */
-  /* background-size: contain; */
-  width: auto;
-  height: auto;
+  height: 50%;
   background-repeat: no-repeat;
 }
 .ml-bold-text {
