@@ -3517,7 +3517,7 @@ tbody.collapse.in {
   padding: 5px 0;
   margin: 2px 0 0;
   list-style: none;
-  font-size: 16px;
+  font-size: 1.2rem;
   text-align: left;
   background-color: #fff;
   border: 1px solid #ccc;
@@ -3971,7 +3971,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 10px 10px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -9595,7 +9595,7 @@ pre code {
   .navbar .navbar-header > a {
     padding-top: 21px;
     padding-bottom: 21px;
-    font-size: 1rem;
+    font-size: 1.2rem;
     line-height: 15px;
   }
 }
@@ -10840,7 +10840,7 @@ section .row *:last-child,
 header .row-content *:last-child,
 nav .row-content *:last-child,
 section .row-content *:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 header.small,
 nav.small,
@@ -21886,6 +21886,12 @@ ul {
   padding: 20% 0 !important;
 }
 
+.ml-resource {
+  background: linear-gradient(to right top, #3429be, #4030c6);
+  height: auto;
+  padding: 10% 0 !important;
+}
+
 .ml-learning {
   background-color: #fff;
   color: #000 !important;
@@ -23970,8 +23976,8 @@ img {
 }
 
 .resources_icon_tab {
-  display: block;
-  margin-top: 20px;
+  display: inline-flex;
+  padding: 3%;
 }
 
 .resources_icon_tab li {
@@ -23989,6 +23995,9 @@ img {
 }
 .ml-title-adjustable {
   text-align: left;
+}
+.ml_body_text_faded {
+  color: #8F8D9A !important;
 }
 .ml_body_text_black {
   color: #272640 !important;
@@ -24218,34 +24227,37 @@ img {
   padding-top: 12%;
 }
 .sign_in_btn {
-    top: 1.2rem !important;
+    top: 1.4rem !important;
     border-radius: 4px;
     background-color: #fff;
     color: #5951FF;
     border: 1px solid rgba(89, 81, 255, 0.5);
     position: relative;
     z-index: 1;
-    font-size: .875em;
+    font-size: 1.2em;
     text-transform: uppercase;
     letter-spacing: .05em;
-    font-weight: 500;
-    padding: .25rem 2rem .4rem 1rem;
+    font-weight: 600;
+    padding: .25rem .8rem .25rem .8rem;
     outline: none;
     transition: all 0.3s ease;
 }
+.ml-footer .sign_in_btn {
+  display: none;
+}
 .ml-button-nav {
-  top: 1.2rem !important;
+  top: 1.4rem !important;
   border-radius: 4px;
   background-color: #5951ff;
   color: #fff;
   border: 1px solid rgba(89, 81, 255, 0.5);
   position: relative;
   z-index: 1;
-  font-size: .875em;
+  font-size: 1.2em;
   text-transform: uppercase;
   letter-spacing: .05em;
-  font-weight: 500;
-  padding: .25rem 1rem .4rem 1rem;
+  font-weight: 600;
+  padding: .25rem .8rem .25rem .8rem;
   outline: none;
   transition: all 0.3s ease;
   margin-left: 1rem;
@@ -24272,6 +24284,12 @@ img {
 @media only screen and (max-width: 768px) {
   .sign_in_btn {
     display: none;
+  }
+  .ml-footer .sign_in_btn {
+    display: unset;
+    position: static;
+    float: right;
+    font-size: 1rem;
   }
 }
 .ml-button-nav:hover {
