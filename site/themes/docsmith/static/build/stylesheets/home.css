@@ -1238,7 +1238,7 @@ h5,
 h6,
 .h6 {
   margin-top: 11px;
-  margin-bottom: 11px;
+  margin-bottom: 0px;
 }
 h4 small,
 .h4 small,
@@ -23249,7 +23249,7 @@ body.mobile-search-active .mobile-search {
 }
 .article {
     color: #000 !important;
-    font-size: 1.4rem;
+    /* font-size: 1.4rem; */
     line-height: 1.5em;
     padding: 0px 10px 0px 10px;
 }
@@ -23838,16 +23838,20 @@ img {
 }
 
 .ml-subscribe {
+  height: 620px;
   background-color: #fff;
   padding : 20px;
-  margin-top: 30px;
   box-sizing: inherit;
   display: block;
-  box-shadow: 2px 2px 5px #888888;
+  box-shadow: 1px 2px 5px #888888;
+  background: url("/images/undraw_newsletter_vovu.svg");
+  background-position: bottom;
+  background-size: 200%;
+  background-repeat: no-repeat;
 }
 
 .ml-featured-blog-image {
-  height: 200px;
+  height: 400px;
   width: auto;
   display:block;
   margin:auto;
@@ -23858,10 +23862,27 @@ img {
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .ml-featured-blog-image{
     width: 100%;
-    max-height: 200px;
+    height: 280px;
+  }
+  .ml-subscribe {
+    height: auto !important;
+    margin-top: 10px;
+    padding : 20px;
+    box-sizing: inherit;
+    display: block;
+    box-shadow: 1px 2px 5px #888888;
+    background: #fff;
   }
 }
-
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .ml-subscribe {
+    height: 565px !important;
+  }
+  .ml-featured-blog-image{
+    width: 100%;
+    height: 280px;
+  }
+}
 /* CSS for rest of the pages in smartwinnr website */
 .ml-partner{
   color: #272640;
@@ -24604,3 +24625,91 @@ img {
   border-bottom: 0px solid !important;
 }
 .ml-subtext {font-size: 1.2rem;}
+.ml-left-tile {
+  box-shadow: 1px 1px 5px #5851FF;
+  padding: 5%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+.ml-right-tile {
+  box-shadow: 1px 1px 5px #5851FF;
+  padding: 5%;
+  margin-bottom: 2%;
+}
+
+/* Submit button loading animation CSS */
+.ml-loading-button {
+  outline: none;
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  border-radius: 40px;
+  background: #5851FF;
+  border: 2px solid #fff;
+  color: #FFF;
+  letter-spacing: 1px;
+  text-shadow: 0;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+.ml-loading-button:hover {
+  color: #5851FF;
+  background: #FFF;
+}
+.ml-loading-button:active {
+  letter-spacing: 2px;
+}
+.ml-loading-button:after {
+  content: "SUBMIT";
+}
+
+.onclic {
+  width: 40px;
+  border-color: #bbbbbb;
+  border-width: 3px;
+  font-size: 0;
+  border-left-color: #1ecd97;
+  -webkit-animation: rotating 2s 0.25s linear infinite;
+          animation: rotating 2s 0.25s linear infinite;
+}
+.onclic:after {
+  content: "";
+}
+.onclic:hover {
+  color: #1ecd97;
+  background: white;
+}
+
+.ml-validate {
+  font-size: 13px;
+  color: white;
+  background: #1ecd97;
+}
+.ml-validate:after {
+  font-family: "FontAwesome";
+  content: "\f00c";
+}
+
+@-webkit-keyframes rotating {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes rotating {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}

@@ -191,7 +191,7 @@
         $('#ds-search').val(query);
         search(query, searchStore);
     }
-
+    
     function initModal() {
         var options = {
             "backdrop": true,

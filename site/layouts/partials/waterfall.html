@@ -10,10 +10,10 @@
           <div class="ml-featured-card">
             <div class="ml-featured-card-header">
               {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
-              <a class="ml-font20 ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
+              <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
               <div class="row">
                 <div class="col-sm-6 col-md-6">
-                  <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
+                  <!-- <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6> -->
                 </div>
                 <div class="col-sm-6 col-md-6">
                   <h6 class="ml_body_text_black ml-font12 reading-time">Reading Time : {{ .ReadingTime }} minutes</h6>
@@ -21,7 +21,7 @@
               </div>
             </div>
             <div class="ml-featured-card-content">
-              {{ .Summary }}{{ if .Truncated }}
+              {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
               <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a>
               {{ end }}
             </div>
@@ -33,14 +33,14 @@
           </div>
         </div>
         <div class="col-sm-4">
-          <div class="row">
-            <div class="col-sm-12 col-md-12">
+          <!-- <div class="row"> -->
+            <!-- <div class=""> -->
               <div class="ml-subscribe">
                 <!-- <aside class="promo "> -->
                 <!-- Begin MailChimp Signup Form -->
                 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
                 <style type="text/css">
-                	#mc_embed_signup{background:#fff; clear:left; font:15px Roboto,sans-serif; }
+                	#mc_embed_signup{background:#fff; clear:left; font:1.4rem Roboto,sans-serif; }
                 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
                 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
                 </style>
@@ -55,28 +55,23 @@
                     </div>
                 </form>
                 </div>
-
+                <!-- <img class="ml-newsletter-image" src="/images/undraw_newsletter_vovu.svg" alt=""> -->
                 <!--End mc_embed_signup-->
                 <!-- </aside> -->
               </div>
-            </div>
-            <div class="col-sm-12 col-md-12">
+            <!-- </div> -->
+            <!-- <div class="col-sm-12 col-md-12">
               <div class="ml-subscribe">
-                <!-- <aside class="promo "> -->
                   <div class="promo-content">
                     <h4 class="ml_body_text_black ml-font16 text-center">Subscribe to our blog</h4>
                         <h4 class="ml_body_text_black ml-font16">Get the latest posts in your email</h4>
-                        <!-- <p class="subscription-success">
-                          <strong>Thank you for subscribing!</strong>
-                        </p> -->
                       <div class="subscription">
                         <iframe src="https://go.pardot.com/l/232142/2017-10-24/jk9v" width="100%" height="95" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
                       </div>
                   </div>
-                <!-- </aside> -->
               </div>
-            </div>
-          </div>
+            </div> -->
+          <!-- </div> -->
         </div>
       </div>
       {{ end }}
@@ -98,18 +93,18 @@
             {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
             <span class="card-title">
               {{ if gt (len .Title) 45 }}
-              <a class="ml-font20" href="{{ .Permalink }}">{{ slicestr .Title 0 45 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
+              <a class="" href="{{ .Permalink }}">{{ slicestr .Title 0 45 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
               {{ else }}
-              <a class="ml-font20" href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a>
+              <a class="" href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a>
               {{ end }}
             </span>
             <div class="card-meta">
               <div class="row">
                 <div class="col-sm-6 col-md-6">
-                  <h6 class="ml_body_text_black ml-font12 ml-margin-left5">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
+                  <!-- <h6 class="ml_body_text_black ml-font12 ml-margin-left5">{{ .Date.Format "Mon Jan 2 2006" }}</h6> -->
                 </div>
                 <div class="col-sm-6 col-md-6">
-                  <h6 class="ml_body_text_black ml-font12 reading-time">{{ .ReadingTime }} minutes</h6>
+                  <h6 class="ml_body_text_black ml-font12 reading-time">{{ .ReadingTime }} minutes Read</h6>
                 </div>
               </div>
               {{/* with .Params.categories */}}
