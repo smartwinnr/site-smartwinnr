@@ -1,13 +1,13 @@
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
 <script>
 $(document).ready(function() {
-     $(':input[type="submit"]').prop('disabled', true);
-     $('input[type="text"]').keyup(function() {
-        if($(this).val() != '') {
-           $(':input[type="submit"]').prop('disabled', false);
-        }
-     });
- });
+  $(':input[type="submit"]').prop('disabled', true);
+  $('input[type="text"]').keyup(function() {
+    if($(this).val() != '') {
+      $(':input[type="submit"]').prop('disabled', false);
+    }
+  });
+});
 $(function() {
   $( ".ml-loading-button" ).click(function() {
     $( ".ml-loading-button" ).addClass( "onclic", 250, validate);
@@ -19,12 +19,12 @@ $(function() {
       $( ".ml-loading-button" ).addClass( "ml-validate", 450, callback );
     }, 2250 );
   }
-    function callback() {
-      setTimeout(function() {
-        $( ".ml-loading-button" ).removeClass( "ml-validate" );
-      }, 1250 );
-    }
-  });
+  function callback() {
+    setTimeout(function() {
+      $( ".ml-loading-button" ).removeClass( "ml-validate" );
+    }, 1250 );
+  }
+});
 </script>
 <section>
   <div class="ml-start text-center padding80">

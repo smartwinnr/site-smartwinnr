@@ -3,7 +3,7 @@ title: Accelerate Your Sales Performance Through Gamification
 categories: ["ACM"]
 id: 36
 weight: 3
-slug: "/2016/09/accelerate-your-sales-performance"
+slug: "/2016/09/reduce-ramp-up-time"
 featured_image: /images/blog3.png
 isFeatured: true
 date: '2016-09-22T03:09:32+08:00'

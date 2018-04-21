@@ -75,6 +75,9 @@
       </div>
     </div>
 
+
+
+
       {{ end }}
       {{ end }}
     <!-- </div> -->
@@ -87,7 +90,7 @@
     {{ end }}
 
     <div class="waterfall">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ range $paginator.Pages }}
+      {{ $paginator := .Paginate (where .Site.Pages "Type" "blog") }}{{ range $paginator.Pages }}
       <div class="waterfall__item">
         <div class="card post post-summary reveal enter">
           <div class="card-header postinfo">
@@ -138,7 +141,7 @@
     </div>
     <div class="center">
       <div class="pagination">
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }} {{ template "_internal/pagination.html" . }}
+        {{ $paginator := .Paginate (where .Site.Pages "Type" "blog") }} {{ template "_internal/pagination.html" . }}
       </div>
     </div>
   </div>
