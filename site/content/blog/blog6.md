@@ -3,7 +3,7 @@ title: Is Your Sales Training Not Delivering? These 5 Strategies Will Change Tha
 categories: ["ACM"]
 id: 36
 weight: 6
-slug: "/2016/09/sales-training-not-delivering"
+slug: "/2016/09/sales-training-not-delivering-strategies"
 featured_image: /images/blog6.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'

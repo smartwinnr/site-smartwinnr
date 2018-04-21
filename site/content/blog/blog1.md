@@ -6,7 +6,7 @@ author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
 weight: 1
-slug: "/2017/12/3-insights"
+slug: "/2017/12/3-insights-cognitive"
 featured_image: /images/blog1.png
 isFeatured: false
 date: '2017-12-07T15:14:32+08:00'

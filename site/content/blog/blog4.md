@@ -3,7 +3,7 @@ title: 5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits
 categories: ["ACM"]
 id: 36
 weight: 4
-slug: "/2016/09/reduce-ramp-up-time"
+slug: "/2016/09/reduce-ramp-up-time-for-new-sales"
 featured_image: /images/blog4.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'

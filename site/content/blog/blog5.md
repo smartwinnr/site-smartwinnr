@@ -3,7 +3,7 @@ title: "Training the Millennials 5: Strategies that Work"
 categories: ["ACM"]
 id: 36
 weight: 5
-slug: "/2016/09/training-the-millenials"
+slug: "/2016/09/training-the-millenials-strategies"
 featured_image: /images/blog5.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
