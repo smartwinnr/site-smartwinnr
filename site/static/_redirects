@@ -1,5 +1,5 @@
 /home /
-/ q=:id /about-us/:id 301
+/ q=:id about-us=:tag /:tag/:id 301
 / q=:id /:id 301
 /?q=blog-home /post
 /?q=blog/2016/09/22/5-strategies-reduce-ramp-time-your-new-sales-recruits /post/2016/09/reduce-ramp-up-time/
