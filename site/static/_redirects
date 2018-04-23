@@ -1,4 +1,5 @@
 /home /
+/ q=:id /about-us/:id 301
 / q=:id /:id 301
 /?q=blog-home /post
 /?q=blog/2016/09/22/5-strategies-reduce-ramp-time-your-new-sales-recruits /post/2016/09/reduce-ramp-up-time/
@@ -7,7 +8,6 @@
 /?q=blog/2016/09/22/training-millennials-5-strategies-work /post/2016/09/training-the-millenials/
 /?q=blog/2016/09/22/your-sales-training-not-delivering-these-5-strategies-will-change /post/2016/09/sales-training-not-delivering/
 /?q=blog/2017/07/12/3-insights-cognitive-science-will-drive-your-employee-knowledge /post/2017/12/3-insights/
-/ q=:id /about-us/:id 301
 / q=:company /about-us/:company 301
 / q=contact-us /about-us/contact-us 301
 / q=privacy-policy /about-us/privacy-policy 301
