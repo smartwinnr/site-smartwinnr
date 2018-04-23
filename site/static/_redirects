@@ -1,5 +1,6 @@
 /home /
-/blog-home /post
+/ q=:id /:id 301
+/?q=blog-home /post
 /?q=acceptable-use-policy /about-us/acceptable-use-policy
 /?q=blog/2016/09/22/5-strategies-reduce-ramp-time-your-new-sales-recruits /post/2016/09/reduce-ramp-up-time/
 /?q=blog/2016/09/22/7-effective-ways-increase-sales-effectiveness /post/2014/08/increase-sales-effectiveness/
