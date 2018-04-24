@@ -22469,9 +22469,13 @@ small {
     padding-bottom: 15px;
 }
 .card .card-header.postinfo .card-title {
+    margin-top: 5px;
     display: block;
     line-height: 25px;
     padding: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .card .card-header.postinfo .card-title i {
     line-height: 32px;
@@ -23840,15 +23844,18 @@ img {
 
 .ml-subscribe {
   height: 620px;
-  background-color: #fff;
+  background-color: #fff !important;
   padding : 20px;
   box-sizing: inherit;
   display: block;
   box-shadow: 1px 2px 5px #888888;
   background: url("/images/undraw_newsletter_vovu.svg");
-  background-position: bottom;
-  background-size: 200%;
+  background-position-y: 60%;
+  background-size: 100%;
   background-repeat: no-repeat;
+}
+.ml-subscribe-image {
+
 }
 
 .ml-featured-blog-image {
@@ -23856,6 +23863,7 @@ img {
   width: auto;
   display:block;
   margin:auto;
+  margin-bottom: 10px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -23946,7 +23954,7 @@ img {
   padding: 30px !important;
 }
 .padding50 {
-  padding: 50px !important;
+  padding: 5% !important;
 }
 .padding80 {
   padding: 7% !important;
@@ -23956,6 +23964,9 @@ img {
 }
 .padding200 {
   padding: 200px !important;
+}
+.ml-padding-top0 {
+  padding-top : 0px !important;
 }
 .ml-padding-top {
   padding-top : 20px !important;
@@ -23971,6 +23982,12 @@ img {
 }
 .ml-padding-bottom0 {
   padding-bottom : 0px !important;
+}
+.ml-padding-right30 {
+  padding-right: 5% !important;
+}
+.ml-padding-left30 {
+  padding-left: 5% !important;
 }
 .ml-background-white {
   /* background-color: #fff !important; */
@@ -24107,6 +24124,12 @@ img {
   .ml-title-adjustable {
     text-align: center;
   }
+  .ml-padding-right30 {
+    padding-right: 0% !important;
+  }
+  .ml-padding-left30 {
+    padding-left: 0% !important;
+  }
 }
 .ml-youtube-video {
   width: 100%;
@@ -24207,7 +24230,7 @@ img {
     font-size: 1.4rem !important;
     padding-bottom: 10px;
     font-weight: bold;
-    text-align: center;
+    /* text-align: center; */
 }
 
 /* Swoop image mask */
@@ -24249,17 +24272,21 @@ img {
   }
 }
 .ml-centered {
-  padding-top: 12%;
+  padding-top: 10%;
+}
+.ml-centered-half {
+  padding-top: 6%;
 }
 .sign_in_btn {
-    top: 1.2rem !important;
+    margin-left: 10px;
+    top: 1.1rem !important;
     border-radius: 4px;
     background-color: #fff;
     color: #5951FF;
     border: 2px solid rgba(89, 81, 255, 0.5);
     position: relative;
     z-index: 1;
-    font-size: 1.2em;
+    font-size: 1.2em !important;
     text-transform: uppercase;
     letter-spacing: .05em;
     font-weight: 600;
@@ -24271,14 +24298,14 @@ img {
   display: none;
 }
 .ml-button-nav {
-  top: 1.2rem !important;
+  top: 1.1rem !important;
   border-radius: 4px;
   background-color: #5951ff;
   color: #fff !important;
   border: 2px solid rgba(89, 81, 255, 0.5);
   position: relative;
   z-index: 1;
-  font-size: 1.2em;
+  font-size: 1.2em !important;
   text-transform: uppercase;
   letter-spacing: .05em;
   font-weight: 600;
@@ -24312,12 +24339,13 @@ img {
   }
   .ml-button-nav {
     font-size: .8em !important;
+    margin-left: 0rem;
   }
   .ml-footer .sign_in_btn {
-    display: unset;
+    display: unset !important;
     position: static;
     float: right;
-    font-size: 1rem;
+    font-size: 1rem !important;
   }
 }
 .ml-button-nav:hover {
@@ -24381,9 +24409,17 @@ img {
   .ml-centered {
     text-align: center;
     margin-bottom: 6%;
+    padding-top: 0%;
   }
+  /* .ml-centered-half {
+    text-align: center;
+    padding-top: 0%;
+  } */
   .padding80 {
     padding: 3% !important;
+  }
+  .padding50 {
+    padding: 2% !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
@@ -24391,6 +24427,15 @@ img {
     height: 60%;
     padding: 20px !important;
   }
+  .ml-centered {
+    text-align: center;
+    /* margin-bottom: 6%; */
+    padding-top: 0%;
+  }
+  /* .ml-centered-half {
+    text-align: center;
+    padding-top: 0%;
+  } */
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   .ml-white-tile {

@@ -15,6 +15,7 @@
           </div>
           <div id="ml-article-body" class="col-sm-10 doc">
             {{ partial "article_header" . }}
+            <h6 class="ml_body_text_black reading-time">{{ .ReadingTime }} minutes read</h6>
             {{ with .Params.featured_image }}<img class="ml-blog-page-image ml-margin-bottom10" center-align src="{{ . }}">{{ end }}
            <div class="row">
             {{ if ne .Params.promo false }}
