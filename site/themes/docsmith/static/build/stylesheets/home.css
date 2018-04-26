@@ -21928,59 +21928,45 @@ ul {
   padding: 20px !important;
 }
 .ml-sales {
-  background: #fff;
   height: 100%;
+  padding: 10% 5% !important;
+  background-image: url("/images/sales_image.svg");
+  /* background-color: linear-gradient(to right top, #4030c6, #00d2ff); */
+  background-color: #4030c6;
   color: #FFFFFF !important;
 }
-.ml-sales-image {
-  width: 100%;
-  height: auto;
-  background: linear-gradient(to right top, #4030c6, #00d2ff);
-}
 .ml-text-on-image {
-  top: 30%;
-  left: 5%;
-  position: absolute;
-  width: 35%;
+  padding: 5% 0;
   color: #fff !important;
 }
 .ml-sales-use-case {
-  top: 25%;
-  left: 45%;
   padding: 6%;
-  position: absolute;
-  width: 50%;
-  color: #000 !important;
   background: #fff !important;
   border-radius: 10px;
-  opacity: 0.7;
-  /* background-image: -webkit-gradient(
-  linear, left top, left bottom, from(rgba(255, 255, 255,0.8)),
-  to(rgba(255, 255, 255,0.2)), color-stop(.5,#333333)); */
+}
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+  .ml-text-on-image {
+    padding: 10% !important;
+  }
+  .ml-sales-use-case {
+    padding: 5% !important;
+  }
+  .ml-compliance-use-case {
+    padding: 5% !important;
+  }
 }
 .ml-compliance {
-  background: #fff;
   height: 100%;
+  padding: 10% 5% !important;
+  background-image: url("/images/sales_image.svg");
+  /* background-color: linear-gradient(to right top, #4030c6, #00d2ff); */
+  background-color: #4030c6;
   color: #FFFFFF !important;
 }
-.ml-compliance-image {
-  width: 100%;
-  height: auto;
-  background: linear-gradient(to right top, #4030c6, #00d2ff);
-}
 .ml-compliance-use-case {
-  top: 25%;
-  left: 45%;
   padding: 6%;
-  position: absolute;
-  width: 50%;
-  color: #000 !important;
   background: #fff !important;
   border-radius: 10px;
-  opacity: 0.7;
-  /* background-image: -webkit-gradient(
-  linear, left top, left bottom, from(rgba(255, 255, 255,0.8)),
-  to(rgba(255, 255, 255,0.2)), color-stop(.5,#333333)); */
 }
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   h1 {
