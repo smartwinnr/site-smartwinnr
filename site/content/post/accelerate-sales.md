@@ -5,7 +5,7 @@ id: 36
 weight: 3
 slug: "/2016/09/accelerate-your-sales"
 featured_image: /images/blog3.png
-isFeatured: true
+isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
 tags: ["Sales", "Gamification"]
 ---
