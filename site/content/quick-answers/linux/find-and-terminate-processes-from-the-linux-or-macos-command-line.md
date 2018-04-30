@@ -1,7 +1,7 @@
 ---
 author:
-  name: Sam Foo
-  email: docs@linode.com
+  name: SmartWinnr
+  email: contact@smartwinnr.com
 description: Learn how to find a running process and terminate it from the command line in Linux and Mac OS.
 keywords: ["kill", "terminate", "PID", "command line"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

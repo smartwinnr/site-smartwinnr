@@ -1,7 +1,7 @@
 ---
 author:
-  name: Linode
-  email: docs@linode.com
+  name: SmartWinnr
+  email: contact@smartwinnr.com
 description: 'This quick answer shows how to create CAA records for domains and subdomains.'
 og_description: 'This quick answer will show you how to create a CAA record for domains and subdomains'
 keywords: ["caa", "dns", "records", "subdomain", "domain"]

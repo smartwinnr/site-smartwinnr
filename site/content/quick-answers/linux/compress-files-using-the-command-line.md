@@ -1,7 +1,7 @@
 ---
 author:
-  name: Angel Guarisma
-  email: docs@linode.com
+  name: SmartWinnr
+  email: contact@smartwinnr.com
 description: 'Tar, is a GNU utility that provides the ability to create tar archives, extract and compress files.'
 og_description: 'This guide will detail how to compress and extract files using tar on the Unix filesystem'
 keywords: ["tar", "star", "GNU-Tar", "cryptocurrency"]

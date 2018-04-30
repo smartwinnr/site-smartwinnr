@@ -1,7 +1,7 @@
 ---
 author:
-  name: Nick Brewer
-  email: docs@linode.com
+  name: SmartWinnr
+  email: contact@smartwinnr.com
 description: 'Enable the Linode Backup Service for quick and easy backups.'
 keywords: ["linux", "linode manager", "image"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

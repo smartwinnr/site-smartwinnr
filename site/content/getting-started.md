@@ -1,7 +1,7 @@
 ---
 author:
-  name: Linode
-  email: docs@linode.com
+  name: SmartWinnr
+  email: contact@smartwinnr.com
 keywords: ["getting started", "intro", "basics", "first steps"]
 description: 'This guide will help you set up your first Linode.'
 og_description: "Learn how to create an account, boot your first Linode, and connect via SSH with our Getting Started guide."
