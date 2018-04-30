@@ -1,5 +1,5 @@
 ---
-title: "Training the Millennials 5: Strategies that Work"
+title: "Training the Millennials 5 Strategies that Work"
 categories: ["ACM"]
 id: 36
 weight: 5
