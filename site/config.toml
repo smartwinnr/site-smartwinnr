@@ -1,6 +1,6 @@
 # baseURL = "https://smartwinnr/help/"
 # baseURL = "https://smartwinnr-help.netlify.com/"
-baseurl = "/"
+baseurl = "https://smartwinnr.com/"
 
 languageCode = "en-us"
 title = "SmartWinnr"
@@ -64,3 +64,5 @@ pattern = "2006"
 
 # Google Roboto fonts
 # googlefonts = "//fonts.googleapis.com/css?family=Roboto:400"
+
+enableRobotsTXT = true
