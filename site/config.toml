@@ -38,7 +38,7 @@ category = "categories"
 tag = "tags"
 
 [params]
-description = "Help site for SmartWinnr. Get all your SmartWinnr queries answered here"
+description = "Smartwinnr: Gamified knowledge to drive performance"
 default_image_width = 120
 default_image_height = 120
 # custom_css = ["../stylesheets/icomoon.css", "../stylesheets/home.css"]
