@@ -24395,6 +24395,9 @@ img {
   color: #000 !important;
   padding: 20px !important;
 }
+.ml_company_logo {
+  
+}
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .ml-white-tile {
     height: 55%;

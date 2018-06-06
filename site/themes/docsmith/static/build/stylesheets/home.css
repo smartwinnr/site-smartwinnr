@@ -21675,7 +21675,7 @@ a:hover, a:active, a:focus {
 }
 p {
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1rem;
     /* font-size: 1.08rem; */
     line-height: 1.5;
     margin: 0 0 10px;
@@ -21986,7 +21986,7 @@ ul {
     font-size: 0.5rem !important;
   }
   p {
-    font-size: 1.2rem !important;
+    font-size: 1rem !important;
   }
   body {
     font-size: 1rem !important;
@@ -24705,7 +24705,7 @@ img {
 .ml-no-border-bottom {
   border-bottom: 0px solid !important;
 }
-.ml-subtext {font-size: 1.2rem;}
+.ml-subtext {font-size: 1rem;}
 .ml-left-tile {
   box-shadow: 1px 1px 5px #5851FF;
   padding: 5%;
@@ -24793,4 +24793,22 @@ img {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
   }
+}
+
+.ml_company_logo {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.ml_footer_logo {
+  height: 35px !important;
+  width: 100px !important;
+}
+
+.ml-padding-left-3-percent {
+  padding-left: 3% !important;
+}
+
+.ml-padding-right-3-percent {
+  padding-right: 3% !important;
 }
