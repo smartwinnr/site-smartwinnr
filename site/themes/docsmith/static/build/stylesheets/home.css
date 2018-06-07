@@ -9596,7 +9596,7 @@ pre code {
   .navbar .navbar-header > a {
     padding-top: 21px;
     padding-bottom: 21px;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 15px;
   }
 }
@@ -24314,11 +24314,11 @@ img {
     border: 2px solid rgba(89, 81, 255, 0.5);
     position: relative;
     z-index: 1;
-    font-size: 1.2em !important;
+    font-size: 1em !important;
     text-transform: uppercase;
     letter-spacing: .05em;
     font-weight: 600;
-    padding: .25rem .8rem .25rem .8rem !important;
+    padding: .4rem .8rem .25rem .8rem !important;
     outline: none;
     transition: all 0.3s ease;
 }
@@ -24333,27 +24333,14 @@ img {
   border: 2px solid rgba(89, 81, 255, 0.5);
   position: relative;
   z-index: 1;
-  font-size: 1.2em !important;
+  font-size: 1em !important;
   text-transform: uppercase;
   letter-spacing: .05em;
   font-weight: 600;
-  padding: .25rem .8rem .25rem .8rem !important;
+  padding: .4rem .8rem .25rem .8rem !important;
   outline: none;
   transition: all 0.3s ease;
   margin-left: 1rem;
-    /* margin-top: 10px !important;
-    position: relative;
-    top: 20px;
-    font-size: .875em;
-    text-transform: uppercase;
-    letter-spacing: .05em;
-    color: #fff;
-    width: 100%;
-    padding: 10px 10px;
-    border: 1px solid #fff;
-    background-color: #5951FF;
-    border-radius: 2px;
-    outline: none; */
 }
 .sign_in_btn:hover {
   color: #fff !important;
@@ -24811,4 +24798,26 @@ img {
 
 .ml-padding-right-3-percent {
   padding-right: 3% !important;
+}
+
+.ml-title-font {
+  font-size: 1.2rem !important;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.ml-footer-heading {
+  font-size: 1.2rem !important;
+  font-weight: 600;
+}
+
+.ml-customers-col {
+  height: 150px;
+}
+
+@media screen and (max-height: 320px) and (min-width: 768px) {
+  .ml_footer_logo {
+    height: auto !important;
+    width: 60px !important;
+  }
 }
