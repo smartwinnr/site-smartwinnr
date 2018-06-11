@@ -31,7 +31,7 @@ Howard Schultz is the CEO, and chairman of Starbucks, world’s largest coffee c
 &nbsp;
 ### 2. Warren Buffett
 
-![Warren Buffett](/images/buffett.jpg)
+![Warren Buffett](/images/buffett.jpg)  
 
 ***A paperboy to World’s richest man***
 
