@@ -24821,3 +24821,8 @@ img {
     width: 60px !important;
   }
 }
+
+.ml-blog-images {
+  height: auto;
+  width: 120px;
+}
