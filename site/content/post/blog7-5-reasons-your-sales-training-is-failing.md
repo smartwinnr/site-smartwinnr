@@ -8,7 +8,7 @@ author:
 weight: -7
 slug: "/5-reasons-your-sales-training-is-failing"
 featured_image: /images/blog-7.png
-isFeatured: true
+isFeatured: false
 date: '2018-04-30T03:09:32+08:00'
 tags: ["Knowledge"]
 ---
