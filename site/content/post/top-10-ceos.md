@@ -7,7 +7,7 @@ author:
   email: smartwinnr@mobillionlabs.com
 weight: 8
 slug: "/top10-CEOs-who-started-as-salesreps"
-featured_image: /images/Untitled-2.jpg
+featured_image: /images/Top-10-CEOs-who-started-as-Sales-Reps.png
 isFeatured: true
 date: '2018-06-09T03:09:32+08:00'
 tags: ["SalesReps"]
