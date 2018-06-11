@@ -19,7 +19,7 @@ A recent study presented by Frank Germann, assistant professor at Mendoza Colleg
 
 ### 1. Howard Schultz
 
-![Howard Schultz](/images/schultz.jpg)
+![Howard Schultz](/images/ceos/schultz.jpg)
 
 ***Sales rep at 25, CEO by 35***   
 
@@ -31,7 +31,7 @@ Howard Schultz is the CEO, and chairman of Starbucks, world’s largest coffee c
 &nbsp;
 ### 2. Warren Buffett
 
-![Warren Buffett](/images/buffett.jpg)  
+![Warren Buffett](/images/ceos/buffett.jpg)  
 
 ***A paperboy to World’s richest man***
 
@@ -43,7 +43,7 @@ Warren Buffett, one of the top five richest people in the world, CEO of Berkshir
 &nbsp;
 ### 3. Mark Cuban
 
-![Mark Cuban](/images/mark_cuban.jpeg)
+![Mark Cuban](/images/ceos/mark_cuban.jpeg)
 
 ***Billionaire by the the age of 41***
 
@@ -55,7 +55,7 @@ Warren Buffett, one of the top five richest people in the world, CEO of Berkshir
 &nbsp;
 ### 4. William C. Weldon
 
-![William C. Weldon](/images/weldon.jpeg)
+![William C. Weldon](/images/ceos/weldon.jpeg)
 
 ***Became the CEO of the company where he used to work as a Sales Rep***
 
@@ -67,7 +67,7 @@ William C. Weldon started his career as a Sales rep at Johnson and Johnson in Ph
 &nbsp;
 ### 5. John Paul DeJoria
 
-![John Paul DeJoria](/images/dejoria.jpeg)
+![John Paul DeJoria](/images/ceos/dejoria.jpeg)
 
 ***A self-made billionaire who is the co-founder of Paul Mitchell Systems***
 
@@ -79,7 +79,7 @@ John Paul deJoria is the co-founder of John Paul Mitchell Systems, producer of p
 &nbsp;
 ### 6. Samuel Palmisano
 
-![Samuel Palmisano](/images/palmisano.jpeg)
+![Samuel Palmisano](/images/ceos/palmisano.jpeg)
 
 ***A man who spent all his life working for the same Company, from sales rep to CEO of IBM***
 
@@ -91,7 +91,7 @@ Samuel Palmisano started working as a Sales rep in IBM in 1973. He was way diffe
 &nbsp;
 ### 7. Nick Woodman
 
-![Nick Woodman](/images/woodman.jpeg)
+![Nick Woodman](/images/ceos/woodman.jpeg)
 
 ***Young Entrepreneur Award winner in 2013 who started his career in Sales***
 
@@ -103,7 +103,7 @@ Nick Woodman, founder of GoPro, adventure proof 35mm camera. Before GoPro, he us
 &nbsp;
 ### 8. Robert Herjavec
 
-![Robert Herjavec](/images/hervajec.png)
+![Robert Herjavec](/images/ceos/hervajec.png)
 
 ***A Sales rep turned into Businessman, Investor, and a Television Personality in no time***
 
@@ -115,7 +115,7 @@ Robert started his career as a sales rep who used to sell IBM Mainframe emulatio
 &nbsp;
 ### 9. Anne Mulcahy
 
-![Anne Mulcahy](/images/mulcahy.jpeg)
+![Anne Mulcahy](/images/ceos/mulcahy.jpeg)
 
 ***A sales rep at the age of 23 who later became the CEO in the same company***
 
@@ -127,7 +127,7 @@ Anne worked as a sales rep at XEROX. She was known for her strategies and manage
 &nbsp;
 ### 10. Gary Vaynerchuk
 
-![Gary Vaynerchuk](/images/vaynerchuk.jpg)
+![Gary Vaynerchuk](/images/ceos/vaynerchuk.jpg)
 
 ***A wine-critic who now owns 2 companies of his own***
 
