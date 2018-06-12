@@ -27,7 +27,7 @@
           </div>
           {{with .Params.tags}}
           <div class="ml-featured-card-tag">{{ range . }}
-            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://localhost:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
           </div>
           {{end}}
           <!-- end of tags div -->
@@ -51,7 +51,7 @@
                   <div id="mc_embed_signup">
                     <form action="https://smartwinnr.us16.list-manage.com/subscribe/post?u=3372c8181d39adec2a3eaf411&amp;id=54a5499385" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                       <div id="mc_embed_signup_scroll">
-                        <label for="mce-EMAIL">Subscribe to our mailing list</label>
+                        <label for="mce-EMAIL" class="text-center">Subscribe to our mailing list</label>
                         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
                         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3372c8181d39adec2a3eaf411_54a5499385" tabindex="-1" value=""></div>
@@ -141,7 +141,7 @@
           <!-- tags for the featured blog, currently there are some issues with tags page, as in the dist folder, the tags are not getting generated. Need to solve this. -->
           {{with .Params.tags}}
           <div class="card-action card-action-links">{{ range . }}
-            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://localhost:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
           </div>
           {{end}}
         </div>

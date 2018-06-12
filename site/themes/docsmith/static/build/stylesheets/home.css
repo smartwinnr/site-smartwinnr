@@ -24241,12 +24241,14 @@ img {
 #mc_embed_signup input.email {
     font-family: Roboto,sans-serif !important;
     font-size: 1.2rem !important;
-    width: 95% !important;
+    width: 80% !important;
+    margin-left: 10% !important;
 }
 #mc_embed_signup input.button {
-    width: 95% !important;
+    width: 50% !important;
     margin: 7% 0% !important;
     border: 2px solid #fff !important;
+    margin-left: 25% !important;
 }
 #mc_embed_signup .button {
     background-color: #6a67ce !important;
