@@ -21,7 +21,7 @@ pygmentsStyle = "perldoc"
 
 disqusShortname="smartwinnr"
 
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+#disableKinds = ["taxonomy", "taxonomyTerm"]
 
 rssLimit = 15
 
@@ -66,3 +66,6 @@ pattern = "2006"
 # googlefonts = "//fonts.googleapis.com/css?family=Roboto:400"
 
 enableRobotsTXT = true
+
+
+uglyurls = false
