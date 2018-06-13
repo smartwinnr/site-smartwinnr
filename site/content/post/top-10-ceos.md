@@ -1,14 +1,14 @@
 ---
 title: Top 10 CEOs who started as Sales Reps
 categories: ["ACM"]
-id: 8
+id: 11
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-weight: 8
+weight: 11
 slug: "/top10-CEOs-who-started-as-salesreps"
 featured_image: /images/Top-10-CEOs-who-started-as-Sales-Reps.png
-isFeatured: true
+isFeatured: false
 date: '2018-06-09T03:09:32+08:00'
 tags: ["SalesReps"]
 ---
