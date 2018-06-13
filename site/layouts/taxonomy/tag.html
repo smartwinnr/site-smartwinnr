@@ -52,7 +52,7 @@
               <!-- tags for the featured blog, currently there are some issues with tags page, as in the dist folder, the tags are not getting generated. Need to solve this. -->
               {{with .Params.tags}}
               <div class="card-action card-action-links">{{ range . }}
-                <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://localhost:3001/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+                <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
               </div>
               {{end}}
             </div>
