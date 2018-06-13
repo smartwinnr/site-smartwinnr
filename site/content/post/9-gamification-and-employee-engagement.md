@@ -15,7 +15,7 @@ tags: ["Gamification"]
 
 We often see that employees are most productive in the first few years of their job. Their excitement falls very quickly with time. This can be attributed to the “high” of a new job which gradually wears off with time. As the stage where everything is ‘new’ and ‘shiny’ passes, the levels of enthusiasm drop, finally resulting in a loss of interest in work.
 
-**Gallup reports - “National engagement levels hover around 30 percent - leaving 70 percent of the country disengaged at work.”**
+> **Gallup reports - “National engagement levels hover around 30 percent - leaving 70 percent of the country disengaged at work.”**
 
 Poor levels of engagement results in poor performance. Therefore, boosting employee morale and engagement can significantly drive business outcomes. However, before looking for solutions, it might be important to first understand the problem.
 
@@ -25,7 +25,7 @@ Poor levels of engagement results in poor performance. Therefore, boosting emplo
 
 **Lack of continuous challenge :** Research finds that employees perform the best when they are in the so-called Performance Zone - when they are challenged to move beyond their comfort zone, but not to the extent that they are completely overwhelmed. It is often difficult to sustain these challenges over a period of time.
 
-![Gamification-and-employement-engagement]("/images/9. Gamification and Employee Engagement_ the Why and the How_1.png")
+![Gamification-and-employement-engagement](/images/9. Gamification and Employee Engagement_ the Why and the How_1.png)
 
 **Diminishing returns of rewards :** Classic reward systems (salary, bonus etc.) tend to suffer from habituation. Once the brain adjusts to a certain reward, the reward no longer has the same impact, gradually reducing the amount of motivation it gives to the person.
 
