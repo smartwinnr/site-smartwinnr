@@ -21994,6 +21994,10 @@ ul {
   .ml-logo {
     margin-top : 2% !important;
   }
+  .ml_company_logo {
+    height: 30px;
+    width: auto;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   h1 {
@@ -24786,8 +24790,9 @@ img {
 }
 
 .ml_company_logo {
-  width: 100% !important;
-  height: auto !important;
+  height: 50px;
+  width: auto;
+  margin: 0 5px;
 }
 
 .ml_footer_logo {
@@ -24825,7 +24830,19 @@ img {
   }
 }
 
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .ml_company_logo {
+    height: 35px;
+    width: auto;
+    margin: 10px;
+  }
+}
+
 .ml-blog-images {
   height: auto;
   width: 120px;
+}
+
+.ml-padding-right0 {
+  padding-right: 0px !important;
 }
