@@ -21761,11 +21761,11 @@ p {
   border-top: 1px solid #ddd;
   margin-bottom: 20px;
 }
-/* ul {
+.ml-footer ul {
   list-style: none;
   margin-left: 0px !important;
   padding: 0;
-} */
+}
 .ml-section {
   margin-bottom: 40px;
 }
