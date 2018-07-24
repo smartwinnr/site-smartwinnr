@@ -8,7 +8,7 @@ author:
 weight: 9
 slug: "/gamification-and-employee-engagement"
 featured_image: "/images/9. Gamification and Employee Engagement_ the Why and the How.png"
-isFeatured: true
+isFeatured: false
 date: '2018-06-13T03:09:32+08:00'
 tags: ["Gamification"]
 ---
