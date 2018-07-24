@@ -2,7 +2,7 @@
 title: 7 Effective Ways to Increase Sales Effectiveness
 categories: ["ACM"]
 id: 36
-weight: 2
+weight: -2
 slug: "/2014/08/increase-sales-effectiveness"
 featured_image: /images/blog2.png
 isFeatured: false

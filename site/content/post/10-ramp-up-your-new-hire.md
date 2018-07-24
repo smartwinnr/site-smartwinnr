@@ -10,7 +10,7 @@ slug: "/ramp-up-new-hire-with-preboarding-activities"
 featured_image: "/images/10. ramp up your new hire by using pre-boarding activities.png"
 isFeatured: true
 date: '2018-07-24T03:09:32+08:00'
-tags: ["Activities"]
+tags: ["Pre-boarding"]
 ---
 
 
