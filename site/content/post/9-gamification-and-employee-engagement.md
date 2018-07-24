@@ -5,7 +5,7 @@ id: 9
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-weight: 9
+weight: -9
 slug: "/gamification-and-employee-engagement"
 featured_image: "/images/9. Gamification and Employee Engagement_ the Why and the How.png"
 isFeatured: false
