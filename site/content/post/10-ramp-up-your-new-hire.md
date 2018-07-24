@@ -19,20 +19,21 @@ Onboarding is usually seen as the very first step in every employee’s journey 
 Most recruiters will tell you that they have faced situations where new hires fell through at the last minute. The story is almost always the same. An offer was extended, the candidate enthusiastically accepted and then abruptly quit before their first day.
 There are many reasons this happens but the lack of communication in the time between a candidate accepting the job and their start date often makes things worse. New hires usually have weeks, or even months, to seek out another offer which might make them second guess their decision to work for your company.
 
-**So what can you do to ensure your new recruits remain excited about the job they are offered?
-One simple and easy solution is pre-boarding!**
+**So what can you do to ensure your new recruits remain excited about the job they are offered?**
+
+One simple and easy solution is pre-boarding!
 
 Pre-boarding is basically engaging with a new hire between the time they accept your offer and their first day. This process takes place before the employee’s first day and is followed up by the common onboarding practices.
 
 **Why use pre-boarding exercises?**
 
-* **Solidifies commitment**: Often a complete lack of communication allows the new hire to feel as if nothing is yet final.On the contrary, interacting with their coworkers can make them feel like they’re officially part of team.
+* **Solidifies commitment :** Often a complete lack of communication allows the new hire to feel as if nothing is yet final.On the contrary, interacting with their coworkers can make them feel like they’re officially part of team.
 
-* **Prepares them for the first day**: They can come into the office already familiar with the team, culture and way the business operates. Instead of spending the day getting a tour of the office and meeting with HR, your new hire can instead get right to work.
+* **Prepares them for the first day :** They can come into the office already familiar with the team, culture and way the business operates. Instead of spending the day getting a tour of the office and meeting with HR, your new hire can instead get right to work.
 
-* **Helps handle the nervousness**: Receiving a warm welcome shows that your company is happy to have them. It also instills positive notions about their superiors.Taking up a job offer is a major life decision  and even a small gesture can make a person feel that they’re headed in the right direction.
+* **Helps handle the nervousness :** Receiving a warm welcome shows that your company is happy to have them. It also instills positive notions about their superiors.Taking up a job offer is a major life decision  and even a small gesture can make a person feel that they’re headed in the right direction.
 
-**Here are a few pre-boarding exercises you can practice**:
+**Here are a few pre-boarding exercises you can practice :**
 
 * Introduce games like ‘Know thy neighbour’, which allows them to learn more about their coworkers. This will help establish a personal connection between employees. They can also reach out to other new hires and learn from their experience.
 
