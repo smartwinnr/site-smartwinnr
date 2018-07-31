@@ -1,5 +1,6 @@
 ---
 title: 5 Reasons Your Sales Training Is Failing
+description: 5 Reasons Your Sales Training Is Failing
 categories: ["ACM"]
 id: 7
 author:

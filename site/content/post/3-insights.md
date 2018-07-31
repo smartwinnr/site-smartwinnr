@@ -1,5 +1,6 @@
 ---
 title: 3 insights from Cognitive Science that will drive your employee knowledge
+description: 3 insights from Cognitive Science that will drive your employee knowledge
 categories: ["ACM"]
 id: 36
 author:
