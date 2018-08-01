@@ -1,6 +1,8 @@
 ---
 title: 5 Reasons Your Sales Training Is Failing
-description: 5 Reasons Your Sales Training Is Failing
+og_title: 5 Reasons Your Sales Training Is Failing
+og_description: Companies are spending billions of dollars to train their sales team. However, we often find our customers at SmartWinnr complain that they have little clarity on the effectiveness of sales training and find it difficult to correlate sales training with actual performance.
+description: Companies are spending billions of dollars to train their sales team. However, we often find our customers at SmartWinnr complain that they have little clarity on the effectiveness of sales training and find it difficult to correlate sales training with actual performance.
 categories: ["ACM"]
 id: 7
 author:
@@ -11,7 +13,7 @@ slug: "/5-reasons-your-sales-training-is-failing"
 featured_image: /images/blog-7.png
 isFeatured: false
 date: '2018-04-30T03:09:32+08:00'
-tags: ["Knowledge"]
+tags: ["Sales", "Sales-Training"]
 ---
 
 Companies are spending billions of dollars to train their sales team. However, we often find our customers at SmartWinnr complain that they have little clarity on the effectiveness of sales training and find it difficult to correlate sales training with actual performance. This seems to be a pervasive problem.  

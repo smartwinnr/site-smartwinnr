@@ -1,5 +1,8 @@
 ---
 title: 'Gamification and Employee Engagement: the Why and the How'
+og_title: 'Gamification and Employee Engagement: the Why and the How'
+og_description: Poor levels of engagement results in poor performance. Therefore, boosting employee morale and engagement can significantly drive business outcomes. Read how Gamification can help to achieve superior employee engagement
+description: Poor levels of engagement results in poor performance. Therefore, boosting employee morale and engagement can significantly drive business outcomes. Read how Gamification can help to achieve superior employee engagement
 categories: ["ACM"]
 id: 9
 author:
@@ -10,7 +13,7 @@ slug: "/gamification-and-employee-engagement"
 featured_image: "/images/9. Gamification and Employee Engagement_ the Why and the How.png"
 isFeatured: false
 date: '2018-06-13T03:09:32+08:00'
-tags: ["Gamification"]
+tags: ["Gamification", "Employee", "Engagement"]
 ---
 
 We often see that employees are most productive in the first few years of their job. Their excitement falls very quickly with time. This can be attributed to the “high” of a new job which gradually wears off with time. As the stage where everything is ‘new’ and ‘shiny’ passes, the levels of enthusiasm drop, finally resulting in a loss of interest in work.
