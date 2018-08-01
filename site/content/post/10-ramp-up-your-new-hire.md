@@ -1,5 +1,8 @@
 ---
-title: 'Ramp-up your New Hire by Using Pre-boarding Activities'
+title: Ramp-up your New Hire by Using Pre-boarding Activities
+og_title: Ramp-up your New Hire by Using Pre-boarding Activities
+og_description: The first week in a new job is when 33% of new employees decide whether to stay or go. What can you do to ensure your new recruits remain excited about the job they are offered?
+description: The first week in a new job is when 33% of new employees decide whether to stay or go. What can you do to ensure your new recruits remain excited about the job they are offered?
 categories: ["ACM"]
 id: 10
 author:
