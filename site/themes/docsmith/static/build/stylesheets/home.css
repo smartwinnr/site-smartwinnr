@@ -23935,7 +23935,7 @@ img {
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-subscribe {
-    height: 525px !important;
+    height: 550px !important;
   }
   .ml-featured-blog-image{
     width: 100%;
@@ -24845,4 +24845,13 @@ img {
 
 .ml-padding-right0 {
   padding-right: 0px !important;
+}
+
+.underline {
+    padding-bottom: 1px;
+    border-bottom: grey 1px solid;
+}
+
+.ml-padding-top5 {
+  padding-top: 5px !important;
 }
