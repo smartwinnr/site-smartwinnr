@@ -18,7 +18,7 @@ Companies spend a lot of money on sales training, and rightfully so. A well-trai
 > _Sales Performance International_
 
 However, with increased investment, sales leaders are asking about the impact and effectiveness of the trainings. Are we getting it right with our sales training? Are we happy with the ROI on our educational investments in sales?  
-At [QuizPrompt](https://quizprompt.com) we have been closely working with some of the global Fortune 500 companies to identify the optimal ways to get the highest returns on your sales trainings. Here are the top 5 ways to create maximum impact on sales through sales trainings:
+At [SmartWinnr](https://smartwinnr.com) we have been closely working with some of the global Fortune 500 companies to identify the optimal ways to get the highest returns on your sales trainings. Here are the top 5 ways to create maximum impact on sales through sales trainings:
 
   1.  **Align your Sales Training to your Company’s Sales Methodology**  
   Every sales focused company has a specialised sales methodology that suits its specific market and its strategy. More often than not, trainers focus only on skills and techniques to achieve better results. While learning about the basics are important, it is also important to tie these skills back to a proven and established sales methodology. This approach gives context and essential background on the ‘why’s and what’s of such techniques.
