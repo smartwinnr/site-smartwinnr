@@ -21,7 +21,7 @@
         <meta property="og:url" content="{{ .Permalink }}">
         <meta property="og:description" content="{{ .Params.og_description | default (.Param "description") }}">
         <meta property="og:site_name" content="{{ .Site.Title }}">
-        {{ with .Params.image }}
+        {{ with .Params.Featured_image }}
         {{ if eq (printf "%T" .) "string"}}
         <meta property="og:image" content="{{ . }}">
         {{ else }}
@@ -39,7 +39,7 @@
         <meta name="twitter:creator" content="@smartwinnr">
         <meta name="twitter:description" content="{{ .Params.Description }}" />
         <meta name="twitter:title" content="{{ .Params.Title }}" />
-        <meta name="twitter:image" content="{{ .Params.Featured_image }}" />
+        <meta name="twitter:image" content="http://www.smartwinnr.com{{ .Params.Featured_image }}" />
         {{ with  .Site.Home.OutputFormats.Get "rss" -}}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end }}
         {{ if (getenv "HUGO_ENV") }}
