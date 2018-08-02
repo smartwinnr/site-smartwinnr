@@ -1,5 +1,8 @@
 ---
 title: Is Your Sales Training Not Delivering? These 5 Strategies Will Change That
+og_title: Is Your Sales Training Not Delivering? These 5 Strategies Will Change That
+description: Companies spend a lot of money on sales training, and rightfully so. A well-trained sales force is a high performing sales force. However, with increased investment, sales leaders are asking about the impact and effectiveness of the trainings.
+og_description: Companies spend a lot of money on sales training, and rightfully so. A well-trained sales force is a high performing sales force. However, with increased investment, sales leaders are asking about the impact and effectiveness of the trainings.
 categories: ["ACM"]
 id: 36
 weight: -6
@@ -7,7 +10,7 @@ slug: "/2016/09/sales-training-not-delivering"
 featured_image: /images/blog6.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Strategies", "Sales"]
+tags: ["Sales", "Sales-Training"]
 ---
 
 

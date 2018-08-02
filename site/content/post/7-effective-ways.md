@@ -1,5 +1,8 @@
 ---
 title: 7 Effective Ways to Increase Sales Effectiveness
+og_title: 7 Effective Ways to Increase Sales Effectiveness
+description: Every organization wants their sales people to be more effective - which means closing more sales in shorter time. What can organizations do to make the life of reps better so that they can focus more on the core selling activities?
+og_description: Every organization wants their sales people to be more effective - which means closing more sales in shorter time. What can organizations do to make the life of reps better so that they can focus more on the core selling activities?
 categories: ["ACM"]
 id: 36
 weight: -2

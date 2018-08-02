@@ -1,5 +1,8 @@
 ---
 title: "Training the Millennials 5 Strategies that Work"
+og_title: Training the Millennials 5 Strategies that Work
+description: One of the biggest challenges that companies face is how to onboard millennials and train them effectively. This is especially true for sales based organizations who still have classroom sessions as their primary form of training. Read about effective mechanisms that help to train millenials
+og_description: One of the biggest challenges that companies face is how to onboard millennials and train them effectively. This is especially true for sales based organizations who still have classroom sessions as their primary form of training. Read about effective mechanisms that help to train millenials
 categories: ["ACM"]
 id: 36
 weight: -1
@@ -7,7 +10,7 @@ slug: "/2016/09/training-the-millenials"
 featured_image: /images/blog5.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Strategies"]
+tags: ["Millennials"]
 ---
 
 
