@@ -24836,6 +24836,9 @@ img {
     width: auto;
     margin: 10px;
   }
+  .ml-dreamforce-image {
+    height: 200px !important;
+  }
 }
 
 .ml-blog-images {
@@ -24845,6 +24848,11 @@ img {
 
 .ml-padding-right0 {
   padding-right: 0px !important;
+}
+
+.ml-underline {
+  border-bottom: 1px solid #000 !important;
+  padding-bottom: 1px !important;
 }
 
 /* Dreamforce CSS */

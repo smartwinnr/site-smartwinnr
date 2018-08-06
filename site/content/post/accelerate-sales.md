@@ -1,5 +1,8 @@
 ---
 title: Accelerate Your Sales Performance Through Gamification
+og_title: Accelerate Your Sales Performance Through Gamification
+description: Gamification is being used in every situation as a positive motivational tool. But did you know that gamification approach can really supercharge your sales team’s performance?
+og_description: Gamification is being used in every situation as a positive motivational tool. But did you know that gamification approach can really supercharge your sales team’s performance?
 categories: ["ACM"]
 id: 36
 weight: -4

@@ -1,5 +1,8 @@
 ---
 title: 5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits
+og_title: 5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits
+description: Most companies take more than 6 months to get a new sales rep up to speed. 5 strategies that combines age-old sales training best practices with latest technology that can significantly reduce your new recruit ramp-up time.
+og_description: Most companies take more than 6 months to get a new sales rep up to speed. 5 strategies that combines age-old sales training best practices with latest technology that can significantly reduce your new recruit ramp-up time.
 categories: ["ACM"]
 id: 36
 weight: -5
@@ -7,7 +10,7 @@ slug: "/2016/09/reduce-ramp-up-time"
 featured_image: /images/blog4.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Strategies", "Sales"]
+tags: ["Onboarding", "Sales", "Sales-Training"]
 ---
 
 Developing new sales reps has been a challenging task for any sales-focused organization. Though organizations hope to recruit reps who can start selling right from Day 1, the reality is far from that. Even a seasoned sales rep needs time to understand your company, products, customers and competitors.<a id="more"></a>
