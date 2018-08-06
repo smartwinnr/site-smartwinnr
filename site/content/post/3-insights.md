@@ -4,7 +4,7 @@ og_title: 3 insights from Cognitive Science that will drive your employee knowle
 description: Any knowledge-intensive job requires people to retain crucial information and apply them in different situations. But what can corporates do to help employees retain this disparate information?
 og_description: Any knowledge-intensive job requires people to retain crucial information and apply them in different situations. But what can corporates do to help employees retain this disparate information?
 categories: ["ACM"]
-id: 36
+id: 3
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
