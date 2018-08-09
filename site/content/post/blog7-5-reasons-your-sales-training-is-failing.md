@@ -93,3 +93,5 @@ We found that sales reps often skip refresher training sessions. When asked why 
 * **Create a culture of knowledge excellence:** Encourage managers to convince team about the business impact of regular training.
 
 Properly done, sales training can provide a significant RoI. However, it is important to have a systematic approach, track improvements regularly and keep sales team motivated for best results.
+
+<!-- <img class="ml-blog-page-image" center-align alt="5 reasons your sales training is failing" src="/images/5 Reasons Your Sales Training is Failing.png"> -->
