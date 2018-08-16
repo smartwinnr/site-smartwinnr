@@ -24001,6 +24001,10 @@ img {
 .ml-margin-left20 {
   margin-left: 20px !important;
 }
+/* padding5 was added later here*/
+.padding5 {
+  padding: 5px !important;
+}
 .padding10 {
   padding: 10px !important;
 }
@@ -24883,4 +24887,26 @@ img {
 
 .ml-horizontal-line {
   border-bottom: 1px solid #000 !important;
+}
+
+.ml-light-green-box {
+  width: 100% !important;
+  background: #B8C1FF !important;
+}
+
+.ml-margin-top-bottom20 {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+.ml-font32 {
+  font-size: 32px !important;
+}
+
+.padding0 {
+  padding: 0px !important;
+}
+
+.ml-padding-top10 {
+  padding-top: 10px !important;
 }
