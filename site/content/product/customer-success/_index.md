@@ -2,8 +2,8 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'Customer Success'
-keywords: ["contact-us", "linux", "how to"]
+description: 'See how SmartWinnr can help you train and coach your teams effectively'
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 title: Customer Success
