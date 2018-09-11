@@ -24447,6 +24447,10 @@ img {
   .padding50 {
     padding: 2% !important;
   }
+  .ml_user_image {
+    height: 70px !important;
+    width: 70px !important;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-white-tile {
@@ -24914,3 +24918,24 @@ img {
 .ml-font20{
   font-size: 20px !important;
 }
+
+.ml_list_style_none {
+  list-style: none !important;
+}
+
+/* interview page css starts */
+
+.ml_interview {
+  background: linear-gradient(to right top, #3429be, #4030c6);
+  height: auto;
+  padding: 10% 0 !important;
+}
+
+.ml_user_image {
+  height: 100px;
+  width: 100px;
+  border: 1px solid #789bd3;
+}
+
+
+/* interview page css ends here */
