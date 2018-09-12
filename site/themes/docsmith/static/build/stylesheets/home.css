@@ -24451,6 +24451,22 @@ img {
     height: 70px !important;
     width: 70px !important;
   }
+  .ml_interview_top_page h2 {
+    font-size: 14px !important;
+  }
+  .ml_interview_top_page.ml-padding-left-right20 {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+  }
+  .ml_customer_speak_image {
+    height: 20px !important;
+  }
+  .ml_customer_info_box {
+    padding: 16% 6%;
+  }
+  .ml_customer_info_box h2 {
+    font-size: 14px !important;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-white-tile {
@@ -24462,10 +24478,13 @@ img {
     /* margin-bottom: 6%; */
     padding-top: 0%;
   }
-  /* .ml-centered-half {
-    text-align: center;
-    padding-top: 0%;
-  } */
+  .ml_customer_info_box h2 {
+    font-size: 1.5rem !important;
+  }
+  .ml_user_image {
+    height: 70px !important;
+    width: 70px !important;
+  }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   .ml-white-tile {
@@ -24923,12 +24942,18 @@ img {
   list-style: none !important;
 }
 
+
 /* interview page css starts */
 
 .ml_interview {
   background: linear-gradient(to right top, #3429be, #4030c6);
   height: auto;
   padding: 10% 0 !important;
+}
+
+.ml_hr{
+  border-bottom: 3px solid #f4f4f4;
+  margin-top: 10px
 }
 
 .ml_user_image {
@@ -24938,4 +24963,17 @@ img {
 }
 
 
+.ml_interview_top_page {
+
+}
+
+.ml_customer_speak_image {
+  height: 40px;
+  width: auto;
+}
+
+.ml_customer_info_box {
+  border-radius: 10px;
+  padding: 16% 6%;
+}
 /* interview page css ends here */

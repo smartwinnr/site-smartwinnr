@@ -16,5 +16,9 @@
   </div>
 </div>
 </section> -->
+{{ if eq .Title "Case Studies & Whitepapers" }}
 {{ partial "resources" . }}
+{{ else if eq .Title "Customer Stories"}}
+{{ partial "customer-stories" . }}
+{{ end }}
 {{ end }}
