@@ -16,5 +16,7 @@
   </div>
 </div>
 </section> -->
-{{ partial "interview" . }}
+{{ if eq .Title "Polycom Laura Welch Interview" }}
+{{ partial "polycom_laura_welch_interview" . }}
+{{ end }}
 {{ end }}
