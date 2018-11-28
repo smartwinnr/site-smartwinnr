@@ -24977,3 +24977,7 @@ img {
   padding: 16% 6%;
 }
 /* interview page css ends here */
+
+.ml_text_bold {
+  font-weight: 600 !important;
+}
