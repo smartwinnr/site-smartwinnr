@@ -1,4 +1,4 @@
-<nav id="main-nav" class="navbar navbar-default" role="navigation">
+<!-- <nav id="main-nav" class="navbar navbar-default" role="navigation">
   <div class="ml-container">
     <div class="navbar-header">
       <button type="button" class="toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
@@ -12,7 +12,6 @@
 
     <div class="collapse navbar-collapse navbar-top-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <!-- <li><a href="{{ .Site.BaseURL }}"><span class='nav-home'></span></a></li> -->
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product <span class="caret"></span></a>
           <ul class="dropdown-menu dropdown-main-nav">
@@ -46,11 +45,45 @@
           </ul>
         </li>
         <li><a href="/dreamforce/">Dreamforce 2018</a></li>
-        <!-- <li role="presentation" class="divider-vertical"><span>|</span></li> -->
           <li><a class="sign_in_btn" href="https://app.smartwinnr.com/">Log in <span class="login-caret"></span></a></li>
           <li><a class="ml-button-nav" href="/request-demo">Request demo</a></li>
       </ul>
     </div>
 
   </div>
-</nav>
+</nav> -->
+
+
+<div class="navbar-dropdown">
+  <div class="dropdown">
+    <a href="{{ .Site.BaseURL }}"><img class="ml-logo" id="navbar-logo" src="{{ relURL "/images/smartwinnr_logo.png" }}"></a>
+    <button class="dropbtn">Product
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <div class="header">
+        <h2>Mega Menu</h2>
+      </div>
+      <div class="row">
+        <div class="column">
+          <h3>Category 1</h3>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+        <div class="column">
+          <h3>Category 2</h3>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+        <div class="column">
+          <h3>Category 3</h3>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
