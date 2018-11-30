@@ -21968,6 +21968,7 @@ p {
   background: #fff !important;
   border-radius: 10px;
 }
+/* these media queries are going to be applied on newly created navbar */
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   h1 {
     font-size: 2rem !important;
@@ -22017,7 +22018,28 @@ p {
   }
   .ml-logo {
     height : 32px !important;
-    margin-top: 12% !important;
+    /* newly created nav bar doesnot need this marin top */
+    /* margin-top: 12% !important; */
+  }
+  .new-navbar a {
+    margin-right: 5px !important;
+  }
+  .navbar-dropdown .dropdown-button {
+    font-size: 12px !important;
+  }
+  .column h3 {
+    padding: 6px 10px;
+    font-size: 20px !important;
+    float: right;
+  }
+  .column h4 {
+    padding: 10px;
+    font-size: 16px !important;
+    border-bottom: 1px #ccc solid;
+  }
+  .new-navbar #request-demo {
+    font-size: .6rem !important;
+    padding: .1rem !important;
   }
 }
 /* @media only screen and (min-width: 1024px) and (max-width: 1279px) {
