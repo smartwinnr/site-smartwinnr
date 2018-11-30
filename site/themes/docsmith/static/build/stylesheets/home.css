@@ -25118,7 +25118,7 @@ body {
   border: 0 #ccc solid;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1 !important;
-  transition: all 1.5s ease-out 1s;
+  /* transition: all 1.5s ease-out 1s; */
 }
 
 .navbar-dropdown:hover .dropdown-button {
