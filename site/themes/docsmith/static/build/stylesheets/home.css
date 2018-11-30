@@ -24981,3 +24981,7 @@ img {
 .ml_text_bold {
   font-weight: 600 !important;
 }
+
+.ml_blog_table {
+  border: 1px #ccc solid;
+}
