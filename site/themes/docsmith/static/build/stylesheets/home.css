@@ -3514,7 +3514,7 @@ tbody.collapse.in {
   display: none;
   float: left;
   min-width: 160px;
-  padding: 5px 0;
+  padding: 2px 0;
   margin: 2px 0 0;
   list-style: none;
   font-size: 1.2rem;
@@ -3574,7 +3574,8 @@ tbody.collapse.in {
   cursor: not-allowed;
 }
 .open > .dropdown-menu {
-  display: block;
+  /* display: block; */
+  display: inline-block;
 }
 .open > a {
   outline: 0;
@@ -22022,6 +22023,9 @@ p {
   .column{
     width: 100% !important;
   }
+  .column a {
+    padding-left: 4% !important;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   h1 {
@@ -22063,6 +22067,12 @@ p {
   .new-navbar #request-demo {
     font-size: .6rem !important;
     padding: .1rem !important;
+  }
+  .ml_bordered_card .card-header > a {
+    font-size: 1.2rem !important;
+  }
+  .ml_bordered_card .card-header {
+    padding: 5px;
   }
 }
 /* @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24946,6 +24956,11 @@ img {
   padding-right: 20% !important;
 }
 
+.ml-padding-top-bottom2 {
+  padding-top: 2% !important;
+  padding-bottom: 2% !important;
+}
+
 .ml-padding-top-bottom20 {
   padding-top: 20% !important;
   padding-bottom: 20% !important;
@@ -25247,4 +25262,9 @@ body {
   font-size: 1.2rem !important;
   margin-right: 15px !important;
   padding: 5px !important;
+}
+
+.ml_bordered_card {
+  border: 1px solid #ccc !important;
+  margin: 0 5px !important;
 }
