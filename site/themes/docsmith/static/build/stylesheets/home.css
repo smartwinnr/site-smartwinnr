@@ -24988,3 +24988,15 @@ img {
 .ml_blog_table {
   border: 1px #ccc solid;
 }
+
+.ml_standard_image {
+  /* height: 400px; */
+  width : auto;
+}
+
+.ml_image_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
