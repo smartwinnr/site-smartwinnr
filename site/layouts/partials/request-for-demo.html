@@ -26,6 +26,7 @@ $(function() {
   }
 });
 </script>
+
 <section>
   <div class="ml-start text-center padding80">
     <div class="row ml-container">
@@ -33,11 +34,14 @@ $(function() {
         <h1 class="ml-margin-bottom20">See if SmartWinnr is right for your organization</h1>
       </div>
       <div class="col-md-7 col-sm-12 padding80">
-        <form class="" action="https://bu4y0vkrwi.execute-api.us-west-2.amazonaws.com/prod" method="post" id="webform-client-form-11" accept-charset="UTF-8">
+        <form class="" action="https://bu4y0vkrwi.execute-api.us-west-2.amazonaws.com/prod" method="post" id="webform-client-form-11" accept-charset="UTF-8" data-netlify="true" netlify-honeypot="_honeypot">
         <input name="_honeypot" style="display:none" type="text">
             <input type="hidden" name="_to" value="94867cb7283ac9911fadb73040c85fbe11aeafbffb09">
             <input type="hidden" name="_redirect" value="https://smartwinnr.netlify.com/form-successful">
           <div>
+            <p class="hidden">
+              <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+            </p>
             <div  class="form-item">
               <label class="element-invisible" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
               <input required="required" placeholder="Name" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" class="form-text required" />
@@ -64,6 +68,7 @@ $(function() {
             <input type="hidden" name="details[finished]" value="0" />
             <input type="hidden" name="form_build_id" value="form-tF8e92Q7jjjIwQLZpoEP76p1bd1_SSsc_ysKTTOhfMw" />
             <input type="hidden" name="form_id" value="webform_client_form_11" />
+            <div data-netlify-recaptcha="true"></div>
             <div class="form-actions text-center">
               <!-- <img class="ml-loading-image" src="/images/loading.gif" alt=""> -->
               <input class="webform-submit ml-loading-button form-submit" type="submit" name="op" value="Request Demo"></input>

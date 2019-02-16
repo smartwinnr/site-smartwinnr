@@ -24413,7 +24413,7 @@ img {
     text-transform: uppercase;
     letter-spacing: .05em;
     font-weight: 600;
-    width: 100%;
+    /* width: 100%; */
     padding: 10px 20px;
     border: 2px solid #5951FF;
     border-radius: 4px;
@@ -24470,6 +24470,10 @@ img {
   .ml_customer_info_box h2 {
     font-size: 14px !important;
   }
+  .ml_responsive_video {
+    width: 100% !important;
+    height: 250px !important;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-white-tile {
@@ -24487,6 +24491,10 @@ img {
   .ml_user_image {
     height: 70px !important;
     width: 70px !important;
+  }
+  .ml_responsive_video {
+    width: 100% !important;
+    height: 300px !important;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24842,6 +24850,7 @@ img {
   font-size: 1.2rem !important;
   font-weight: 600;
   padding-bottom: 10px;
+  line-height: 1.8rem !important;
 }
 
 .ml-footer-heading {
@@ -24999,4 +25008,20 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.ml_special_border {
+  border: 1px solid rgb(56, 207, 218) !important;
+  padding: 15px !important;
+}
+
+.ml_small_image {
+  height: 200px !important;
+  width: auto !important;
+  margin-bottom: 20px !important;
+}
+
+.ml_responsive_video {
+  height: 400px;
+  width: 100%;
 }
