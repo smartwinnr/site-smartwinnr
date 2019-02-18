@@ -21977,10 +21977,10 @@ p {
     font-size: 1.6rem !important;
   }
   h3 {
-    font-size: 1.2rem !important;
+    font-size: 1.4rem !important;
   }
   h4 {
-    font-size: 0.8rem !important;
+    font-size: 1.2rem !important;
   }
   h5 {
     font-size: 0.5rem !important;
@@ -22046,13 +22046,13 @@ p {
 .ml-image {
   width: 100%;
   height: auto;
-  margin-top: 15% !important;
+  /* margin-top: 10% !important; */
 }
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .ml-image {
     width: 100%;
     height: auto;
-    margin-top: 30% !important;
+    /* margin-top: 30% !important; */
   }
 }
 /* Blog CSS */
@@ -24291,7 +24291,7 @@ img {
   padding: 0 20px;
   width: 100%;
   margin: 0 auto;
-  height: 100% !important;
+  /* height: 100% !important; */
 }
 .ml-key-points {
   height: auto;
@@ -24867,6 +24867,12 @@ img {
     height: auto !important;
     width: 60px !important;
   }
+  .ml-font20 {
+    font-size: 1.5rem !important;
+  }
+  .ml_padding_desktop {
+    padding: 0 !important;
+  }
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
@@ -24877,6 +24883,9 @@ img {
   }
   .ml-dreamforce-image {
     height: 200px !important;
+  }
+  .ml_padding_desktop {
+    padding: 0 !important;
   }
 }
 
@@ -25010,6 +25019,11 @@ img {
   width: 50%;
 }
 
+.ml_image_center_horizontally {
+  display: block !important;
+  margin: auto !important;
+}
+
 .ml_special_border {
   border: 1px solid rgb(56, 207, 218) !important;
   padding: 15px !important;
@@ -25018,10 +25032,60 @@ img {
 .ml_small_image {
   height: 200px !important;
   width: auto !important;
+  display:block;
+  margin:auto;
   margin-bottom: 20px !important;
 }
 
 .ml_responsive_video {
   height: 400px;
   width: 100%;
+}
+
+.ml-homepage-first-section {
+  background: #fff !important;
+  color: #000 !important;
+  padding: 20px !important;
+}
+
+.ml-request-demo-button {
+  /* border-radius: 4px;
+  background-color: #5951ff;
+  color: #fff !important;
+  border: 2px solid rgba(89, 81, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-weight: 600;
+  padding: .4rem .8rem .25rem .8rem !important;
+  outline: none;
+  transition: all 0.3s ease; */
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff;
+  font-size: .875em;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-weight: 600;
+  padding: 10px 20px;
+  border: 2px solid #fff;
+  border-radius: 4px;
+}
+
+.ml-request-demo-button:hover {
+  color: #5951FF !important;
+  background-color: #fff !important;
+  border: 2px solid #5951FF !important;
+  border-radius: 4px !important;
+}
+
+.ml_line_height1 {line-height: 1rem !important;}
+.ml_line_height1andhalf {line-height: 1.5rem !important;}
+.ml_line_height2 {line-height: 2rem !important;}
+
+.ml_display_inline {
+  display: inline !important;
+}
+
+.ml_padding_desktop {
+  padding: 0 30% !important;
 }
