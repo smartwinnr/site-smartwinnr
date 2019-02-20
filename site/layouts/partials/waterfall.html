@@ -1,4 +1,4 @@
-<div class="container container-ex">
+<div class="container container-ex ml-margin-top60">
   <div class="inner">
     <!-- This if condition is used to check whether this is blog homepage or tags blog page, because same layout is being used for both the pages. in case of tag page, the featured section has been removed, as we don't need to show the featured one everywhere. -->
     {{ if eq .Title "Blogs" }}
@@ -11,7 +11,7 @@
         <div class="ml-featured-card">
           <div class="ml-featured-card-header">
             {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
-            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
+            <a class="ml-featured-card-title" href="http://10.13.6.33:3000/post{{ .Slug }}">{{ .Title }}</a>
             <!-- <div class="row">
               <div class="col-sm-6 col-md-6">
                 <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6>

@@ -19038,6 +19038,9 @@ div.logo-tile p {
 }
 #main-nav {
   z-index: 9002;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 #main-nav span {
   color: #3BB878;
@@ -23889,9 +23892,9 @@ img {
 }
 
 .ml-subscribe {
-  height: 600px;
+  height: 630px;
   background-color: #fff !important;
-  padding : inherit;
+  /* padding : inherit; */
   box-sizing: inherit;
   display: block;
   box-shadow: 1px 2px 5px #888888;
@@ -23935,7 +23938,7 @@ img {
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-subscribe {
-    height: 525px !important;
+    height: 550px !important;
   }
   .ml-featured-blog-image{
     width: 100%;
@@ -23976,6 +23979,9 @@ img {
 }
 .ml-margin-top50 {
   margin-top: 50px !important;
+}
+.ml-margin-top60 {
+  margin-top: 60px !important;
 }
 .ml-margin-bottom100 {
   margin-bottom: 100px !important;
@@ -24131,6 +24137,11 @@ img {
   color: #272640;
   padding-bottom:20px !important;
   border-bottom:1px solid #cdcdcd;
+}
+.ml-prodfeaturerow:last-child {
+  color: #272640;
+  padding-bottom:50px !important;
+  border-bottom:0px !important;
 }
 .ml-icon-blue {
   color: #0d47a1;
@@ -24290,7 +24301,7 @@ img {
   max-width: 1660px;
   padding: 0 20px;
   width: 100%;
-  margin: 0 auto;
+  margin: 0px auto;
   /* height: 100% !important; */
 }
 .ml-key-points {
@@ -24474,6 +24485,9 @@ img {
     width: 100% !important;
     height: 250px !important;
   }
+  .resources_icon_tab {
+    display: block !important;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-white-tile {
@@ -24495,6 +24509,9 @@ img {
   .ml_responsive_video {
     width: 100% !important;
     height: 300px !important;
+  }
+  .ml_top_container{
+    padding: 20px !important;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24893,6 +24910,9 @@ img {
   .ml-title-font {
     padding: 0 3% 3% 3%;
   }
+  /* .ml_top_container{
+    padding: 0px !important;
+  } */
   /* below styles are temporarily written */
   div div .ml-font20{
     padding: 0 3%;
@@ -25105,4 +25125,28 @@ img {
 
 .ml_subtext_height {
   height: 120px !important;
+}
+
+.ml_nav_container {
+  max-width: 1660px;
+  padding: 0 20px;
+  width: 100%;
+  margin: 0 auto;
+}
+.ml_top_container {
+  max-width: 1660px;
+  width: 100%;
+  padding: 0 20px;
+  margin-top: 55px;
+}
+
+.ml_padding_left0 {
+  padding-left: 0px !important;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+  .ml-padding-left-right20{
+    padding-left: 2% !important;
+    padding-right: 2% !important;
+  }
 }
