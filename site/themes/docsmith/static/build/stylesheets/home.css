@@ -25042,7 +25042,7 @@ img {
 
 .ml_standard_image {
   /* height: 400px; */
-  width : auto;
+  width : 100%;
 }
 
 .ml_image_center {
