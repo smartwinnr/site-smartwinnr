@@ -25052,6 +25052,13 @@ img {
   width: 50%;
 }
 
+.ml_image_center70 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
 .ml_image_center_horizontally {
   display: block !important;
   margin: auto !important;
