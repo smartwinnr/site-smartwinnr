@@ -23892,7 +23892,7 @@ img {
 }
 
 .ml-subscribe {
-  height: 630px;
+  height: 600px; /* make it 630px, if the doesnot match with featured blog */
   background-color: #fff !important;
   /* padding : inherit; */
   box-sizing: inherit;
@@ -23980,6 +23980,9 @@ img {
 .ml-margin-top50 {
   margin-top: 50px !important;
 }
+.ml-margin-top58 {
+  margin-top: 58px !important;
+}
 .ml-margin-top60 {
   margin-top: 60px !important;
 }
@@ -24016,6 +24019,9 @@ img {
 }
 .padding10 {
   padding: 10px !important;
+}
+.padding20 {
+  padding: 20px !important;
 }
 .padding30 {
   padding: 30px !important;
@@ -25125,6 +25131,9 @@ img {
 .ml_display_inline {
   display: inline !important;
 }
+.ml_display_block {
+  display: block !important;
+}
 
 .ml_padding_desktop {
   padding: 0 30%;
@@ -25156,4 +25165,67 @@ img {
     padding-left: 2% !important;
     padding-right: 2% !important;
   }
+}
+
+/* blog page changes 12 June 2019 */
+.ml_blog_header_bar {
+  padding: 15px;
+  color: #fff;
+  font-size: 1.1rem;
+  text-align: center !important;
+  width: 100%;
+  background: linear-gradient(135deg, #6f42c1 0%,#4582ec 100%) !important;
+}
+
+.ml_link {
+  color : #fff !important;
+}
+
+.ml_link:hover {
+  text-decoration: underline !important;
+}
+
+.ml_list_group {
+  padding: 10px 20px;
+  border-radius : 10px !important;
+}
+
+.ml_list_group li.list-group-item:first-child {
+  background : #efeeee;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.ml_list_group li.list-group-item:last-child {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.ml_list_group li.list-group-item {
+  background : #f7f7f7;
+  padding: 5px 5px 5px 10px;
+  margin-top: 0;
+}
+
+.ml_list_group li.list-group-item a {
+  margin-bottom: 5px;
+}
+
+.ml_blog_tag {
+  background: #003f56 !important;
+  color: #fff !important;
+  padding: 2px 4px;
+  font-variant-caps: small-caps;
+  border-radius: 5px;
+  font-size: 0.75rem;
+}
+
+.ml_share_icon {
+  height: 50px;
+  width: 50px;
+  margin: 0 !important;
+}
+
+.ml_about_sm_in_blog {
+  background: #f7f7f7 !important;
 }

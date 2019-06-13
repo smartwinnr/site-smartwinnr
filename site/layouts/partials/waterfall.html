@@ -1,4 +1,9 @@
-<div class="container container-ex ml-margin-top60">
+<div class="ml_blog_header_bar ml-margin-top58">
+  <span>
+    Gamify your sales learning and productivity. <a href="" class="ml_link">View Demo <span class="login-caret"></span></a>
+  </span>
+</div>
+<div class="container container-ex">
   <div class="inner">
     <!-- This if condition is used to check whether this is blog homepage or tags blog page, because same layout is being used for both the pages. in case of tag page, the featured section has been removed, as we don't need to show the featured one everywhere. -->
     {{ if eq .Title "Blogs" }}
@@ -11,7 +16,7 @@
         <div class="ml-featured-card">
           <div class="ml-featured-card-header">
             {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
-            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
+            <a class="ml-featured-card-title" href="http://10.13.7.196:3000/post{{ .Slug }}">{{ .Title }}</a>
             <!-- <div class="row">
               <div class="col-sm-6 col-md-6">
                 <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
@@ -65,7 +70,21 @@
                   <!--End mc_embed_signup-->
                 </div>
                 <div class="row">
-                  <img class="ml-subscribe-image" src="/images/undraw_newsletter_vovu.svg" alt="">
+                  <!-- <img class="ml-subscribe-image" src="/images/undraw_newsletter_vovu.svg" alt=""> -->
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Categories</li>
+                    <li class="list-group-item">Sales</li>
+                    <li class="list-group-item">KPIs</li>
+                  </ul>
+
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Tags</li>
+                    <li class="list-group-item">
+                      <label for="" class="ml_blog_tag">Onboarding</label>
+                      <label for="" class="ml_blog_tag">Sales-Training</label>
+                      <label for="" class="ml_blog_tag">Employee-Engagement</label>
+                    </li>
+                  </ul>
                 </div>
               </div>
               <!-- </aside> -->
@@ -135,7 +154,7 @@
           <div class="card-content">
             <article class="article">
               {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
-              <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a>
+              <a class="ml_body_text_blue ml-blog-tag" href="http://10.13.7.196:3000/post{{ .Slug }}">read more</a>
               {{ end }}
             </article>
 
@@ -158,4 +177,3 @@
       </div>
     </div>
   </div>
-</div>

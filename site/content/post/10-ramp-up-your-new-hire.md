@@ -1,5 +1,5 @@
 ---
-title: Ramp-up your New Hire by Using Pre-boarding Activities
+title: "Ramp-up your New Hire by Using Pre-boarding Activities"
 og_title: Ramp-up your New Hire by Using Pre-boarding Activities
 og_description: The first week in a new job is when 33% of new employees decide whether to stay or go. What can you do to ensure your new recruits remain excited about the job they are offered?
 description: The first week in a new job is when 33% of new employees decide whether to stay or go. What can you do to ensure your new recruits remain excited about the job they are offered?
@@ -14,6 +14,7 @@ featured_image: "/images/10. ramp up your new hire by using pre-boarding activit
 isFeatured: false
 date: '2018-07-24T03:09:32+08:00'
 tags: ["Pre-boarding"]
+relatedWith : ["5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits"]
 ---
 
 

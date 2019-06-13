@@ -1,5 +1,5 @@
 ---
-title: Top 10 CEOs who started as Sales Reps
+title: "Top 10 CEOs who started as Sales Reps"
 og_title: Top 10 CEOs who started as Sales Reps
 og_description: A recent study found out that more than 25% of CEOs in the world had a Marketing or Sales background. Here are ten CEOs who started their career in Sales.
 description: A recent study found out that more than 25% of CEOs in the world had a Marketing or Sales background. Here are ten CEOs who started their career in Sales.
@@ -14,6 +14,7 @@ featured_image: /images/Top-10-CEOs-who-started-as-Sales-Reps.png
 isFeatured: false
 date: '2018-06-09T03:09:32+08:00'
 tags: ["Sales"]
+relatedWith : ["Why continuous training is important in sales?", "Use Micro-Learning to Turbo-Charge your Sales Team", "How Good Product Knowledge help Sales Teams to Sell Effectively"]
 ---
 
 A recent study presented by Frank Germann, assistant professor at Mendoza College of Business, found out that **more than 25% of CEOs in the world had a Marketing or Sales background.**  
