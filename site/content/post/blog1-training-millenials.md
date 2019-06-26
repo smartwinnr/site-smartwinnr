@@ -10,7 +10,8 @@ slug: "/2016/09/training-the-millenials"
 featured_image: /images/blog5.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Millennials"]
+tags: ["Training", "Millennials", "Gamification"]
+relatedBlogs : ["Microlearning- An effective way to train millennials", "5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits", "Ramp-up your New Hire by Using Pre-boarding Activities"]
 ---
 
 

@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "anchor" . }}
 <section class="primary first-section">
-  <div class="container ml-margin-top60">
+  <div class="ml-margin-top60">
     {{/* partial "breadcrumb" . */}}
     <div class="row" itemscope itemtype="http://schema.org/TechArticle">
       <div class="col-sm-12">
@@ -14,7 +14,9 @@
 
           </div>
           <div id="ml-article-body" class="col-sm-10 doc">
-            {{ partial "article_header" . }}
+            <div class="text-center">
+              {{ partial "article_header" . }}
+            </div>
             <h6 class="ml_body_text_black reading-time">{{ .ReadingTime }} minutes read</h6>
             {{ with .Params.featured_image }}<img class="ml-blog-page-image ml-margin-bottom20" center-align src="{{ . }}">{{ end }}
            <div class="row">
@@ -23,13 +25,84 @@
             <div class="col-sm-3">{{ partial "share" . }}</div> -->
             {{ end }}
             </div>
-            <!-- {{ partial "github" . }} -->
-            {{ partial "operating_systems" . }}
-            {{ partial "deprecated" . }}
-            {{ .Content }}
+            <!-- {{/* partial "github" . */}}
+            {{/* partial "operating_systems" . */}}
+            {{/* partial "deprecated" . */}} -->
+            <div class="row">
+              <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                {{ .Content }}
+                {{ $thisTitle := .Params.title }}
+              </div>
+              <!-- <div class=" "></div> -->
+              <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12 div_sticky">
+                <!-- <div class="row">
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Share Article</li>
+                    <li class="list-group-item text-center padding20">
+                      <a href=""> <img class="ml_share_icon" src="/images/share-icons/linkedin-icon.svg" alt=""> </a>
+                      <a href=""> <img class="ml_share_icon" src="/images/share-icons/twitter-icon.svg" alt=""> </a>
+                      <a href=""> <img class="ml_share_icon" src="/images/share-icons/facebook-icon.svg" alt=""> </a>
+                    </li>
+                  </ul>
+                </div> -->
+                
+                <div class="row">
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Related Categories</li>
+                    <li class="list-group-item">
+                      <a href="http://www.smartwinnr.com/tags/sales-training"><label for="" class="ml_blog_tag">Sales Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/training"><label for="" class="ml_blog_tag">Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/lms"><label for="" class="ml_blog_tag">LMS</label></a>
+                      <a href="http://www.smartwinnr.com/tags/millennials"><label for="" class="ml_blog_tag">Millennials</label></a>
+                      <a href="http://www.smartwinnr.com/tags/coaching"><label for="" class="ml_blog_tag">Coaching</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-contests"><label for="" class="ml_blog_tag">Sales Contests</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-effectiveness"><label for="" class="ml_blog_tag">Sales Effectiveness</label></a>
+                      <a href="http://www.smartwinnr.com/tags/gamification"><label for="" class="ml_blog_tag">Gamification</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-performance"><label for="" class="ml_blog_tag">Sales Performance</label></a>
+                      <a href="http://www.smartwinnr.com/tags/ramp-up"><label for="" class="ml_blog_tag">Ramp-up</label></a>
+                      <a href="http://www.smartwinnr.com/tags/pre-boarding"><label for="" class="ml_blog_tag">Pre-boarding</label></a>
+                      <a href="http://www.smartwinnr.com/tags/on-boarding"><label for="" class="ml_blog_tag">On-boarding</label></a>
+                      <a href="http://www.smartwinnr.com/tags/micro-learning"><label for="" class="ml_blog_tag">Micro-learning</label></a>
+                      <a href="http://www.smartwinnr.com/tags/salesforce.com"><label for="" class="ml_blog_tag">Salesforce.com</label></a>
+                      <a href="http://www.smartwinnr.com/tags/compliance-training"><label for="" class="ml_blog_tag">Compliance Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-training-games"><label for="" class="ml_blog_tag">Sales Training Games</label></a>
+                      <a href="http://www.smartwinnr.com/tags/new-product-launch"><label for="" class="ml_blog_tag">New Product Launch</label></a>
+                      <a href="http://www.smartwinnr.com/tags/knowledge-retention"><label for="" class="ml_blog_tag">Knowledge Retention</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales"><label for="" class="ml_blog_tag">Sales</label></a>
+                      <a href="http://www.smartwinnr.com/tags/employee-engagement"><label for="" class="ml_blog_tag">Employee Engagement</label></a>
+                      <a href="http://www.smartwinnr.com/tags/new-hire"><label for="" class="ml_blog_tag">New Hire</label></a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="row">
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Related Articles</li>
+                    <li class="list-group-item padding20">
+                      <ul>
+                        {{ $relatedArticles := .Params.relatedBlogs }}
+                      {{ $.Scratch.Set "relatedArticlesCount" 0 }}
+                      {{ range where .Site.Pages "Section" "post" }}
+                        {{ if in $relatedArticles .Params.Title }}
+                          {{ $.Scratch.Set "relatedArticlesCount" (add ($.Scratch.Get "relatedArticlesCount") 1) }}
+                          <li>
+                            <a href="{{ .Permalink }}" class="ml_display_block">{{ .Params.Title }}</a>
+                          </li>
+                        {{ end }}
+                      {{ end }}
+                      {{ if eq ($.Scratch.Get "relatedArticlesCount") 0 }}
+                        <span>No related articles yet</span>
+                      {{ end }}
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
             <div class="row ml-margin-top30 ml-margin-left10">
               <p class="ml_body_text_blue ml-font16 ml-padding-top10">Published on {{ .Date.Format "Mon Jan 2 2006" }}</p>
             </div>
+            
             {{/* partial "more" . */}}
             {{/* partial "related" . */}}
             {{ if and (getenv "HUGO_ENV") (ne .Params.comments false) }}
@@ -45,6 +118,28 @@
       </div>
     </div>
   </div>
+  <div class="ml_about_sm_in_blog padding50">
+    <div class="row text-center">
+      <h4>About SmartWinnr</h4>
+      <div class="ml-margin-top20 ml_padding_desktop">
+        <p>
+          SmartWinnr has helped sales based organizations with
+        </p>
+        <ul class="">
+          <li>
+            Continuous coaching to improve customer interactions
+          </li>
+          <li>
+            Sales contests and Gamified KPIs to boost sales revenue
+          </li>
+          <li>
+            AI-driven assessments and regular reinforcements to drive knowledge
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  {{ partial "why-choose-sm" . }}
 </section>
 <div class="modal fade" id="img-modal" tabindex="-1" role="dialog" aria-labelledby="imageModal" aria-hidden="true">
   <div class="modal-dialog modal-full">

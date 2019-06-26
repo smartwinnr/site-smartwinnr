@@ -1,5 +1,5 @@
 ---
-title: Accelerate Your Sales Performance Through Gamification
+title: "Accelerate Your Sales Performance Through Gamification"
 og_title: Accelerate Your Sales Performance Through Gamification
 description: Gamification is being used in every situation as a positive motivational tool. But did you know that gamification approach can really supercharge your sales team’s performance?
 og_description: Gamification is being used in every situation as a positive motivational tool. But did you know that gamification approach can really supercharge your sales team’s performance?
@@ -10,7 +10,8 @@ slug: "/2016/09/accelerate-your-sales"
 featured_image: /images/blog3.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Sales", "Gamification"]
+tags: ["Gamification", "Sales Performance", "Sales Training"]
+relatedBlogs : ["The Psychology of Sales Gamification", "Gamification and Employee Engagement: the Why and the How", "The Secrets of Running a Successful Sales Contest"]
 ---
 
 Over the past few years, gamification has become a much talked-about approach towards increasing engagement. From Nike’s Fuelband to My Starbucks Rewards, gamification is being used in every situation as a positive motivational tool. But did you know that gamification approach <a id="more"></a>can really supercharge your sales team’s performance? Let us see how.
