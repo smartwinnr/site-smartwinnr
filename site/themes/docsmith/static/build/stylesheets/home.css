@@ -24519,6 +24519,13 @@ img {
   .ml_top_container{
     padding: 20px !important;
   }
+  .ml_blog_tag {
+    font-size: 0.6rem !important;
+    margin-bottom: 2px !important;
+  }
+  .ml_list_group {
+    padding: 5px 10px !important;
+  }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   .ml-white-tile {
@@ -24894,7 +24901,7 @@ img {
     font-size: 1.5rem !important;
   }
   .ml_padding_desktop {
-    padding: 0 !important;
+    padding: 0 10% !important;
   }
 }
 
@@ -24908,7 +24915,7 @@ img {
     height: 200px !important;
   }
   .ml_padding_desktop {
-    padding: 0 !important;
+    padding: 0 10% !important;
   }
   .ml-subtext {
     padding: 0 3%;
@@ -25212,10 +25219,10 @@ img {
 }
 
 .ml_blog_tag {
-  background: #003f56 !important;
+  background: #6a67ce !important;
   color: #fff !important;
   padding: 2px 4px;
-  font-variant-caps: small-caps;
+  /* font-variant-caps: small-caps; */
   border-radius: 5px;
   font-size: 0.75rem;
 }
@@ -25228,4 +25235,9 @@ img {
 
 .ml_about_sm_in_blog {
   background: #f7f7f7 !important;
+}
+
+.div_sticky {
+  position : sticky !important;
+  top : 60px;
 }

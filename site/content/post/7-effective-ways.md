@@ -10,8 +10,8 @@ slug: "/2014/08/increase-sales-effectiveness"
 featured_image: /images/blog2.png
 isFeatured: false
 date: '2014-08-01T03:09:32+08:00'
-tags: ["Sales"]
-relatedWith : ["Why continuous training is important in sales?", "Accelerate Your Sales Performance Through Gamification", "Top 10 CEOs who started as Sales Reps"]
+tags: ["Sales Effectiveness", "Gamification"]
+relatedBlogs : ["Why continuous training is important in sales?", "Accelerate Your Sales Performance Through Gamification", "Top 10 CEOs who started as Sales Reps"]
 ---
 
 Every organization wants their sales people to be more effective - which means closing more sales in shorter time. But in most organizations, sales reps have to spend significant time doing administrative activities - valuable hours which could have been better spent selling to customers. <a id="more"></a>Sales reps are understandably not too happy about all these administrative tasks and information that they have to fill in different applications.

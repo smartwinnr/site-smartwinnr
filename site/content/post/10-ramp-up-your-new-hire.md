@@ -13,8 +13,8 @@ slug: "/ramp-up-new-hire-with-preboarding-activities"
 featured_image: "/images/10. ramp up your new hire by using pre-boarding activities.png"
 isFeatured: false
 date: '2018-07-24T03:09:32+08:00'
-tags: ["Pre-boarding"]
-relatedWith : ["5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits"]
+tags: ["Ramp-up", "Pre-boarding", "New Hire"]
+relatedBlogs : ["5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits"]
 ---
 
 

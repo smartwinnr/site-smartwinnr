@@ -13,8 +13,8 @@ slug: "/5-reasons-your-sales-training-is-failing"
 featured_image: /images/blog-7.png
 isFeatured: false
 date: '2018-04-30T03:09:32+08:00'
-tags: ["Sales", "Sales-Training"]
-relatedWith : ["Is Your Sales Training Not Delivering? These 5 Strategies Will Change That", "7 Effective Ways to Increase Sales Effectiveness", "Why continuous training is important in sales?", "Ways to Challenge the Forgetting Curve", "Use Micro-Learning to Turbo-Charge your Sales Team"]
+tags: ["Sales Training", "Sales Effectiveness", "Sales Performance"]
+relatedBlogs : ["Is Your Sales Training Not Delivering? These 5 Strategies Will Change That", "7 Effective Ways to Increase Sales Effectiveness", "Why continuous training is important in sales?", "Ways to Challenge the Forgetting Curve", "Use Micro-Learning to Turbo-Charge your Sales Team"]
 ---
 
 Companies are spending billions of dollars to train their sales team. However, we often find our customers at SmartWinnr complain that they have little clarity on the effectiveness of sales training and find it difficult to correlate sales training with actual performance. This seems to be a pervasive problem.  

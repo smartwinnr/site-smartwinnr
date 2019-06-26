@@ -13,8 +13,8 @@ slug: "/2017/12/3-insights"
 featured_image: /images/blog1.png
 isFeatured: false
 date: '2017-12-07T15:14:32+08:00'
-tags: ["Cognitive-Science"]
-relatedWith : ["7 Sales Training Games that actually boost your sales team’s skills", "5 Ways to make Compliance Training Fun and Engaging", "Microlearning as a supplement for LMS"]
+tags: ["Training", "Knowledge Retention"]
+relatedBlogs : ["7 Sales Training Games that actually boost your sales team’s skills", "5 Ways to make Compliance Training Fun and Engaging", "Microlearning as a supplement for LMS"]
 ---
 
 Every day we come across instances when we need our team to remember information to do their jobs effectively. Sales representatives have to remember tons of features of the many products they sell. Bank tellers have to remember the different steps to successfully identify a suspicious large currency transaction. Any knowledge-intensive job requires people to retain crucial information and apply them in different situations.

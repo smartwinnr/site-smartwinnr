@@ -10,8 +10,8 @@ slug: "/2016/09/sales-training-not-delivering"
 featured_image: /images/blog6.png
 isFeatured: false
 date: '2016-09-22T03:09:32+08:00'
-tags: ["Sales", "Sales-Training"]
-relatedWith : ["5 Reasons Your Sales Training Is Failing", "7 Effective Ways to Increase Sales Effectiveness", "Why continuous training is important in sales?", "Ways to Challenge the Forgetting Curve", "Use Micro-Learning to Turbo-Charge your Sales Team"]
+tags: ["Sales Training", "Sales Effectiveness", "Gamification"]
+relatedBlogs : ["5 Reasons Your Sales Training Is Failing", "7 Effective Ways to Increase Sales Effectiveness", "Why continuous training is important in sales?", "Ways to Challenge the Forgetting Curve", "Use Micro-Learning to Turbo-Charge your Sales Team"]
 ---
 
 

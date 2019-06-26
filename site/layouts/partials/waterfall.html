@@ -16,7 +16,7 @@
         <div class="ml-featured-card">
           <div class="ml-featured-card-header">
             {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
-            <a class="ml-featured-card-title" href="http://10.13.7.196:3000/post{{ .Slug }}">{{ .Title }}</a>
+            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
             <!-- <div class="row">
               <div class="col-sm-6 col-md-6">
                 <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
@@ -71,18 +71,36 @@
                 </div>
                 <div class="row">
                   <!-- <img class="ml-subscribe-image" src="/images/undraw_newsletter_vovu.svg" alt=""> -->
-                  <ul class="ml_list_group list-group">
+                  <!-- <ul class="ml_list_group list-group">
                     <li class="list-group-item">Categories</li>
                     <li class="list-group-item">Sales</li>
                     <li class="list-group-item">KPIs</li>
-                  </ul>
+                  </ul> -->
 
                   <ul class="ml_list_group list-group">
-                    <li class="list-group-item">Tags</li>
+                    <li class="list-group-item">Related Categories</li>
                     <li class="list-group-item">
-                      <label for="" class="ml_blog_tag">Onboarding</label>
-                      <label for="" class="ml_blog_tag">Sales-Training</label>
-                      <label for="" class="ml_blog_tag">Employee-Engagement</label>
+                      <a href="http://www.smartwinnr.com/tags/sales-training"><label for="" class="ml_blog_tag">Sales Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/training"><label for="" class="ml_blog_tag">Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/lms"><label for="" class="ml_blog_tag">LMS</label></a>
+                      <a href="http://www.smartwinnr.com/tags/millennials"><label for="" class="ml_blog_tag">Millennials</label></a>
+                      <a href="http://www.smartwinnr.com/tags/coaching"><label for="" class="ml_blog_tag">Coaching</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-contests"><label for="" class="ml_blog_tag">Sales Contests</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-effectiveness"><label for="" class="ml_blog_tag">Sales Effectiveness</label></a>
+                      <a href="http://www.smartwinnr.com/tags/gamification"><label for="" class="ml_blog_tag">Gamification</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-performance"><label for="" class="ml_blog_tag">Sales Performance</label></a>
+                      <a href="http://www.smartwinnr.com/tags/ramp-up"><label for="" class="ml_blog_tag">Ramp-up</label></a>
+                      <a href="http://www.smartwinnr.com/tags/pre-boarding"><label for="" class="ml_blog_tag">Pre-boarding</label></a>
+                      <a href="http://www.smartwinnr.com/tags/on-boarding"><label for="" class="ml_blog_tag">On-boarding</label></a>
+                      <a href="http://www.smartwinnr.com/tags/micro-learning"><label for="" class="ml_blog_tag">Micro-learning</label></a>
+                      <a href="http://www.smartwinnr.com/tags/salesforce.com"><label for="" class="ml_blog_tag">Salesforce.com</label></a>
+                      <a href="http://www.smartwinnr.com/tags/compliance-training"><label for="" class="ml_blog_tag">Compliance Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-training-games"><label for="" class="ml_blog_tag">Sales Training Games</label></a>
+                      <a href="http://www.smartwinnr.com/tags/new-product-launch"><label for="" class="ml_blog_tag">New Product Launch</label></a>
+                      <a href="http://www.smartwinnr.com/tags/knowledge-retention"><label for="" class="ml_blog_tag">Knowledge Retention</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales"><label for="" class="ml_blog_tag">Sales</label></a>
+                      <a href="http://www.smartwinnr.com/tags/employee-engagement"><label for="" class="ml_blog_tag">Employee Engagement</label></a>
+                      <a href="http://www.smartwinnr.com/tags/new-hire"><label for="" class="ml_blog_tag">New Hire</label></a>
                     </li>
                   </ul>
                 </div>
@@ -154,7 +172,7 @@
           <div class="card-content">
             <article class="article">
               {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
-              <a class="ml_body_text_blue ml-blog-tag" href="http://10.13.7.196:3000/post{{ .Slug }}">read more</a>
+              <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a>
               {{ end }}
             </article>
 

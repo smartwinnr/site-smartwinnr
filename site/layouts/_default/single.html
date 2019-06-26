@@ -34,8 +34,8 @@
                 {{ $thisTitle := .Params.title }}
               </div>
               <!-- <div class=" "></div> -->
-              <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12">
-                <div class="row">
+              <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12 div_sticky">
+                <!-- <div class="row">
                   <ul class="ml_list_group list-group">
                     <li class="list-group-item">Share Article</li>
                     <li class="list-group-item text-center padding20">
@@ -44,23 +44,56 @@
                       <a href=""> <img class="ml_share_icon" src="/images/share-icons/facebook-icon.svg" alt=""> </a>
                     </li>
                   </ul>
+                </div> -->
+                
+                <div class="row">
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Related Categories</li>
+                    <li class="list-group-item">
+                      <a href="http://www.smartwinnr.com/tags/sales-training"><label for="" class="ml_blog_tag">Sales Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/training"><label for="" class="ml_blog_tag">Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/lms"><label for="" class="ml_blog_tag">LMS</label></a>
+                      <a href="http://www.smartwinnr.com/tags/millennials"><label for="" class="ml_blog_tag">Millennials</label></a>
+                      <a href="http://www.smartwinnr.com/tags/coaching"><label for="" class="ml_blog_tag">Coaching</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-contests"><label for="" class="ml_blog_tag">Sales Contests</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-effectiveness"><label for="" class="ml_blog_tag">Sales Effectiveness</label></a>
+                      <a href="http://www.smartwinnr.com/tags/gamification"><label for="" class="ml_blog_tag">Gamification</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-performance"><label for="" class="ml_blog_tag">Sales Performance</label></a>
+                      <a href="http://www.smartwinnr.com/tags/ramp-up"><label for="" class="ml_blog_tag">Ramp-up</label></a>
+                      <a href="http://www.smartwinnr.com/tags/pre-boarding"><label for="" class="ml_blog_tag">Pre-boarding</label></a>
+                      <a href="http://www.smartwinnr.com/tags/on-boarding"><label for="" class="ml_blog_tag">On-boarding</label></a>
+                      <a href="http://www.smartwinnr.com/tags/micro-learning"><label for="" class="ml_blog_tag">Micro-learning</label></a>
+                      <a href="http://www.smartwinnr.com/tags/salesforce.com"><label for="" class="ml_blog_tag">Salesforce.com</label></a>
+                      <a href="http://www.smartwinnr.com/tags/compliance-training"><label for="" class="ml_blog_tag">Compliance Training</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales-training-games"><label for="" class="ml_blog_tag">Sales Training Games</label></a>
+                      <a href="http://www.smartwinnr.com/tags/new-product-launch"><label for="" class="ml_blog_tag">New Product Launch</label></a>
+                      <a href="http://www.smartwinnr.com/tags/knowledge-retention"><label for="" class="ml_blog_tag">Knowledge Retention</label></a>
+                      <a href="http://www.smartwinnr.com/tags/sales"><label for="" class="ml_blog_tag">Sales</label></a>
+                      <a href="http://www.smartwinnr.com/tags/employee-engagement"><label for="" class="ml_blog_tag">Employee Engagement</label></a>
+                      <a href="http://www.smartwinnr.com/tags/new-hire"><label for="" class="ml_blog_tag">New Hire</label></a>
+                    </li>
+                  </ul>
                 </div>
+
                 <div class="row">
                   <ul class="ml_list_group list-group">
                     <li class="list-group-item">Related Articles</li>
                     <li class="list-group-item padding20">
-                    
-                      {{ $relatedArticles := .Params.relatedWith }}
+                      <ul>
+                        {{ $relatedArticles := .Params.relatedBlogs }}
                       {{ $.Scratch.Set "relatedArticlesCount" 0 }}
                       {{ range where .Site.Pages "Section" "post" }}
                         {{ if in $relatedArticles .Params.Title }}
                           {{ $.Scratch.Set "relatedArticlesCount" (add ($.Scratch.Get "relatedArticlesCount") 1) }}
-                          <a href="{{ .Permalink }}" class="ml_display_block">{{ .Params.Title }}</a>
+                          <li>
+                            <a href="{{ .Permalink }}" class="ml_display_block">{{ .Params.Title }}</a>
+                          </li>
                         {{ end }}
                       {{ end }}
                       {{ if eq ($.Scratch.Get "relatedArticlesCount") 0 }}
                         <span>No related articles yet</span>
                       {{ end }}
+                      </ul>
                     </li>
                   </ul>
                 </div>
@@ -89,7 +122,20 @@
     <div class="row text-center">
       <h4>About SmartWinnr</h4>
       <div class="ml-margin-top20 ml_padding_desktop">
-          Sales Leaders, HR Professionals, and C-Level Executives use Ambition to recognize, motivate, and develop employees into more engaged and productive versions of themselves. Funded by Google, used by the Fortune 500, endorsed by the Harvard Business Review.
+        <p>
+          SmartWinnr has helped sales based organizations with
+        </p>
+        <ul class="">
+          <li>
+            Continuous coaching to improve customer interactions
+          </li>
+          <li>
+            Sales contests and Gamified KPIs to boost sales revenue
+          </li>
+          <li>
+            AI-driven assessments and regular reinforcements to drive knowledge
+          </li>
+        </ul>
       </div>
     </div>
   </div>
