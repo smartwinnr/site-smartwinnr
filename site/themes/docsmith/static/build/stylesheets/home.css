@@ -24407,7 +24407,7 @@ img {
 } */
 .ml-button {
     margin-top: 10px !important;
-    color: #fff;
+    color: #fff !important;
     font-size: .875em;
     text-transform: uppercase;
     letter-spacing: .05em;
