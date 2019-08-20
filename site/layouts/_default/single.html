@@ -45,6 +45,29 @@
                     </li>
                   </ul>
                 </div> -->
+
+                <div class="row">
+                  <ul class="ml_list_group list-group">
+                    <li class="list-group-item">Related Articles</li>
+                    <li class="list-group-item padding20">
+                      <ul>
+                        {{ $relatedArticles := .Params.relatedBlogs }}
+                      {{ $.Scratch.Set "relatedArticlesCount" 0 }}
+                      {{ range where .Site.Pages "Section" "post" }}
+                        {{ if in $relatedArticles .Params.Title }}
+                          {{ $.Scratch.Set "relatedArticlesCount" (add ($.Scratch.Get "relatedArticlesCount") 1) }}
+                          <li>
+                            <a href="{{ .Permalink }}" class="ml_display_block">{{ .Params.Title }}</a>
+                          </li>
+                        {{ end }}
+                      {{ end }}
+                      {{ if eq ($.Scratch.Get "relatedArticlesCount") 0 }}
+                        <span>No related articles yet</span>
+                      {{ end }}
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
                 
                 <div class="row">
                   <ul class="ml_list_group list-group">
@@ -75,7 +98,7 @@
                   </ul>
                 </div>
 
-                <div class="row">
+                <!-- <div class="row">
                   <ul class="ml_list_group list-group">
                     <li class="list-group-item">Related Articles</li>
                     <li class="list-group-item padding20">
@@ -96,7 +119,7 @@
                       </ul>
                     </li>
                   </ul>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="row ml-margin-top30 ml-margin-left10">
