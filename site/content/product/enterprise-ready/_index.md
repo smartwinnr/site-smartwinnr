@@ -6,5 +6,253 @@ description: 'SmartWinnr is enterprise-ready. It provides high availability and 
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
+type: ml_layout
+layout: ml_layout
 title: Enterprise Ready
 ---
+
+<section>
+  <div class="ml-start">
+    <div class="row ml_top_container ml-margin-bottom0">
+      <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
+        <h1>SmartWinnr is the preferred choice for large enterprises</h1>
+        <h3>With its enterprise-grade security and features, SmartWinnr is used by some of the world's largest enterprises. including those in highly regulated industries.</h3>
+        <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
+      </div>
+      <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+        <img class="ml-image" alt="Image" src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/enterprise_ready.svg"/>
+      </div>
+    </div>
+  </div>
+</section>
+  <section class="ml-background-white">
+    <div class="ml-container ml-background-wave">
+      <div class="row ml-margin-bottom0">
+        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-centered" align="center">
+          <h1>Built for the modern enterprises</h1>
+        </div>
+        <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 padding80">
+          <div class="row ml-margin-bottom20">
+            <div class="col-lg-2 col-md-2 text-center padding30">
+              <span class="icon-expand ml-icon-blue"></span>
+            </div>
+            <div class="col-lg-10 col-md-10">
+              <h2 class="ml-title-adjustable">High Availability and Scalability</h2>
+              <div class="ml-subtext">
+                SmartWinnr is powered by Amazon Web Services (AWS), the industry leader in cloud infrastructure. This ensures the highest level of availability. We take periodic snapshots of our database so that in the unlikely event of AWS failure, the system can be quickly restored in another region. The system scales automatically based on load, thus assuring a highly scalable solution even under high concurrent user load.
+              </div>
+            </div>
+          </div>
+          <div class="row ml-margin-bottom20">
+            <div class="col-lg-2 col-md-2 text-center padding30">
+              <span class="icon-shield-check ml-icon-blue"></span>
+            </div>
+            <div class="col-lg-10 col-md-10">
+              <h2 class="ml-title-adjustable">Enterprise-grade Security</h2>
+              <div class="ml-subtext">
+                SmartWinnr’s technology stack has multiple in-built safeguards to protect your data and privacy. All web connections to the SmartWinnr service are via TLS 1.0 and above. Our database in AWS is fully encrypted. Thus your data is encrypted both at rest and in motion. We currently host data in secure SSAE 16 audited data centers, complying to best-in-class security standards. We regularly perform security audits and penetration testing to ensure system security integrity.
+              </div>
+            </div>
+          </div>
+          <div class="row ml-margin-bottom20">
+            <div class="col-lg-2 col-md-2 text-center padding30">
+              <span class="icon-resize-handle ml-icon-blue"></span>
+            </div>
+            <div class="col-lg-10 col-md-10">
+              <h2 class="ml-title-adjustable">Customized Branding</h2>
+              <div class="ml-subtext">
+                SmartWinnr app and admin portal can be fully customized with your brand elements to provide users with the same look and feel as they see in your own corporate environment.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="ml-whySM">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12">
+          <h1 class="ml_body_text_white text-center">Enterprise Security</h1>
+          <p class="ml_body_text_white text-center">Read our Security White Paper.</p>
+          <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="https://s3-eu-west-1.amazonaws.com/content.smartwinnr.com/SmartWinnr+Information+Security+Whitepaper.pdf" target="_blank">Download Security White Paper</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- <div class="ml-this-tile padding50">
+    <div class="ml-container row">
+      <div class="col-md-6 col-sm-12">
+        <h1 class="text-center ml-bold-text">SmartWinnr is the preferred choice for large enterprises</h1>
+        <h2 class="ml-desc-text">
+          <i>
+            With its enterprise-grade security and features, SmartWinnr is used by some of the world's largest enterprises. including those in highly regulated industries.
+          </i>
+        </h2>
+        <p align="center"><a class="ml-button-blue" href="/request-demo">Request demo</a></p>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <img src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/enterprise_ready.svg" class="img-responsive center-block ml_width_60" />
+      </div>
+    </div>
+  </div> -->
+  <!-- <div class="ml-green-tile padding30">
+    <div class="ml-container row">
+      <h1 class="ml-title">Built for the modern enterprises</h1>
+      <p>
+        High availability, enterprise-grade security, and easy integration options ensure that you can deploy SmartWinnr with zero hassle.
+      </p>
+    </div>
+  </div> -->
+  <!-- <div class="ml-container">
+   <div class="row">
+       <div class="col-md-4 col-sm-4 text-center">
+         <div class="single-features">
+           <img alt="" class="ml-sideimage" src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/scalability.svg" /></div>
+       </div>
+       <div class="col-md-8 col-sm-8">
+         <div class="single-features">
+           <h2 class="ml-title-blue">High Availability and Scalability</h2>
+           <p class="ml_body_text_black">
+             SmartWinnr is powered by Amazon Web Services (AWS), the industry leader in cloud infrastructure. This ensures the highest level of availability. We take periodic snapshots of our database so that in the unlikely event of AWS failure, the system can be quickly restored in another region. The system scales automatically based on load, thus assuring a highly scalable solution even under high concurrent user load.
+           </p>
+          </div>
+       </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 col-sm-8">
+        <div class="single-features">
+          <h2 class="ml-title-blue">Enterprise-grade Security</h2>
+          <p class="ml_body_text_black">
+            SmartWinnr’s technology stack has multiple in-built safeguards to protect your data and privacy. All web connections to the SmartWinnr service are via TLS 1.0 and above. Our database in AWS is fully encrypted. Thus your data is encrypted both at rest and in motion. We currently host data in secure SSAE 16 audited data centers, complying to best-in-class security standards. We regularly perform security audits and penetration testing to ensure system security integrity.
+          </p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 text-center">
+        <div class="single-features">
+          <img alt="" class="ml-sideimage" src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/enterprise_security.svg" /></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-sm-4 text-center">
+        <div class="single-features">
+          <img alt="" class="ml-sideimage" src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/customized_branding.svg" /></div>
+      </div>
+      <div class="col-md-8 col-sm-8">
+        <div class="single-features">
+          <h2 class="ml-title-blue">Customized Branding</h2>
+          <p class="ml_body_text_black">
+            SmartWinnr app and admin portal can be fully customized with your brand elements to provide users with the same look and feel as they see in your own corporate environment.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- <div class="ml-green-tile padding30">
+    <div class="ml-container row">
+      <div class="col-sm-7">
+        <h1 class="ml-title">Enterprise Security</h1>
+        <p>Read our Security White Paper.</p>
+      </div>
+      <div class="col-sm-5 padding30">
+        <p align="center"><a class="ml-button-nav" href="https://s3-eu-west-1.amazonaws.com/content.smartwinnr.com/SmartWinnr+Information+Security+Whitepaper.pdf" target="_blank">Download Security White Paper</a></p>
+      </div>
+    </div>
+  </div> -->
+<img class="swoop" src="/images/swoop_mask.min.svg">
+<section>
+  <div class="ml-container ml-background-white ml-padding-bottom30" id="enterprisefeatures">
+    <div class="row text-center">
+      <h1 class="ml-title">Features for Enterprises</h1>
+    </div>
+    <!-- Product Features Row 1 -->
+    <div class="row ml-prodfeaturerow padding30">
+      <h2 class="ml-title text-center">Scalable Architecture</h2>
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-clock3 ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Availability</p>
+          <p class="ml_body_text_black">SmartWinnr is deployed on AWS. S3 Standard is designed for 99.99% availability and Standard - IA is designed for 99.9% availability.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-expand ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Scalability</p>
+          <p class="ml_body_text_black">The SmartWinnr system scales automatically based on load, thus assuring a highly scalable solution even under high concurrent user load.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-database-add ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Backup Management</p>
+          <p class="ml_body_text_black">We take regular snapshots of data volumes and store in Amazon S3. We periodically restore backups to check the integrity of the backed-up data.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-database-refresh ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Disaster Recovery</p>
+          <p class="ml_body_text_black">We store the image of the EC2 instances in Amazon S3 as an AMI (Amazon Machine Image). In the unlikely case of an availability zone being down due to any major event, we can create new instances of the EC2 servers from the AMI and we can attach the data from the snapshot to create a fully restored, functional application.</p>
+        </div>
+      </div>
+    </div>
+    <!-- Product Features Row 2 -->
+    <div class="row ml-prodfeaturerow padding30">
+      <h2 class="text-center">Security</h2>
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-lock ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Data Center Security</p>
+          <p class="ml_body_text_black">Data Center Security
+             Amazon employs a robust physical security program with multiple certifications, including an SSAE 16 certification. For more information on Amazon’s physical security processes, please visit <a>aws.amazon.com/security</a>.
+         </p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-key ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Encrypted Transactions - Data at Rest</p>
+          <p class="ml_body_text_black">All application data are stored in encrypted AWS EBS volumes. Data at Rest is encrypted.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-shield-check ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Encrypted Transactions - Data in Motion</p>
+          <p class="ml_body_text_black">All communications with the backend servers are encrypted with HTTPS. The connection uses TLS1.2. We support forward secrecy and AES-GCM, and prohibit insecure connections.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-link2 ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Single Sign On</p>
+          <p class="ml_body_text_black">Users can login to our apps through single sign on through your enterprise LDAP/Active Directory.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-license2 ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Authentication</p>
+          <p class="ml_body_text_black">Users can login to the SmartWinnr application only on successful authentication. Enterprise can set their own rules regarding password complexity etc.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-users2 ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Authorization</p>
+          <p class="ml_body_text_black">Users get access to system resources through defined roles. Access to information in the system follow the principle of least privilege.</p>
+        </div>
+      </div>
+    </div>
+    <!-- Product Features Row 3 -->
+    <div class="row ml-prodfeaturerow padding30 ml-no-border-bottom">
+      <h2 class="text-center">Integrations</h2>
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-cloud ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">ERP Integration - Salesforce.com</p>
+          <p class="ml_body_text_black">We provide custom API's for direct access between SmartWinnr and Salesforce.com. Our API provides full access to all of our core datatypes, giving you full flexibility to implement whatever integration makes most sense for your business.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-cog ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">Integration with Other 3rd Party Systems</p>
+          <p class="ml_body_text_black">We provide a robust, secure, modern RESTful web services API, allowing you to easily automate data transfers to other third-party systems.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
+          <span class="icon-lan ml-icon-blue"></span>
+          <p class="ml-bold-text text-center">LDAP/Active Directory Integration</p>
+          <p class="ml_body_text_black">SmartWinnr is fully integrated with LDAP/Active Directory for seamless authentication and authorization.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
