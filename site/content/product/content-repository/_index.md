@@ -24,11 +24,11 @@ title: Content Repository
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartfeeds.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - Home page.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1> KHub </h1>
-    <h3 class="ml-margin-bottom10">Product videos, installation manuals, service manuals, sales decks, training videos -  you name it. With KHub the right content is just a **search** away. Upload your documents on SmartWinnr and your sales reps can access them from the mobile app anytime, anywhere.</h3>
+    <h3 class="ml-margin-bottom10">Product videos, installation manuals, service manuals, sales decks, training videos -  you name it. With KHub the right content is just a <strong>search</strong> away. Upload your documents on SmartWinnr and your sales reps can access them from the mobile app anytime, anywhere.</h3>
   </div>
 </div>
 
@@ -38,13 +38,13 @@ title: Content Repository
     <h3 class="ml-margin-bottom10">Are your documents in different languages? Upload documents in different languages for teams from different countries.</h3>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartquizzes.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - List view.png"/>
   </div>
 </div>
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartpaths.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - Home page.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1> Intelligent Search </h1>
@@ -58,7 +58,7 @@ title: Content Repository
     <h3 class="ml-margin-bottom10">SmartWinnr provides offline access of these documents. But only for documents that you select. It won’t eat up more space in your phone than what’s needed.</h3>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartquizzes.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - Folders.png"/>
   </div>
 </div>
 

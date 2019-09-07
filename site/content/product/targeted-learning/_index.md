@@ -70,8 +70,20 @@ title: Targeted Learning
     </ul>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/report.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/extensive-report.png"/>
   </div>
+</div>
+
+
+<div class="row ml-margin0 padding50">
+  <h2>Related Blogs</h2>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/" alt="Why continuous training is important in sales?">Why continuous training is important in sales?</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/microlearning-as-a-supplement-for-lms/" alt="Microlearning as a supplement for LMS">Microlearning as a supplement for LMS</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/microlearning-an-effective-way-to-train-millennials/" alt="Microlearning- An effective way to train millennials">Microlearning- An effective way to train millennials</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/ways-to-challenge-the-forgetting-curve/" alt="Ways to Challenge the Forgetting Curve">Ways to Challenge the Forgetting Curve</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/does-good-product-knowledge-help-sales-teams-to-sell-effectively/" alt="How Good Product Knowledge help Sales Teams to Sell Effectively">How Good Product Knowledge help Sales Teams to Sell Effectively</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/how-can-adaptive-learning-help-in-driving-effective-compliance-trainings/" alt="How can Adaptive Learning Help in driving Effective Compliance Trainings?">How can Adaptive Learning Help in driving Effective Compliance Trainings?</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/use-micro-learning-to-turbo-charge-your-sales-team/" alt="Use Micro-Learning to Turbo-Charge your Sales Team">Use Micro-Learning to Turbo-Charge your Sales Team</h4>
 </div>
 
 <div class="row ml-margin0 ml-whySM">

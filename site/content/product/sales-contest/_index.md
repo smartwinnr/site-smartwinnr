@@ -24,48 +24,22 @@ title: Sales Contest
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartfeeds.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/Final - Individual challenge.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1> On-the-job Coaching </h1>
-    <h3 class="ml-margin-bottom10">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the entire process by doing baseline assessments, setting coaching goals for joint field visits, and providing crucial feedback to their sales rep.</h3>
-    <h4 class="ml-margin-top30">Benefits</h4>
-    <ul class="ml_font_1_point_two">
-      <li class="ml-margin-top10">Ensures a systematic approach to developing your sales teams</li>
-      <li class="ml-margin-top10">Increases call effectiveness and drives productivity</li>
-      <li class="ml-margin-top10">Provides helpful qualitative data to the sales training team</li>
-    </ul>
+    <h1> Increase Productivity Through Sales Contest </h1>
+    <h5 class="ml-margin-bottom10">Most sales organizations run sales contests in some form or the other - it can be a monthly or quarterly contest on different KPIs (Key Performance Indicators) or activities leading to KPIs. You have a large team, there is a lot of tedious excel calculations involved, so the results get published maybe only once a week. And everyone loses interest.</h5>
+    <h5 class="ml-margin-bottom10">Introducing you to the world of SmartWinnr Sales Contests. You can run several contests for different teams with different KPIs, at the same time. If you have a seasonal business, change the KPIs as it fits your objectives.</h5>
+    <h5 class="ml-margin-bottom10">Use a seamless integration to your CRM to pull the KPI data or upload through excel. Calculations happen immediately through automated scoring rules, while the results are available at real-time on the mobile apps to your sales teams.</h5>
   </div>
 </div>
 
 <div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1> Video Coaching </h1>
-    <h3 class="ml-margin-bottom10">Practice makes it perfect. SmartWinnr provides the perfect channel for your sales teams to practice their sales pitch in a supportive environment. It can be on talking about a new product, training your new hires, handling price objections, facing difficult situations, taking over an account and more. You pick a scenario and your sales team records their videos on the phone and sends it to you through SmartWinnr. You review each video, provide helpful feedback and share the best videos with everyone.</h3>
-    <h4 class="ml-margin-top30">Especially helpful in</h4>
-    <ul class="ml_font_1_point_two">
-      <li class="ml-margin-top10">Quick ramp up of new hires in having conversations with customers</li>
-      <li class="ml-margin-top10">Training for a new product or service launch</li>
-      <li class="ml-margin-top10">Your continuous training strategy</li>
-    </ul>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartquizzes.png"/>
-  </div>
-</div>
-
-<div class="row ml-margin0 padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartpaths.png"/>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1> SmartWinnr Coaching Framework </h1>
-    <h5 class="ml-margin-bottom10"><strong>Practice:</strong> Practice makes a pitch perfect. Sellers can record their pitch and preview it until it comes out perfect. Once they are confident, they can upload the video from the SmartWinnr app in just one click.</h5>
-    <h5 class="ml-margin-bottom10"><strong>Assess:</strong> Videos are assessed based on a structured competency framework. Managers and coaches can give qualitative and quantitative feedback to improve messaging.</h5>
-    <h5 class="ml-margin-bottom10"><strong>Gamify:</strong> Gamify your coaching using live leaderboards. Create team competitions to further increase engagement and learning.</h5>
-    <h5 class="ml-margin-bottom10"><strong>Share:</strong> Share best videos with your team to drive best practices. Preserve top videos as future learning reference.</h5>
-    <h5 class="ml-margin-bottom10"><strong>Experience the Same Video Technology that Drives Amazon Prime</strong><br><br> Poor internet speed? Unreliable network? No problem. SmartWinnr uses the same technology that drives Amazon Prime by splitting your video into short segments. You don’t have to wait for the entire video to download to start viewing. Depending on your network speed, we automatically serve appropriate video resolution. The result - smooth viewing in any device, anywhere.</h5>
-  </div>
+  <h2>Related Blogs</h2>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/secrets-of-running-successful-sales-contest/" alt="Sales Contest Part 1: The Secrets of Running a Successful Sales Contest">Sales Contest Part 1: The Secrets of Running a Successful Sales Contest</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/" alt="Sales Contest Part 2: How to design Sales Contest for a New Product Launch">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/9-proven-sales-contests-that-drive-productivity/" alt="Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity">Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity</h4>
+  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-incentive-ideas-to-keep-your-sales-team-motivated/" alt="11 Sales incentive ideas to keep your sales team motivated">11 Sales incentive ideas to keep your sales team motivated</h4>
 </div>
 
 <div class="row ml-margin0 ml-whySM">

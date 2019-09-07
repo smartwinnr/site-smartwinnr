@@ -25,7 +25,7 @@ title: Gamification
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartfeeds.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/gamification/Final - Individual leaderboard.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1> Competitions </h1>
@@ -39,7 +39,7 @@ title: Gamification
     <h3 class="ml-margin-bottom10">Easily track the performance of the reps and their overall sales readiness with our visual and highly intuitive leaderboards. These leaderboards help in tracking progress across various activities.</h3>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartquizzes.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/gamification/Final - Quiz leaderboard.png"/>
   </div>
 </div>
 

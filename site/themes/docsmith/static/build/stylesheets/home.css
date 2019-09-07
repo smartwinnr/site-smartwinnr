@@ -25114,7 +25114,7 @@ img {
   transition: all 0.3s ease; */
   margin-top: 10px !important;
   background: #5951ff !important;
-  color: #fff;
+  color: #fff !important;
   font-size: .875em;
   text-transform: uppercase;
   letter-spacing: .05em;
