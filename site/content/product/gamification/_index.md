@@ -15,7 +15,7 @@ title: Gamification
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
     <h1>Gamification</h1>
     <h3>Engage and motivate to boost performance.</h3>
-    <h5>Be it learning or performance, gamification plays an important role in increasing engagement of your sales teams. Use SmartWinnr’s ready-made gamification mechanisms like competitions, leaderboards, challenges, badges and levels to introduce gamification into their day-to-day activities.</h5>
+    <h4>Be it learning or performance, gamification plays an important role in increasing engagement of your sales teams. Use SmartWinnr’s ready-made gamification mechanisms like competitions, leaderboards, challenges, badges and levels to introduce gamification into their day-to-day activities.</h4>
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">

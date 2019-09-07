@@ -28,18 +28,20 @@ title: Sales Contest
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1> Increase Productivity Through Sales Contest </h1>
-    <h5 class="ml-margin-bottom10">Most sales organizations run sales contests in some form or the other - it can be a monthly or quarterly contest on different KPIs (Key Performance Indicators) or activities leading to KPIs. You have a large team, there is a lot of tedious excel calculations involved, so the results get published maybe only once a week. And everyone loses interest.</h5>
-    <h5 class="ml-margin-bottom10">Introducing you to the world of SmartWinnr Sales Contests. You can run several contests for different teams with different KPIs, at the same time. If you have a seasonal business, change the KPIs as it fits your objectives.</h5>
-    <h5 class="ml-margin-bottom10">Use a seamless integration to your CRM to pull the KPI data or upload through excel. Calculations happen immediately through automated scoring rules, while the results are available at real-time on the mobile apps to your sales teams.</h5>
+    <h4 class="ml-margin-bottom10">Most sales organizations run sales contests in some form or the other - it can be a monthly or quarterly contest on different KPIs (Key Performance Indicators) or activities leading to KPIs. You have a large team, there is a lot of tedious excel calculations involved, so the results get published maybe only once a week. And everyone loses interest.</h4>
+    <h4 class="ml-margin-bottom10">Introducing you to the world of SmartWinnr Sales Contests. You can run several contests for different teams with different KPIs, at the same time. If you have a seasonal business, change the KPIs as it fits your objectives.</h4>
+    <h4 class="ml-margin-bottom10">Use a seamless integration to your CRM to pull the KPI data or upload through excel. Calculations happen immediately through automated scoring rules, while the results are available at real-time on the mobile apps to your sales teams.</h4>
   </div>
 </div>
 
 <div class="row ml-margin0 white padding50">
-  <h2>Related Blogs</h2>
-  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/secrets-of-running-successful-sales-contest/" alt="Sales Contest Part 1: The Secrets of Running a Successful Sales Contest">Sales Contest Part 1: The Secrets of Running a Successful Sales Contest</h4>
-  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/" alt="Sales Contest Part 2: How to design Sales Contest for a New Product Launch">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</h4>
-  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/9-proven-sales-contests-that-drive-productivity/" alt="Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity">Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity</h4>
-  <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-incentive-ideas-to-keep-your-sales-team-motivated/" alt="11 Sales incentive ideas to keep your sales team motivated">11 Sales incentive ideas to keep your sales team motivated</h4>
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <h2>Related Blogs</h2>
+    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/secrets-of-running-successful-sales-contest/" alt="Sales Contest Part 1: The Secrets of Running a Successful Sales Contest">Sales Contest Part 1: The Secrets of Running a Successful Sales Contest</h4>
+    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/" alt="Sales Contest Part 2: How to design Sales Contest for a New Product Launch">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</h4>
+    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/9-proven-sales-contests-that-drive-productivity/" alt="Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity">Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity</h4>
+    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-incentive-ideas-to-keep-your-sales-team-motivated/" alt="11 Sales incentive ideas to keep your sales team motivated">11 Sales incentive ideas to keep your sales team motivated</h4>
+  </div>
 </div>
 
 <div class="row ml-margin0 ml-whySM">
