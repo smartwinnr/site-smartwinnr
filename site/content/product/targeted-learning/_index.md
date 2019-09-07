@@ -18,13 +18,13 @@ title: Targeted Learning
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <img class="ml_top_image padding10" alt="Image" src="/images/targeted-microlearning/targeted-learning.png"/>
+    <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/>
   </div>
 </div>
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-microlearning/smartfeeds.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartfeeds.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1> SmartFeeds </h1>
@@ -43,13 +43,13 @@ title: Targeted Learning
     <p>Let SmartWinnr’s powerful AI take over for a personalised approach. SmartQuizzes select questions for every sales person in your team, depending on their individual areas of strength and areas of improvements. This approach is helpful when you want to drive readiness for a new product launch, or new hire training.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-microlearning/smartquizzes.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartquizzes.png"/>
   </div>
 </div>
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-microlearning/smartpaths.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartpaths.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1> SmartPaths </h1>
@@ -70,7 +70,7 @@ title: Targeted Learning
     </ul>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-microlearning/report.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/report.png"/>
   </div>
 </div>
 
