@@ -24973,6 +24973,7 @@ img {
 .ml-dreamforce-image {
   width: auto;
   height: 400px;
+  max-width: 100%;
 }
 
 .ml-horizontal-line {
