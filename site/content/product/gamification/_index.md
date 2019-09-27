@@ -14,7 +14,7 @@ title: Gamification
 <div class="row ml-margin0 white padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
     <h1>Gamification</h1>
-    <h3>Engage and motivate to boost performance.</h3>
+    <div class="ml-font20 ml_body_text_black">Engage and motivate to boost performance.</div>
     <h4>Be it learning or performance, gamification plays an important role in increasing engagement of your sales teams. Use SmartWinnr’s ready-made gamification mechanisms like competitions, leaderboards, challenges, badges and levels to introduce gamification into their day-to-day activities.</h4>
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
@@ -28,15 +28,15 @@ title: Gamification
     <img class="ml-dreamforce-image" alt="Image" src="/images/gamification/Final - Individual leaderboard.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1> Competitions </h1>
-    <h3 class="ml-margin-bottom10">With the SmartWinnr app, you can create virtual competitions between individual reps or teams. This helps in motivating your reps to improve their performance.</h3>
+    <h1 class="ml_body_text_black"> Competitions </h1>
+    <h4 class="ml_body_text_black ml-margin-bottom10">With the SmartWinnr app, you can create virtual competitions between individual reps or teams. This helps in motivating your reps to improve their performance.</h4>
   </div>
 </div>
 
 <div class="row ml-margin0 white padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1> Leaderboard </h1>
-    <h3 class="ml-margin-bottom10">Easily track the performance of the reps and their overall sales readiness with our visual and highly intuitive leaderboards. These leaderboards help in tracking progress across various activities.</h3>
+    <h1 class="ml_body_text_black"> Leaderboard </h1>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Easily track the performance of the reps and their overall sales readiness with our visual and highly intuitive leaderboards. These leaderboards help in tracking progress across various activities.</h4>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-dreamforce-image" alt="Image" src="/images/gamification/Final - Quiz leaderboard.png"/>

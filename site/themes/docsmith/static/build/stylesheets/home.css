@@ -21662,6 +21662,7 @@ h3 {
 }
 h4 {
   font-size: 1.3rem !important;
+  line-height: 130% !important;
 }
 h5 {
   font-size: 1.1rem !important;
@@ -22000,6 +22001,9 @@ p {
   .ml_company_logo {
     height: 30px;
     width: auto;
+  }
+  .ml_slider_related_blogs {
+    padding: 0;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
@@ -22419,9 +22423,9 @@ small {
     position: relative;
 }
 @media only screen and (max-width:600px) {
-    .card {
-    -webkit-box-shadow: none;
-    box-shadow: none;
+  .card {
+    /* -webkit-box-shadow: none;
+    box-shadow: none; */
 }
 }.card .card-title {
     font-size: 1.4rem;
@@ -22439,6 +22443,7 @@ small {
     color: #423dce;
     width: 100%;
     display: inline-block;
+    cursor: pointer;
 }
 .card.large, .card.medium, .card.small {
     position: relative;
@@ -25241,4 +25246,54 @@ img {
 .div_sticky {
   position : sticky !important;
   top : 60px;
+}
+
+/* different size of fonts */
+.ml_font_1 {
+  font-size: 1rem !important;
+}
+.ml_font_1_point_one {
+  font-size: 1.1rem !important;
+}
+.ml_font_1_point_two {
+  font-size: 1.2rem !important;
+}
+.ml_font_1_point_three {
+  font-size: 1.3rem !important;
+}
+.ml_font_1_point_four {
+  font-size: 1.4rem !important;
+}
+/* end of different size of fonts */
+
+/* style for slider based related blogs */
+.ml_slider_related_blogs {
+  padding: 0 5%;
+}
+/* end of style for slider based related blogs */
+/* Slick CSS */
+@font-face {
+  font-family: 'slick';
+  src:  url('../fonts/slick/slick.eot?qonlmx');
+  src:  url('../fonts/slick/slick.eot?qonlmx#iefix') format('embedded-opentype'),
+    url('../fonts/slick/slick.ttf?qonlmx') format('truetype'),
+    url('../fonts/slick/slick.woff?qonlmx') format('woff'),
+    url('../fonts/slick/slick.svg?qonlmx#slick') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'slick' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

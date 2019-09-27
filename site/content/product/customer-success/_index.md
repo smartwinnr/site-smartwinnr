@@ -16,7 +16,7 @@ title: Customer Success
     <div class="row">
       <div class="col-md-12 col-sm-12">
         <h1 class="ml_body_text_white text-center">Our Company</h1>
-        <p class="ml_body_text_white text-center">We help your employees to be at the top of their game.</p>
+        <div class="ml-font20 text-center ml_body_text_white">We help your employees to be at the top of their game.</div>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
     </div>

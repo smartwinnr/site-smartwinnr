@@ -16,7 +16,7 @@ title: Enterprise Ready
     <div class="row ml_top_container ml-margin-bottom0">
       <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
         <h1>SmartWinnr is the preferred choice for large enterprises</h1>
-        <h3>With its enterprise-grade security and features, SmartWinnr is used by some of the world's largest enterprises. including those in highly regulated industries.</h3>
+        <div class="ml-font20">With its enterprise-grade security and features, SmartWinnr is used by some of the world's largest enterprises. including those in highly regulated industries.</div>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
@@ -29,7 +29,7 @@ title: Enterprise Ready
     <div class="ml-container ml-background-wave">
       <div class="row ml-margin-bottom0">
         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-centered" align="center">
-          <h1>Built for the modern enterprises</h1>
+          <h1 class="ml_body_text_black">Built for the modern enterprises</h1>
         </div>
         <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 padding80">
           <div class="row ml-margin-bottom20">
