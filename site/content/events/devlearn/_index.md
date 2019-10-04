@@ -42,8 +42,8 @@ $(function() {
 <p class="ml_top_container padding0 ml-margin-bottom0">
   <img class="ml-image" alt="Image" src="../../images/homepage/DevLearn.png">
 </p>
-<section class="white padding50 ml-padding-top">
-  <div class="ml-this-tile row">
+<section class="padding50 ml-padding-top">
+  <div class="row">
     <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
       <div class="row ml_top_container ml-prodfeaturerow">
         <p>
