@@ -24423,7 +24423,7 @@ img {
     border-radius: 4px;
 }
 .ml-button:hover {
-  color: #5951FF;
+  color: #5951FF !important;
   background-color: #fff;
   border: 2px solid #5951FF;
   border-radius: 4px;
@@ -24471,6 +24471,10 @@ img {
   }
   .padding50 {
     padding: 2% !important;
+  }
+  .ml-padding-top-bottom5 {
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
   }
   .ml_user_image {
     height: 70px !important;
@@ -24522,7 +24526,7 @@ img {
     height: 300px !important;
   }
   .ml_top_container{
-    padding: 20px !important;
+    padding: 5% !important;
   }
   .ml_blog_tag {
     font-size: 0.6rem !important;
@@ -24530,6 +24534,9 @@ img {
   }
   .ml_list_group {
     padding: 5px 10px !important;
+  }
+  .nav > li > a {
+    padding: 10px 5px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24945,7 +24952,8 @@ img {
   width: 120px;
 }
 
-.ml-padding-right0 {
+.ml-padding-leftright0 {
+  padding-left: 0px !important;
   padding-right: 0px !important;
 }
 
@@ -24973,6 +24981,11 @@ img {
 .ml-padding-top-bottom20 {
   padding-top: 20% !important;
   padding-bottom: 20% !important;
+}
+
+.ml-padding-top-bottom5 {
+  padding-top: 5% !important;
+  padding-bottom: 5% !important;
 }
 
 .ml-dreamforce-image {
@@ -25104,7 +25117,7 @@ img {
 .ml-homepage-first-section {
   background: #fff !important;
   color: #000 !important;
-  padding: 20px !important;
+  padding: 5% !important;
 }
 
 .ml-request-demo-button {
@@ -25282,3 +25295,5 @@ img {
   font-weight: normal;
   font-style: normal;
 }
+
+/* homepage slider changes */
