@@ -146,8 +146,8 @@
           <div class="card-header postinfo">
             {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
             <span class="card-title">
-              {{ if gt (len .Title) 45 }}
-              <a class="" href="{{ .Permalink }}">{{ slicestr .Title 0 45 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
+              {{ if gt (len .Title) 100 }}
+              <a class="" href="{{ .Permalink }}">{{ slicestr .Title 0 100 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
               {{ else }}
               <a class="" href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a>
               {{ end }}
