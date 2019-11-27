@@ -27,10 +27,23 @@ title: Sales Contest
     <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/Final - Individual challenge.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> Increase Productivity Through Sales Contest </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Most sales organizations run sales contests in some form or the other - it can be a monthly or quarterly contest on different KPIs (Key Performance Indicators) or activities leading to KPIs. You have a large team, there is a lot of tedious excel calculations involved, so the results get published maybe only once a week. And everyone loses interest.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Introducing you to the world of SmartWinnr Sales Contests. You can run several contests for different teams with different KPIs, at the same time. If you have a seasonal business, change the KPIs as it fits your objectives.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Use a seamless integration to your CRM to pull the KPI data or upload through excel. Calculations happen immediately through automated scoring rules, while the results are available at real-time on the mobile apps to your sales teams.</h4>
+    <h1 class="ml_body_text_black"> Automate your Sales Contests to Drive Sales Revenue </h1>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Bring Attention to your Leading Indicators</h4>
+    <p>SmartWInnr helps you to bring focus back to your leading indicators that drive the ultimate sales target. Distribute incentives in such a way that it helps you to influence the outcomes that you are looking for.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Even out sales across the month or the quarter</h4>
+    <p>Break down quarter-end goals into more achievable targets, distributed across the weeks and months. SmartWinnr enables you to track and push out incentives weekly, monthly, quarterly and yearly. This encourages your team to meet smaller goals that lead to the larger number at the end of the quarter.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Even out sales across the month or the quarter</h4>
+    <p>Break down quarter-end goals into more achievable targets, distributed across the weeks and months. SmartWinnr enables you to track and push out incentives weekly, monthly, quarterly and yearly. This encourages your team to meet smaller goals that lead to the larger number at the end of the quarter.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Prioritize your Product Sales</h4>
+    <p>Do you want to increase the sales of a new product? Do you want to drive sales of a product with higher margin? Use SmartWinnr’s flexible scoring mechanism to create a portfolio of rules that drives your business objectives.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Rolled up view for Managers, Drilled Down View for Sales People</h4>
+    <p>Managers get visibility into progress by targets, by team. They can drill down to an individual salesperson. Each salesperson has a clear view of her targets and  focuses on them.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Run Challenges to make it more competitive</h4>
+    <p>Take your contests to a whole different level by introducing one-on-one and team vs team challenges. This is especially helpful when you want to drive the performance of your top performers and top teams.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Create Engagement and Community Building</h4>
+    <p>Use the SmartWinnr chat to create engagement amongst your sales teams. Encourage them to share success stories and best practices which get liked by their peers and managers, giving them a sense of community and social success.</p>
+    <h4 class="ml_body_text_black ml-margin-bottom10">Pull Data from Salesforce.com or any CRM</h4>
+    <p>Use a seamless integration to your CRMs to pull the data through REST APIs or upload through excel. Calculations happen immediately through automated scoring rules, while the results are available at real-time on the SmartWinnr mobile app for your sales teams to follow.</p>
   </div>
 </div>
 
