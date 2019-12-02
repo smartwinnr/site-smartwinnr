@@ -24452,6 +24452,13 @@ img {
   color: #000 !important;
   padding: 20px !important;
 }
+
+/* div elements vertically aligned */
+.ml_vertical_aligned_div_contents{
+  margin-top: 10% !important;
+}
+
+
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .ml-white-tile {
     height: 55%;
@@ -24537,6 +24544,9 @@ img {
   }
   .nav > li > a {
     padding: 10px 5px;
+  }
+  .ml_vertical_aligned_div_contents{
+    margin-top: 0 !important;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -25190,6 +25200,9 @@ img {
   .ml-padding-left-right20{
     padding-left: 2% !important;
     padding-right: 2% !important;
+  }
+  .ml_vertical_aligned_div_contents {
+    margin-top: 0 !important;
   }
 }
 
