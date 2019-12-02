@@ -38,7 +38,7 @@ title: Sales Contest
     <p>Break down quarter-end goals into more achievable targets, distributed across the weeks and months. SmartWinnr enables you to track and push out incentives weekly, monthly, quarterly and yearly. This encourages your team to meet smaller goals that lead to the larger number at the end of the quarter.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/editor_analytics.png"/>
+    <img class="ml-dreamforce-image-wo-max-width" alt="Image" src="/images/sales-contest/editor_analytics.png"/>
   </div>
 </div>
 
@@ -95,6 +95,21 @@ title: Sales Contest
 <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Blogs</h2>
   <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/top-20-sales-contest-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-44/44.top-20-sales-contest-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Top 20 Sales Contest Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales contests create a healthy competitive environment in your sales department. According to the 80/20 rule, only 20% of sales made by salespeople make up for an overall 80% of the company revenue.
+          </article>
+        </div>
+      </div>
+    </div>
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/secrets-of-running-successful-sales-contest/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">

@@ -24936,6 +24936,9 @@ img {
   .ml-dreamforce-image {
     height: 200px !important;
   }
+  .ml-dreamforce-image-wo-max-width {
+    height: 200px !important;
+  }
   .ml_padding_desktop {
     padding: 0 10% !important;
   }
@@ -25002,6 +25005,11 @@ img {
   width: auto;
   height: 400px;
   max-width: 100%;
+}
+
+.ml-dreamforce-image-wo-max-width {
+  width: auto;
+  height: 400px;
 }
 
 .ml-horizontal-line {

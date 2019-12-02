@@ -71,6 +71,7 @@ layout: ml_layout
       <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN logo">
       <!-- <img class="ml_company_logo" src="/images/org-logos/icici logo.png" alt="ICICI logo"> -->
       <img class="ml_company_logo ml-margin-top10" src="/images/org-logos/hcr-logo-2x.png" alt="ICICI logo">
+      <img class="ml_company_logo ml-margin-top10" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed logo">
       <!-- <img class="ml_company_logo" src="/images/org-logos/curefit_logo.png" alt="Cure.fit logo"> -->
     </div>
   </div>
