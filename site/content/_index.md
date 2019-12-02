@@ -358,7 +358,7 @@ layout: ml_layout
         <div class="ml-font20 ml-margin-bottom20">Learn how Polycom uses SmartWinnr to make learning fun and engaging. Laura Welch, Senior Director, Sales Enablement, Polycom in conversation with Gerhard Gschwandtner, CEO, Selling Power Magazine, at the Sales Enablement Society Conference in Denver. <a class="ml-title-blue" href="/customer-stories/polycom-laura-welch-interview">Read More</a>
           <!-- <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button-blue" align="center" href="/customer-stories/polycom-laura-welch-interview">Read more</a></p> -->
         </div>
-        <img class="ml_company_logo ml_image_center_horizontally" src="/images/polycom-logo-R-h-rgb.png" alt="Polycom Logo">
+        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/polycom-logo-R-h-rgb.png" alt="Polycom Logo">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <iframe class="ml_responsive_video" src="https://www.youtube.com/embed/xkkVJRuhuNY" height="400px" width="600px" frameborder="0" rel="0"></iframe>
