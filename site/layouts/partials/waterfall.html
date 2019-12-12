@@ -15,10 +15,15 @@
       <div class="col-sm-8">
         <div class="ml-featured-card">
           <div class="ml-featured-card-header">
-            {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
+            <a class="" href="{{ .Permalink }}">
+              {{ with .Params.featured_image }}
+                <img class="ml-featured-blog-image" src="{{ . }}">
+              {{ end }}
+            </a>
+            <!-- {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }} -->
             <!-- <a class="ml-featured-card-title" href="http://192.168.1.12:3000/post{{ .Slug }}">{{ .Title }}</a> -->
-            <!-- <a class="ml-featured-card-title" href="http://10.13.6.243:3000/post{{ .Slug }}">{{ .Title }}</a> -->
-            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
+            <a class="ml-featured-card-title" href="http://10.13.6.243:3000/post{{ .Slug }}">{{ .Title }}</a>
+            <!-- <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a> -->
             <!-- <div class="row">
               <div class="col-sm-6 col-md-6">
                 <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
@@ -144,7 +149,11 @@
       <div class="waterfall__item">
         <div class="card post post-summary reveal enter">
           <div class="card-header postinfo">
-            {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
+            <a class="" href="{{ .Permalink }}">
+              {{ with .Params.featured_image }}
+                <img src="{{ . }}">
+              {{ end }}
+            </a>
             <span class="card-title">
               {{ if gt (len .Title) 100 }}
               <a class="" href="{{ .Permalink }}">{{ slicestr .Title 0 100 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
@@ -181,8 +190,11 @@
           </div>
           <!-- tags for the featured blog, currently there are some issues with tags page, as in the dist folder, the tags are not getting generated. Need to solve this. -->
           {{with .Params.tags}}
-          <div class="card-action card-action-links">{{ range . }}
-            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+          <div class="card-action card-action-links">
+            {{ range . }}
+            <!-- <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a> -->
+            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://10.13.6.243:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>
+            {{ end }}
           </div>
           {{end}}
         </div>
