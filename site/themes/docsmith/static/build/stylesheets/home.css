@@ -17288,7 +17288,7 @@ blockquote strong {
 }
 .primary {
   background-color: #fff;
-  color: #272640;
+  color: #090812;
 }
 .primary .lead a {
   font-weight: 300;
@@ -25233,7 +25233,7 @@ img {
 }
 
 .ml_list_group {
-  padding: 10px 20px;
+  padding: 10px 0px;
   border-radius : 10px !important;
 }
 
@@ -25316,3 +25316,74 @@ img {
   font-weight: normal;
   font-style: normal;
 }
+
+/* blog subscription styles start */
+.ml_blog_signup {
+  background: #4e6bdf;
+  font-size: 12px !important;
+  padding: 2% 5% !important;
+  color: #fff;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.ml_blog_signup_message {
+  color: #fff;
+  line-height: 1.4;
+  font-size: 15px !important;
+  font-weight: 600;
+}
+
+.ml_blog_signup label {
+  font-size: 1rem !important;
+}
+
+.ml_blog_signup input {
+  display: block;
+  width: 100%;
+  padding: 5px 0;
+  text-indent: 2%;
+  border: 1px solid #ABB0B2;
+  border-radius: 3px;
+}
+
+.ml_blog_signup input.button {
+  width: 50% !important;
+  margin: 5% 0% !important;
+  border: 2px solid #fff !important;
+  margin-left: 25% !important;
+  background: #4e6bdf;
+}
+
+.ml_blog_signup input.button:hover {
+  background: #fff;
+  color: #4e6bdf;
+}
+
+.ml_blog_signup .button {
+  clear: both;
+  background-color: #aaa;
+  border: 0 none;
+  border-radius: 4px;
+  transition: all 0.23s ease-in-out 0s;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  height: 32px;
+  line-height: 32px;
+  margin: 0 5px 10px 0;
+  padding: 0 22px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ml_padding_left_right20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* blog subscription styles end */
