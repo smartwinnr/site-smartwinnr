@@ -88,7 +88,7 @@ title: Sales Contest
     <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/secrets-of-running-successful-sales-contest/" alt="Sales Contest Part 1: The Secrets of Running a Successful Sales Contest">Sales Contest Part 1: The Secrets of Running a Successful Sales Contest</h4>
     <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/" alt="Sales Contest Part 2: How to design Sales Contest for a New Product Launch">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</h4>
     <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/9-proven-sales-contests-that-drive-productivity/" alt="Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity">Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-incentive-ideas-to-keep-your-sales-team-motivated/" alt="11 Sales incentive ideas to keep your sales team motivated">11 Sales incentive ideas to keep your sales team motivated</h4>
+    <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-incentive-ideas-to-keep-your-sales-team-motivated/" alt="23 Sales incentive ideas to keep your sales team motivated">23 Sales incentive ideas to keep your sales team motivated</h4>
   </div>
 </div> -->
 
@@ -160,7 +160,7 @@ title: Sales Contest
         <div class="card-header postinfo">
           <img src="/images/28.sales incentive.png">
           <span class="card-title ml-margin-bottom0">
-            <a class="ml-margin-bottom0">11 Sales incentive ideas to keep your sales team motivated</a>
+            <a class="ml-margin-bottom0">23 Sales incentive ideas to keep your sales team motivated</a>
           </span>
         </div>
         <div class="card-content">
