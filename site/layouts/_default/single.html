@@ -277,5 +277,28 @@
 <script type="text/javascript">
   SidebarScroll.init()
 </script>
+<script>
+  // function geoplugin_countryCode(arguments) {
+  //   print(arguments);
+  //   $('#results').html(JSON.stringify(arguments));
+  //   // return 'IN';
+  // }
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4){
+          document.getElementById('results').innerHTML = xhr.responseText;
+      }
+  };
+  xhr.open('GET', 'http://api.ipstack.com/43.228.92.58?access_key=e70cba0cfe521d72726981f8540141fb');
+  xhr.send();
+  // var xhr = new XMLHttpRequest();
+  // xhr.onreadystatechange = function() {};
+  // xhr.open('GET', 'http://www.geoplugin.net/json.gp?ip=10.13.4.130:3000');
+  // xhr.send()
+</script>
+<br /><br /><br /><br /><br />
+<div id="results">
+  <!--- data displayed here --->
+</div>
 <!-- <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"3372c8181d39adec2a3eaf411","lid":"54a5499385","uniqueMethods":true}) })</script> -->
 {{ end }}
