@@ -47,7 +47,7 @@
                   </ul>
                 </div> -->
 
-                <div class="row">
+                <div class="row" id="ml_blog_form">
                   <!-- Begin Mailchimp Signup Form -->
                   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
                   <style type="text/css">
@@ -284,12 +284,20 @@
   //   // return 'IN';
   // }
   var xhr = new XMLHttpRequest();
+  // var type = xhr.responseType;
+  // xhr.responseType = type;
+  xhr.responseType = "json";
   xhr.onreadystatechange = function() {
       if (xhr.readyState === 4){
-          document.getElementById('results').innerHTML = xhr.responseText;
+        var resp = xhr.response;
+        document.getElementById('results').innerHTML = resp.country_name;
+        if(resp.country_name != 'India') {
+          document.getElementById('ml_blog_form').style.display = 'none';
+        }
       }
   };
-  xhr.open('GET', 'http://api.ipstack.com/43.228.92.58?access_key=e70cba0cfe521d72726981f8540141fb');
+  // xhr.open('GET', 'http://api.ipstack.com/google.com?access_key=e70cba0cfe521d72726981f8540141fb');
+  xhr.open('GET', 'http://api.ipstack.com/check?access_key=e70cba0cfe521d72726981f8540141fb&format=1');
   xhr.send();
   // var xhr = new XMLHttpRequest();
   // xhr.onreadystatechange = function() {};
