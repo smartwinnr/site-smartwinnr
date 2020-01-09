@@ -290,22 +290,26 @@
   xhr.onreadystatechange = function() {
       if (xhr.readyState === 4){
         var resp = xhr.response;
-        document.getElementById('results').innerHTML = resp;
+        // document.getElementById('results').innerHTML = resp;
+        // var responseArray = resp.split('\n');
+        // var country = responseArray[1].substring(9);
+        console.log(resp);
         if(resp.country_name != 'India') {
           document.getElementById('ml_blog_form').style.display = 'none';
         }
       }
   };
   // xhr.open('GET', 'http://api.ipstack.com/google.com?access_key=e70cba0cfe521d72726981f8540141fb');
-  xhr.open('GET', 'http://api.ipstack.com/check?access_key=e70cba0cfe521d72726981f8540141fb&format=1');
+  xhr.open('GET', 'https://api.ipdata.co?api-key=test');
+  // xhr.open('GET', 'https://api.ipstack.com/check?access_key=e70cba0cfe521d72726981f8540141fb&format=1');
   xhr.send();
   // var xhr = new XMLHttpRequest();
   // xhr.onreadystatechange = function() {};
   // xhr.open('GET', 'http://www.geoplugin.net/json.gp?ip=10.13.4.130:3000');
   // xhr.send()
 </script>
-<br /><br /><br /><br /><br />
+<!-- <br /><br /><br /><br /><br />
 <div id="results">
-</div>
+</div> -->
 <!-- <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"3372c8181d39adec2a3eaf411","lid":"54a5499385","uniqueMethods":true}) })</script> -->
 {{ end }}
