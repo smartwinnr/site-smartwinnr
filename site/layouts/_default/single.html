@@ -69,10 +69,10 @@
                         <div class="ml_blog_signup_message">How to Run Effective Sales Contests to Meet Targets in Q4?</div>
                         <div class="ml_blog_signup_time ml-margin-top10 text-center">Attend the Webinar on 21 January, Tuesday 2:00 PM (India), 4:30 PM (Singapore) for 30 minutes</div>
                         <div class="ml_blog_signup_message ml-margin-top10">
-                          You will learn how to:
+                          You will learn about:
                           <ul>
                             <li class="ml-margin-top10">Effective Contest themes, names and prizes,</li>
-                            <li>Structure your sales contest for highest return,</li>
+                            <li>Structuring your sales contest for highest return,</li>
                             <li>Contest management strategy for maximum return</li>
                           </ul>
                         </div>
@@ -278,35 +278,18 @@
   SidebarScroll.init()
 </script>
 <script>
-  // function geoplugin_countryCode(arguments) {
-  //   print(arguments);
-  //   $('#results').html(JSON.stringify(arguments));
-  //   // return 'IN';
-  // }
   var xhr = new XMLHttpRequest();
-  // var type = xhr.responseType;
-  // xhr.responseType = type;
   xhr.responseType = "json";
   xhr.onreadystatechange = function() {
       if (xhr.readyState === 4){
         var resp = xhr.response;
-        // document.getElementById('results').innerHTML = resp;
-        // var responseArray = resp.split('\n');
-        // var country = responseArray[1].substring(9);
-        console.log(resp);
         if(resp.country_name != 'India') {
           document.getElementById('ml_blog_form').style.display = 'none';
         }
       }
   };
-  // xhr.open('GET', 'http://api.ipstack.com/google.com?access_key=e70cba0cfe521d72726981f8540141fb');
   xhr.open('GET', 'https://api.ipdata.co?api-key=af2a4ff4e21b7fc47af465212f4dc9947af9bdb2eabc6c7d18a19b28');
-  // xhr.open('GET', 'https://api.ipstack.com/check?access_key=e70cba0cfe521d72726981f8540141fb&format=1');
   xhr.send();
-  // var xhr = new XMLHttpRequest();
-  // xhr.onreadystatechange = function() {};
-  // xhr.open('GET', 'http://www.geoplugin.net/json.gp?ip=10.13.4.130:3000');
-  // xhr.send()
 </script>
 <!-- <br /><br /><br /><br /><br />
 <div id="results">
