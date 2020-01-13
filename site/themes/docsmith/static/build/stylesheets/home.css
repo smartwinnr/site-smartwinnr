@@ -23916,7 +23916,7 @@ img {
 }
 .ml-featured-blog-image {
   height: 400px;
-  width: auto;
+  width: 100%;
   display:block;
   margin:auto;
   margin-bottom: 10px;

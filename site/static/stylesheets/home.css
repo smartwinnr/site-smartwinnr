@@ -23939,7 +23939,7 @@ img {
 
 .ml-featured-blog-image {
   height: 200px;
-  width: auto;
+  width: 100%;
   display:block;
   margin:auto;
   background-size: cover;
