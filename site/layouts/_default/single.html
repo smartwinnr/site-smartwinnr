@@ -132,6 +132,18 @@
                     <li class="list-group-item">Related Articles</li>
                     <li class="list-group-item ml-margin-bottom0 padding20">
                       <ul>
+
+                        <!-- if a tag has 'sales contest', show a link to the page of sales contest in the website  -->
+
+                        {{ if in .Params.Tags "Sales Contests" }}
+                        <li>
+                          <a href="https://www.smartwinnr.com/product/sales-contest/" class="ml_display_block">Digitise your Sales Contests</a>
+                        </li>
+                        {{ end }}
+
+                        <!-- end of the special link for 'sales contest' -->
+
+
                         {{ $relatedArticles := .Params.relatedBlogs }}
                         {{ $.Scratch.Set "relatedArticlesCount" 0 }}
                         {{ range where .Site.Pages "Section" "post" }}
