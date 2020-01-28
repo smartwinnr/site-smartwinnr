@@ -1,4 +1,4 @@
-<nav id="main-nav" class="navbar navbar-default" role="navigation">
+<!-- <nav id="main-nav" class="navbar navbar-default" role="navigation">
   <div class="ml_nav_container">
     <div class="navbar-header">
       <button type="button" class="toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
@@ -12,7 +12,6 @@
 
     <div class="collapse navbar-collapse navbar-top-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <!-- <li><a href="{{ .Site.BaseURL }}"><span class='nav-home'></span></a></li> -->
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product <span class="caret"></span></a>
           <ul class="dropdown-menu dropdown-main-nav">
@@ -37,7 +36,6 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
           <ul class="dropdown-menu dropdown-main-nav">
-            <!-- <li><a href="/about-us/company">Company</a></li> -->
             <li><a href="/about-us/privacy-policy">Privacy Policy</a></li>
             <li><a href="/about-us/acceptable-use-policy">Acceptable Use Policy</a></li>
             <li><a href="/about-us/contact-us/">Contact Us</a></li>
@@ -54,16 +52,299 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="caret"></span></a>
           <ul class="dropdown-menu dropdown-main-nav">
             <li><a href="/events/devlearn">DevLearn</a></li>
-            <!-- <li><a href="/events/case-studies-whitepapers">Case Studies & Whitepapers</a></li> -->
             <li><a href="/events/salesenablement">Sales Enablement</a></li>
           </ul>
         </li>
-        <!-- <li><a href="/dreamforce/">Dreamforce 2018</a></li> -->
-        <!-- <li role="presentation" class="divider-vertical"><span>|</span></li> -->
           <li><a class="sign_in_btn" href="https://app.smartwinnr.com/">Log in <span class="login-caret"></span></a></li>
           <li><a class="ml-button-nav" href="/request-demo">Request demo</a></li>
       </ul>
     </div>
 
   </div>
-</nav>
+</nav> -->
+
+
+<div class="new-navbar">
+  <a href="{{ .Site.BaseURL }}" class="ml_home_logo"><img class="ml-logo" id="navbar-logo" src="{{ relURL "/images/smartwinnr_logo.png" }}"></a>
+  <a id="log-in" class="sign_in_btn pull-right" href="https://app.smartwinnr.com/">Log in <span class="login-caret"></span></a>
+  <a id="request-demo" class="ml-button-nav pull-right" href="/request-demo">Request demo</a>
+  <button type="button" class="toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+    <i class="fa fa-bars"></i>
+  </button>
+  <div class="navbar-dropdown">
+    <span class="dropdown-button">Platform <i class="fa fa-caret-down"></i></span>
+    <div class="dropdown-content animated fadeInDown">
+      <div class="dropdown-row">
+        <div class="column">
+          <h3 class="pull-right">Platform</h3>
+        </div>
+        <div class="column">
+          <h4>Features</h4>
+          <a href="#">Targeted Microlearning</a>
+          <a href="#">AI-Driven Automated Quiz</a>
+          <a href="#">Video Coaching</a>
+          <a href="#">KPI & Activity Gamification</a>
+          <a href="#">Collaboration & Tribal Knowledge</a>
+          <a href="#">Achievements and Rewards</a>
+        </div>
+        <div class="column">
+          <h4>Services</h4>
+          <a href="#">Implementation</a>
+          <a href="#">Consulting</a>
+          <a href="#">SmartWinnr Creatives</a>
+        </div>
+        <div class="column">
+          <h4>Integrations</h4>
+          <a href="#">Salesforce</a>
+          <a href="#">API</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-dropdown">
+    <span class="dropdown-button">Solutions <i class="fa fa-caret-down"></i></span>
+    <div class="dropdown-content animated fadeInDown">
+      <div class="dropdown-row">
+        <div class="column">
+          <h3>Solutions</h3>
+        </div>
+        <div class="column">
+          <h4>Use Cases</h4>
+          <a href="#">Onboarding</a>
+          <a href="#">Continuous Learning</a>
+          <a href="#">Coaching & Assessment</a>
+          <a href="#">New Product Launch</a>
+          <a href="#">Process Adoption</a>
+          <a href="#">Sales Event</a>
+        </div>
+        <div class="column">
+          <h4>Industries</h4>
+          <a href="#">Technology & Software</a>
+          <a href="#">Telecommunication</a>
+          <a href="#">Financial Services & Insurance</a>
+          <a href="#">Pharmaceuticals</a>
+          <a href="/solutions/medical-devices">Medical Devices</a>
+          <a href="#">Healthcare</a>
+          <a href="#">Transportation & Logistics</a>
+        </div>
+        <div class="column">
+          <h4>Business Functions</h4>
+          <a href="/solutions/sales">Sales</a>
+          <a href="">Customer Support</a>
+          <a href="#">Marketing</a>
+          <a href="#">HR</a>
+          <a href="/solutions/legal-and-compliance">Legal & Compliance</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-dropdown">
+    <span class="dropdown-button">Why SmartWinnr <i class="fa fa-caret-down"></i></span>
+    <div class="dropdown-content animated fadeInDown">
+      <div class="dropdown-row">
+        <div class="column">
+          <h3>Why SmartWinnr</h3>
+        </div>
+        <div class="column">
+          <h4>Enterprise Ready</h4>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+        <div class="column">
+          <h4>Customer Success</h4>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+        <div class="column">
+          <h4>Trust & Security</h4>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-dropdown">
+    <span class="dropdown-button">Resources <i class="fa fa-caret-down"></i></span>
+    <div class="dropdown-content animated fadeInDown">
+      <div class="dropdown-row">
+        <div class="column">
+          <h3>Resources</h3>
+        </div>
+        <!-- these are dummy columns, will be changed -->
+        <div class="column">
+          <h4>Enterprise Ready</h4>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+        <div class="column">
+          <h4>Customer Success</h4>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+        <div class="column">
+          <h4>Trust & Security</h4>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="collapse navbar-collapse navbar-top-collapse ml-margin-bottom0">
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle ml-margin-right0" data-toggle="dropdown">Platform <span class="caret"></span></a>
+        <ul class="dropdown-menu dropdown-main-nav">
+          <div class="column">
+            <h4>Features</h4>
+            <a href="#">Targeted Microlearning</a>
+            <a href="#">AI-Driven Automated Quiz</a>
+            <a href="#">Video Coaching</a>
+            <a href="#">KPI & Activity Gamification</a>
+            <a href="#">Collaboration & Tribal Knowledge</a>
+            <a href="#">Achievements and Rewards</a>
+          </div>
+          <div class="column">
+            <h4>Services</h4>
+            <a href="#">Implementation</a>
+            <a href="#">Consulting</a>
+            <a href="#">SmartWinnr Creatives</a>
+          </div>
+          <div class="column">
+            <h4>Integrations</h4>
+            <a href="#">Salesforce</a>
+            <a href="#">API</a>
+          </div>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle ml-margin-right0" data-toggle="dropdown">Solutions <span class="caret"></span></a>
+        <ul class="dropdown-menu dropdown-main-nav">
+          <div class="column">
+            <h4>Use Cases</h4>
+            <a href="#">Onboarding</a>
+            <a href="#">Continuous Learning</a>
+            <a href="#">Coaching & Assessment</a>
+            <a href="#">New Product Launch</a>
+            <a href="#">Process Adoption</a>
+            <a href="#">Sales Event</a>
+          </div>
+          <div class="column">
+            <h4>Industries</h4>
+            <a href="#">Technology & Software</a>
+            <a href="#">Telecommunication</a>
+            <a href="#">Financial Services & Insurance</a>
+            <a href="#">Pharmaceuticals</a>
+            <a href="/solutions/medical-devices">Medical Devices</a>
+            <a href="#">Healthcare</a>
+            <a href="#">Transportation & Logistics</a>
+          </div>
+          <div class="column">
+            <h4>Business Functions</h4>
+            <a href="/solutions/sales">Sales</a>
+            <a href="#">Customer Support</a>
+            <a href="#">Marketing</a>
+            <a href="#">HR</a>
+            <a href="/solutions/legal-and-compliance">Legal & Compliance</a>
+          </div>
+        </ul>
+      </li>
+      <li>
+        <a href="#" class="dropdown-toggle ml-margin-right0" data-toggle="dropdown">Why SmartWinnr<span class="caret"></span></a>
+      </li>
+      <li>
+        <a href="#" class="dropdown-toggle ml-margin-right0" data-toggle="dropdown">Resources<span class="caret"></span></a>
+      </li>
+      <li>
+        <a class="ml_special_button pull-left" href="/request-demo">Request Demo</a>
+      </li>
+    </ul>
+    <!-- <div class="nav navbar-nav navbar-right">
+      <div class="card ml_bordered_card dropdown ml-margin-top-bottom0">
+        <div class="card-header dropdown-toggle ml-padding-top-bottom2" data-toggle="dropdown">
+          <a href="#" class="ml-margin-right0">Platform <span class="caret"></span></a>
+        </div>
+        <div class="card-body dropdown-menu dropdown-main-nav ml-padding-bottom0">
+          <div class="column">
+            <h4>Features</h4>
+            <a href="#">Targeted Microlearning</a>
+            <a href="#">AI-Driven Automated Quiz</a>
+            <a href="#">Video Coaching</a>
+            <a href="#">KPI & Activity Gamification</a>
+            <a href="#">Collaboration & Tribal Knowledge</a>
+            <a href="#">Achievements and Rewards</a>
+          </div>
+          <div class="column">
+            <h4>Services</h4>
+            <a href="#">Implementation</a>
+            <a href="#">Consulting</a>
+            <a href="#">SmartWinnr Creatives</a>
+          </div>
+          <div class="column">
+            <h4>Integrations</h4>
+            <a href="#">Salesforce</a>
+            <a href="#">API</a>
+          </div>
+        </div>
+      </div>
+      <div class="card ml_bordered_card dropdown ml-margin-top-bottom0">
+        <div class="card-header dropdown-toggle ml-padding-top-bottom2" data-toggle="dropdown">
+          <a href="#" class="ml-margin-right0">Solutions <span class="caret"></span></a>
+        </div>
+        <div class="card-body dropdown-menu dropdown-main-nav ml-padding-bottom0">
+          <div class="column">
+            <h4>Use Cases</h4>
+            <a href="#">Onboarding</a>
+            <a href="#">Continuous Learning</a>
+            <a href="#">Coaching & Assessment</a>
+            <a href="#">New Product Launch</a>
+            <a href="#">Process Adoption</a>
+            <a href="#">Sales Event</a>
+          </div>
+          <div class="column">
+            <h4>Industries</h4>
+            <a href="#">Technology & Software</a>
+            <a href="#">Telecommunication</a>
+            <a href="#">Financial Services & Insurance</a>
+            <a href="#">Pharmaceuticals</a>
+            <a href="#">Medical Devices</a>
+            <a href="#">Healthcare</a>
+            <a href="#">Transportation & Logistics</a>
+          </div>
+          <div class="column">
+            <h4>Business Functions</h4>
+            <a href="/solutions/sales">Sales</a>
+            <a href="#">Customer Support</a>
+            <a href="#">Marketing</a>
+            <a href="#">HR</a>
+            <a href="/solutions/legal-and-compliance">Legal & Compliance</a>
+          </div>
+        </div>
+      </div>
+      <div class="card ml_bordered_card dropdown ml-margin-top-bottom0">
+        <div class="card-header dropdown-toggle ml-padding-top-bottom2" data-toggle="dropdown">
+          <a href="#" class="ml-margin-right0">Why SmartWinnr <span class="caret"></span></a>
+        </div>
+        <div class="card-body dropdown-menu dropdown-main-nav ml-padding-bottom0">
+        </div>
+      </div>
+      <div class="card ml_bordered_card dropdown ml-margin-top-bottom0">
+        <div class="card-header dropdown-toggle ml-padding-top-bottom2" data-toggle="dropdown">
+          <a href="#" class="ml-margin-right0">Resources <span class="caret"></span></a>
+        </div>
+        <div class="card-body dropdown-menu dropdown-main-nav ml-padding-bottom0">
+        </div>
+      </div>
+      <div class="card ml_bordered_card ml-margin-top-bottom0">
+        <div class="card-header ml-padding-top-bottom2">
+          <a href="/request-demo" class="ml-margin-right0">Request Demo</a>
+        </div>
+      </div>
+    </div> -->
+  </div>
+</div>
