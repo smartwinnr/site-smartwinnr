@@ -8,7 +8,7 @@ type: ml_layout
 layout: ml_layout
 ---
 
-<section class="ml_top_container ml-homepage-first-section">
+<section class="ml-homepage-first-section">
   <div class="padding50">
     <div class="row ml-margin-bottom0">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -57,7 +57,7 @@ layout: ml_layout
 </section> -->
 
 <section class="ml-key-points">
-  <div class="ml-container padding30">
+  <div class="padding50">
     <div class="row">
       <div class="col-md-12 col-sm-12">
         <h1 class="text-center ml_body_text_black ml-margin-bottom20">You are in good company.</h1>
@@ -78,7 +78,7 @@ layout: ml_layout
 </section>
 <!-- this section is used for displaying company logos -->
 <section>
-  <div class="ml-background-white padding30">
+  <div class="ml-background-white padding50">
     <div class="ml-container">
       <div class="row ml-margin-top10">
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 text-center">
@@ -150,7 +150,7 @@ layout: ml_layout
 
 <!-- introduce the problem section -->
 <section class="ml-advantage">
-  <div class="container">
+  <div class="padding50">
     <div class="row">
       <div class="col-md-4 col-sm-4">
         <div class="single-service padding">
@@ -197,8 +197,8 @@ layout: ml_layout
 
 <!-- start of HCR ManorCare video section -->
 <section class="ml-chooseQP ml-background-white">
-  <div class="ml-container">
-    <div class="row padding50">
+  <div class="padding50">
+    <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <script src="https://fast.wistia.com/embed/medias/grbzvz2e6b.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_grbzvz2e6b videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/grbzvz2e6b/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
       </div>
@@ -252,7 +252,7 @@ layout: ml_layout
 </section> -->
 
 <section class="ml-background-white">
-  <div class="ml-container padding80">
+  <div class="ml-container padding50">
     <div class="row ml-margin-bottom0">
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" align="center">
         <h1>Built for large, distributed sales teams</h1>
@@ -317,7 +317,7 @@ layout: ml_layout
 
 <!-- Show how they can use it section -->
 <section class="ml-background-white">
-  <div class="container padding50">
+  <div class="padding50">
     <div class="row text-center">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <h1 class="text-center ml-margin-bottom20">1 Platform. Many Use Cases</h1>
@@ -367,7 +367,7 @@ layout: ml_layout
 
 <!-- More social proof section -->
 <section class="ml-background-white">
-  <div class="container padding50">
+  <div class="padding50">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml-margin-bottom20">
         <h1 class="text-center">Make learning fun and engaging!</h1>
@@ -404,7 +404,7 @@ layout: ml_layout
 
 <!-- advantage section -->
 <section class="ml-advantage">
-  <div class="container">
+  <div class="padding50">
     <div class="row">
       <div class="col-md-12 col-sm-12">
         <h1 class="text-center ml_body_text_white ml-margin-bottom20">The SmartWinnr Advantage</h1>
@@ -455,9 +455,9 @@ layout: ml_layout
 
 <!-- Alternative CTA section -->
 <section class="ml-background-white">
-  <div class="container padding50">
+  <div class="padding50">
     <div class="row ml-margin-bottom20">
-      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 padding30">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <h1>World Class Support Team</h1>
         <div class="ml-font20">If you have any questions on how to use SmartWinnr and whether it can benefit your organization, we have an amazing support team to help you!</div>
         <div class="row ml-margin-top20">

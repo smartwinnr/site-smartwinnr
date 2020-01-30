@@ -4315,7 +4315,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-top: 10px;
   padding-bottom: 10px;
   line-height: 22px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  color: #000;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -6744,7 +6745,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 */
 .animated {
   -webkit-animation-duration: 1s;
-  animation-duration: 1s;
+  animation-duration: .5s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
@@ -21882,7 +21883,7 @@ p {
 .ml-chooseQP {
   position: relative;
   background-color: #fff;
-  padding: 10px 0 !important;
+  /* padding: 10px 0 !important; */
 }
 
 .ml-whySM {
@@ -21909,7 +21910,7 @@ p {
 
 .ml-advantage {
   background-color: #342c48;
-  padding: 10% 5% !important;
+  /* padding: 10% 5% !important; */
 }
 /* .ml-advantage {background-color: #342c48;} */
 
@@ -21960,6 +21961,9 @@ p {
   }
   /* new navbar */
   .navbar-dropdown .dropdown-button {
+    display: none !important;
+  }
+  .navbar-button {
     display: none !important;
   }
   .new-navbar a {
@@ -22046,8 +22050,11 @@ p {
     font-size: 1rem !important;
   }
   .ml-logo {
-    height : 32px !important;
+    height : 36px !important;
     /* margin-top: 12% !important; */
+  }
+  .dropdown-content {
+    top: 36px !important;
   }
 }
 /* @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24058,7 +24065,7 @@ img {
   padding: 30px !important;
 }
 .padding50 {
-  padding: 5% !important;
+  padding: 5% 10% !important;
 }
 .padding80 {
   padding: 7% !important;
@@ -24336,7 +24343,7 @@ img {
 
 .ml-container {
   max-width: 1660px;
-  padding: 0 20px;
+  /* padding: 0 20px; */
   width: 100%;
   margin: 0px auto;
   /* height: 100% !important; */
@@ -24346,7 +24353,7 @@ img {
   background-color: #f2f4f7;
   width: 100%;
   color: #000 !important;
-  padding: 20px !important;
+  /* padding: 20px !important; */
 }
 .ml-column {
   padding: 3%;
@@ -24373,7 +24380,7 @@ img {
     border-radius: 4px;
     background-color: #fff;
     color: #5951FF;
-    border: 2px solid rgba(89, 81, 255, 0.5);
+    border: 2px solid #5951FF;
     position: relative;
     z-index: 1;
     font-size: .8em !important;
@@ -24407,7 +24414,7 @@ img {
 .sign_in_btn:hover {
   color: #fff !important;
   background-color: #5951FF !important;
-  border: 2px solid #fff !important;
+  border: 2px solid #5951FF !important;
   border-radius: 4px !important;
 }
 @media only screen and (max-width: 768px) {
@@ -24415,14 +24422,20 @@ img {
     display: none !important;
   }
   .ml-button-nav {
+    display: none !important;
+  }
+  /* .ml-button-nav {
     font-size: .8em !important;
     margin-left: 0rem;
-  }
+  } */
   .ml-footer .sign_in_btn {
     display: unset !important;
     position: static;
     float: right;
     font-size: 1rem !important;
+  }
+  .navbar-dropdown .dropdown-button {
+    padding: 10px !important;
   }
 }
 .ml-button-nav:hover {
@@ -24469,7 +24482,7 @@ img {
 .ml-button-blue:hover {
   color: #fff;
   background-color: #5951FF;
-  border: 2px solid #fff;
+  border: 2px solid #5951FF;
   border-radius: 4px;
 }
 .ml-white-tile {
@@ -24503,7 +24516,7 @@ img {
     padding: 3% !important;
   }
   .padding50 {
-    padding: 2% !important;
+    padding: 5% !important;
   }
   .ml-padding-top-bottom5 {
     padding-top: 2% !important;
@@ -25168,7 +25181,7 @@ img {
 .ml-homepage-first-section {
   background: #fff !important;
   color: #000 !important;
-  padding: 5% !important;
+  /* padding: 5% !important; */
 }
 
 .ml-request-demo-button {
@@ -25190,7 +25203,7 @@ img {
   letter-spacing: .05em;
   font-weight: 600;
   padding: 10px 20px;
-  border: 2px solid #fff;
+  border: 2px solid #5951FF;
   border-radius: 4px;
 }
 
@@ -25231,7 +25244,7 @@ img {
 .ml_top_container {
   max-width: 1660px;
   width: 100%;
-  padding: 0 20px;
+  /* padding: 0 20px; */
   /* margin-top: 55px; */
 }
 
@@ -25436,6 +25449,14 @@ img {
 /* blog subscription styles end */
 
 /* css styles for newly created navbar */
+.navbar-group {
+  float: right;
+  margin-top: 10px;
+}
+.navbar-button a {
+  color: #000 !important;
+  margin-right: 20px;
+}
 .new-navbar {
   background: #fff;
   overflow: hidden;
@@ -25452,7 +25473,7 @@ img {
 .new-navbar > #log-in, #request-demo, #mobile-nav-menu {
   margin-left: 5px !important;
   margin-right: 15px !important;
-  padding: .2rem !important;
+  padding: .2rem .8rem !important;
   top: .5rem !important;
   font-size: .8rem !important;
 }
@@ -25480,7 +25501,7 @@ img {
 .navbar-dropdown .dropdown-button {
   font-size: 16px;
   color: #000;
-  padding: 12px 12px;
+  padding: 15px;
 }
 
 .dropdown-content {
@@ -25489,6 +25510,8 @@ img {
   background-color: #fff;
   width: 100%;
   left: 0;
+  top: 40px;
+  padding: 10px 0;
   border: 0 #ccc solid;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1 !important;
@@ -25505,7 +25528,7 @@ img {
 .column {
     float: left;
     width: 25%;
-    padding: 20px 10px;
+    padding: 0 10px;
     background-color: #fff;
     /* height: 250px; */
 }
@@ -25518,7 +25541,8 @@ img {
 
 .column h4 {
   padding: 10px;
-  font-size: 20px !important;
+  font-weight: 600;
+  font-size: 1.1rem !important;
   border-bottom: 1px #ccc solid;
 }
 
@@ -25529,6 +25553,7 @@ img {
     text-decoration: none;
     display: block;
     text-align: left;
+    font-size: 1rem;
 }
 
 .column a:hover {
@@ -25551,7 +25576,7 @@ img {
 .ml_special_button {
   border: 2px solid #5951FF;
   background: #5951ff;
-  color: #fff;
+  color: #fff !important;
   border-radius: 4px;
   font-size: 1.2rem !important;
   margin-right: 15px !important;
