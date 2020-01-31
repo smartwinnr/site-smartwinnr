@@ -6,7 +6,7 @@ description: 'See how SmartWinnr can help with onboarding, ramp-up of sales team
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Medical Devices
+title: Pharma
 type: ml_layout
 layout: ml_layout
 ---
@@ -53,11 +53,11 @@ layout: ml_layout
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
         <!-- <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png"> -->
         <h4 class="ml-title-font">Drive Effective Physician Messaging</h4>
-        <div class="ml-subtext ml_subtext_height">Use video coaching to ensure right message is being delivered to specific buyer groups</div>
+        <div class="ml-subtext ml_subtext_height">Use video coaching challenges to allow reps hone targeted messaging for physicians in a safe and encouraging environment</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
         <!-- <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png"> -->
-        <h4 class="ml-title-font">Better Handle Customer Objections</h4>
+        <h4 class="ml-title-font">Better Handle Objections</h4>
         <div class="ml-subtext ml_subtext_height">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
@@ -67,8 +67,8 @@ layout: ml_layout
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
         <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
-        <h4 class="ml-title-font">Easily Train Your Customers and Distributors</h4>
-        <div class="ml-subtext ml_subtext_height">Train customers and distributors on your product through mobile-first smart learning and gamified assessments</div>
+        <h4 class="ml-title-font">Easily Let Managers Track Performance and Knowledge</h4>
+        <div class="ml-subtext ml_subtext_height">Managers can track and coach individual reps on knowledge and performance from within the SmartWinnr mobile app.</div>
       </div>
     </div>
   </div>
@@ -88,8 +88,7 @@ layout: ml_layout
           <li class="ml_body_text_black ml-list-style-disc">Drive powerful and engaging learning/sales events</li>
           <li class="ml_body_text_black ml-list-style-disc">Conduct refresher trainings to keep teams up-to-date with latest knowledge</li>
           <li class="ml_body_text_black ml-list-style-disc">Prepare sales teams for mandatory regulatory certifications</li>
-          <li class="ml_body_text_black ml-list-style-disc">Train Your Distributors, Channel Partners, CustomersTrain sales teams on legal and compliance knowledge in different regions</li>
-          <li class="ml_body_text_black ml-list-style-disc">Easily train distributors and customers on product knowledge and usage</li>
+          <li class="ml_body_text_black ml-list-style-disc">Train sales teams on legal and compliance knowledge in different regions</li>
         </ul>
       </div>
     </div>
