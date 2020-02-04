@@ -12,21 +12,21 @@ title: Enterprise Ready
 ---
 
 <section>
-  <div class="ml-start">
+  <div class="ml-start padding50">
     <div class="row ml_top_container ml-margin-bottom0">
-      <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
+      <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
         <h1>SmartWinnr is the preferred choice for large enterprises</h1>
         <div class="ml-font20">With its enterprise-grade security and features, SmartWinnr is used by some of the world's largest enterprises. including those in highly regulated industries.</div>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
-      <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+      <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
         <img class="ml-image" alt="Image" src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/enterprise_ready.svg"/>
       </div>
     </div>
   </div>
 </section>
   <section class="ml-background-white">
-    <div class="ml-container ml-background-wave">
+    <div class="ml-container ml-background-wave padding50">
       <div class="row ml-margin-bottom0">
         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-centered" align="center">
           <h1 class="ml_body_text_black">Built for the modern enterprises</h1>
@@ -161,7 +161,7 @@ title: Enterprise Ready
   </div> -->
 <img class="swoop" src="/images/swoop_mask.min.svg">
 <section>
-  <div class="ml-container ml-background-white ml-padding-bottom30" id="enterprisefeatures">
+  <div class="ml-container ml-background-white ml-padding-bottom30 padding50" id="enterprisefeatures">
     <div class="row text-center">
       <h1 class="ml-title">Features for Enterprises</h1>
     </div>

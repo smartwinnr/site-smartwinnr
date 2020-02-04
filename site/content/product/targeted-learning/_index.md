@@ -18,7 +18,11 @@ title: Targeted Learning
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/>
+    <!-- <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/> -->
+    <!-- <iframe src="https://res.cloudinary.com/smartwinnr/video/upload/v1580730068/website/Targeted_Learning_rxupp9.mp4" class="ml_iframe_video"></iframe> -->
+    <video class="ml_iframe_video" autoplay loop>
+      <source src="https://res.cloudinary.com/smartwinnr/video/upload/v1580730068/website/Targeted_Learning_rxupp9.mp4" type="video/mp4">
+    </video>
   </div>
 </div>
 

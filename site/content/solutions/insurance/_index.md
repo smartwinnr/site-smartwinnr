@@ -11,7 +11,18 @@ type: ml_layout
 layout: ml_layout
 ---
 
-<section class="ml-homepage-first-section">
+<section class="ml_insurance_top_section">
+  <div class="row padding50">
+    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+      <h4>Insurance</h4><br>
+      <h1>Radically Improve Sales Productivity of Your Agents</h1>
+      <div class="ml-font20 padding0">Rollout a proven sales enablement plan encompassing sales contests, training and coaching that is guaranteed to improve agent productivity</div></br>
+      <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- <section class="ml-homepage-first-section">
   <div class="padding50">
     <div class="row ml-margin-bottom0">
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
@@ -20,7 +31,6 @@ layout: ml_layout
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-        <!-- <img class="ml-image" alt="Image" src="../../images/home_hero_image_smartwinnr.png"> -->
         <script src="https://fast.wistia.com/embed/medias/r7xfygdjgw.jsonp" async></script>
         <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
         <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
@@ -35,7 +45,7 @@ layout: ml_layout
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <section class="ml-background-white">
   <div class="padding50">

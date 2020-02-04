@@ -12,14 +12,14 @@ title: General features
 ---
 
 <section>
-  <div class="ml-start">
+  <div class="ml-start padding50">
     <div class="row ml_top_container ml-margin-bottom0">
-      <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
+      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h1>If knowledge matters for your organization success, you need SmartWinnr.</h1>
         <div class="ml-font20">SmartWinnr helps to drive team performance through better knowledge retention. Gamified mobile-friendly short quizzes and Twitter-like SmartFeeds keeps your team always up to date with latest information.</div>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
-      <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <img class="ml-image" alt="Image" src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/app_front_page_perspective_tecnology.png"/>
       </div>
     </div>
@@ -39,8 +39,8 @@ title: General features
       </div>
     </div>
   </div> -->
-<section>
-  <div class="ml-background-light">
+<section class="">
+  <div class="ml-background-light padding50">
     <div class="row ml-container">
       <div class="col-md-6 col-sm-12">
         <img src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/easy_toISe.svg" class="padding10" />
@@ -53,7 +53,7 @@ title: General features
       </div>
     </div>
   </div>
-  <div class="ml-this-tile">
+  <div class="ml-this-tile padding50">
     <div class="row ml-container">
       <div class="col-md-6 col-sm-12 ml-centered">
         <h1 class="text-center ml-title">Identify Knowledge Gaps at a Glance</h1>
@@ -66,7 +66,7 @@ title: General features
       </div>
     </div>
   </div>
-  <div class="ml-background-light">
+  <div class="ml-background-light padding50">
     <div class="row ml-container">
       <div class="col-md-6 col-sm-12">
         <img src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/quiz_stats.svg" class="padding10 rotate-1" />
@@ -79,7 +79,7 @@ title: General features
       </div>
     </div>
   </div>
-  <div class="ml-container ml-background-white padding30">
+  <div class="ml-container ml-background-white padding50">
     <div class="row text-center">
         <h1 class="ml-title">Feature by feature</h1>
     </div>

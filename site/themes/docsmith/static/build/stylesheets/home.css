@@ -21985,6 +21985,10 @@ p {
   .column a {
     padding-left: 4% !important;
   }
+  .ml_iframe_video {
+    height: 200px !important;
+    width: 300px !important;
+  }
 }
 .ml-compliance {
   height: 100%;
@@ -24444,11 +24448,14 @@ img {
   border: 2px solid #5951FF !important;
   border-radius: 4px !important;
 }
-/* @media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   .ml-button-nav {
-    font-size: .600em;
+    display: none !important;
   }
-} */
+  .sign_in_btn {
+    display: none !important;
+  }
+}
 .ml-button {
     margin-top: 10px !important;
     color: #fff !important;
@@ -24464,7 +24471,7 @@ img {
 .ml-button:hover {
   color: #5951FF !important;
   background-color: #fff;
-  border: 2px solid #5951FF;
+  border: 2px solid #fff;
   border-radius: 4px;
 }
 .ml-button-blue {
@@ -24990,9 +24997,10 @@ img {
   .ml-title-font {
     padding: 0 3% 3% 3%;
   }
-  /* .ml_top_container{
-    padding: 0px !important;
-  } */
+  .ml_top_container{
+    /* padding: 0px !important; */
+    margin-top: 48px !important;
+  }
   /* below styles are temporarily written */
   div div .ml-font20{
     padding: 0 3%;
@@ -25001,7 +25009,10 @@ img {
     padding: 5px !important;
   }
   .ml_text_height {
-    height: auto !important;
+    /* height: auto !important; */
+  }
+  .ml-sales-use-case ul {
+    padding-left: 0;
   }
 }
 
@@ -25232,10 +25243,10 @@ img {
   padding: 0 30%;
 }
 .ml_text_height {
-  height: 160px;
+  /* height: 160px; */
 }
 .ml_subtext_height {
-  height: 120px !important;
+  /* height: 120px !important; */
 }
 
 .ml_nav_container {
@@ -25248,7 +25259,7 @@ img {
   max-width: 1660px;
   width: 100%;
   /* padding: 0 20px; */
-  /* margin-top: 55px; */
+  margin-top: 40px;
 }
 
 .ml_padding_left0 {
@@ -25262,6 +25273,10 @@ img {
   }
   .ml_vertical_aligned_div_contents {
     margin-top: 0 !important;
+  }
+  .ml_text_col {
+    display: block !important;
+    width: 100% !important;
   }
 }
 
@@ -25460,9 +25475,15 @@ img {
   color: #000 !important;
   margin-right: 20px;
 }
+.navbar-button a:hover {
+  color: #5951FF !important;
+}
 .new-navbar {
   background: #fff;
-  overflow: hidden;
+  /* overflow: hidden; */
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 
 .new-navbar a {
@@ -25496,7 +25517,7 @@ img {
 }
 
 .navbar-dropdown {
-  width: 100%;
+  /* width: 100%; */
   position: static;
   display: inline;
 }
@@ -25517,7 +25538,7 @@ img {
   padding: 10px 0;
   border: 0 #ccc solid;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1 !important;
+  z-index: 999 !important;
 }
 
 .navbar-dropdown:hover .dropdown-button {
@@ -25596,4 +25617,86 @@ img {
   /* background-color: linear-gradient(to right top, #4030c6, #00d2ff); */
   background-color: #4030c6;
   color: #FFFFFF !important;
+}
+
+.ml_medical_devices_top_section {
+  background-image: url("/images/industry/medical-devices.jpg");
+  background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_pharma_top_section {
+  background-image: url("/images/industry/pharma.jpg");
+  background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_insurance_top_section {
+  background-image: url("/images/industry/insurance.jpg");
+  background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_banking_top_section {
+  background-image: url("/images/industry/banking.jpg");
+  background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_technology_top_section {
+  background-image: url("/images/industry/technology.jpg");
+  background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_senior_living_top_section {
+  background-image: url("/images/industry/senior_living.jpg");
+  background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_text_row {
+  display: table; /* Make the container element behave like a table */
+  width: 100%;
+}
+
+.ml_text_col {
+  display: table-cell;
+  /* height: 200px; */
+  padding: 10px;
+  width: 33%;
+}
+
+.row.ml_text_flex_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row.ml_text_flex_row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.ml_iframe_video {
+  height: 400px;
+  width: 600px;
 }
