@@ -11,6 +11,21 @@ layout: ml_layout
 title: Sales Contest
 ---
 
+<section class="">
+  <div class="ml_sales_contest_top_section">
+    <div class="ml_big_text">SmartWinnr frees sales teams to focus on engagement</div>
+    <div class="ml_video_container">
+      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <div class="ml_video_popup" id="ml_popup">
+        <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+        <div class="popup_message"> Test Message </div>
+        <div class="text-center popup_button">Click Me</div>
+      </div>
+    </div>
+  </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
+</section>
+
 <div class="row ml-margin0 white padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
     <h1>Sales Contest</h1>
