@@ -49,36 +49,30 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="padding50">
-    <div class="row ml-margin-bottom20">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png"> -->
+    <div class="row ml_text_flex_row">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Keep Your Team Up-to-date with Right Knowledge</h4>
-        <div class="ml-subtext ml_subtext_height">Improve product and competitive knowledge through bite-sized SmartFeeds and automated gamified quizzes</div>
+        <div class="ml-subtext">Improve product and competitive knowledge through bite-sized SmartFeeds and automated gamified quizzes</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext ml_subtext_height">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity and target any strategic KPIs</div>
+        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity and target any strategic KPIs</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Increase Up & Cross-Sell Revenue</h4>
-        <div class="ml-subtext ml_subtext_height">Help SDRs uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
+        <div class="ml-subtext">Help SDRs uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Improve Sales Pitch Through Continuous Practise</h4>
-        <div class="ml-subtext ml_subtext_height">Send video coaching challenges to let SDRs practice critical sellings skills in a safe and supporting environment.</div>
+        <div class="ml-subtext">Send video coaching challenges to let SDRs practice critical sellings skills in a safe and supporting environment.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Access Knowledge Anytime, Anywhere</h4>
-        <div class="ml-subtext ml_subtext_height">Critical product information, data sheets and competitive intel is just a search away using SmartWinnr’s intuitive K-Hub. Mobile-first platform ensures field staff are able to access critical information anytime, anywhere.</div>
+        <div class="ml-subtext">Critical product information, data sheets and competitive intel is just a search away using SmartWinnr’s intuitive K-Hub. Mobile-first platform ensures field staff are able to access critical information anytime, anywhere.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Continuously Motivate and Engage with Your Teams</h4>
-        <div class="ml-subtext ml_subtext_height">Celebrate wins, share success stories, recognize achievements from a single platform</div>
+        <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform</div>
       </div>
     </div>
   </div>

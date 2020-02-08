@@ -49,46 +49,38 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="padding50">
-    <div class="row ml-margin-bottom20">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png"> -->
+    <div class="row ml_text_flex_row">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Boost Agent Productivity</h4>
-        <div class="ml-subtext ml_subtext_height">Improve agent productivity without increasing incentive payouts through effective gamification design</div>
+        <div class="ml-subtext">Improve agent productivity without increasing incentive payouts through effective gamification design</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Reduce Agent Attrition</h4>
-        <div class="ml-subtext ml_subtext_height">Combine gamification, motivation, coaching and tracking to ensure new agents are engaged and motivated till they find their pace. This greatly helps in reducing new agent attrition.</div>
+        <div class="ml-subtext">Combine gamification, motivation, coaching and tracking to ensure new agents are engaged and motivated till they find their pace. This greatly helps in reducing new agent attrition.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Motivate and Elicit Performance Across Your Team</h4>
-        <div class="ml-subtext ml_subtext_height">20% top agents contribute significantly to your sales. Create a tiered sales contest, celebrate wins, share success stories and recognize achievements to motivate the top 20% while inspiring the rest of the team as well to perform at their full potential.</div>
+        <div class="ml-subtext">20% top agents contribute significantly to your sales. Create a tiered sales contest, celebrate wins, share success stories and recognize achievements to motivate the top 20% while inspiring the rest of the team as well to perform at their full potential.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Reduce Supervisory Coste</h4>
-        <div class="ml-subtext ml_subtext_height">SmartWinnr’s intelligent tracking and nudges helps agents perform better with less direct supervision.</div>
+        <div class="ml-subtext">SmartWinnr’s intelligent tracking and nudges helps agents perform better with less direct supervision.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Sales through Bancassurance and Other Third-Party Channels</h4>
-        <div class="ml-subtext ml_subtext_height">Create exciting sales contests, share product knowledge nuggets and gamify performance to train and track third-party sales teams.</div>
+        <div class="ml-subtext">Create exciting sales contests, share product knowledge nuggets and gamify performance to train and track third-party sales teams.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Train Your Team for Top Sales Performance</h4>
-        <div class="ml-subtext ml_subtext_height">Keep the agents trained and up-to-date with the latest knowledge about products, systems and regulations</div>
+        <div class="ml-subtext">Keep the agents trained and up-to-date with the latest knowledge about products, systems and regulations</div>
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png"> -->
+      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Increase Up & Cross-Sell Revenue</h4>
-        <div class="ml-subtext ml_subtext_height">Help teams to uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
+        <div class="ml-subtext">Help teams to uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
+      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext ml_subtext_height">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity.</div>
+        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity.</div>
       </div>
     </div>
   </div>

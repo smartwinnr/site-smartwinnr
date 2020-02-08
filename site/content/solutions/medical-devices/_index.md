@@ -38,10 +38,16 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      <h1>Supercharge the Sales Productivity of your Medical Reps</h1>
-      <div class="ml-font20">Train, motivate and coach your medical reps for superlative sales performance</div></br>
-      <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-centered-half">
+      <h1 class="text-center">Smarter Executives = Higher Performance</h1>
+      <div class="ml-subtext ml-font20">Experience how Boston Scientific uses SmartWinnr to
+        <ul>
+          <li>achieve YoY growth</li>
+          <li>above 90% field-force engagement</li>
+          <li>high knowledge retention amongst the field-force</li>
+        </ul>
+      </div>
+      <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button-blue" align="center" href="/request-demo">Learn More</a></p>
     </div>
   </div>
 </section>
@@ -49,36 +55,30 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="padding50">
-    <div class="row ml-margin-bottom20">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png"> -->
+    <div class="row ml_text_flex_row">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Keep Your Team Up-to-date with Right Knowledge</h4>
-        <div class="ml-subtext ml_subtext_height">Automatically send and track bite-sized information on latest product knowledge, clinical data and competitive intelligence</div>
+        <div class="ml-subtext">Automatically send and track bite-sized information on latest product knowledge, clinical data and competitive intelligence</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext ml_subtext_height">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity</div>
+        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Effective Physician Messaging</h4>
-        <div class="ml-subtext ml_subtext_height">Use video coaching to ensure right message is being delivered to specific buyer groups</div>
+        <div class="ml-subtext">Use video coaching to ensure right message is being delivered to specific buyer groups</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Better Handle Customer Objections</h4>
-        <div class="ml-subtext ml_subtext_height">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
+        <div class="ml-subtext">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Continuously Motivate and Engage with Your Field Force</h4>
-        <div class="ml-subtext ml_subtext_height">Celebrate wins, share success stories, recognize achievements from a single platform</div>
+        <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Easily Train Your Customers and Distributors</h4>
-        <div class="ml-subtext ml_subtext_height">Train customers and distributors on your product through mobile-first smart learning and gamified assessments</div>
+        <div class="ml-subtext">Train customers and distributors on your product through mobile-first smart learning and gamified assessments</div>
       </div>
     </div>
   </div>

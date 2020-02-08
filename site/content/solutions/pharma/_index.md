@@ -49,36 +49,30 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="padding50">
-    <div class="row ml-margin-bottom20">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png"> -->
+    <div class="row ml_text_flex_row">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Keep Your Team Up-to-date with Right Knowledge</h4>
-        <div class="ml-subtext ml_subtext_height">Automatically send and track bite-sized information on latest product knowledge, clinical data and competitive intelligence</div>
+        <div class="ml-subtext">Automatically send and track bite-sized information on latest product knowledge, clinical data and competitive intelligence</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext ml_subtext_height">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity</div>
+        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Effective Physician Messaging</h4>
-        <div class="ml-subtext ml_subtext_height">Use video coaching challenges to allow reps hone targeted messaging for physicians in a safe and encouraging environment</div>
+        <div class="ml-subtext">Use video coaching challenges to allow reps hone targeted messaging for physicians in a safe and encouraging environment</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Better Handle Objections</h4>
-        <div class="ml-subtext ml_subtext_height">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
+        <div class="ml-subtext">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Continuously Motivate and Engage with Your Field Force</h4>
-        <div class="ml-subtext ml_subtext_height">Celebrate wins, share success stories, recognize achievements from a single platform</div>
+        <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Easily Let Managers Track Performance and Knowledge</h4>
-        <div class="ml-subtext ml_subtext_height">Managers can track and coach individual reps on knowledge and performance from within the SmartWinnr mobile app.</div>
+        <div class="ml-subtext">Managers can track and coach individual reps on knowledge and performance from within the SmartWinnr mobile app.</div>
       </div>
     </div>
   </div>

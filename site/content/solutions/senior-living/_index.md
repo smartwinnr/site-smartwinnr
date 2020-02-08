@@ -49,36 +49,30 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="padding50">
-    <div class="row ml-margin-bottom20">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png"> -->
+    <div class="row ml_text_flex_row">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Up Occupancy Rates and Revenue</h4>
-        <div class="ml-subtext ml_subtext_height">Create an engaging sales contest focusing on each step of the sales funnel from lead to move-in. Optimize and gamify KPIs for higher occupancy rates.</div>
+        <div class="ml-subtext">Create an engaging sales contest focusing on each step of the sales funnel from lead to move-in. Optimize and gamify KPIs for higher occupancy rates.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Ensure Right Messaging to Prospects</h4>
-        <div class="ml-subtext ml_subtext_height">Train Marketing and Executive Directors to deliver the right message to prospects using video coaching challenges.</div>
+        <div class="ml-subtext">Train Marketing and Executive Directors to deliver the right message to prospects using video coaching challenges.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Improve Sales Effectiveness</h4>
-        <div class="ml-subtext ml_subtext_height">Automated knowledge reinforcements, gamified quizzes and coaching challenges helps the team guide and counsel prospects for higher close rates.</div>
+        <div class="ml-subtext">Automated knowledge reinforcements, gamified quizzes and coaching challenges helps the team guide and counsel prospects for higher close rates.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Reduce Caregiver Attrition</h4>
-        <div class="ml-subtext ml_subtext_height">Motivate, train and engage with caregivers through automated learning content and gamified quizzes. Increase engagement and community building through regular communication, recognizing achievements and gamification.</div>
+        <div class="ml-subtext">Motivate, train and engage with caregivers through automated learning content and gamified quizzes. Increase engagement and community building through regular communication, recognizing achievements and gamification.</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Operational Excellence</h4>
-        <div class="ml-subtext ml_subtext_height">Replicate successful models quickly and efficiently across communities through uniform process checklists, gamified performance benchmarks and more</div>
+        <div class="ml-subtext">Replicate successful models quickly and efficiently across communities through uniform process checklists, gamified performance benchmarks and more</div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml_text_height">
-        <!-- <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png"> -->
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Ensure Uniform Service Quality Across Communities</h4>
-        <div class="ml-subtext ml_subtext_height">Digitize your inspection checklists like room inspection checklist, property inspection checklist and more, within minutes. Fill out the checklists from the easy-to-use SmartWinnr mobile app and track the results for continuous process improvements.</div>
+        <div class="ml-subtext">Digitize your inspection checklists like room inspection checklist, property inspection checklist and more, within minutes. Fill out the checklists from the easy-to-use SmartWinnr mobile app and track the results for continuous process improvements.</div>
       </div>
     </div>
   </div>

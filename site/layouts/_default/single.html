@@ -1,7 +1,14 @@
 {{ define "main" }}
 {{ partial "anchor" . }}
 <section class="primary first-section">
-  <div class="ml-margin-top60">
+  <div class="has-outer-before">
+    {{ if in .Params.Tags "Sales Contests" }}
+    <div class="ml_blog_header_bar">
+      <span>
+        Gamify your sales learning and productivity. <a href="/request-demo" class="ml_link">View Demo <span class="login-caret"></span></a>
+      </span>
+    </div>
+    {{ end }}
     {{/* partial "breadcrumb" . */}}
     <div class="row" itemscope itemtype="http://schema.org/TechArticle">
       <div class="col-sm-12">
