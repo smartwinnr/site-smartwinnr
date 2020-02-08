@@ -14,7 +14,7 @@ layout: ml_layout
 <section class="ml_banking_top_section">
   <div class="row padding50">
     <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-      <h4>Banking</h4><br>
+      <div class="ml_label ml_survey_badge">Banking</div><br>
       <h1>Reimagine How You Drive Performance and Knowledge Across Branches</h1>
       <div class="ml-font20 padding0">Track individual and branch-level KPIs | Train team on latest product, process and regulatory knowledge | Share important regulatory and product information</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>

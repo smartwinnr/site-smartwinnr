@@ -25483,7 +25483,7 @@ img {
   /* overflow: hidden; */
   position: fixed;
   width: 100%;
-  z-index: 1;
+  z-index: 2;
 }
 
 .new-navbar a {
@@ -25699,4 +25699,125 @@ img {
 .ml_iframe_video {
   height: 400px;
   width: 600px;
+}
+
+/* #video-player, #video-player video, .vjs-poster {
+  border-radius: 10px;
+  box-shadow: 8px 8px 20px -10px #000;
+} */
+
+.ml_video_container {
+  width: 100%;
+  position: relative;
+  height: auto;
+  margin-bottom: -1%;
+  z-index: 1;
+}
+
+.ml_big_text {
+  font-size: 4rem;
+  color: #fff;
+  padding: 5% 10%;
+}
+
+.ml_sales_contest_top_section {
+  padding: 0 10%;
+  /* background: #3c36c2; */
+  background: #3c36c2 url(/images/wave1.svg);
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position-y: bottom;
+}
+
+#ml_popup {
+  display: none;
+  padding: 5px;
+  border: 2px solid #3c36c2;
+  box-shadow: #444 5px 5px 8px;
+  position: absolute;
+  bottom: 7%;
+  left: 40%;
+  border-radius: 10px;
+}
+
+#ml_popup .popup_message {
+  padding: 5px;
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+#ml_popup .popup_button {
+  padding: 5px;
+  font-size: 1rem;
+  color: #fff;
+  background: #3c36c2;
+  border-radius: 5px;
+}
+
+#ml_popup .popup_close {
+  position: absolute;
+  right: -10%;
+  top: -25%;
+  font-size: 1.5rem;
+  color: #3c36c2;
+}
+
+
+.ml_div_contents_in_center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.ml_yellow_bg_gradient {
+  background: linear-gradient(to right, #FFC400, #ff991f);
+}
+
+.ml_blue_bg_gradient {
+  background: linear-gradient(to right, #3C37A6, #524EDE);
+}
+
+.ml_ul_tick {
+  list-style-image: url(/images/tick.png);
+}
+
+.ml_no_padding_right50 {
+  padding: 5% 0 5% 10%;
+}
+
+.ml_no_padding_bottom_right50 {
+  padding: 5% 0 0 10%;
+}
+
+.ml_no_padding_top_bottom_right50 {
+  padding: 0 0 0 10%;
+}
+
+.ml_label{
+  padding: 0 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.ml_quiz_badge {
+  background: #E7E6FF;
+  color: #524EDE;
+}
+.ml_survey_badge {
+  background: #E3FCEF;
+  color: #00875A;
+}
+.ml_smartfeed_badge {
+  background: #FFFAE6;
+  color: #FF991F;
+}
+.ml_coaching_badge {
+  background: #DEEBFF;
+  color: #0052CC;
+}
+.ml_smartpath_badge {
+  background: #E6FCFF;
+  color: #00A3BF;
 }

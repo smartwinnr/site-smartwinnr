@@ -11,7 +11,39 @@ layout: ml_layout
 title: Sales Coaching
 ---
 
-<div class="row ml-margin0 white padding50">
+<div class="row ml_no_padding_top_bottom_right50 ml-background-white ml_div_contents_in_center">
+  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+      <div class="ml_label ml_smartfeed_badge">Coaching</div><br>
+      <h1 class="ml_body_text_black ml-margin-bottom10">The Definitive Coaching Platform for Your Sales Team</h1>
+      <div class="ml-font20 ml_body_text_black">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment. Mentor your team for peak performance through a structured coaching program.</div>
+  </div>
+  <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
+    <img class="ml-image" alt="Image" src="/images/sales-coaching/coaching_home.png"/>
+  </div>
+</div>
+<img class="swoop" src="/images/swoop_mask.min.svg">
+
+<div class="row ml-margin0 padding50 white ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="/images/sales-coaching/coaching_explainer.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+      <div class="ml_label ml_smartfeed_badge">Video Coaching</div><br>
+      <h4 class="ml_body_text_black ml-margin-bottom10">Video Coaching: Practice makes it perfect</h4>
+      <h5 class="ml_body_text_black ml-margin-bottom10">Get your sales team practice in a supportive environment. Help to master price objections, account transitions, new product sales scripts and more. Pick a scenario and get your sales team to record a video response through the SmartWinnr app. Review and give helpful feedback. Share the best videos with everyone driving peer learning.</h5>
+      <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <li class="ml-margin-top10">Drive sales pitch contest</li>
+        <li class="ml-margin-top10">Improve sales script delivery through positive feedbacks</li>
+        <li class="ml-margin-top10">Make reps master pitch for a new product and ace handling customer FAQs</li>
+        <li class="ml-margin-top10">Enact role plays to improve selling skills</li>
+      </ul>
+  </div>
+</div>
+
+<!-- new design ends -->
+
+
+<!-- <div class="row ml-margin0 white padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
     <h1>Sales Coaching</h1>
     <div class="ml-font20 ml_body_text_black">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment.</div>
@@ -22,7 +54,7 @@ title: Sales Coaching
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<div class="row ml-margin0 padding50 white">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/Final - View Coaching .png"/>
   </div>
@@ -36,7 +68,7 @@ title: Sales Coaching
       <li class="ml-margin-top10">Your continuous training strategy</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div class="row ml-margin0 white padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">

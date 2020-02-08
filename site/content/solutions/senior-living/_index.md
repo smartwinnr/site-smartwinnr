@@ -14,7 +14,7 @@ layout: ml_layout
 <section class="ml_senior_living_top_section">
   <div class="row padding50">
     <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-      <h4>Senior Living</h4><br>
+      <div class="ml_label ml_smartfeed_badge">Senior Living</div><br>
       <h1>Improve Operational Metrics Across Your Communities</h1>
       <div class="ml-font20 padding0">Drive occupancy rates improve resident satisfaction and reduce caregiver attrition using one single platform.</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>

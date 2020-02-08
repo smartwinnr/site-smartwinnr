@@ -377,7 +377,15 @@ layout: ml_layout
         <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/polycom-logo-R-h-rgb.png" alt="Polycom Logo">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-        <iframe class="ml_responsive_video" src="https://www.youtube.com/embed/xkkVJRuhuNY" height="400px" width="600px" frameborder="0" rel="0"></iframe>
+        <div class="ml_video_container">
+          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+          <div class="ml_video_popup" id="ml_popup">
+            <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+            <div class="popup_message"> Test Message </div>
+            <div class="text-center popup_button">Click Me</div>
+          </div>
+        </div>
+        <!-- <iframe class="ml_responsive_video" src="https://www.youtube.com/embed/xkkVJRuhuNY" height="400px" width="600px" frameborder="0" rel="0"></iframe> -->
       </div>
     </div>
   </div>
@@ -482,3 +490,22 @@ layout: ml_layout
     </div>
   </div>
 </section>
+
+<script>
+  // Cloudinary video player 
+  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
+  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
+  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581137574/website/How_Polycom_makes_learning_fun_with_a_smart_new_tool_cwnbry.mp4');
+  videoPlayer.on('percentsplayed', (event) => {
+      if (event.eventData.percent == 10) {
+          document.getElementById("ml_popup").style.display = "block";
+      }
+      if(event.eventData.percent == 20) {
+          document.getElementById("ml_popup").style.display = "none";
+      }
+      console.log(event.eventData.percent + " percents played")
+  });
+  function hidePopup() {
+    document.getElementById("ml_popup").style.display = "none";
+  }
+</script>
