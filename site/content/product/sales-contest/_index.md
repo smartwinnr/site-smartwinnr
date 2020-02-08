@@ -39,7 +39,7 @@ title: Sales Contest
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/monthly_scorecard.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/monthly_scorecard.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
     <h1 class="ml_body_text_black"> Bring Attention to your Leading Indicators </h1>
@@ -59,7 +59,7 @@ title: Sales Contest
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/manager-user-card_combined.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/manager-user-card_combined.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
     <h1 class="ml_body_text_black"> Rolled up view for Managers, Drilled Down View for Sales People </h1>
@@ -73,13 +73,13 @@ title: Sales Contest
     <p>Take your contests to a whole different level by introducing one-on-one and team vs team challenges. This is especially helpful when you want to drive the performance of your top performers and top teams.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/user-manager_challenge-combined.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/user-manager_challenge-combined.png"/>
   </div>
 </div>
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/chat.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/chat.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
     <h1 class="ml_body_text_black"> Create Engagement and Community Building </h1>
@@ -93,7 +93,7 @@ title: Sales Contest
     <p>Your sales teams can follow the progress of the game from the field, in real-time through our easy-to-use and intuitive mobile app.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/individual-team-leaderboard-combined.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/individual-team-leaderboard-combined.png"/>
   </div>
 </div>
 

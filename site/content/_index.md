@@ -331,32 +331,32 @@ layout: ml_layout
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png">
         <h4 class="ml-title-font">Gamify KPIs</h4>
-        <div class="ml-subtext ml_subtext_height">SmartWInnr doubles your sales productivity by gamifying KPIs. Run contests and challenges to motivate your team</div>
+        <div class="ml-subtext">SmartWInnr doubles your sales productivity by gamifying KPIs. Run contests and challenges to motivate your team</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png">
         <h4 class="ml-title-font">New Product Launch</h4>
-        <div class="ml-subtext ml_subtext_height">SmartWinnr helps you to answer - How ready is my sales team to launch the new product? Tailor training plans, reinforce and measure retention of product launch information.</div>
+        <div class="ml-subtext">SmartWinnr helps you to answer - How ready is my sales team to launch the new product? Tailor training plans, reinforce and measure retention of product launch information.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png">
         <h4 class="ml-title-font">Refresher Product Trainings</h4>
-        <div class="ml-subtext ml_subtext_height">Ensure meaningful conversations with customers. SmartWinnr helps your sales teams to retain latest product information, reinforce key messages, and more.</div>
+        <div class="ml-subtext">Ensure meaningful conversations with customers. SmartWinnr helps your sales teams to retain latest product information, reinforce key messages, and more.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png">
         <h4 class="ml-title-font">Drive Sales Methodology</h4>
-        <div class="ml-subtext ml_subtext_height">Use SmartWinnr to drive adoption of your new sales methodology. Teams practice selling by using the ‘steps-of-the-sale’ through Video Coaching.</div>
+        <div class="ml-subtext">Use SmartWinnr to drive adoption of your new sales methodology. Teams practice selling by using the ‘steps-of-the-sale’ through Video Coaching.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png">
         <h4 class="ml-title-font">New Hire Onboarding</h4>
-        <div class="ml-subtext ml_subtext_height">Reduce time to productivity of your new hires. Create contests and leaderboards, quiz them on sessions and get them excited to be part of your organization.</div>
+        <div class="ml-subtext">Reduce time to productivity of your new hires. Create contests and leaderboards, quiz them on sessions and get them excited to be part of your organization.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png">
         <h4 class="ml-title-font">Drive Engaging Sales Events</h4>
-        <div class="ml-subtext ml_subtext_height">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
+        <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
       </div>
     </div>
     <!-- <div class="row ml-margin-bottom20">

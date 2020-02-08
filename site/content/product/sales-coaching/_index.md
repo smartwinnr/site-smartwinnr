@@ -70,7 +70,7 @@ title: Sales Coaching
   </div>
 </div> -->
 
-<div class="row ml-margin0 white padding50">
+<div class="row ml-margin0 ml-background-light padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/coaching-framework.jpg"/>
   </div>
@@ -84,7 +84,54 @@ title: Sales Coaching
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<div class="row ml-margin0 ml_no_padding_right50 white ml_div_contents_in_center">
+  <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+      <div class="ml_label ml_smartfeed_badge">CoachTogether</div><br>
+      <h4 class="ml_body_text_black ml-margin-bottom10">A Structured Coaching Platform That Delivers Results</h4>
+      <h5 class="ml_body_text_black ml-margin-bottom10">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the coaching process. They do baseline assessments, set coaching goals for joint field visits, and provide crucial feedback to their sales reps.</h5>
+  </div>
+  <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="/images/sales-coaching/coachtogether.png"/>
+  </div>
+</div>
+
+<div class="row ml-margin0 ml_yellow_bg_gradient padding50">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+    <h4 class="ml-title-font">Drive Systematic Coaching Process</h4>
+    <div class="ml-subtext">Replace ad-hoc coachings with a flexible structured digitized coaching process</div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+    <h4 class="ml-title-font">Maintain Coaching Records</h4>
+    <div class="ml-subtext">Maintain records of all joint field visits, evaluations, task/skill ratings, directions on the next steps of the sales rep and manager.</div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+    <h4 class="ml-title-font">Get Holistic Analysis of Team Capabilities</h4>
+    <div class="ml-subtext">Compliments quantitative performance measures to increase productivity and provide direction.</div>
+  </div>
+</div>
+
+<div class="row ml-margin0 ml_blue_bg_gradient padding30 text-center ml_body_text_white">
+  Quality + Quantity x Direction = Sales Force Effectiveness
+</div>
+
+<div class="row ml-margin0 ml_no_padding_right50 white ml_div_contents_in_center">
+  <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+      <!-- <div class="ml_label ml_smartfeed_badge">Reports</div><br> -->
+      <h4 class="ml_body_text_black ml-margin-bottom10">Improve sales Productivity through systematic coaching</h4>
+      <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <li class="ml-margin-top10">Increase call effectiveness and drive productivity</li>
+        <li class="ml-margin-top10">Gain helpful qualitative data for the sales training team</li>
+        <li class="ml-margin-top10">Make manager and reps jointly responsible for performance improvement</li>
+        <li class="ml-margin-top10">Maintain development continuum in case manager is transferred</li>
+        <li class="ml-margin-top10">Motivate reps to improve productivity and increase retention</li>
+      </ul>
+  </div>
+  <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 text-center padding0">
+    <img class="ml-image" alt="Image" src="/images/sales-coaching/coachtogether_coaching.png"/>
+  </div>
+</div>
+
+<!-- <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1 class="ml_body_text_black"> On-the-job Coaching </h1>
     <h4 class="ml_body_text_black ml-margin-bottom10">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the entire process by doing baseline assessments, setting coaching goals for joint field visits, and providing crucial feedback to their sales rep.</h4>
@@ -98,7 +145,7 @@ title: Sales Coaching
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/Final - Top video.png"/>
   </div>
-</div>
+</div> -->
 
 <!-- <div class="row ml-margin0 white padding50">
   <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">

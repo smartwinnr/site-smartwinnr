@@ -6744,8 +6744,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 .animated {
-  -webkit-animation-duration: 1s;
-  animation-duration: .5s;
+  -webkit-animation-duration: .1s;
+  animation-duration: .1s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
@@ -21986,8 +21986,8 @@ p {
     padding-left: 4% !important;
   }
   .ml_iframe_video {
-    height: 200px !important;
-    width: 300px !important;
+    height: 300px !important;
+    width: 400px !important;
   }
 }
 .ml-compliance {
@@ -22059,6 +22059,9 @@ p {
   }
   .dropdown-content {
     top: 36px !important;
+  }
+  .ml_div_contents_in_center {
+    display: block !important;
   }
 }
 /* @media only screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24995,7 +24998,7 @@ img {
     padding: 0 3%;
   }
   .ml-title-font {
-    padding: 0 3% 3% 3%;
+    padding: 0 3% 1% 3%;
   }
   .ml_top_container{
     /* padding: 0px !important; */
@@ -25007,9 +25010,6 @@ img {
   }
   div p > a{
     padding: 5px !important;
-  }
-  .ml_text_height {
-    /* height: auto !important; */
   }
   .ml-sales-use-case ul {
     padding-left: 0;
@@ -25126,11 +25126,6 @@ img {
   border: 1px solid #789bd3;
 }
 
-
-.ml_interview_top_page {
-
-}
-
 .ml_customer_speak_image {
   height: 40px;
   width: auto;
@@ -25242,12 +25237,6 @@ img {
 .ml_padding_desktop {
   padding: 0 30%;
 }
-.ml_text_height {
-  /* height: 160px; */
-}
-.ml_subtext_height {
-  /* height: 120px !important; */
-}
 
 .ml_nav_container {
   max-width: 1660px;
@@ -25277,6 +25266,9 @@ img {
   .ml_text_col {
     display: block !important;
     width: 100% !important;
+  }
+  .ml_div_contents_in_center {
+    display: block !important;
   }
 }
 
