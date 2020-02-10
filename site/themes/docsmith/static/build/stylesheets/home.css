@@ -21619,7 +21619,7 @@ html, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p {
 .purple-background {background-color: #4841CE !important;}
 .white-font {color: #fff !important; opacity: 0.87 !important}
 
-// overriding already defined css above
+/* // overriding already defined css above */
 header .row:first-child,
 nav .row:first-child,
 section .row:first-child,
@@ -21791,7 +21791,7 @@ p {
   flex-wrap: wrap;
   justify-content: space-between;
   margin-left: 30px;
-  margin-right: :30px;
+  margin-right: 30px;
 }
 @media (min-width: 768px) {
   .ml-section-tree {
@@ -21989,6 +21989,9 @@ p {
     height: 300px !important;
     width: 400px !important;
   }
+  .ml_blog_header_bar {
+    margin-top: 50px !important;
+  }
 }
 .ml-compliance {
   height: 100%;
@@ -22018,7 +22021,7 @@ p {
     font-size: 1.2rem !important;
   }
   h5 {
-    font-size: 0.5rem !important;
+    font-size: 1rem !important;
   }
   p {
     font-size: 1rem !important;
@@ -22035,6 +22038,9 @@ p {
   }
   .ml_slider_related_blogs {
     padding: 0;
+  }
+  .ml_big_text {
+    font-size: 2rem !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
@@ -25011,9 +25017,9 @@ img {
   div p > a{
     padding: 5px !important;
   }
-  .ml-sales-use-case ul {
+  /* .ml-sales-use-case ul {
     padding-left: 0;
-  }
+  } */
 }
 
 .ml-blog-images {
@@ -25274,6 +25280,7 @@ img {
 
 /* blog page changes 12 June 2019 */
 .ml_blog_header_bar {
+  margin-top: 40px;
   padding: 15px;
   color: #fff;
   font-size: 1.1rem;
@@ -25659,6 +25666,24 @@ img {
 .ml_senior_living_top_section {
   background-image: url("/images/industry/senior_living.jpg");
   background-color: #4030c6;
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_enterprise_top_section {
+  background-image: url("/images/enterprise_ready.jpg");
+  /* background-color: #4030c6; */
+  color: #FFFFFF !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ml_customer_success_top_section {
+  background-image: url("/images/customer_success.jpg");
+  /* background-color: #4030c6; */
   color: #FFFFFF !important;
   background-position: center;
   background-repeat: no-repeat;

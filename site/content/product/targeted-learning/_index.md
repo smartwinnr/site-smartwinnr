@@ -11,58 +11,69 @@ layout: ml_layout
 title: Targeted Learning
 ---
 
-<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+<section class="">
+  <div class="ml_sales_contest_top_section">
+    <div class="padding50 ml_body_text_white">
+      <h1 class="text-center">Targeted Learning</h1>
+      <div class="ml-font20">A completely new approach to training sales teams.</div>
+      <div class="ml-font20">Harness the power of AI to identify areas of improvement.</div>
+    </div>
+    <div class="ml_video_container">
+      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <div class="ml_video_popup" id="ml_popup">
+        <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+        <div class="popup_message"> Test Message </div>
+        <div class="text-center popup_button">Click Me</div>
+      </div>
+    </div>
+  </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
+</section>
+
+<!-- <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h1>Targeted Learning</h1>
     <div class="ml-font20 ml_body_text_black">A completely new approach to training sales teams. Harness the power of AI to identify areas of improvement.</div>
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <!-- <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/> -->
-    <!-- <iframe src="https://res.cloudinary.com/smartwinnr/video/upload/v1580730068/website/Targeted_Learning_rxupp9.mp4" class="ml_iframe_video"></iframe> -->
     <video class="ml_iframe_video" autoplay loop>
       <source src="https://res.cloudinary.com/smartwinnr/video/upload/v1580730068/website/Targeted_Learning_rxupp9.mp4" type="video/mp4">
     </video>
   </div>
-</div>
+</div> -->
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/targeted-learning/smartfeed_dashboard (1).png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <!-- <div class="ml_div_contents_in_center_in_center"> -->
-      <div class="ml_label ml_smartfeed_badge">SmartFeeds</div><br>
-      <h4 class="ml_body_text_black ml-margin-bottom10">Microlearning that helps to sale more</h4>
-      <p>20% key information drives 80% of the deals. Cut the clutter and let SmartWinnr’s microlearning SmartFeeds reinforce key information. Product messaging, competitor intel or market insights - send bite-sized insights that matter.</p>
-    <!-- </div> -->
+    <div class="ml_label ml_smartfeed_badge">SmartFeeds</div><br>
+    <h2 class="ml_body_text_black ml-margin-bottom10">Microlearning that helps to sell more</h2>
+    <p class="ml-subtext ml_body_text_black">20% key information drives 80% of the deals. Cut the clutter and let SmartWinnr’s microlearning SmartFeeds reinforce key information. Product messaging, competitor intel or market insights - send bite-sized insights that matter.</p>
   </div>
 </div>
 
 <div class="row ml-margin0 ml_yellow_bg_gradient padding50">
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-    <h4 class="ml-title-font">Learn Anything, Anywhere</h4>
-    <div class="ml-subtext">Share product videos, infographics or pdfs as microlearning content</div>
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+    <h4 class="ml-title-font">Access Anytime, Anywhere</h4>
+    <div class="ml-subtext">Share product videos, marketing collaterals, competitive data as microlearning content. Access anytime, anywhere</div>
   </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font">Plan Ahead and Reduce Admin Overhead</h4>
     <div class="ml-subtext">Schedule SmartFeeds in advance. SmartWinnr sends the right content to the right person at the right time.</div>
   </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font">Track Engagement</h4>
-    <div class="ml-subtext">See real-time engagement metrics of SmartFeeds and take data-driven decisions</div>
+    <div class="ml-subtext">Track real-time engagement metrics of SmartFeeds and take data-driven decisions</div>
   </div>
 </div>
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-    <!-- <div class="ml_div_contents_in_center_in_center"> -->
-      <div class="ml_label ml_quiz_badge">Quizzes</div><br>
-      <h4 class="ml_body_text_black ml-margin-bottom10">Increase knowledge retention and reduce follow-up training</h4>
-      <p>AI-driven personalized assessments that help to retain key information 60% more effectively</p>
-      <!-- <p>Is your sales team struggling to remember key product, process or competitive information? Your problem is knowledge retention. Each salesperson has their own unique way of remembering. What one finds easy to remember, another might not. One-size-fits-all approach of traditional eLearning and LMS solutions don’t address this retention issue at all. Let SmartWinnr’s powerful AI take over for a personalized approach.</p>
-      <p>64% of all information is lost within 8 hours of a training session.</p> -->
-    <!-- </div> -->
+    <div class="ml_label ml_quiz_badge">Quizzes</div><br>
+    <h2 class="ml_body_text_black ml-margin-bottom10">Increase knowledge retention and reduce follow-up training</h2>
+    <p class="ml-subtext ml_body_text_black">AI-driven personalized assessments that help to retain key information 60% more effectively</p>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/targeted-learning/quiz_shots.png"/>
@@ -70,15 +81,15 @@ title: Targeted Learning
 </div>
 
 <div class="row ml-margin0 ml_blue_bg_gradient padding50">
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font ml_body_text_white">AI-Driven Delivery</h4>
     <div class="ml-subtext ml_body_text_white">SmartQuizz sends questions for each sales rep based on their individual knowledge levels. Be it new hire onboarding or a new product launch, SmartQuizzes will guarantee that your team has the right knowledge to face the challenge.</div>
   </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font ml_body_text_white">Powerful Analytics</h4>
     <div class="ml-subtext ml_body_text_white">Get real-time knowledge heat maps at individual, team or region level. Drill down on question-level analytics to find key gaps. Take a data-driven approach on knowledge gaps and reinforcements.</div>
   </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font ml_body_text_white">Gamified for Engagement</h4>
     <div class="ml-subtext ml_body_text_white">Rank individuals and teams in real-time leaderboards. Inspire and engage team by awarding points, badges and levels tied to their quiz performance.</div>
   </div>
@@ -98,14 +109,14 @@ title: Targeted Learning
   </div>
 </div> -->
 
-<div class="row ml-margin0 padding50">
+<div class="row ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-dreamforce-image" alt="Image" src="/images/targeted-learning/smartpaths.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_smartpath_badge"> SmartPaths </div>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Structured Learning Paths for Every Individual Person in your Team</h4>
-    <p>Each person in your team comes with a different knowledge level, experience and have different learning needs. SmartPaths help you to create a customized learning experience to each person in your sales team.</p>
+    <h2 class="ml_body_text_black ml-margin-bottom10">Structured Learning Paths for Every Individual Person in your Team</h2>
+    <p class="ml-subtext ml_body_text_black">Each person in your team comes with a different knowledge level, experience and have different learning needs. SmartPaths help you to create a customized learning experience to each person in your sales team.</p>
   </div>
 </div>
 
@@ -114,16 +125,14 @@ title: Targeted Learning
     <img class="ml-image" alt="Image" src="/images/targeted-learning/survey.png"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-    <!-- <div class="ml_div_contents_in_center_in_center"> -->
-      <div class="ml_label ml_survey_badge">Surveys</div ><br>
-      <h4 class="ml_body_text_black ml-margin-bottom10">Align training outcomes with learner expectations</h4>
-      <h5 class="ml_body_text_black ml-margin-bottom10">Easy-to-administer survey gives insights from your sales team to make your training more relevant and effective</h5>
-      <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
-        <li class="ml-margin-top10">Pre-training survey to capture expectations</li>
-        <li class="ml-margin-top10">Post-training surveys to evaluate the experience</li>
-        <li class="ml-margin-top10">Gather feedback for training need analysis</li>
-      </ul>
-    <!-- </div> -->
+    <div class="ml_label ml_survey_badge">Surveys</div ><br>
+    <h2 class="ml_body_text_black ml-margin-bottom10">Align training outcomes with learner expectations</h2>
+    <p class="ml-subtext ml_body_text_black">Easy-to-administer survey gives insights from your sales team to make your training more relevant and effective</p>
+    <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+      <li class="ml-margin-top10">Pre-training survey to capture expectations</li>
+      <li class="ml-margin-top10">Post-training surveys to evaluate the experience</li>
+      <li class="ml-margin-top10">Gather feedback for training need analysis</li>
+    </ul>
   </div>
 </div>
 
@@ -131,7 +140,7 @@ title: Targeted Learning
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <!-- <div class="ml_div_contents_in_center_in_center"> -->
       <div class="ml_label ml_smartfeed_badge">Reports</div><br>
-      <h4 class="ml_body_text_black ml-margin-bottom10">Get access to detailed reports  by business unit, country or team.</h4>
+      <h2 class="ml_body_text_black ml-margin-bottom10">Get access to detailed reports  by business unit, country or team.</h2>
       <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
         <li class="ml-margin-top10">Track engagement and completion</li>
         <li class="ml-margin-top10">Identify knowledge hotspots that can impact sales</li>
@@ -175,7 +184,7 @@ title: Targeted Learning
 </div> -->
 
 <div class="row ml-margin0 padding50">
-  <h2 class="text-center">Related Blogs</h2>
+  <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
       <div class="card post post-summary reveal enter">
@@ -292,3 +301,28 @@ title: Targeted Learning
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>
+
+<script>
+  // Cloudinary video player 
+  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
+  var videoPlayer = cld.videoPlayer('video-player', { 
+    // playedEventPercents: [10, 20],
+    autoplay: true,
+    loop: true
+  });
+  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1580730068/website/Targeted_Learning_rxupp9.mp4');
+  // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
+  // console.log(thumbnail);
+  videoPlayer.on('percentsplayed', (event) => {
+      if (event.eventData.percent == 10) {
+          document.getElementById("ml_popup").style.display = "block";
+      }
+      if(event.eventData.percent == 20) {
+          document.getElementById("ml_popup").style.display = "none";
+      }
+      console.log(event.eventData.percent + " percents played")
+  });
+  function hidePopup() {
+    document.getElementById("ml_popup").style.display = "none";
+  }
+</script>

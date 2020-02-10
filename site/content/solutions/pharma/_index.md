@@ -20,6 +20,7 @@ layout: ml_layout
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
   </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
 <!-- <section class="ml-homepage-first-section">
@@ -55,24 +56,24 @@ layout: ml_layout
         <div class="ml-subtext">Automatically send and track bite-sized information on latest product knowledge, clinical data and competitive intelligence</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity</div>
+        <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
+        <div class="ml-subtext">Drive real-time sales contests with points, badges, challenges and leaderboards to track and improve sales productivity</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Drive Effective Physician Messaging</h4>
-        <div class="ml-subtext">Use video coaching challenges to allow reps hone targeted messaging for physicians in a safe and encouraging environment</div>
+        <h4 class="ml-title-font">Drive Targeted Messaging for Physicians</h4>
+        <div class="ml-subtext">Use video coaching challenges to allow reps to practise targeted messaging for physicians in a safe and supportive environment</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Better Handle Objections</h4>
         <div class="ml-subtext">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Continuously Motivate and Engage with Your Field Force</h4>
-        <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform</div>
+        <h4 class="ml-title-font">Motivate and Engage with your Field Force Regularly</h4>
+        <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform to keep the teams motivated to win</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Easily Let Managers Track Performance and Knowledge</h4>
-        <div class="ml-subtext">Managers can track and coach individual reps on knowledge and performance from within the SmartWinnr mobile app.</div>
+        <h4 class="ml-title-font">Managers Track Performance and Knowledge Easily</h4>
+        <div class="ml-subtext">Managers can track and coach individual reps on knowledge and performance easily and quickly through the SmartWinnr mobile app</div>
       </div>
     </div>
   </div>
@@ -84,16 +85,18 @@ layout: ml_layout
         <h1>Develop a world class sales team with knowledge as a competitive advantage.</h1>
       </div>
       <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 ml-sales-use-case">
-        <p class="ml-bold-text ml_body_text_black">Use Cases for Medical Devices</p>
-        <ul>
-          <li class="ml_body_text_black ml-list-style-disc">Drive highly successful new product launch trainings and kick-offs</li>
-          <li class="ml_body_text_black ml-list-style-disc">Quickly ramp-up new sales reps knowledge during onboarding</li>
-          <li class="ml_body_text_black ml-list-style-disc">Improve sales through real-time gamified sales contests and challenges</li>
-          <li class="ml_body_text_black ml-list-style-disc">Drive powerful and engaging learning/sales events</li>
-          <li class="ml_body_text_black ml-list-style-disc">Conduct refresher trainings to keep teams up-to-date with latest knowledge</li>
-          <li class="ml_body_text_black ml-list-style-disc">Prepare sales teams for mandatory regulatory certifications</li>
-          <li class="ml_body_text_black ml-list-style-disc">Train sales teams on legal and compliance knowledge in different regions</li>
+        <p class="ml-bold-text ml_body_text_black">Use Cases for Pharma</p>
+        <ul class="ml_ul_tick">
+          <li class="ml_body_text_black">Drive highly successful new drug launch trainings and sales kick-offs</li>
+          <li class="ml_body_text_black">Quickly ramp-up new medical reps knowledge during onboarding</li>
+          <li class="ml_body_text_black">Improve sales through real-time gamified sales contests and challenges</li>
+          <li class="ml_body_text_black">Drive powerful and engaging cycle events</li>
+          <li class="ml_body_text_black">Conduct refresher trainings to keep teams up-to-date with latest knowledge</li>
+          <li class="ml_body_text_black">Prepare sales teams for mandatory regulatory certifications</li>
+          <li class="ml_body_text_black">Train sales teams on legal and compliance knowledge in different regions</li>
         </ul>
       </div>
     </div>
 </section>
+
+

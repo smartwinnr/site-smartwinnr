@@ -11,17 +11,19 @@ layout: ml_layout
 title: Gamification
 ---
 
-<div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
-    <h1>Gamification</h1>
-    <div class="ml-font20 ml_body_text_black">Engage and motivate to boost performance.</div>
-    <h4>Be it learning or performance, gamification plays an important role in increasing engagement of your sales teams. Use SmartWinnr’s ready-made gamification mechanisms like competitions, leaderboards, challenges, badges and levels to introduce gamification into their day-to-day activities.</h4>
-    <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
+<section class=" white ml_no_padding_right50">
+  <div class="row ml_div_contents_in_center">
+    <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+      <h1>Gamification</h1>
+      <div class="ml-font20 ml_body_text_black">Engage and motivate to boost performance.</div>
+      <div class="ml-font20 ml_body_text_black">Be it learning or performance, gamification plays an important role in increasing engagement of your sales teams. Use SmartWinnr’s ready-made gamification mechanisms like competitions, leaderboards, challenges, badges and levels to introduce gamification into their day-to-day activities.</div>
+      <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
+    </div>
+    <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 padding0">
+      <img class="ml_top_image" alt="Image" src="/images/gamification_hero.png"/>
+    </div>
   </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/>
-  </div>
-</div>
+</section>
 
 <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">

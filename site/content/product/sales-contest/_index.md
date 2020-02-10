@@ -26,7 +26,7 @@ title: Sales Contest
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<div class="row ml-margin0 white padding50">
+<!-- <div class="row ml-margin0 white padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
     <h1>Sales Contest</h1>
     <div class="ml-font20 ml_body_text_black">Drive sales contests that meet your business targets. Motivate your team to achieve sales goals by organizing weekly, monthly or quarterly sales contests.</div>
@@ -35,9 +35,9 @@ title: Sales Contest
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/>
   </div>
-</div>
+</div> -->
 
-<div class="row ml-margin0 padding50">
+<div class="row ml-background-white ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/sales-contest/monthly_scorecard.png"/>
   </div>
@@ -199,19 +199,7 @@ title: Sales Contest
 <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', { 
-    transformation: {
-      overlay: "text:arial_60:Example",
-      gravity: "north_west",
-      x: 20,
-      y: 20,
-      start_offset: 3,
-      end_offset: 10,
-      color: 'red',
-      width: 600,
-      crop: 'limit'
-    },
-    playedEventPercents: [10, 20]});
+  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
   // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
   // console.log(thumbnail);

@@ -11,7 +11,19 @@ layout: ml_layout
 title: Customer Success
 ---
 
-<section class="ml-whySM">
+<section class="">
+  <div class="ml_customer_success_top_section row padding50">
+    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+      <div class="ml_label ml_smartpath_badge">Customer Success</div><br>
+      <h1>Our Company</h1>
+      <div class="ml-font20 padding0">We help your employees to be at the top of their game.</div></br>
+      <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
+    </div>
+  </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
+</section>
+
+<!-- <section class="ml-whySM">
   <div class="container">
     <div class="row">
       <div class="col-md-12 col-sm-12">
@@ -21,42 +33,60 @@ title: Customer Success
       </div>
     </div>
   </div>
-</section>
-<section>
-  <!-- <div class="ml-green-tile padding100">
-    <div class="row text-center ml-container">
-      <h2>Our Company</h2>
-      <h3>We help your employees to be at the top of their game.</h3>
-      <div> <a class="colorbox-node btn btn-warning" href="./?q=node/12">Request demo</a></div>
-    </div>
-  </div> -->
+</section> -->
+<!-- <section>
   <div id="enterprisefeatures" class="ml-container ml-background-white padding50 ">
       <div class="row padding30 text-center">
         <h1 class="ml-title ml-margin-bottom0">Get set up for success</h1>
         <p class="ml_body_text_black">Our team will be with you every step of the way</p>
       </div>
-      <!-- Product Features Row 2 -->
       <div class="row ml-prodfeaturerow ml-no-border-bottom">
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
             <span class="icon-lock ml-icon-blue"></span>
-            <!-- <img src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/data_centre_secuirty.svg" class="qpicon" /> -->
             <p class="ml-bold-text text-center">Deploy SmartWinnr with our help</p>
             <p class="ml_body_text_black">Our dedicated team will help you configure and setup SmartWinnr that best suits your business needs. We will share our expertise and experience in deploying SmartWinnr in large enterprises.</p>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
             <span class="icon-key ml-icon-blue"></span>
-            <!-- <img src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/encryption_data_at_rest.svg" class="qpicon" /> -->
             <p class="ml-bold-text text-center">Onboarding</p>
             <p class="ml_body_text_black">We will create a customized rollout plan and communication strategy that will help in getting quick adoption within your user base. We help you to adopt best practices for long-term success and drive higher RoI.</p>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center bottom-separator ml-prodfeaturecell">
             <span class="icon-brain ml-icon-blue"></span>
-            <!-- <img src="https://s3-us-west-2.amazonaws.com/quizprompt.com.site.resources/img/brand/prodfeatures/encryption_data_in_motion.svg" class="qpicon" /> -->
             <p class="ml-bold-text text-center">Training and Support</p>
             <p class="ml_body_text_black">We will be here to answer questions, provide training, and support your team as you deploy and use SmartWinnr.</p>
           </div>
         </div>
       </div>
+  </div>
+</section> -->
+
+<section class="ml-background-white">
+  <div class="padding50">
+    <div class="row ml-margin-bottom20">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+        <h1>World Class Support Team</h1>
+        <div class="ml-font20">If you have any questions on how to use SmartWinnr and whether it can benefit your organization, we have an amazing support team to help you!</div>
+        <div class="row ml-margin-top20">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="pull-left">
+              <h1>98%</h1>
+              <h4>Satisfaction rate</h4>
+            </div>
+            <div class="pull-right">
+              <h1> < 1 hour</h1>
+              <h4>Response times</h4>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button-blue" align="center" href="/request-demo">Ask A Question</a></p>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+        <img class="" alt="Image" src="/images/home_world_class_support_team.png">
+      </div>
+    </div>
   </div>
 </section>

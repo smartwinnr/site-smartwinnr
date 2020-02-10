@@ -20,6 +20,30 @@ layout: ml_layout
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
   </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
+</section>
+
+<section class="ml-background-white">
+  <div class="padding50">
+    <div class="row ml_div_contents_in_center">
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml-margin-bottom20">
+        <h1 class="text-center">Make learning fun and engaging!</h1>
+        <div class="‘ml-subtext ml-margin-bottom20">Learn how Poly uses SmartWinnr to make learning fun and engaging. Laura Welch, ex Senior Director, Sales Enablement, Poly in conversation with Gerhard Gschwandtner, CEO, Selling Power Magazine, at the Sales Enablement Society Conference in Denver. <a class="ml-title-blue" href="/customer-stories/polycom-laura-welch-interview">Read More</a>
+        </div>
+        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div class="ml_video_container">
+          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+          <div class="ml_video_popup" id="ml_popup">
+            <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+            <div class="popup_message"> Test Message </div>
+            <div class="text-center popup_button">Click Me</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- <section class="ml-homepage-first-section">
@@ -78,29 +102,6 @@ layout: ml_layout
   </div>
 </section>
 
-<section class="ml-background-white">
-  <div class="padding50">
-    <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml-margin-bottom20">
-        <h1 class="text-center">Make learning fun and engaging!</h1>
-        <div class="ml-font20 ml-margin-bottom20">Learn how Poly uses SmartWinnr to make learning fun and engaging. Laura Welch, ex Senior Director, Sales Enablement, Poly in conversation with Gerhard Gschwandtner, CEO, Selling Power Magazine, at the Sales Enablement Society Conference in Denver. <a class="ml-title-blue" href="/customer-stories/polycom-laura-welch-interview">Read More</a>
-        </div>
-        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
-      </div>
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-        <div class="ml_video_container">
-          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
-          <div class="ml_video_popup" id="ml_popup">
-            <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
-            <div class="popup_message"> Test Message </div>
-            <div class="text-center popup_button">Click Me</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="ml_background padding50">
     <div class="row ml-margin-bottom20">
       <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 ml-text-on-image">
@@ -108,13 +109,13 @@ layout: ml_layout
       </div>
       <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 ml-sales-use-case">
         <p class="ml-bold-text ml_body_text_black">Use Cases for Technology</p>
-        <ul>
-          <li class="ml_body_text_black ml-list-style-disc">Drive highly successful new product launch trainings and kick-offs</li>
-          <li class="ml_body_text_black ml-list-style-disc">Quickly ramp-up new SDR knowledge during onboarding</li>
-          <li class="ml_body_text_black ml-list-style-disc">Improve sales through real-time gamified sales contests and challenges</li>
-          <li class="ml_body_text_black ml-list-style-disc">Drive powerful and engaging learning/sales events for inside and channel sales</li>
-          <li class="ml_body_text_black ml-list-style-disc">Easily train distributors and customers on product knowledge and usage</li>
-          <li class="ml_body_text_black ml-list-style-disc">Conduct refresher trainings to keep teams up-to-date with latest knowledge</li>
+        <ul class="ml_ul_tick">
+          <li class="ml_body_text_black">Drive highly successful new product launch trainings and kick-offs</li>
+          <li class="ml_body_text_black">Quickly ramp-up new SDR knowledge during onboarding</li>
+          <li class="ml_body_text_black">Improve sales through real-time gamified sales contests and challenges</li>
+          <li class="ml_body_text_black">Drive powerful and engaging learning/sales events for inside and channel sales</li>
+          <li class="ml_body_text_black">Easily train distributors and customers on product knowledge and usage</li>
+          <li class="ml_body_text_black">Conduct refresher trainings to keep teams up-to-date with latest knowledge</li>
         </ul>
       </div>
     </div>

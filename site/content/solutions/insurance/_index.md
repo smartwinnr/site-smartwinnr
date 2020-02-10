@@ -20,6 +20,7 @@ layout: ml_layout
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
   </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
 <!-- <section class="ml-homepage-first-section">
@@ -63,8 +64,8 @@ layout: ml_layout
         <div class="ml-subtext">20% top agents contribute significantly to your sales. Create a tiered sales contest, celebrate wins, share success stories and recognize achievements to motivate the top 20% while inspiring the rest of the team as well to perform at their full potential.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Reduce Supervisory Coste</h4>
-        <div class="ml-subtext">SmartWinnr’s intelligent tracking and nudges helps agents perform better with less direct supervision.</div>
+        <h4 class="ml-title-font">Reduce Supervisory Cost</h4>
+        <div class="ml-subtext">SmartWinnr’s intelligent tracking and automated nudges help agents perform better with less direct supervision.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Sales through Bancassurance and Other Third-Party Channels</h4>
@@ -79,8 +80,8 @@ layout: ml_layout
         <div class="ml-subtext">Help teams to uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity.</div>
+        <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
+        <div class="ml-subtext">Drive real-time sales contests with points, badges, challenges and leaderboards to track and improve sales productivity.</div>
       </div>
     </div>
   </div>
@@ -93,12 +94,12 @@ layout: ml_layout
       </div>
       <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 ml-sales-use-case">
         <p class="ml-bold-text ml_body_text_black">Use Cases for Insurance</p>
-        <ul>
-          <li class="ml_body_text_black ml-list-style-disc">Create gamified incentive plans that aligns with your business goals</li>
-          <li class="ml_body_text_black ml-list-style-disc">Train agents on new products through bite-sized product knowledge and gamified quizzes</li>
-          <li class="ml_body_text_black ml-list-style-disc">Quickly ramp-up new team member’s knowledge during onboarding</li>
-          <li class="ml_body_text_black ml-list-style-disc">Improve sales through real-time gamified sales contests and challenges</li>
-          <li class="ml_body_text_black ml-list-style-disc">Coach new agents on key selling skills like objection handling and managing rejection through video coaching</li>
+        <ul class="ml_ul_tick">
+          <li class="ml_body_text_black">Create gamified incentive plans that aligns with your business goals</li>
+          <li class="ml_body_text_black">Train agents on new products through bite-sized product knowledge and gamified quizzes</li>
+          <li class="ml_body_text_black">Quickly ramp-up new team member’s knowledge during onboarding</li>
+          <li class="ml_body_text_black">Improve sales through real-time gamified sales contests and challenges</li>
+          <li class="ml_body_text_black">Coach new agents on key selling skills like objection handling and managing rejection through video coaching</li>
         </ul>
       </div>
     </div>

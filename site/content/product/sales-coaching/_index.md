@@ -29,8 +29,8 @@ title: Sales Coaching
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartfeed_badge">Video Coaching</div><br>
-      <h4 class="ml_body_text_black ml-margin-bottom10">Video Coaching: Practice makes it perfect</h4>
-      <h5 class="ml_body_text_black ml-margin-bottom10">Get your sales team practice in a supportive environment. Help to master price objections, account transitions, new product sales scripts and more. Pick a scenario and get your sales team to record a video response through the SmartWinnr app. Review and give helpful feedback. Share the best videos with everyone driving peer learning.</h5>
+      <h2 class="ml_body_text_black ml-margin-bottom10">Video Coaching: Practice makes it perfect</h2>
+      <p class="ml-subtext ml_body_text_black">Get your sales team practice in a supportive environment. Help to master price objections, account transitions, new product sales scripts and more. Pick a scenario and get your sales team to record a video response through the SmartWinnr app. Review and give helpful feedback. Share the best videos with everyone driving peer learning.</p>
       <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
         <li class="ml-margin-top10">Drive sales pitch contest</li>
         <li class="ml-margin-top10">Improve sales script delivery through positive feedbacks</li>
@@ -70,25 +70,30 @@ title: Sales Coaching
   </div>
 </div> -->
 
-<div class="row ml-margin0 ml-background-light padding50">
+<div class="row ml-margin0 ml-background-light padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/coaching-framework.jpg"/>
+    <img class="ml-image" alt="Image" src="/images/sales-coaching/coaching_steps.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> SmartWinnr Coaching Framework </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10"><strong>Practice:</strong> Practice makes a pitch perfect. Sellers can record their pitch and preview it until it comes out perfect. Once they are confident, they can upload the video from the SmartWinnr app in just one click.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"><strong>Assess:</strong> Videos are assessed based on a structured competency framework. Managers and coaches can give qualitative and quantitative feedback to improve messaging.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"><strong>Gamify:</strong> Gamify your coaching using live leaderboards. Create team competitions to further increase engagement and learning.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"><strong>Share:</strong> Share best videos with your team to drive best practices. Preserve top videos as future learning reference.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"><strong>Experience the Same Video Technology that Drives Amazon Prime</strong><br><br> Poor internet speed? Unreliable network? No problem. SmartWinnr uses the same technology that drives Amazon Prime by splitting your video into short segments. You don’t have to wait for the entire video to download to start viewing. Depending on your network speed, we automatically serve appropriate video resolution. The result - smooth viewing in any device, anywhere.</h4>
+    <h2 class="ml_body_text_black ml-margin-bottom10"> SmartWinnr Coaching Framework </h2>
+    <p class="ml-subtext ml_body_text_black"><strong>Practice:</strong> Practice makes a pitch perfect. Sellers can record their pitch and preview it until it comes out perfect. Once they are confident, they can upload the video from the SmartWinnr app in just one click.</p>
+    <p class="ml-subtext ml_body_text_black"><strong>Assess:</strong> Videos are assessed based on a structured competency framework. Managers and coaches can give qualitative and quantitative feedback to improve messaging.</p>
+    <p class="ml-subtext ml_body_text_black"><strong>Gamify:</strong> Gamify your coaching using live leaderboards. Create team competitions to further increase engagement and learning.</p>
+    <p class="ml-subtext ml_body_text_black"><strong>Share:</strong> Share best videos with your team to drive best practices. Preserve top videos as future learning reference.</p>
+    <!-- <p class="ml-subtext ml_body_text_black"><strong>Experience the Same Video Technology that Drives Amazon Prime</strong><br><br> Poor internet speed? Unreliable network? No problem. SmartWinnr uses the same technology that drives Amazon Prime by splitting your video into short segments. You don’t have to wait for the entire video to download to start viewing. Depending on your network speed, we automatically serve appropriate video resolution. The result - smooth viewing in any device, anywhere.</p> -->
   </div>
+</div>
+
+<div class="row ml-margin0 ml_blue_bg_gradient padding50 text-center ml_body_text_white">
+  <h2 class="ml-margin-bottom10">Experience the Same Video Technology that Drives Amazon Prime</h2>
+  <p class="ml-subtext">Poor internet speed? Unreliable network? No problem. SmartWinnr uses the same technology that drives Amazon Prime by splitting your video into short segments. You don’t have to wait for the entire video to download to start viewing. Depending on your network speed, we automatically serve appropriate video resolution. The result - smooth viewing in any device, anywhere.</p>
 </div>
 
 <div class="row ml-margin0 ml_no_padding_right50 white ml_div_contents_in_center">
   <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartfeed_badge">CoachTogether</div><br>
-      <h4 class="ml_body_text_black ml-margin-bottom10">A Structured Coaching Platform That Delivers Results</h4>
-      <h5 class="ml_body_text_black ml-margin-bottom10">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the coaching process. They do baseline assessments, set coaching goals for joint field visits, and provide crucial feedback to their sales reps.</h5>
+      <h2 class="ml_body_text_black ml-margin-bottom10">A Structured Coaching Platform That Delivers Results</h2>
+      <p class="ml-subtext ml_body_text_black">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the coaching process. They do baseline assessments, set coaching goals for joint field visits, and provide crucial feedback to their sales reps.</p>
   </div>
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/sales-coaching/coachtogether.png"/>
@@ -96,23 +101,23 @@ title: Sales Coaching
 </div>
 
 <div class="row ml-margin0 ml_yellow_bg_gradient padding50">
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font">Drive Systematic Coaching Process</h4>
     <div class="ml-subtext">Replace ad-hoc coachings with a flexible structured digitized coaching process</div>
   </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font">Maintain Coaching Records</h4>
     <div class="ml-subtext">Maintain records of all joint field visits, evaluations, task/skill ratings, directions on the next steps of the sales rep and manager.</div>
   </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     <h4 class="ml-title-font">Get Holistic Analysis of Team Capabilities</h4>
     <div class="ml-subtext">Compliments quantitative performance measures to increase productivity and provide direction.</div>
   </div>
 </div>
 
-<div class="row ml-margin0 ml_blue_bg_gradient padding30 text-center ml_body_text_white">
+<!-- <div class="row ml-margin0 ml_blue_bg_gradient padding30 text-center ml_body_text_white">
   Quality + Quantity x Direction = Sales Force Effectiveness
-</div>
+</div> -->
 
 <div class="row ml-margin0 ml_no_padding_right50 white ml_div_contents_in_center">
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
@@ -161,7 +166,7 @@ title: Sales Coaching
 </div> -->
 
 <div class="row ml-margin0 white padding50">
-  <h2 class="text-center">Related Blogs</h2>
+  <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
       <div class="card post post-summary reveal enter">
