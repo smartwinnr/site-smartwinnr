@@ -21909,7 +21909,7 @@ p {
 }
 
 .ml-advantage {
-  background-color: #342c48;
+  background: linear-gradient(to right, #0747A6, #0065FF);
   /* padding: 10% 5% !important; */
 }
 /* .ml-advantage {background-color: #342c48;} */
@@ -25178,7 +25178,6 @@ img {
   height: 200px !important;
   width: auto !important;
   display:block;
-  margin:auto;
   margin-bottom: 20px !important;
 }
 
@@ -25188,7 +25187,8 @@ img {
 }
 
 .ml-homepage-first-section {
-  background: #fff !important;
+  /* background: #FFC400 !important; */
+  background: linear-gradient(to right, #FFC400, #ff991f);
   color: #000 !important;
   /* padding: 5% !important; */
 }
@@ -25778,6 +25778,18 @@ img {
   padding: 5% 0 5% 10%;
 }
 
+.ml_no_padding_left50 {
+  padding: 5% 10% 5% 0;
+}
+
+.ml_no_padding_bottom_left50 {
+  padding: 5% 10% 0 0;
+}
+
+.ml_no_padding_bottom50 {
+  padding: 5% 10% 0 10%;
+}
+
 .ml_no_padding_bottom_right50 {
   padding: 5% 0 0 10%;
 }
@@ -25812,4 +25824,8 @@ img {
 .ml_smartpath_badge {
   background: #E6FCFF;
   color: #00A3BF;
+}
+
+.ml_zindex1 {
+  z-index: 1;
 }

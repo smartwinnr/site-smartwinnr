@@ -55,15 +55,15 @@ layout: ml_layout
         <div class="ml-subtext">Improve product and competitive knowledge through bite-sized SmartFeeds and automated gamified quizzes</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Digitize your Sales Competitions for Higher RoI</h4>
-        <div class="ml-subtext">Drive real-time sales competitions with points, badges, challenges and more to track and improve sales productivity and target any strategic KPIs</div>
+        <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
+        <div class="ml-subtext">Drive real-time sales contests with points, badges, challenges and leaderboards to track and improve sales performance and target any strategic KPIs.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Increase Up & Cross-Sell Revenue</h4>
         <div class="ml-subtext">Help SDRs uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Improve Sales Pitch Through Continuous Practise</h4>
+        <h4 class="ml-title-font">Improve Sales Pitch Through Continuous Practice</h4>
         <div class="ml-subtext">Send video coaching challenges to let SDRs practice critical sellings skills in a safe and supporting environment.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
@@ -73,6 +73,29 @@ layout: ml_layout
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Continuously Motivate and Engage with Your Teams</h4>
         <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ml-background-white">
+  <div class="padding50">
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml-margin-bottom20">
+        <h1 class="text-center">Make learning fun and engaging!</h1>
+        <div class="ml-font20 ml-margin-bottom20">Learn how Poly uses SmartWinnr to make learning fun and engaging. Laura Welch, ex Senior Director, Sales Enablement, Poly in conversation with Gerhard Gschwandtner, CEO, Selling Power Magazine, at the Sales Enablement Society Conference in Denver. <a class="ml-title-blue" href="/customer-stories/polycom-laura-welch-interview">Read More</a>
+        </div>
+        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div class="ml_video_container">
+          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+          <div class="ml_video_popup" id="ml_popup">
+            <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+            <div class="popup_message"> Test Message </div>
+            <div class="text-center popup_button">Click Me</div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -96,3 +119,23 @@ layout: ml_layout
       </div>
     </div>
 </section>
+
+
+<script>
+  // Cloudinary video player 
+  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
+  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
+  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581137574/website/How_Polycom_makes_learning_fun_with_a_smart_new_tool_cwnbry.mp4');
+  videoPlayer.on('percentsplayed', (event) => {
+      if (event.eventData.percent == 10) {
+          document.getElementById("ml_popup").style.display = "block";
+      }
+      if(event.eventData.percent == 20) {
+          document.getElementById("ml_popup").style.display = "none";
+      }
+      console.log(event.eventData.percent + " percents played")
+  });
+  function hidePopup() {
+    document.getElementById("ml_popup").style.display = "none";
+  }
+</script>

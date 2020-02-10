@@ -8,28 +8,22 @@ type: ml_layout
 layout: ml_layout
 ---
 
-<section class="ml-homepage-first-section">
-  <div class="padding50">
-    <div class="row ml-margin-bottom0">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <h1>Get your team to sell smarter, better, faster</h1>
-        <div class="ml-font20">It's difficult to keep your sales team up-to-date with latest product knowledge, guarantee uniform messaging during customer interactions, and motivate them to drive results.</div></br>
-        <div class="ml-font20">SmartWinnr helps you with</div>
-        <div class="ml-subtext ml-font20">
-          <ul class="ml_line_height2">
-            <li>Continuous coaching to improve customer interactions</li>
-            <li>Competitions and Gamified KPIs to boost sales</li>
-            <li>AI-driven assessments and regular reinforcements to drive product knowledge</li>
-          </ul>
-        </div>
+<section class="">
+  <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
+    <div class="row ml-margin0 ml_div_contents_in_center">
+      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
+        <h1>World’s Number 1 mobile-first Sales Productivity Platform</h1>
+        <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for on-the-field sales teams.</div></br>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <img class="ml-image" alt="Image" src="../images/home_hero_image_smartwinnr.png">
+      <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="../images/homepage/home_hero_new.png">
       </div>
     </div>
   </div>
+  <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
+
 <!-- <section class="ml_top_container padding0">
   <div class="ml_homepage_slider">
     <div class="row ml-margin-bottom0">
@@ -56,7 +50,7 @@ layout: ml_layout
   </div>
 </section> -->
 
-<section class="ml-key-points">
+<section class="ml-key-points ml-background-white">
   <div class="padding50">
     <div class="row">
       <div class="col-md-12 col-sm-12">
@@ -152,6 +146,18 @@ layout: ml_layout
 <section class="ml-advantage">
   <div class="padding50">
     <div class="row">
+      <div class="col-md-4 col-sm-4 ">
+        <div class="single-service padding">
+          <div class="text-center ml-margin-bottom20">
+            <span class="icon-lan ml-icon-white"></span>
+          </div>
+          <h2 class="ml_body_text_white text-center">Only incentives will not boost sales</h2>
+          <div class="ml_body_text_white ml-subtext">
+            How much more incentive can be given to drive more sales?
+            You can either hire more people or give them higher incentives to accelerate sales growth. But the question remains - can you use the same team to drive more sales?              
+          </div>
+        </div>
+      </div>
       <div class="col-md-4 col-sm-4">
         <div class="single-service padding">
           <div class="text-center ml-margin-bottom20">
@@ -170,20 +176,7 @@ layout: ml_layout
           </div>
           <h2 class="ml_body_text_white text-center">Lack of uniform messaging while speaking to customers</h2>
           <div class="ml_body_text_white ml-subtext">
-            Traditionally, role plays have been used to train sales people on customer interactions. But these are time consuming and challenging to run for a distributed sales team.
-            Without regular practice, your salesteams won’t generate trust and confidence in customers during objection handling and new product launch.
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-4 ">
-        <div class="single-service padding">
-          <div class="text-center ml-margin-bottom20">
-            <span class="icon-lan ml-icon-white"></span>
-          </div>
-          <h2 class="ml_body_text_white text-center">Only incentives will not boost sales</h2>
-          <div class="ml_body_text_white ml-subtext">
-            How much more incentive can be given to drive more sales?
-            You can either hire more people or give them higher incentives to accelerate sales growth. But the question remains - can you use the same team to drive more sales?              
+            Traditionally, role plays have been used to train sales people on customer interactions. But these are challenging to run for a distributed sales team. Without regular practice, your sales teams cannot have correct sales conversation with the buyer groups.
           </div>
         </div>
       </div>
@@ -261,11 +254,20 @@ layout: ml_layout
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <div class="row ml-margin-bottom20">
           <div class="col-lg-2 col-md-2 text-center padding30">
+            <span class="icon-aim ml-icon-blue"></span>
+          </div>
+          <div class="col-lg-10 col-md-10">
+            <h4 class="ml-title-adjustable ml-title-font">Gamify Targets to drive sales productivity</h4>
+            <div class="ml-subtext">Create quarterly and annual scorecards, challenges and contests to motivate sales teams to drive maximum sales productivity.<a class="ml_body_text_blue" href="/product/sales-contest"> Learn More</a></div>
+          </div>
+        </div>
+        <div class="row ml-margin-bottom20">
+          <div class="col-lg-2 col-md-2 text-center padding30">
             <span class="icon-lamp ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
             <h4 class="ml-title-adjustable ml-title-font">Track and Reinforce Product Information</h4>
-            <div class="ml-subtext">Use SmartWinnr’s AI to reinforce key messages regularly, measure and track retention of product information while making it fun and engaging.</div>
+            <div class="ml-subtext">Use SmartWinnr’s AI to reinforce key messages regularly, measure and track retention of product information while making it fun and engaging.<a class="ml_body_text_blue" href="/product/targeted-learning"> Learn More</a></div>
           </div>
         </div>
         <div class="row ml-margin-bottom20">
@@ -274,16 +276,7 @@ layout: ml_layout
           </div>
           <div class="col-lg-10 col-md-10">
             <h4 class="ml-title-adjustable ml-title-font">Drive uniform messaging through regular Video Coachings</h4>
-            <div class="ml-subtext">Help your teams practice their customer interactions through regular video coachings. Use your own competency framework to provide systematic feedback and support.</div>
-          </div>
-        </div>
-        <div class="row ml-margin-bottom20">
-          <div class="col-lg-2 col-md-2 text-center padding30">
-            <span class="icon-aim ml-icon-blue"></span>
-          </div>
-          <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Gamify Targets to drive sales productivity</h4>
-            <div class="ml-subtext">Create quarterly and annual scorecards, challenges and competitions to motivate sales teams to drive maximum sales productivity.</div>
+            <div class="ml-subtext">Help your teams practice their customer interactions through regular video coachings. Use your own competency framework to provide systematic feedback and support.<a class="ml_body_text_blue" href="/product/sales-coaching"> Learn More</a></div>
           </div>
         </div>
       </div>
@@ -327,40 +320,51 @@ layout: ml_layout
     <div class="row ml-margin-bottom20">
       <p align="center" class=""><a class="ml-button-blue" align="center" href="/request-demo">Request demo</a></p>
     </div>
-    <div class="row ml-margin-bottom20">
+    <div class="row ml-margin-bottom20 ml_text_flex_row">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png">
-        <h4 class="ml-title-font">Gamify KPIs</h4>
-        <div class="ml-subtext">SmartWInnr doubles your sales productivity by gamifying KPIs. Run contests and challenges to motivate your team</div>
+        <a class="ml_body_text_blue" href="/product/sales-contest">
+          <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png">
+          <h4 class="ml-title-font">Drive Successful Sales Contests</h4>
+        </a>
+        <div class="ml-subtext">SmartWInnr doubles your sales productivity by gamifying KPIs. Run contests and challenges to motivate your team.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png">
-        <h4 class="ml-title-font">New Product Launch</h4>
+        <a class="ml_body_text_blue" href="/solutions/new-product-launch">
+          <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png">
+          <h4 class="ml-title-font">New Product Launch</h4>
+        </a>
         <div class="ml-subtext">SmartWinnr helps you to answer - How ready is my sales team to launch the new product? Tailor training plans, reinforce and measure retention of product launch information.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png">
-        <h4 class="ml-title-font">Refresher Product Trainings</h4>
+        <a class="ml_body_text_blue" href="/solutions/channel-partner-training">
+          <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png">
+          <h4 class="ml-title-font">Refresher Product Trainings</h4>
+        </a>
         <div class="ml-subtext">Ensure meaningful conversations with customers. SmartWinnr helps your sales teams to retain latest product information, reinforce key messages, and more.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png">
-        <h4 class="ml-title-font">Drive Sales Methodology</h4>
+        <a class="ml_body_text_blue" href="/solutions/channel-partner-training">
+          <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png">
+          <h4 class="ml-title-font">Drive Sales Methodology</h4>
+        </a>
         <div class="ml-subtext">Use SmartWinnr to drive adoption of your new sales methodology. Teams practice selling by using the ‘steps-of-the-sale’ through Video Coaching.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png">
-        <h4 class="ml-title-font">New Hire Onboarding</h4>
+        <a class="ml_body_text_blue" href="/solutions/new-hire-onboarding">
+          <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png">
+          <h4 class="ml-title-font">New Hire Onboarding</h4>
+        </a>
         <div class="ml-subtext">Reduce time to productivity of your new hires. Create contests and leaderboards, quiz them on sessions and get them excited to be part of your organization.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png">
-        <h4 class="ml-title-font">Drive Engaging Sales Events</h4>
+        <a class="ml_body_text_blue" href="/solutions/sales-events">
+          <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png">
+          <h4 class="ml-title-font">Drive Engaging Sales Events</h4>
+        </a>
         <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
       </div>
     </div>
     <!-- <div class="row ml-margin-bottom20">
-      
     </div> -->
   </div>
 </section>
@@ -371,10 +375,9 @@ layout: ml_layout
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ml-margin-bottom20">
         <h1 class="text-center">Make learning fun and engaging!</h1>
-        <div class="ml-font20 ml-margin-bottom20">Learn how Polycom uses SmartWinnr to make learning fun and engaging. Laura Welch, Senior Director, Sales Enablement, Polycom in conversation with Gerhard Gschwandtner, CEO, Selling Power Magazine, at the Sales Enablement Society Conference in Denver. <a class="ml-title-blue" href="/customer-stories/polycom-laura-welch-interview">Read More</a>
-          <!-- <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button-blue" align="center" href="/customer-stories/polycom-laura-welch-interview">Read more</a></p> -->
+        <div class="ml-font20 ml-margin-bottom20">Learn how Poly uses SmartWinnr to make learning fun and engaging. Laura Welch, ex Senior Director, Sales Enablement, Poly in conversation with Gerhard Gschwandtner, CEO, Selling Power Magazine, at the Sales Enablement Society Conference in Denver. <a class="ml-title-blue" href="/customer-stories/polycom-laura-welch-interview">Read More</a>
         </div>
-        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/polycom-logo-R-h-rgb.png" alt="Polycom Logo">
+        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="ml_video_container">
@@ -385,7 +388,6 @@ layout: ml_layout
             <div class="text-center popup_button">Click Me</div>
           </div>
         </div>
-        <!-- <iframe class="ml_responsive_video" src="https://www.youtube.com/embed/xkkVJRuhuNY" height="400px" width="600px" frameborder="0" rel="0"></iframe> -->
       </div>
     </div>
   </div>
@@ -426,7 +428,7 @@ layout: ml_layout
             </div>
             <h2 class="ml_body_text_white text-center">Intuitive and Easy-to-use</h2>
             <div class="ml_body_text_white ml-subtext">
-              Our customers love the simplicity of SmartWinnr. Executives with limited time can take quizzes and read feeds with just a few clicks on their smartphones.
+              SmartWinnr has been designed specially for on-the-field sales teams. The interface is easy to use, all tasks are grouped together and can be completed in 1 click.
             </div>
           </div>
         </div>
@@ -437,7 +439,7 @@ layout: ml_layout
             </div>
             <h2 class="ml_body_text_white text-center">Ready to Go in Minutes</h2>
             <div class="ml_body_text_white ml-subtext">
-              SmartWinnr’s intuitive interface lets you create and assign quizzes and feeds in minutes. Save time by scheduling quizzes/feeds in advance. Reuse questions and feeds from a central repository.
+              SmartWinnr is easy to implement and easy to use. Admins spend very little time as all resources are reusable and tasks can be scheduled in advance.
             </div>
           </div>
         </div>

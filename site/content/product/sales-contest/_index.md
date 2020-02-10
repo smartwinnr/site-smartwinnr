@@ -199,8 +199,22 @@ title: Sales Contest
 <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
+  var videoPlayer = cld.videoPlayer('video-player', { 
+    transformation: {
+      overlay: "text:arial_60:Example",
+      gravity: "north_west",
+      x: 20,
+      y: 20,
+      start_offset: 3,
+      end_offset: 10,
+      color: 'red',
+      width: 600,
+      crop: 'limit'
+    },
+    playedEventPercents: [10, 20]});
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
+  // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
+  // console.log(thumbnail);
   videoPlayer.on('percentsplayed', (event) => {
       if (event.eventData.percent == 10) {
           document.getElementById("ml_popup").style.display = "block";
