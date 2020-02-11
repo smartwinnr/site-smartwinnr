@@ -23,31 +23,6 @@ layout: ml_layout
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<!-- <section class="ml-homepage-first-section">
-  <div class="padding50">
-    <div class="row ml-margin-bottom0">
-      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-        <h1>Radically Improve Sales Productivity of Your Agents</h1>
-        <div class="ml-font20">Rollout a proven sales enablement plan encompassing sales contests, training and coaching that is guaranteed to improve agent productivity</div></br>
-        <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
-      </div>
-      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-        <script src="https://fast.wistia.com/embed/medias/r7xfygdjgw.jsonp" async></script>
-        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-        <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-          <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-            <div class="wistia_embed wistia_async_r7xfygdjgw videoFoam=true" style="height:100%;position:relative;width:100%">
-              <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;">
-                <img src="https://fast.wistia.com/embed/medias/r7xfygdjgw/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" onload="this.parentNode.style.opacity=1;" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
 <section class="ml-background-white">
   <div class="padding50">
     <div class="row ml_text_flex_row">

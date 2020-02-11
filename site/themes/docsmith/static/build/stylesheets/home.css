@@ -21889,7 +21889,7 @@ p {
 .ml-whySM {
   background: linear-gradient(to right top, #3429be, #4030c6);
   height: auto;
-  padding: 20% 0 !important;
+  padding: 20% 10% !important;
 }
 
 .ml-resource {
@@ -22097,13 +22097,6 @@ p {
   width: 100%;
   height: auto;
   /* margin-top: 10% !important; */
-}
-@media only screen and (min-width: 300px) and (max-width: 767px) {
-  .ml-image {
-    width: 100%;
-    height: auto;
-    /* margin-top: 30% !important; */
-  }
 }
 /* Blog CSS */
 body {
@@ -24992,10 +24985,10 @@ img {
     margin: 10px;
   }
   .ml-dreamforce-image {
-    height: 200px !important;
+    height: 400px !important;
   }
   .ml-dreamforce-image-wo-max-width {
-    height: 200px !important;
+    height: 400px !important;
   }
   .ml_padding_desktop {
     padding: 0 10% !important;
@@ -25069,13 +25062,13 @@ img {
 
 .ml-dreamforce-image {
   width: auto;
-  height: 400px;
+  height: 600px;
   max-width: 100%;
 }
 
 .ml-dreamforce-image-wo-max-width {
   width: auto;
-  height: 400px;
+  height: 600px;
 }
 
 .ml-horizontal-line {
@@ -25275,6 +25268,9 @@ img {
   }
   .ml_div_contents_in_center {
     display: block !important;
+  }
+  .ml_video_container {
+    width: 100% !important;
   }
 }
 
@@ -25544,6 +25540,9 @@ img {
     color: #5951FF;
 }
 
+/* .new-navbar:hover .dropdown-content:first-of-type{
+  display: block;
+} */
 .navbar-dropdown:hover .dropdown-content {
     display: block;
 }
@@ -25690,6 +25689,11 @@ img {
   background-size: cover;
 }
 
+.ml_implementation_top_section {
+  background: linear-gradient(to right, #3C37A6, #524EDE);
+  padding: 10%;
+}
+
 .ml_text_row {
   display: table; /* Make the container element behave like a table */
   width: 100%;
@@ -25724,9 +25728,10 @@ img {
 } */
 
 .ml_video_container {
-  width: 100%;
+  width: 75%;
   position: relative;
   height: auto;
+  margin: auto;
   margin-bottom: -1%;
   z-index: 1;
 }
@@ -25853,4 +25858,8 @@ img {
 
 .ml_zindex1 {
   z-index: 1;
+}
+
+.ml_width120 {
+  width: 120% !important;
 }

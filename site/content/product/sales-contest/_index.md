@@ -12,10 +12,10 @@ title: Sales Contest
 ---
 
 <section class="">
-  <div class="ml_sales_contest_top_section">
-    <div class="ml_big_text">SmartWinnr frees sales teams to focus on engagement</div>
+  <div class="ml_sales_contest_top_section ml_no_padding_bottom50">
+    <h1 class="text-center ml-margin-bottom30 ml_body_text_white">Boost Sales by 60% through Gamified Sales Contests</h1>
     <div class="ml_video_container">
-      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
       <div class="ml_video_popup" id="ml_popup">
         <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
         <div class="popup_message"> Test Message </div>
@@ -37,39 +37,39 @@ title: Sales Contest
   </div>
 </div> -->
 
-<div class="row ml-background-white ml-margin0 padding50">
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/monthly_scorecard.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/kpi_explainer (1).png"/>
   </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
-    <h1 class="ml_body_text_black"> Bring Attention to your Leading Indicators </h1>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Bring Attention to your Leading Indicators </h2>
     <p>SmartWInnr helps you to bring focus back to your leading indicators that drive the ultimate sales target. Distribute incentives in such a way that it helps you to influence the outcomes that you are looking for.</p>
   </div>
 </div>
 
-<div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
-    <h1 class="ml_body_text_black"> Even out sales across the month or the quarter </h1>
+<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Even out sales across the month or the quarter </h2>
     <p>Break down quarter-end goals into more achievable targets, distributed across the weeks and months. SmartWinnr enables you to track and push out incentives weekly, monthly, quarterly and yearly. This encourages your team to meet smaller goals that lead to the larger number at the end of the quarter.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image-wo-max-width" alt="Image" src="/images/sales-contest/editor_analytics.png"/>
+    <img class="ml-image" alt="Image" src="/images/sales-contest/editor_analytics.png"/>
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/manager-user-card_combined.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/manager-user-card_combined.png"/>
   </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
-    <h1 class="ml_body_text_black"> Rolled up view for Managers, Drilled Down View for Sales People </h1>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Rolled up view for Managers, Drilled Down View for Sales People </h2>
     <p>Managers get visibility into progress by targets, by team. They can drill down to an individual salesperson. Each salesperson has a clear view of her targets and  focuses on them.</p>
   </div>
 </div>
 
-<div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
-    <h1 class="ml_body_text_black"> Run Challenges to make it more competitive </h1>
+<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Run Challenges to make it more competitive </h2>
     <p>Take your contests to a whole different level by introducing one-on-one and team vs team challenges. This is especially helpful when you want to drive the performance of your top performers and top teams.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
@@ -77,19 +77,19 @@ title: Sales Contest
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/sales-contest/chat.png"/>
   </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
-    <h1 class="ml_body_text_black"> Create Engagement and Community Building </h1>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Create Engagement and Community Building </h2>
     <p>Use the SmartWinnr chat to create engagement amongst your sales teams. Encourage them to share success stories and best practices which get liked by their peers and managers, giving them a sense of community and social success.</p>
   </div>
 </div>
 
-<div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml_vertical_aligned_div_contents">
-    <h1 class="ml_body_text_black"> Easy Access from SmartWinnr Mobile App </h1>
+<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Easy Access from SmartWinnr Mobile App </h2>
     <p>Your sales teams can follow the progress of the game from the field, in real-time through our easy-to-use and intuitive mobile app.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
@@ -190,8 +190,8 @@ title: Sales Contest
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
-    <h1 class="ml_body_text_white text-center">Ready to double your sales numbers?</h1>
-    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo with our team to see how SmartWinnr can drive sales productivity in your organization. Or talk to us about your challenges and if SmartWinnr can help.</div>
+    <h1 class="ml_body_text_white text-center">Ready to empower your sales teams with latest information from their mobile devices?</h1>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo to see SmartWinnr in action and how it brings everything together.</div>
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>

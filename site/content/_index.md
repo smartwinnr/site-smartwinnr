@@ -17,7 +17,7 @@ layout: ml_layout
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="../images/homepage/home_hero_new.png">
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="../images/Home-hero-isometric.png">
       </div>
     </div>
   </div>
@@ -381,7 +381,7 @@ layout: ml_layout
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="ml_video_container">
-          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-floating-when-not-visible="left" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
           <div class="ml_video_popup" id="ml_popup">
             <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
             <div class="popup_message"> Test Message </div>
@@ -398,8 +398,8 @@ layout: ml_layout
 <div class="ml-container padding50">
   <div class="row ml-margin-bottom20">
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-      <h2 class="ml_text_bold">Ready to double your sales numbers?</h2>
-      <h4>Schedule a demo with our team to see how SmartWinnr can drive sales productivity in your organization. Or talk to us about your challenges and if SmartWinnr can help.</h4>
+      <h2 class="ml_text_bold">Ready to empower your sales teams with latest information from their mobile devices?</h2>
+      <h4>Schedule a demo to see SmartWinnr in action and how it brings everything together.</h4>
       <p class=" ml-margin-top20">
         <a class="ml-button-blue ml-margin-top20 pull-left" href="/request-demo">Request demo</a>
         <a class="ml-button-blue ml-margin-top20 pull-right" href="/request-demo">Free Consultance</a>

@@ -23,8 +23,8 @@ layout: ml_layout
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<section class="ml-background-white">
-  <div class="row padding50">
+<section class="ml-background-white padding50">
+  <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
       <!-- <img class="ml-image" alt="Image" src="../../images/home_hero_image_smartwinnr.png"> -->
       <script src="https://fast.wistia.com/embed/medias/r7xfygdjgw.jsonp" async></script>

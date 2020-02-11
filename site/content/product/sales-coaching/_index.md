@@ -11,11 +11,11 @@ layout: ml_layout
 title: Sales Coaching
 ---
 
-<div class="row ml_no_padding_top_bottom_right50 ml-background-white ml_div_contents_in_center">
-  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+<div class="row ml_no_padding_top_bottom_right50 ml_blue_bg_gradient ml_div_contents_in_center">
+  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-padding-top10">
       <div class="ml_label ml_smartfeed_badge">Coaching</div><br>
-      <h1 class="ml_body_text_black ml-margin-bottom10">The Definitive Coaching Platform for Your Sales Team</h1>
-      <div class="ml-font20 ml_body_text_black">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment. Mentor your team for peak performance through a structured coaching program.</div>
+      <h1 class="ml_body_text_white ml-margin-bottom10">The Definitive Coaching Platform for Your Sales Team</h1>
+      <div class="ml-font20 ml_body_text_white">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment. Mentor your team for peak performance through a structured coaching program.</div>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
     <img class="ml-image" alt="Image" src="/images/sales-coaching/coaching_home.png"/>
@@ -100,26 +100,26 @@ title: Sales Coaching
   </div>
 </div>
 
-<div class="row ml-margin0 ml_yellow_bg_gradient padding50">
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-    <h4 class="ml-title-font">Drive Systematic Coaching Process</h4>
-    <div class="ml-subtext">Replace ad-hoc coachings with a flexible structured digitized coaching process</div>
-  </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-    <h4 class="ml-title-font">Maintain Coaching Records</h4>
-    <div class="ml-subtext">Maintain records of all joint field visits, evaluations, task/skill ratings, directions on the next steps of the sales rep and manager.</div>
-  </div>
-  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-    <h4 class="ml-title-font">Get Holistic Analysis of Team Capabilities</h4>
-    <div class="ml-subtext">Compliments quantitative performance measures to increase productivity and provide direction.</div>
+<div class="ml_yellow_bg_gradient padding50">
+  <h2 class="text-center ml-margin-bottom30">Structured Field Coaching Program that Improves Sales by 25%</h2>
+  <div class="row ml-margin0">
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+      <h4 class="ml-title-font">Drive Systematic Coaching Process</h4>
+      <div class="ml-subtext">Replace ad-hoc coachings with a flexible structured digitized coaching process</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+      <h4 class="ml-title-font">Maintain Coaching Records</h4>
+      <div class="ml-subtext">Maintain records of all joint field visits, evaluations, task/skill ratings, directions on the next steps of the sales rep and manager.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+      <h4 class="ml-title-font">Get Holistic Analysis of Team Capabilities</h4>
+      <div class="ml-subtext">Compliments quantitative performance measures to increase productivity and provide direction.</div>
+    </div>
   </div>
 </div>
 
-<!-- <div class="row ml-margin0 ml_blue_bg_gradient padding30 text-center ml_body_text_white">
-  Quality + Quantity x Direction = Sales Force Effectiveness
-</div> -->
 
-<div class="row ml-margin0 ml_no_padding_right50 white ml_div_contents_in_center">
+<div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
       <!-- <div class="ml_label ml_smartfeed_badge">Reports</div><br> -->
       <h4 class="ml_body_text_black ml-margin-bottom10">Improve sales Productivity through systematic coaching</h4>
@@ -132,9 +132,10 @@ title: Sales Coaching
       </ul>
   </div>
   <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <img class="ml-image" alt="Image" src="/images/sales-coaching/coachtogether_coaching.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/coachtogether_coaching.png"/>
   </div>
 </div>
+<img class="swoop" src="/images/swoop_mask.min.svg">
 
 <!-- <div class="row ml-margin0 padding50">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -278,8 +279,8 @@ title: Sales Coaching
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
-    <h1 class="ml_body_text_white text-center">Ready to double your sales numbers?</h1>
-    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo with our team to see how SmartWinnr can drive sales productivity in your organization. Or talk to us about your challenges and if SmartWinnr can help.</div>
+    <h1 class="ml_body_text_white text-center">Ready to improve sales call effectiveness through structured coaching?</h1>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo to see SmartWinnr in action and how it drives the coaching effectiveness.</div>
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>
