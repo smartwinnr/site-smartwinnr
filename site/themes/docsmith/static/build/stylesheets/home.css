@@ -24607,7 +24607,7 @@ img {
   }
 }
 .ml-background-wave {
-  background-image: url("/images/wave1.svg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/v1581427758/website/Images/wave1_kwnyud.svg");
   background-repeat: no-repeat;
   background-size: 40%;
   /* height: -webkit-fill-available; */
@@ -25380,16 +25380,16 @@ img {
 
 /* blog subscription styles start */
 .ml_blog_signup {
-  background: #4e6bdf;
+  background: #fff;
   font-size: 12px !important;
-  padding: 2% 5% !important;
+  padding: 10% !important;
   color: #fff;
   margin-bottom: 10px;
   border-radius: 5px;
 }
 
 .ml_blog_signup_message {
-  color: #fff;
+  color: #000;
   line-height: 1.4;
   font-size: 17px !important;
   font-weight: 600;
@@ -25401,7 +25401,7 @@ img {
 }
 
 .ml_blog_signup_time {
-  color: #fff;
+  color: #000;
   line-height: 1.4;
   font-size: 12px !important;
   font-weight: 600;
@@ -25414,23 +25414,30 @@ img {
 .ml_blog_signup input {
   display: block;
   width: 100%;
+  color: #000 !important;
+  height: 40px;
   padding: 5px 0;
   text-indent: 2%;
   border: 1px solid #ABB0B2;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 
 .ml_blog_signup input.button {
   width: 50% !important;
   margin: 5% 0% !important;
-  border: 2px solid #fff !important;
+  border: 2px solid #4e6bdf !important;
   margin-left: 25% !important;
-  background: #4e6bdf;
+  background: #fff;
+  color: #4e6bdf !important;
 }
 
 .ml_blog_signup input.button:hover {
-  background: #fff;
-  color: #4e6bdf;
+  background: #4e6bdf !important;
+  color: #fff !important;
+}
+
+.ml_blog_signup input.mce_inline_error {
+  border: 2px solid red;
 }
 
 .ml_blog_signup .button {
@@ -25439,12 +25446,11 @@ img {
   border: 0 none;
   border-radius: 4px;
   transition: all 0.23s ease-in-out 0s;
-  color: #FFFFFF;
+  /* color: #4e6bdf; */
   cursor: pointer;
   display: inline-block;
   font-size: 18px;
   font-weight: 600;
-  height: 32px;
   line-height: 32px;
   margin: 0 5px 10px 0;
   padding: 0 10px;
@@ -25458,6 +25464,16 @@ img {
 .ml_padding_left_right20 {
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.mce_inline_error {
+  color: red;
+  padding: 2%;
+  font-size: 1rem;
+}
+
+.asterisk {
+  color: red;
 }
 /* blog subscription styles end */
 
@@ -25618,7 +25634,7 @@ img {
 }
 
 .ml_medical_devices_top_section {
-  background-image: url("/images/industry/medical-devices.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427558/website/Images/medical-devices_hzr5uw.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25627,7 +25643,7 @@ img {
 }
 
 .ml_pharma_top_section {
-  background-image: url("/images/industry/pharma.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427557/website/Images/pharma_qtke1x.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25636,7 +25652,7 @@ img {
 }
 
 .ml_insurance_top_section {
-  background-image: url("/images/industry/insurance.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427558/website/Images/insurance_kwsc2z.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25645,7 +25661,7 @@ img {
 }
 
 .ml_banking_top_section {
-  background-image: url("/images/industry/banking.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427557/website/Images/banking_tv7tar.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25654,7 +25670,7 @@ img {
 }
 
 .ml_technology_top_section {
-  background-image: url("/images/industry/technology.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427556/website/Images/technology_blm50q.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25663,7 +25679,7 @@ img {
 }
 
 .ml_senior_living_top_section {
-  background-image: url("/images/industry/senior_living.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427556/website/Images/senior_living_ndhprv.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25672,7 +25688,7 @@ img {
 }
 
 .ml_enterprise_top_section {
-  background-image: url("/images/enterprise_ready.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427470/website/Images/enterprise_ready_hgpdlh.jpg");
   /* background-color: #4030c6; */
   color: #FFFFFF !important;
   background-position: center;
@@ -25681,7 +25697,7 @@ img {
 }
 
 .ml_customer_success_top_section {
-  background-image: url("/images/customer_success.jpg");
+  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427470/website/Images/customer_success_gxjwro.jpg");
   /* background-color: #4030c6; */
   color: #FFFFFF !important;
   background-position: center;
@@ -25801,7 +25817,7 @@ img {
 }
 
 .ml_ul_tick {
-  list-style-image: url(/images/tick.png);
+  list-style-image: url('https://res.cloudinary.com/smartwinnr/image/upload/v1581427649/website/Images/tick_uzrclf.png');
 }
 
 .ml_no_padding_right50 {
@@ -25860,6 +25876,63 @@ img {
   z-index: 1;
 }
 
-.ml_width120 {
-  width: 120% !important;
+/* request demo form styles */
+.ml_request_demo_signup {
+  background: #fff;
+  font-size: 12px !important;
+  padding: 10% !important;
+  color: #000;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.ml_request_demo_signup input {
+  display: block;
+  width: 100%;
+  color: #000 !important;
+  height: 40px;
+  padding: 5px 0;
+  font-size: 1rem;
+  text-indent: 2%;
+  border: 1px solid #ABB0B2;
+  border-radius: 5px;
+}
+
+.ml_request_demo_signup textarea {
+  display: block;
+  width: 100%;
+  color: #000 !important;
+  padding: 5px 0;
+  text-indent: 2%;
+  font-size: 1rem;
+  border: 1px solid #ABB0B2;
+  border-radius: 5px;
+}
+
+.ml_request_demo_signup input.form-submit {
+  width: 50% !important;
+  margin: 5% 0% !important;
+  border: 2px solid #4e6bdf !important;
+  margin-left: 25% !important;
+  background: #fff;
+  color: #4e6bdf !important;
+  font-size: 1.2rem;
+}
+.ml_request_demo_signup .form-required {
+  color: red !important;
+}
+
+.ml_request_demo_signup input.form-submit:hover {
+  background: #4e6bdf;
+  color: #fff !important;
+}
+/* end of request demo form styles */
+
+.ml_margin_bottom_minus2per {
+  margin-bottom: -2%;
+}
+
+.ml_request_demo_logo {
+  width: 70%;
+  height: auto;
 }

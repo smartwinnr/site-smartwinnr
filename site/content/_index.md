@@ -12,12 +12,12 @@ layout: ml_layout
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
       <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
-        <h1>World’s Number 1 mobile-first Sales Productivity Platform</h1>
+        <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for on-the-field sales teams.</div></br>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="../images/Home-hero-isometric.png">
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581425890/website/HomePage/Home-hero-isometric_itr4yx.png">
       </div>
     </div>
   </div>
@@ -249,7 +249,7 @@ layout: ml_layout
     <div class="row ml-margin-bottom0">
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" align="center">
         <h1>Built for large, distributed sales teams</h1>
-        <img src="../images/homepage_distributed_sales.png" alt="">
+        <img src="https://res.cloudinary.com/smartwinnr/image/upload/v1581426077/website/HomePage/homepage_distributed_sales_fmgzsd.png" alt="">
       </div>
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <div class="row ml-margin-bottom20">
@@ -393,25 +393,6 @@ layout: ml_layout
   </div>
 </section>
 
-<!-- Final CTA section -->
-<!-- <section class="ml-background-white">
-<div class="ml-container padding50">
-  <div class="row ml-margin-bottom20">
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-      <h2 class="ml_text_bold">Ready to empower your sales teams with latest information from their mobile devices?</h2>
-      <h4>Schedule a demo to see SmartWinnr in action and how it brings everything together.</h4>
-      <p class=" ml-margin-top20">
-        <a class="ml-button-blue ml-margin-top20 pull-left" href="/request-demo">Request demo</a>
-        <a class="ml-button-blue ml-margin-top20 pull-right" href="/request-demo">Free Consultance</a>
-      </p>
-    </div>
-    <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
-      
-    </div>
-  </div>
-</div>
-</section> -->
-
 <!-- advantage section -->
 <section class="ml-advantage">
   <div class="padding50">
@@ -496,7 +477,10 @@ layout: ml_layout
 <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
+  var videoPlayer = cld.videoPlayer('video-player', { 
+    posterOptions: {publicId: 'website/thumbnail-laura-welch-ses-polycom_aposrd.png'},
+    playedEventPercents: [10, 20]
+  });
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581137574/website/How_Polycom_makes_learning_fun_with_a_smart_new_tool_cwnbry.mp4');
   videoPlayer.on('percentsplayed', (event) => {
       if (event.eventData.percent == 10) {

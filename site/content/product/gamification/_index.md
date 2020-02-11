@@ -19,7 +19,7 @@ title: Gamification
       <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
     </div>
     <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 padding0 ml_zindex1 ml-margin-bottom0">
-      <img class="ml-image ml-margin-bottom0" alt="Image" src="/images/gamification/gamification_hero_final.png"/>
+      <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427153/website/Images/gamification_hero_final_ifiua5.png"/>
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
@@ -27,7 +27,7 @@ title: Gamification
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/user-manager_challenge-combined.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426360/website/Sales%20Contest/user-manager_challenge-combined_fvu552.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black"> <b>Competitions</b>: Make winning a team habit </h2>
@@ -54,7 +54,7 @@ title: Gamification
     </ul>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/individual-team-leaderboard-combined.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426372/website/Sales%20Contest/individual-team-leaderboard-combined_heynkl.png"/>
   </div>
 </div>
 
@@ -63,8 +63,8 @@ title: Gamification
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
-    <h1 class="ml_body_text_white text-center">Ready to empower your sales teams with latest information from their mobile devices?</h1>
-    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo to see SmartWinnr in action and how it brings everything together.</div>
+    <h1 class="ml_body_text_white text-center">Ready to double your sales numbers?</h1>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo with our team to see how SmartWinnr can drive sales productivity in your organization. Or talk to us about your challenges and if SmartWinnr can help.</div>
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>

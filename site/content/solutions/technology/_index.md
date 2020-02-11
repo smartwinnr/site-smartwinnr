@@ -125,7 +125,10 @@ layout: ml_layout
 <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
+  var videoPlayer = cld.videoPlayer('video-player', {
+    posterOptions: {publicId: 'website/thumbnail-laura-welch-ses-polycom_aposrd.png'}, 
+    playedEventPercents: [10, 20]
+  });
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581137574/website/How_Polycom_makes_learning_fun_with_a_smart_new_tool_cwnbry.mp4');
   videoPlayer.on('percentsplayed', (event) => {
       if (event.eventData.percent == 10) {

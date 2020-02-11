@@ -24,7 +24,7 @@ layout: ml_layout
   <div class="padding50 ml-background-white">
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="/images/improve-sales-productivity/smartwinnr_sales_productivity_model.png"/>
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428075/website/Images/smartwinnr_sales_productivity_model_pzkkos.png"/>
       </div>
       <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
         <h2>We help you develop a complete gameplan for sales gamification</h2>

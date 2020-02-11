@@ -19,7 +19,7 @@ layout: ml_layout
     </div>
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="/images/new-hire-onboarding/new-hire-onboarding.png"/>
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428900/website/Images/new-hire-onboarding_krfm8c.png"/>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
@@ -38,7 +38,7 @@ layout: ml_layout
 <section>
   <div class="row ml_no_padding_left50 ml-background-white ml_div_contents_in_center">
     <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-      <img class="ml-image" alt="Image" src="/images/new-hire-onboarding/onboarding.png"/>
+      <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428900/website/Images/onboarding_ldbhff.png"/>
     </div>
     <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
       <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">

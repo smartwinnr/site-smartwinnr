@@ -39,7 +39,7 @@ title: Sales Contest
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/kpi_explainer (1).png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426231/website/Sales%20Contest/kpi_explainer_gzxtcn.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black"> Bring Attention to your Leading Indicators </h2>
@@ -53,13 +53,13 @@ title: Sales Contest
     <p>Break down quarter-end goals into more achievable targets, distributed across the weeks and months. SmartWinnr enables you to track and push out incentives weekly, monthly, quarterly and yearly. This encourages your team to meet smaller goals that lead to the larger number at the end of the quarter.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/editor_analytics.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426285/website/Sales%20Contest/editor_analytics_oyutgw.png"/>
   </div>
 </div>
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-contest/manager-user-card_combined.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426319/website/Sales%20Contest/manager-user-card_combined_jsnxnd.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black"> Rolled up view for Managers, Drilled Down View for Sales People </h2>
@@ -73,13 +73,13 @@ title: Sales Contest
     <p>Take your contests to a whole different level by introducing one-on-one and team vs team challenges. This is especially helpful when you want to drive the performance of your top performers and top teams.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/user-manager_challenge-combined.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426360/website/Sales%20Contest/user-manager_challenge-combined_fvu552.png"/>
   </div>
 </div>
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/chat.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426365/website/Sales%20Contest/chat_bjh4gh.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black"> Create Engagement and Community Building </h2>
@@ -93,7 +93,7 @@ title: Sales Contest
     <p>Your sales teams can follow the progress of the game from the field, in real-time through our easy-to-use and intuitive mobile app.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/sales-contest/individual-team-leaderboard-combined.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426372/website/Sales%20Contest/individual-team-leaderboard-combined_heynkl.png"/>
   </div>
 </div>
 
@@ -190,8 +190,8 @@ title: Sales Contest
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
-    <h1 class="ml_body_text_white text-center">Ready to empower your sales teams with latest information from their mobile devices?</h1>
-    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo to see SmartWinnr in action and how it brings everything together.</div>
+    <h1 class="ml_body_text_white text-center">Ready to double your sales numbers?</h1>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo with our team to see how SmartWinnr can drive sales productivity in your organization. Or talk to us about your challenges and if SmartWinnr can help.</div>
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>
@@ -199,7 +199,10 @@ title: Sales Contest
 <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', { playedEventPercents: [10, 20]});
+  var videoPlayer = cld.videoPlayer('video-player', {
+    posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
+    playedEventPercents: [10, 20]
+  });
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
   // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
   // console.log(thumbnail);

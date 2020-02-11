@@ -11,20 +11,21 @@ layout: ml_layout
 title: Content Repository
 ---
 
-<div class="row ml_blue_bg_gradient ml_no_padding_right50 ml_div_contents_in_center">
+<div class="row ml_blue_bg_gradient ml_no_padding_bottom_right50 ml_div_contents_in_center">
   <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
     <h1 class="ml_body_text_white">Access Critical Information Anytime, Anywhere</h1>
     <div class="ml-font20 ml_body_text_white">Give your team the content they need, right when they need it.</div>
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
-  <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 padding0">
-    <img class="ml_top_image" alt="Image" src="/images/khub-hero.png"/>
+  <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 padding0 ml_zindex1 ml-margin0">
+    <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427048/website/Images/khub-hero_ru5mgi.png"/>
   </div>
 </div>
+<img class="swoop" src="/images/swoop_mask.min.svg">
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="/images/khub_explainer.png"/>
+    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427073/website/Images/khub_explainer_tmjhwb.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <div class="row">
@@ -49,46 +50,6 @@ title: Content Repository
     </div>
   </div>
 </div>
-
-<!-- <div class="row ml-margin0 padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - Home page.png"/>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> KHub </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Product videos, installation manuals, service manuals, sales decks, training videos -  you name it. With KHub the right content is just a <strong>search</strong> away. Upload your documents on SmartWinnr and your sales reps can access them from the mobile app anytime, anywhere.</h4>
-  </div>
-</div>
-
-<div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> Multiple Languages </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Are your documents in different languages? Upload documents in different languages for teams from different countries.</h4>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - List view.png"/>
-  </div>
-</div>
-
-<div class="row ml-margin0 padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - Home page.png"/>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> Intelligent Search </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">SmartWinnr is powered by a highly intelligent, intuitive and accurate search. It helps your teams to search through huge number of documents quickly and easily.</h4>
-  </div>
-</div>
-
-<div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> Offline Access </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">SmartWinnr provides offline access of these documents. But only for documents that you select. It won’t eat up more space in your phone than what’s needed.</h4>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/content-repository/Final - Folders.png"/>
-  </div>
-</div> -->
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">

@@ -24,7 +24,7 @@ layout: ml_layout
   <div class="ml_no_padding_bottom50 ml-background-white">
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="/images/PEAK Framework.png"/>
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427996/website/Images/PEAK_Framework_pm3jsv.png"/>
       </div>
       <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
         <h2>We sweat the details so that you don’t have to</h2>

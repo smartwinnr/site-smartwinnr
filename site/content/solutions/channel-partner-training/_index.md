@@ -19,7 +19,7 @@ layout: ml_layout
     </div> -->
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="/images/channel-partner-training/channel_training.png"/>
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581429022/website/Images/channel_training_oyzqta.png"/>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h4>Use SmartWinnr for total sales channel activation including your internal team and external distributors. Ensure that sales teams across channels are having the same level of information on product messaging on your new products.</h4>
