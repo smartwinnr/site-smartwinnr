@@ -18,8 +18,8 @@ title: Sales Contest
       <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
       <div class="ml_video_popup" id="ml_popup">
         <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
-        <div class="popup_message"> Test Message </div>
-        <div class="text-center popup_button">Click Me</div>
+        <div class="popup_message"> Do you want to know more? </div>
+        <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
       </div>
     </div>
   </div>
@@ -201,7 +201,7 @@ title: Sales Contest
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
   var videoPlayer = cld.videoPlayer('video-player', {
     posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
-    playedEventPercents: [10, 20]
+    playedEventPercents: [10]
   });
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
   // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
@@ -210,10 +210,6 @@ title: Sales Contest
       if (event.eventData.percent == 10) {
           document.getElementById("ml_popup").style.display = "block";
       }
-      if(event.eventData.percent == 20) {
-          document.getElementById("ml_popup").style.display = "none";
-      }
-      console.log(event.eventData.percent + " percents played")
   });
   function hidePopup() {
     document.getElementById("ml_popup").style.display = "none";

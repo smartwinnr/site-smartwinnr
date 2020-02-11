@@ -25781,7 +25781,7 @@ img {
 #ml_popup .popup_message {
   padding: 5px;
   font-size: 1.1rem;
-  color: #fff;
+  color: #000;
 }
 
 #ml_popup .popup_button {
@@ -25790,6 +25790,13 @@ img {
   color: #fff;
   background: #3c36c2;
   border-radius: 5px;
+}
+#ml_popup .popup_button a {
+  color: #fff;
+}
+
+#ml_popup .popup_button a:hover {
+  color: #fff;
 }
 
 #ml_popup .popup_close {
