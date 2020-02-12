@@ -153,7 +153,7 @@
                         {{ if in $relatedArticles .Params.Title }}
                         {{ $.Scratch.Set "relatedArticlesCount" (add ($.Scratch.Get "relatedArticlesCount") 1) }}
                         <li>
-                          <a href="{{ .Permalink }}" class="ml_display_block">{{ .Params.Title }}</a>
+                          <a href="{{ .Permalink }}" target="_blank" class="ml_display_block">{{ .Params.Title }}</a>
                         </li>
                         {{ end }}
                         {{ end }}
