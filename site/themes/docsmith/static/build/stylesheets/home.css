@@ -21873,6 +21873,14 @@ p {
   background-color: #fff;
   color: #000;
 }
+
+.ml-footer a {
+ color: #000;
+}
+
+.ml-footer a:hover {
+  color: #4841CE;
+ }
 .ml-footer li {
   margin: 3px 0;
 }
@@ -25272,6 +25280,17 @@ img {
   .ml_video_container {
     width: 100% !important;
   }
+  .ml_video_popup {
+    left: 20% !important;
+    bottom: 5% !important;
+  }
+  .ml_video_popup .popup_message, .popup_button{
+    font-size: .5rem !important;
+  }
+  .ml_video_popup .popup_close {
+    right: -10% !important;
+    top: -33% !important;
+  }
 }
 
 /* blog page changes 12 June 2019 */
@@ -25767,39 +25786,39 @@ img {
   background-position-y: bottom;
 }
 
-#ml_popup {
+.ml_video_popup {
   display: none;
   padding: 5px;
   border: 2px solid #3c36c2;
   box-shadow: #444 5px 5px 8px;
   position: absolute;
-  bottom: 7%;
+  bottom: 8%;
   left: 40%;
   border-radius: 10px;
 }
 
-#ml_popup .popup_message {
+.ml_video_popup .popup_message {
   padding: 5px;
   font-size: 1.1rem;
   color: #000;
 }
 
-#ml_popup .popup_button {
+.ml_video_popup .popup_button {
   padding: 5px;
   font-size: 1rem;
   color: #fff;
   background: #3c36c2;
   border-radius: 5px;
 }
-#ml_popup .popup_button a {
+.ml_video_popup .popup_button a {
   color: #fff;
 }
 
-#ml_popup .popup_button a:hover {
+.ml_video_popup .popup_button a:hover {
   color: #fff;
 }
 
-#ml_popup .popup_close {
+.ml_video_popup .popup_close {
   position: absolute;
   right: -5%;
   top: -25%;

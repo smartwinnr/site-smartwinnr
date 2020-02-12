@@ -204,12 +204,10 @@ title: Sales Contest
     playedEventPercents: [10]
   });
   videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
-  // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
-  // console.log(thumbnail);
   videoPlayer.on('percentsplayed', (event) => {
-      if (event.eventData.percent == 10) {
-          document.getElementById("ml_popup").style.display = "block";
-      }
+    if (event.eventData.percent == 10) {
+      document.getElementById("ml_popup").style.display = "block";
+    }
   });
   function hidePopup() {
     document.getElementById("ml_popup").style.display = "none";
