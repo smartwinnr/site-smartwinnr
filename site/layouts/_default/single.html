@@ -144,17 +144,22 @@
                         {{ end }}
                         <!-- end of the special link for 'sales contest' -->
 
-
+                        <!-- get the related articles for this blog -->
                         {{ $relatedArticles := .Params.relatedBlogs }}
+                        <!-- have a count for relatedArticles -->
                         {{ $.Scratch.Set "relatedArticlesCount" 0 }}
+                        <!-- loop through all the pages in blogs -->
                         {{ range where .Site.Pages "Section" "post" }}
+                        <!-- check if this blog page title matches with the relatedArticles, add an entry for this blog -->
                         {{ if in $relatedArticles .Params.Title }}
+                        <!-- increase the count for relatedArticles -->
                         {{ $.Scratch.Set "relatedArticlesCount" (add ($.Scratch.Get "relatedArticlesCount") 1) }}
                         <li>
                           <a href="{{ .Permalink }}" target="_blank" class="ml_display_block">{{ .Params.Title }}</a>
                         </li>
                         {{ end }}
                         {{ end }}
+                        <!-- if no related blogs found, show this -->
                         {{ if eq ($.Scratch.Get "relatedArticlesCount") 0 }}
                         <span>No related articles yet</span>
                         {{ end }}

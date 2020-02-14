@@ -14,6 +14,7 @@ title: Privacy Policy
 <section>
   <div class="ml-this-tile padding50">
     <div class="row ml_top_container ml-prodfeaturerow">
+      <h1>Privacy Policy</h1>
         <p class="ml_body_text_black ml-margin-top20">
           <b>Welcome, and thank you for your interest in SmartWinnr (“SmartWinnr”, “we,” or “us”), our web site at https://smartwinnr.com (the “Site”), and all related web sites, downloadable software, mobile applications (including tablet applications), and other services provided by us, and all other communications with individuals though from written or oral means, such as email or phone (collectively, together with the Site, our “Service”).</b>
         </p>

@@ -17,15 +17,8 @@
           <div class="ml-featured-card-header">
             {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
             <!-- <a class="ml-featured-card-title" href="http://192.168.1.12:3000/post{{ .Slug }}">{{ .Title }}</a> -->
-            <!-- <a class="ml-featured-card-title" href="http://10.13.4.130:3000/post{{ .Slug }}">{{ .Title }}</a> -->
-            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
-            <!-- <div class="row">
-              <div class="col-sm-6 col-md-6">
-                <h6 class="ml_body_text_black ml-font12">{{ .Date.Format "Mon Jan 2 2006" }}</h6>
-              </div>
-              <div class="col-sm-6 col-md-6">
-              </div>
-            </div> -->
+            <a class="ml-featured-card-title" href="http://10.13.4.130:3000/post{{ .Slug }}">{{ .Title }}</a>
+            <!-- <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a> -->
           </div>
           <div class="ml-featured-card-content">
             {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
@@ -35,12 +28,10 @@
           {{with .Params.tags}}
           <div class="ml-featured-card-tag">{{ range . }}
             <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>
-            <!-- <span class="ml-font15 ml_body_text_blue ml-blog-tag">{{/* . */}}</span> -->
             {{ end }}
           </div>
           {{end}}
           <!-- end of tags div -->
-          <!-- <h6 class="ml_body_text_black ml-float-right reading-time">Reading Time : {{ .ReadingTime }} minutes</h6> -->
         </div>
       </div>
       <div class="col-sm-4">
@@ -68,16 +59,9 @@
                       </div>
                     </form>
                   </div>
-                  <!-- <img class="ml-subscribe-image" src="/images/undraw_newsletter_vovu.svg" alt=""> -->
                   <!--End mc_embed_signup-->
                 </div>
                 <div class="row">
-                  <!-- <img class="ml-subscribe-image" src="/images/undraw_newsletter_vovu.svg" alt=""> -->
-                  <!-- <ul class="ml_list_group list-group">
-                    <li class="list-group-item">Categories</li>
-                    <li class="list-group-item">Sales</li>
-                    <li class="list-group-item">KPIs</li>
-                  </ul> -->
 
                   <ul class="ml_list_group ml_padding_left_right20 list-group">
                     <li class="list-group-item">Related Categories</li>
@@ -144,13 +128,10 @@
       <div class="waterfall__item">
         <div class="card post post-summary reveal enter">
           <div class="card-header postinfo">
-            {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
+            <a href="{{ .Permalink }}">{{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}</a>
             <span class="card-title">
-              {{ if gt (len .Title) 100 }}
-              <a class="" href="{{ .Permalink }}">{{ slicestr .Title 0 100 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
-              {{ else }}
-              <a class="" href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a>
-              {{ end }}
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              <!-- <a href="{{ .Permalink }}">{{ .Title }}</a> -->
             </span>
             <div class="card-meta">
               <div class="row">
@@ -180,10 +161,11 @@
             </article>
 
           </div>
-          <!-- tags for the featured blog, currently there are some issues with tags page, as in the dist folder, the tags are not getting generated. Need to solve this. -->
           {{with .Params.tags}}
           <div class="card-action card-action-links">{{ range . }}
-            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>{{ end }}
+            <!-- <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a> -->
+            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://10.13.4.130:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>
+            {{ end }}
           </div>
           {{end}}
         </div>

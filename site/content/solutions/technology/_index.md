@@ -76,7 +76,7 @@ layout: ml_layout
     <div class="row ml_text_flex_row">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Keep Your Team Up-to-date with Right Knowledge</h4>
-        <div class="ml-subtext">Improve product and competitive knowledge through bite-sized SmartFeeds and automated gamified quizzes</div>
+        <div class="ml-subtext">Improve product and competitive knowledge of your sales teams and sales engineers, through bite-sized SmartFeeds and automated gamified quizzes</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>

@@ -25962,3 +25962,32 @@ img {
   width: 70%;
   height: auto;
 }
+
+/* ML Accordian starts */
+.ml_accordian {
+  margin-bottom: 20px;
+}
+
+.ml_accordian_panel {
+  padding: 5px 10px;
+  color: #000;
+  font-size: 1.2rem;
+}
+
+.ml_accordian_panel_heading {
+  padding: 5px 10px;
+}
+
+.ml_accordian_panel_heading .ml_panel_title {
+  font-size: 1.1rem;
+  color: #000;
+  font-weight: 600;
+}
+
+.ml_accordian_panel_heading .ml_panel_body > h4 {
+  font-weight: 600;
+}
+.ml_panel_body {
+  padding: 15px;
+}
+/* ML Accordian Ends */
