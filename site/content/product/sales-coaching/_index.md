@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'See how SmartWinnr can help you train and coach your teams effectively'
+description: Improve the call effectiveness of your sales team with SmartWinnr’s field coaching, video-based coaching, practice, and assessment. Mentor your team for peak performance through a structured coaching program. Do all this with a single mobile app.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14

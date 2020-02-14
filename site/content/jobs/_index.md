@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'Jobs'
+description: Join us to build the most efficient sales enablement platform that’s used by fortune 500 companies. Work with us at the most exciting place-- T-Hub, Hyderabad.
 keywords: ["contact-us", "linux", "how to"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14

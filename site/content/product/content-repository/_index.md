@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'See how SmartWinnr can help you train and coach your teams effectively'
+description: Content repository is a one-stop destination for the content needs of all your employees. It provides-- easy access to content, Intelligent Search, Multiple language support, Offline access and Sharing of documents.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14

@@ -24,32 +24,6 @@ layout: ml_layout
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<!-- <section class="ml_top_container padding0">
-  <div class="ml_homepage_slider">
-    <div class="row ml-margin-bottom0">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <h1>Drive team performance through gamified learning</h1>
-        <div class="ml-font20">It's difficult to keep your sales team up-to-date with latest product knowledge, guarantee uniform messaging during customer interactions, and motivate them to drive results.</div></br>
-        <div class="ml-font20">SmartWinnr helps you with</div>
-        <div class="ml-subtext ml-font20">
-          <ul class="ml_line_height2">
-            <li>Continuous coaching to improve customer interactions</li>
-            <li>Competitions and Gamified KPIs to boost sales</li>
-            <li>AI-driven assessments and regular reinforcements to drive product knowledge</li>
-          </ul>
-        </div>
-        <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
-      </div>
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <img class="ml-image" alt="Image" src="../images/home_hero_image_smartwinnr.png">
-      </div>
-    </div>
-    <div class="row ml-margin-bottom0" onclick="location.href='http://10.13.7.196:3001/events/devlearn/';">
-      <img class="ml-image" alt="Image" src="../images/homepage/DevLearn.png">
-    </div>
-  </div>
-</section> -->
-
 <section class="ml-key-points ml-background-white">
   <div class="padding50">
     <div class="row">
