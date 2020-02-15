@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: See what our customers from fortune 500 companies have to say about their experience with SmartWinnr
+description: See what our customers from Fortune 500 companies have to say about their experience with SmartWinnr
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14

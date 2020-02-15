@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Drive your sales training quickly and easily with SmartWinnr’s targetted learning.
+description: Drive your sales training quickly and easily with SmartWinnr’s micro-learning feeds, gamified assessments, structured learning paths and detailed reports.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14

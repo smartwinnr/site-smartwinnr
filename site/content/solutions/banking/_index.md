@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'See how SmartWinnr can help with onboarding, ramp-up of sales teams, new product launch, new service launch and more. Use SmartWinnr as a single channel to train your internal sellers, partners and distributors.'
+description: SmartWinnr helps you reimagine how you drive performance and knowledge across branches. Track individual and branch-level KPIs | Train team on the latest product, process, and regulatory knowledge | Share important regulatory and product information.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14

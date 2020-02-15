@@ -2,7 +2,7 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Want to improve sales productivity in your organization? Engage, motivate and improve the performance of your employees using SmartWinn’s gamification.
+description: Want to improve sales productivity in your organization? Use SmartWinnr’s gamification engine to engage, motivate and improve the performance of your teams.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
