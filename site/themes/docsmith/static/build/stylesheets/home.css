@@ -17407,7 +17407,7 @@ blockquote strong {
 .primary td > a:active,
 .primary address > a:active,
 .primary .span > a:active {
-  color: #0089bc;
+  color: #6200FF;
 }
 .primary h1 > a:hover,
 .primary h2 > a:hover,
@@ -25339,8 +25339,8 @@ img {
 }
 
 .ml_blog_tag {
-  background: #6a67ce !important;
-  color: #fff !important;
+  background: #EDF1F7 !important;
+  color: #3C37A6 !important;
   padding: 2px 4px;
   /* font-variant-caps: small-caps; */
   border-radius: 5px;
@@ -26014,15 +26014,7 @@ img {
 
 .ml_pro_tip {
   padding: 3%;
-  background: #ffffcc;
+  background: #EDF1F7;
   color: #000;
-}
-
-.ml_pro_tip a {
-  color: blue !important;
-  opacity: 1 !important;
-}
-
-.ml_pro_tip a:hover {
-  color: #4e6bdf !important;
+  border-left: 10px solid #3C37A6;
 }
