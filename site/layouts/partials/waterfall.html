@@ -17,8 +17,8 @@
           <div class="ml-featured-card-header">
             {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
             <!-- <a class="ml-featured-card-title" href="http://192.168.1.12:3000/post{{ .Slug }}">{{ .Title }}</a> -->
-            <a class="ml-featured-card-title" href="http://10.13.4.130:3000/post{{ .Slug }}">{{ .Title }}</a>
-            <!-- <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a> -->
+            <!-- <a class="ml-featured-card-title" href="http://10.13.4.130:3000/post{{ .Slug }}">{{ .Title }}</a> -->
+            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
           </div>
           <div class="ml-featured-card-content">
             {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
@@ -163,8 +163,8 @@
           </div>
           {{with .Params.tags}}
           <div class="card-action card-action-links">{{ range . }}
-            <!-- <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a> -->
-            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://10.13.4.130:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>
+            <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://www.smartwinnr.com/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a>
+            <!-- <a class="ml-font15 ml_body_text_blue ml-blog-tag" href='http://10.13.4.130:3000/tags/{{ (replace . "#" "%23") | urlize }}'>{{ . }}</a> -->
             {{ end }}
           </div>
           {{end}}
