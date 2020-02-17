@@ -15,7 +15,7 @@
       <div class="col-sm-8">
         <div class="ml-featured-card">
           <div class="ml-featured-card-header">
-            {{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}
+            <a href="{{ .Permalink }}">{{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}</a>
             <!-- <a class="ml-featured-card-title" href="http://192.168.1.12:3000/post{{ .Slug }}">{{ .Title }}</a> -->
             <!-- <a class="ml-featured-card-title" href="http://10.13.4.130:3000/post{{ .Slug }}">{{ .Title }}</a> -->
             <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
