@@ -14,13 +14,9 @@
           <div class="waterfall__item">
             <div class="card post post-summary reveal enter">
               <div class="card-header postinfo">
-                {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
+                <a class="" href="{{ .Permalink }}">{{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}</a>
                 <span class="card-title">
-                  {{ if gt (len .Title) 45 }}
-                  <a class="" href="{{ .Permalink }}">{{ slicestr .Title 0 45 }} {{ if .Draft }}:: DRAFT{{end}}...</a>
-                  {{ else }}
-                  <a class="" href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a>
-                  {{ end }}
+                  <a class="" href="{{ .Permalink }}"> {{ .Title }} </a>
                 </span>
                 <div class="card-meta">
                   <div class="row">

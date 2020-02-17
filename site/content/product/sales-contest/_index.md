@@ -108,7 +108,7 @@ title: Sales Contest
 </div> -->
 
 <div class="row ml-margin0 padding50">
-  <h2 class="text-center">Related Blogs</h2>
+  <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/top-20-sales-contest-names/';">
       <div class="card post post-summary reveal enter">
@@ -181,6 +181,126 @@ title: Sales Contest
         <div class="card-content">
           <article class="article">
             In order to make more sales, you need to have a sales team that is motivated and engaged in their work. Keeping your sales team motivated is a year-round process.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/8-tips-to-create-your-sales-contests-around-march-madness/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-57/57.8-tips-to-create-your-sales-contests-around-march-madness.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">8 Tips to Create your Sales Contests around March Madness</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            If you're a basketball fan then you must have been waiting all year for March. Because, March means March Madness—the craziest month for basketball lovers.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/5-sales-contests-for-your-next-sales-onboarding-process/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-68/68.5-sales-contests-for-your-next-sales-onboarding-process.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Sales Contests for your Next Sales Onboarding Process</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales contests around deals closed are commonplace. Sales contests around onboarding sales reps? Not so much.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/25-creative-sales-team-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-53/53.25-creative-sales-team-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">25 Creative Sales Team Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            What's in a name? A lot actually! When we think of successful sport team names, like the New England Patriots or the New York Yankees,
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/5-sales-contest-for-summer/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-46/46.5-sales-contest-for-summer.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Sales Contest for Summer</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            It’s summertime! You and your team have just wrapped up Q2. Now the sun is out and the weather is nice. Summer is such a pleasant time for living….. But not for selling.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-contests-for-winter/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-52/52.5-sales-contests-for-winter.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Sales Contests for Winter</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Winter is coming! And, so is the holiday season. So there is snowfall, holiday shopping, Christmas, Halloween, and new year on everyone’s mind.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-contest-communication-template/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-45/45.sales-contest-communication-template.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Contest Communication Template</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Are you planning to implement a sales contest for your sales department? At a minimum, you’ll need to follow these 3 vital rules:
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/5-credit-card-sales-contests/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-61/61.5-credit-card-sales-contests.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Credit Card Sales Contests</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Selling credit cards is a tough job. It involves a lot of cold calling and rejections. So, it is important to ensure that regardless of this tough process, your reps keep trying enthusiastically to win more sales.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/cheat-sheet-to-run-a-successful-sales-contest/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-41/41.cheat-sheet-to-run-a-successful-sales-contest.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Cheat Sheet to run a Successful Sales Contest</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Every manager yearns for the perfect sales team full of highly motivated achievers with proactive collaboration and an unbreakable team spirit.
           </article>
         </div>
       </div>

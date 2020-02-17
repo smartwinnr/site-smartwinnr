@@ -76,7 +76,7 @@ layout: ml_layout
     <div class="row ml_text_flex_row">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Keep Your Team Up-to-date with Right Knowledge</h4>
-        <div class="ml-subtext">Improve product and competitive knowledge through bite-sized SmartFeeds and automated gamified quizzes</div>
+        <div class="ml-subtext">Improve product and competitive knowledge of your sales teams and sales engineers, through bite-sized SmartFeeds and automated gamified quizzes</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
@@ -120,6 +120,72 @@ layout: ml_layout
       </div>
     </div>
 </section>
+
+<div class="row ml-margin0 white padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+  <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/29.why-continuous-training-is-important-in-sales.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Why continuous training is important in sales?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Do you think Nick Saban shows up every spring and starts coaching his team with a new style, new drills, and different set of expectations? <br>Quick answer: No.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/21.sales coaching.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching Playbook Part 1 - Competency Framework</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Why is Sales Coaching important? What if your sales reps perform 19% better-- not just over the next several weeks, but month after month.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/22.sales-coaching-playbook-part-2-training-managers-to-coach.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching PlayBook Part 2 - Training the Managers to Coach</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            This article is the continuation of the sales coaching playbook part-1. In the previous article, we have focussed on creating a structured competency framework for coaching the sales team.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/scenarios-where-sales-coaching-can-be-used/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/25.scenarios-where-sales-coaching-can-be-used.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Scenarios where Video Coaching is used commonly</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            “According to the Association for Talent Development, organizations that invest in coaching their employees see a 50% higher net sales per employee”.
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <script>
