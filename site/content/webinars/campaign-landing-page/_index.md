@@ -16,9 +16,9 @@ layout: ml_layout
     <div class="row ml-margin0 ml_div_contents_in_center">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <h1>On Demand Webinar:</h1>
-        <h1>Account Based Marketing & SmartWinnr</h1>
-        <div class="ml-font20">Learn how Inbound and ABM work together</div></br>
-        <p class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" href="/request-demo">Request demo</a></p>
+        <h1>Improve Sales Productivity by 68% using Sales Contest</h1>
+        <div class="ml-font20">A Structured Approach</div></br>
+        <div class="ml-subtext">Feb 25th, Tuesday at 11 AM PST/1:00 PM EST</div></br>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
         <!-- Begin Mailchimp Signup Form -->
@@ -70,13 +70,17 @@ layout: ml_layout
   <div class="padding50 ml-background-white">
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-        <h2 class="ml-padding-top10">In this live Q&A you will learn:</h2>
+        <h2 class="ml-padding-top10">In this live webinar, you will learn:</h2>
         <ul class="ml_font_1 ml_ul_tick">
-          <li class="ml-margin-top10">What is Account - Based Marketing</li>
-          <li class="ml-margin-top10">Why ABM is on the rise</li>
-          <li class="ml-margin-top10">When to implement ABM</li>
-          <li class="ml-margin-top10">How to combine ABM and Inbound</li>
-          <li class="ml-margin-top10">Anything else you want to ask!</li>
+          <li class="ml-margin-top10">What are sales contests?</li>
+          <li class="ml-margin-top10">How can you gamify leading indicators to drive sales?</li>
+          <li class="ml-margin-top10">How to break down quarterly targets into daily assignments, weekly missions, and monthly contests?</li>
+          <li class="ml-margin-top10">Steps to design a game that drives your business objectives</li>
+          <ul class="ml_font_1 ml_ul_tick">
+            <li class="ml-margin-top10">Select the right KPIs</li>
+            <li class="ml-margin-top10">Set a scoring Mechanism</li>
+            <li class="ml-margin-top10">Pick interesting incentives</li>
+          </ul>
         </ul>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
@@ -88,12 +92,12 @@ layout: ml_layout
   <div class="padding50 ml-background-white">
     <div class="row">
       <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-        <h2 class="ml_text_bold">See why ABM is on the rise and why it's strengthened by Inbound Marketing</h2>
+        <h2 class="ml_text_bold">What are sales contests and how they help in driving sales?</h2>
       </div>
       <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <div class="ml-font20" align="left">Account-Based Marketing is a growing trend for businesses that go after a carefully selected set of companies. It might sound easy but ABM is a lot more than making a list of target companies. It requires a tightly aligned sales & marketing teams using a multi-channel approach that integrates personalization across the customer journey.</div><br>
-        <div class="ml-font20" align="left">Ari Plaut, product marketing manager, covers how SmartWinnr’s products handle Account Based Marketing. Ryan Spillane head of corporate sales for the west coast walks through an example of ABM Selling here at SmartWinnr, and Sam Balter, Field Marketing Manager goes over things to watch out for when building an ABM and Inbound strategy with</div><br>
-        <div class="ml-font20" align="left">We hope that people gain a much better understanding of how to design your ABM strategy and why Inbound and ABM are better together. This is your opportunity to ask any questions you have about building, executing and optimizing an ABM & Inbound strategy using SmartWinnr.</div>
+        <div class="ml-font20" align="left">Sales Contests have been traditionally used by organizations to drive sales. The question is how can you take the same sales contest, but change the way it's designed to make it more exciting, engaging and highly successful. You can utilize the tools available to you to run a successful sales contest.</div><br>
+        <div class="ml-font20" align="left">Annie Banik is the CEO of SmartWinnr and consults organizations on how to use sales contests to drive higher revenue targets. She regularly advises Fortune 500 companies in Technology, Insurance, Banking, Pharma and Medical Devices with large field force on sales gamification. She will walk you through an example of how such a game can be designed to deliver maximum results.</div><br>
+        <div class="ml-font20" align="left">We hope that you gain a lot of information about how to design your own sales contests. This is an opportunity to ask any questions that you have about designing and executing a winning sales contest.</div>
       </div>
     </div>
   </div>
@@ -128,5 +132,28 @@ layout: ml_layout
         </div>
       </div>
     </div>
+    <p align="right" class="ml-padding-top ml-padding-bottom10" onclick="topFunction()"><a class="ml-request-demo-button" align="center">Register Now</a></p>
   </div>
 </section>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
