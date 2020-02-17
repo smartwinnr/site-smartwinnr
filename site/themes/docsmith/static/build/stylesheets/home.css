@@ -5419,7 +5419,7 @@ button.list-group-item-danger.active:focus {
   margin-bottom: 0;
   line-height: 1.3;
 }
-.panel {
+/* .panel {
   margin-bottom: 22px;
   background-color: #fff;
   border: 1px solid transparent;
@@ -5761,7 +5761,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-danger > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ebccd1;
-}
+} */
 .embed-responsive {
   position: relative;
   display: block;
@@ -24065,6 +24065,9 @@ img {
 .ml-margin-left20 {
   margin-left: 20px !important;
 }
+.ml-margin-left30 {
+  margin-left: 30px !important;
+}
 /* padding5 was added later here*/
 .padding5 {
   padding: 5px !important;
@@ -25964,50 +25967,29 @@ img {
 }
 
 /* ML Accordian starts */
-.ml_accordian {
-  margin-bottom: 20px;
+.ml_panel_collapse {
+  margin-left: 5%;
+  padding: 2% 0;
 }
-
-.ml_accordian_panel {
-  padding: 5px 10px;
-  color: #000;
-  font-size: 1.2rem;
+.bs-accordion .panel-heading {
+  padding: 0;
 }
-
-.ml_accordian_panel_heading {
-  padding: 5px 10px;
+.bs-accordion .panel-heading a {
+  display: block;
+  padding: 10px 15px;
 }
-
-.ml_accordian_panel_heading .ml_panel_title {
-  font-size: 1.1rem;
-  color: #000;
-  font-weight: 600;
+.bs-accordion .panel-heading a[aria-expanded="true"] .glyphicon.glyphicon-chevron-right {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  -webkit-transition: -webkit-transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: -webkit-transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1), -webkit-transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
 }
-
-.ml_accordian_panel_heading .ml_panel_body > h4 {
-  font-weight: 600;
-}
-.ml_panel_body {
-  padding: 15px;
+.bs-accordion .panel-heading a .glyphicon.glyphicon-chevron-right {
+  -webkit-transition: -webkit-transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: -webkit-transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1), -webkit-transform 350ms cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 /* ML Accordian Ends */
-
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: red;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: #555;
-}

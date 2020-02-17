@@ -84,7 +84,7 @@ layout: ml_layout
         </ul>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428551/website/Images/sales_productivity_dxfy3v.png"/>
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="/images/anindita_headshot.png"/>
       </div>
     </div>
   </div>
@@ -104,17 +104,52 @@ layout: ml_layout
 
   <div class="padding50">
     <h2 class="text-center ml-margin-bottom30">Frequently Asked Questions (FAQs)</h2>
-    <div class="ml_accordian">
+    <article class="panel-group bs-accordion" id="accordion" role="tablist" aria-multiselectable="true">
+      <section class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingOne">
+          <h4 class="panel-title">
+            <a role="button" class="ml_body_text_black" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+              <span class="glyphicon glyphicon-chevron-right ml_body_text_blue pull-left ml-margin-right10" aria-hidden="true"></span>
+              <b>Why do I need to fill out the information requested?</b>
+            </a>
+          </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse ml_panel_collapse" role="tabpanel" aria-labelledby="headingOne">
+          <div class="panel-body">
+            <h4 class="ml-margin-bottom10">We will always keep your personal information safe.</h4>
+            <div class="ml-subtext">We ask for your information in to (a) send information to you that we think may be of interest to you by email or other means; (b) send you marketing communications that we think may be of value to you. You can read more about our <a class="ml_body_text_blue" target="_blank" href="https://www.smartwinnr.com/about-us/privacy-policy/">privacy policy</a> here.</div>
+          </div>
+        </div>
+      </section>
+      <section class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingTwo">
+          <h4 class="panel-title">
+            <a class="collapsed ml_body_text_black" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <span class="glyphicon glyphicon-chevron-right ml_body_text_blue pull-left ml-margin-right10" aria-hidden="true"></span>
+              <b>Is this really free?</b>
+            </a>
+          </h4>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse ml_panel_collapse" role="tabpanel" aria-labelledby="headingTwo">
+          <div class="panel-body">
+            <h4 class="ml-margin-bottom10">Absolutely!</h4>
+            <div class="ml-subtext">Just sharing some free knowledge that we hope you’ll find useful. Keep us in mind next time you have questions on sales contests!</div>
+          </div>
+        </div>
+      </section>
+    </article>
+    <!-- <div class="ml_accordian">
       <div class="ml_accordian_panel">
         <div class="ml_accordian_panel_heading">
           <h4 class="ml_panel_title">
             <a class="ml_body_text_black" data-toggle="collapse" href="#collapse1"><i class="fa fa-chevron-right ml-margin-right10"></i>Why do I need to fill out the information requested?</a>
           </h4>
+          </input>
         </div>
         <div id="collapse1" class="panel-collapse collapse">
           <div class="ml_panel_body">
             <h4 class="ml-margin-bottom10">We will always keep your personal information safe.</h4>
-            <div class="ml-subtext">We ask for your information in exchange for a valuable resource in order to (a) improve your browsing experience by personalizing the HubSpot site to your needs; (b) send information to you that we think may be of interest to you by email or other means; (c) send you marketing communications that we think may be of value to you. You can read more about our <a class="ml_body_text_blue" target="_blank" href="https://www.smartwinnr.com/about-us/privacy-policy/">privacy policy</a> here.</div>
+            <div class="ml-subtext">We ask for your information in to (a) send information to you that we think may be of interest to you by email or other means; (b) send you marketing communications that we think may be of value to you. You can read more about our <a class="ml_body_text_blue" target="_blank" href="https://www.smartwinnr.com/about-us/privacy-policy/">privacy policy</a> here.</div>
           </div>
         </div>
       </div>
@@ -127,29 +162,16 @@ layout: ml_layout
         <div id="collapse2" class="panel-collapse collapse">
           <div class="ml_panel_body">
             <h4 class="ml-margin-bottom10">Absolutely!</h4>
-            <div class="ml-subtext">Just sharing some free knowledge that we hope you’ll find useful. Keep us in mind next time you have marketing questions!</div>
+            <div class="ml-subtext">Just sharing some free knowledge that we hope you’ll find useful. Keep us in mind next time you have questions on sales contests!</div>
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <p align="right" class="ml-padding-top ml-padding-bottom10" onclick="topFunction()"><a class="ml-request-demo-button" align="center">Register Now</a></p>
   </div>
 </section>
 
 <script>
-//Get the button
-var mybutton = document.getElementById("myBtn");
-
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
 
 // When the user clicks on the button, scroll to the top of the document
 function topFunction() {
