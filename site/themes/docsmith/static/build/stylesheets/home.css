@@ -26011,3 +26011,18 @@ img {
 #myBtn:hover {
   background-color: #555;
 }
+
+.ml_pro_tip {
+  padding: 3%;
+  background: #f9edfe;
+  color: #000;
+}
+
+.ml_pro_tip a {
+  color: blue !important;
+  opacity: 1 !important;
+}
+
+.ml_pro_tip a:hover {
+  color: #4e6bdf !important;
+}
