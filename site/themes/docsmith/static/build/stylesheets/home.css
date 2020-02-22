@@ -21663,7 +21663,7 @@ h3 {
 }
 h4 {
   font-size: 1.3rem !important;
-  line-height: 130% !important;
+  line-height: 150% !important;
 }
 h5 {
   font-size: 1.1rem !important;
@@ -26021,4 +26021,35 @@ img {
   background: #EDF1F7;
   color: #000;
   border-left: 10px solid #3C37A6;
+}
+
+.ml_special_div_blog {
+  /* padding: 2%; */
+  background: #F7F8F9;
+  margin-bottom: 5%;
+  border-top: 5px solid #5951ff;
+  border-bottom: 5px solid #5951ff;
+}
+
+/* .ml_special_div_blog_top_border {
+  padding: 2%;
+  border-top: 5px solid #5951ff;
+}
+
+.ml_special_div_blog_bottom_border {
+  padding: 2%;
+  border-bottom: 5px solid #5951ff;
+} */
+
+.ml_special_div_blog .ml_special_div_blog_title {
+  padding: 10px;
+  font-weight: 600;
+}
+
+.ml_special_div_blog .ml_special_div_blog_content {
+  padding: 0 20px 0;
+}
+
+.ml_special_div_blog_content li {
+  font-size: 1rem;
 }
