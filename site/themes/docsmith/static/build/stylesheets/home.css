@@ -25875,6 +25875,10 @@ img {
   padding: 0 0 0 10%;
 }
 
+.ml_no_padding_bottom_top50 {
+  padding: 0% 10% 0 10%;
+}
+
 .ml_label{
   padding: 0 10px;
   border-radius: 10px;

@@ -12,12 +12,22 @@ layout: ml_layout
 ---
 
 <section class="ml_senior_living_top_section">
-  <div class="row padding50">
+  <div class="row ml_no_padding_bottom50">
     <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartfeed_badge">Senior Living</div><br>
       <h1>Improve Operational Metrics Across Your Communities</h1>
       <div class="ml-font20 padding0">Drive occupancy rates, improve resident satisfaction and reduce caregiver attrition using one single platform.</div></br>
-      <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
+      <!-- <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p> -->
+    </div>
+  </div>
+  <div class="ml_no_padding_bottom_top50">
+    <div class="ml_video_container">
+      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <div class="ml_video_popup" id="ml_popup">
+        <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+        <div class="popup_message"> Do you want to know more? </div>
+        <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
+      </div>
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
@@ -112,3 +122,21 @@ layout: ml_layout
     </div>
   </div>
 </section>
+
+<script>
+  // Cloudinary video player 
+  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
+  var videoPlayer = cld.videoPlayer('video-player', {
+    posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
+    playedEventPercents: [10]
+  });
+  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
+  videoPlayer.on('percentsplayed', (event) => {
+    if (event.eventData.percent == 10) {
+      document.getElementById("ml_popup").style.display = "block";
+    }
+  });
+  function hidePopup() {
+    document.getElementById("ml_popup").style.display = "none";
+  }
+</script>
