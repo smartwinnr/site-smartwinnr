@@ -12,16 +12,11 @@ layout: ml_layout
 ---
 
 <section class="ml_senior_living_top_section">
-  <div class="row ml_no_padding_bottom50">
-    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-      <div class="ml_label ml_smartfeed_badge">Senior Living</div><br>
-      <h1>Improve Operational Metrics Across Your Communities</h1>
-      <div class="ml-font20 padding0">Drive occupancy rates, improve resident satisfaction and reduce caregiver attrition using one single platform.</div></br>
-      <!-- <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p> -->
-    </div>
-  </div>
-  <div class="ml_no_padding_bottom_top50">
-    <div class="ml_video_container">
+  <div class="ml_no_padding_bottom50">
+    <h1 class="text-center ml-margin-bottom30 ml_body_text_white">Centrally Manage and Monitor Coronavirus Readiness</h1>
+    <div class=" ml-subtext ml-font20">Digitize CDC checklists and audit surveys. Drive Coronavirus Awareness Training.
+    Track knowledge retention and prevention protocol.</div></br>
+    <div class="ml_video_container padding0 ">
       <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
       <div class="ml_video_popup" id="ml_popup">
         <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
@@ -51,7 +46,15 @@ layout: ml_layout
 <!-- end of HCR ManorCare video section -->
 
 <section class="ml-background-white">
-  <div class="padding50">
+<div class="row ml_no_padding_bottom50">
+    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+      <div class="ml_label ml_smartfeed_badge">Senior Living</div><br>
+      <h1>Improve Operational Metrics Across Your Communities</h1>
+      <div class=" ml-subtext ml-font20 padding0">Drive occupancy rates, improve resident satisfaction and reduce caregiver attrition using one single platform.</div></br>
+      <!-- <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p> -->
+    </div>
+  </div>
+  <div class="ml_no_padding_top50">
     <div class="row ml_text_flex_row">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Drive Up Occupancy Rates and Revenue</h4>
@@ -127,10 +130,10 @@ layout: ml_layout
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
   var videoPlayer = cld.videoPlayer('video-player', {
-    posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
+    posterOptions: {publicId: 'website/videos/Coronavirus_prevention_mnvar3.png'}, 
     playedEventPercents: [10]
   });
-  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
+  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1582973718/website/videos/COVID-19_Final_th251t.mp4');
   videoPlayer.on('percentsplayed', (event) => {
     if (event.eventData.percent == 10) {
       document.getElementById("ml_popup").style.display = "block";
