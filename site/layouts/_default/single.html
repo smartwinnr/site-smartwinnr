@@ -269,13 +269,26 @@
     </div>
   </div>
   <div class="ml_about_sm_in_blog padding50">
-    <div class="row text-center">
-      <h2>About SmartWinnr</h2>
+    <!-- <div class="row text-center">
       <div class="ml-margin-top20 ml_padding_desktop">
         <h4 class="ml-margin-bottom10">World’s #1 mobile-first Sales Productivity Platform</h4>
         <div class="">A single platform to drive sales contests, sales learning and sales coaching for on-the-field sales teams.</div>
       </div>
+    </div> -->
+    <div class="text-center ml_padding_bottom5">
+    <h1>Boost Sales by 60% through SmartWinnr Gamified Sales Contests</h1>
+    <p class="ml-margin-top50 text-center">
+      <a class="ml-button-blue ml-margin-top30 ml-margin-right10" href="/request-demo">Learn More</a></p>
+  </div>
+    <div class="ml_video_container">
+      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <div class="ml_video_popup" id="ml_popup">
+        <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
+        <div class="popup_message"> Do you want to know more? </div>
+        <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
+      </div>
     </div>
+
   </div>
   {{ partial "why-choose-sm" . }}
 </section>
@@ -314,6 +327,25 @@
   xhr.open('GET', 'https://api.ipdata.co?api-key=af2a4ff4e21b7fc47af465212f4dc9947af9bdb2eabc6c7d18a19b28');
   xhr.send();
 </script>
+
+<script>
+  // Cloudinary video player 
+  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
+  var videoPlayer = cld.videoPlayer('video-player', {
+    posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
+    playedEventPercents: [10]
+  });
+  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
+  videoPlayer.on('percentsplayed', (event) => {
+    if (event.eventData.percent == 10) {
+      document.getElementById("ml_popup").style.display = "block";
+    }
+  });
+  function hidePopup() {
+    document.getElementById("ml_popup").style.display = "none";
+  }
+</script>
+
 <!-- <br /><br /><br /><br /><br />
 <div id="results">
 </div> -->
