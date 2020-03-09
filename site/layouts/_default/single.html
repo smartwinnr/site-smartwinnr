@@ -268,6 +268,9 @@
       </div>
     </div>
   </div>
+
+  {{ if in .Params.Tags "Sales Contests" }}
+
   <div class="ml_about_sm_in_blog padding50">
     <div class="text-center ml_padding_bottom5">
       <h1>Boost Sales by 60% through SmartWinnr Gamified Sales Contests</h1>
@@ -284,6 +287,27 @@
       </div>
     </div>
   </div>
+
+  <script>
+    // Cloudinary video player 
+    var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
+    var videoPlayer = cld.videoPlayer('video-player', {
+      posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
+      playedEventPercents: [10]
+    });
+    videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
+    videoPlayer.on('percentsplayed', (event) => {
+      if (event.eventData.percent == 10) {
+        document.getElementById("ml_popup").style.display = "block";
+      }
+    });
+    function hidePopup() {
+      document.getElementById("ml_popup").style.display = "none";
+    }
+  </script>
+
+  {{ end }}
+
   {{ partial "why-choose-sm" . }}
 </section>
 <div class="modal fade" id="img-modal" tabindex="-1" role="dialog" aria-labelledby="imageModal" aria-hidden="true">
@@ -320,24 +344,6 @@
   };
   xhr.open('GET', 'https://api.ipdata.co?api-key=af2a4ff4e21b7fc47af465212f4dc9947af9bdb2eabc6c7d18a19b28');
   xhr.send();
-</script>
-
-<script>
-  // Cloudinary video player 
-  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', {
-    posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
-    playedEventPercents: [10]
-  });
-  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
-  videoPlayer.on('percentsplayed', (event) => {
-    if (event.eventData.percent == 10) {
-      document.getElementById("ml_popup").style.display = "block";
-    }
-  });
-  function hidePopup() {
-    document.getElementById("ml_popup").style.display = "none";
-  }
 </script>
 
 <!-- <br /><br /><br /><br /><br />
