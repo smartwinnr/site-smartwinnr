@@ -13,7 +13,7 @@ layout: ml_layout
     <div class="row ml-margin0 ml_div_contents_in_center">
       <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
-        <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for on-the-field sales teams.</div></br>
+        <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
@@ -171,7 +171,7 @@ layout: ml_layout
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-centered-half">
         <h1 class="text-center">Customer Success Story - HCR ManorCare</h1>
-        <div class="ml-subtext ml-font20">Listen to Marty Tanner, Director of Sales Training, HCR ManorCare, on how SmartWinnr is driving knowledge and engagement of their field sales force
+        <div class="ml-subtext ml-font20">Listen to Marty Tanner, Director of Sales Training, HCR ManorCare, on how SmartWinnr is driving knowledge and engagement of their remote sales force.
         </div>
       </div>
     </div>

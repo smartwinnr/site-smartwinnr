@@ -89,8 +89,8 @@ title: Sales Contest
 
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h2 class="ml_body_text_black"> Easy Access from SmartWinnr Mobile App </h2>
-    <p>Your sales teams can follow the progress of the game from the field, in real-time through our easy-to-use and intuitive mobile app.</p>
+    <h2 class="ml_body_text_black"> Follow the Game Remotely from SmartWinnr Mobile App</h2>
+    <p>Your sales teams can follow the progress of the game remotely, in real-time through our easy-to-use and intuitive mobile app.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426372/website/Sales%20Contest/individual-team-leaderboard-combined_heynkl.png"/>
