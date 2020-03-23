@@ -269,7 +269,7 @@
     </div>
   </div>
 
-  <!-- {{ if in .Params.Tags "Sales Contests" }}
+  {{ if in .Params.Tags "Sales Contests" }}
 
   <div class="ml_about_sm_in_blog padding50">
     <div class="text-center ml_padding_bottom5">
@@ -279,16 +279,17 @@
       </p>
     </div>
     <div class="ml_video_container">
-      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
       <div class="ml_video_popup" id="ml_popup">
         <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
         <div class="popup_message"> Do you want to know more? </div>
         <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <script>
+  <!-- <script>
     // Cloudinary video player 
     var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
     var videoPlayer = cld.videoPlayer('video-player', {
@@ -304,9 +305,9 @@
     function hidePopup() {
       document.getElementById("ml_popup").style.display = "none";
     }
-  </script>
+  </script> -->
 
-  {{ end }} -->
+  {{ end }}
 
   {{ partial "why-choose-sm" . }}
 </section>
