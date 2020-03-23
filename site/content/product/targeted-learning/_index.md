@@ -19,12 +19,13 @@ title: Targeted Learning
       <div class="ml-font20">Harness the power of AI to identify areas of improvement.</div>
     </div>
     <div class="ml_video_container">
-      <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+      <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/5wx__AZNTFU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
       <div class="ml_video_popup" id="ml_popup">
         <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
         <div class="popup_message"> Test Message </div>
         <div class="text-center popup_button">Click Me</div>
-      </div>
+      </div> -->
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
@@ -250,7 +251,7 @@ title: Targeted Learning
   </div>
 </div>
 
-<script>
+<!-- <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
   var videoPlayer = cld.videoPlayer('video-player', { 
@@ -273,4 +274,4 @@ title: Targeted Learning
   function hidePopup() {
     document.getElementById("ml_popup").style.display = "none";
   }
-</script>
+</script> -->

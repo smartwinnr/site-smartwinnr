@@ -33,13 +33,14 @@ layout: ml_layout
         <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-        <div class="ml_video_container">
-          <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+        <div class="">
+          <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/7pF0dtyqxjI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
           <div class="ml_video_popup" id="ml_popup">
             <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
             <div class="popup_message"> Test Message </div>
             <div class="text-center popup_button">Click Me</div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -188,7 +189,7 @@ layout: ml_layout
 </div>
 
 
-<script>
+<!-- <script>
   // Cloudinary video player 
   var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
   var videoPlayer = cld.videoPlayer('video-player', {
@@ -208,4 +209,4 @@ layout: ml_layout
   function hidePopup() {
     document.getElementById("ml_popup").style.display = "none";
   }
-</script>
+</script> -->
