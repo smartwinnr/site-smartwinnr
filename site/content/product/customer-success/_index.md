@@ -39,13 +39,16 @@ title: Customer Success
   <h1 class="ml-padding-left30">What Our Customers Say</h1> 
   <div class="row">
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-      <img src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427856/website/Images/Adam_Jensen_amarup.png" alt="Adam Jensen">
+      <!-- <img src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427856/website/Images/Adam_Jensen_amarup.png" alt="Adam Jensen"> -->
+      <img src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/Adam_Jensen_amarup.png" alt="Adam Jensen">
     </div>
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-      <img src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427856/website/Images/Laura_Welch_hp4kap.png" alt="Adam Jensen">
+      <!-- <img src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427856/website/Images/Laura_Welch_hp4kap.png" alt="Adam Jensen"> -->
+      <img src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/Laura_Welch_hp4kap.png" alt="Adam Jensen">
     </div>
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-      <img src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427856/website/Images/Marty_Tanner_p3js8x.png" alt="Adam Jensen">
+      <!-- <img src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427856/website/Images/Marty_Tanner_p3js8x.png" alt="Adam Jensen"> -->
+      <img src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/Marty_Tanner_p3js8x.png" alt="Adam Jensen">
     </div>
   </div>
 </section>

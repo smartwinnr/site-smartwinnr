@@ -33,7 +33,8 @@ title: Targeted Learning
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426762/website/Targeted-Learning/smartfeed_dashboard_txs4cj.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426762/website/Targeted-Learning/smartfeed_dashboard_txs4cj.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/smartfeed_dashboard_txs4cj.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_smartfeed_badge">SmartFeeds</div><br>
@@ -67,7 +68,8 @@ title: Targeted Learning
     <p class="ml-subtext ml_body_text_black">AI-driven personalized assessments that help to retain key information 60% more effectively</p>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426797/website/Targeted-Learning/quiz_shots_x3ag1h.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426797/website/Targeted-Learning/quiz_shots_x3ag1h.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/quiz_shots_x3ag1h.png"/>
   </div>
 </div>
 
@@ -91,7 +93,8 @@ title: Targeted Learning
 
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426847/website/Targeted-Learning/smartpath_details_fqmuo4.png"/>
+    <!-- <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426847/website/Targeted-Learning/smartpath_details_fqmuo4.png"/> -->
+    <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/smartpath_details_fqmuo4.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_smartpath_badge"> SmartPaths </div>
@@ -102,7 +105,8 @@ title: Targeted Learning
 
 <div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426829/website/Targeted-Learning/survey_zravlq.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426829/website/Targeted-Learning/survey_zravlq.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/survey_zravlq.png"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_survey_badge">Surveys</div ><br>
@@ -128,7 +132,8 @@ title: Targeted Learning
     </ul>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426833/website/Targeted-Learning/reports_upbur5.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426833/website/Targeted-Learning/reports_upbur5.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/reports_upbur5.png"/>
   </div>
 </div>
 

@@ -18,13 +18,15 @@ layout: ml_layout
       <div class="ml-font20 ml_body_text_black">Introduce a comprehensive sales enablement program that drives measurable results. Combine sales contests, sales training and sales coaching to boost productivity.</div>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428075/website/Images/smartwinnr_sales_productivity_model_pzkkos.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428075/website/Images/smartwinnr_sales_productivity_model_pzkkos.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/smartwinnr_sales_productivity_model_pzkkos.png"/>
   </div>
 </div>
 
 <div class="row padding50 ml-background-light ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428551/website/Images/sales_productivity_dxfy3v.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428551/website/Images/sales_productivity_dxfy3v.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/sales_productivity_dxfy3v.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">

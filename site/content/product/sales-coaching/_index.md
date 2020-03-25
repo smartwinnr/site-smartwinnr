@@ -18,14 +18,16 @@ title: Sales Coaching
       <div class="ml-font20 ml_body_text_white">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment. Mentor your team for peak performance through a structured coaching program.</div>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426491/website/Sales-Coaching/coaching_home_zmr3po.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426491/website/Sales-Coaching/coaching_home_zmr3po.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coaching_home_zmr3po.png"/>
   </div>
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
 <div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426504/website/Sales-Coaching/coaching_explainer_txo6bx.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426504/website/Sales-Coaching/coaching_explainer_txo6bx.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coaching_explainer_txo6bx.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartfeed_badge">Video Coaching</div><br>
@@ -72,7 +74,8 @@ title: Sales Coaching
 
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426516/website/Sales-Coaching/coaching_steps_nrcpmc.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426516/website/Sales-Coaching/coaching_steps_nrcpmc.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coaching_steps_nrcpmc.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black ml-margin-bottom10"> SmartWinnr Coaching Framework </h2>
@@ -96,7 +99,8 @@ title: Sales Coaching
       <p class="ml-subtext ml_body_text_black">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the coaching process. They do baseline assessments, set coaching goals for joint field visits, and provide crucial feedback to their sales reps.</p>
   </div>
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426530/website/Sales-Coaching/coachtogether_q6bmhh.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426530/website/Sales-Coaching/coachtogether_q6bmhh.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coachtogether_q6bmhh.png"/>
   </div>
 </div>
 
@@ -132,7 +136,8 @@ title: Sales Coaching
       </ul>
   </div>
   <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426538/website/Sales-Coaching/coachtogether_coaching_olaaak.png"/>
+    <!-- <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426538/website/Sales-Coaching/coachtogether_coaching_olaaak.png"/> -->
+    <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coachtogether_coaching_olaaak.png"/>
   </div>
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">

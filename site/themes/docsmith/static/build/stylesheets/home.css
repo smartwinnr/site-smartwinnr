@@ -24616,7 +24616,8 @@ img {
   }
 }
 .ml-background-wave {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/v1581427758/website/Images/wave1_kwnyud.svg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/v1581427758/website/Images/wave1_kwnyud.svg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/wave1_kwnyud.svg");
   background-repeat: no-repeat;
   background-size: 40%;
   /* height: -webkit-fill-available; */
@@ -25662,7 +25663,8 @@ img {
 }
 
 .ml_medical_devices_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427558/website/Images/medical-devices_hzr5uw.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427558/website/Images/medical-devices_hzr5uw.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/medical-devices_hzr5uw.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25671,7 +25673,8 @@ img {
 }
 
 .ml_pharma_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427557/website/Images/pharma_qtke1x.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427557/website/Images/pharma_qtke1x.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/pharma_qtke1x.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25680,7 +25683,8 @@ img {
 }
 
 .ml_insurance_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427558/website/Images/insurance_kwsc2z.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427558/website/Images/insurance_kwsc2z.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/insurance_kwsc2z.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25689,7 +25693,8 @@ img {
 }
 
 .ml_banking_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427557/website/Images/banking_tv7tar.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427557/website/Images/banking_tv7tar.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/banking_tv7tar.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25698,7 +25703,8 @@ img {
 }
 
 .ml_technology_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427556/website/Images/technology_blm50q.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427556/website/Images/technology_blm50q.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/technology_blm50q.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25707,7 +25713,8 @@ img {
 }
 
 .ml_senior_living_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427556/website/Images/senior_living_ndhprv.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427556/website/Images/senior_living_ndhprv.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/senior_living_ndhprv.jpg");
   background-color: #4030c6;
   color: #FFFFFF !important;
   background-position: center;
@@ -25716,7 +25723,8 @@ img {
 }
 
 .ml_enterprise_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427470/website/Images/enterprise_ready_hgpdlh.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427470/website/Images/enterprise_ready_hgpdlh.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/enterprise_ready_hgpdlh.jpg");
   /* background-color: #4030c6; */
   color: #FFFFFF !important;
   background-position: center;
@@ -25725,7 +25733,8 @@ img {
 }
 
 .ml_customer_success_top_section {
-  background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427470/website/Images/customer_success_gxjwro.jpg");
+  /* background-image: url("https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427470/website/Images/customer_success_gxjwro.jpg"); */
+  background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/customer_success_gxjwro.jpg");
   /* background-color: #4030c6; */
   color: #FFFFFF !important;
   background-position: center;
@@ -25852,7 +25861,8 @@ img {
 }
 
 .ml_ul_tick {
-  list-style-image: url('https://res.cloudinary.com/smartwinnr/image/upload/v1581427649/website/Images/tick_uzrclf.png');
+  /* list-style-image: url('https://res.cloudinary.com/smartwinnr/image/upload/v1581427649/website/Images/tick_uzrclf.png'); */
+  list-style-image: url('https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/tick_uzrclf.png');
 }
 
 .ml_no_padding_right50 {

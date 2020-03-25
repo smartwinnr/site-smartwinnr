@@ -155,8 +155,8 @@
           <div class="card-content">
             <article class="article">
               {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
-              <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a>
-              <!-- <a class="ml_body_text_blue ml-blog-tag" href="http://localhost:3000/post{{ .Slug }}">read more</a> -->
+              <!-- <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a> -->
+              <a class="ml_body_text_blue ml-blog-tag" href="http://localhost:3000/post{{ .Slug }}">read more</a>
               {{ end }}
             </article>
 

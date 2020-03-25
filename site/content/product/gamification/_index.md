@@ -19,7 +19,8 @@ title: Gamification
       <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
     </div>
     <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 padding0 ml_zindex1 ml-margin-bottom0">
-      <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427153/website/Images/gamification_hero_final_ifiua5.png"/>
+      <!-- <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427153/website/Images/gamification_hero_final_ifiua5.png"/> -->
+      <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/gamification_hero_final_ifiua5.png"/>
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
@@ -27,7 +28,8 @@ title: Gamification
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426360/website/Sales%20Contest/user-manager_challenge-combined_fvu552.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426360/website/Sales%20Contest/user-manager_challenge-combined_fvu552.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/user-manager_challenge-combined_fvu552.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black"> <b>Competitions</b>: Make winning a team habit </h2>
@@ -54,7 +56,8 @@ title: Gamification
     </ul>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426372/website/Sales%20Contest/individual-team-leaderboard-combined_heynkl.png"/>
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426372/website/Sales%20Contest/individual-team-leaderboard-combined_heynkl.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/individual-team-leaderboard-combined_heynkl.png"/>
   </div>
 </div>
 

@@ -94,7 +94,8 @@ layout: ml_layout
       <p class="ml_body_text_black">SmartWinnr’s contest track and learning track come together to create a highly successful sales program.</p>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-      <img class="ml-image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428445/website/Images/senior_living_scorecard_byuqw0.png" alt="">
+      <!-- <img class="ml-image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428445/website/Images/senior_living_scorecard_byuqw0.png" alt=""> -->
+      <img class="ml-image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/senior_living_scorecard_byuqw0.png" alt="">
     </div>
   </div>
 </section>
@@ -102,7 +103,8 @@ layout: ml_layout
 <section class="padding50 ml-background-white">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-      <img class="ml-image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428445/website/Images/senior_living_content_gaew71.png" alt="">
+      <!-- <img class="ml-image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428445/website/Images/senior_living_content_gaew71.png" alt=""> -->
+      <img class="ml-image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/senior_living_content_gaew71.png" alt="">
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
       <h2>Decrease Attrition of Caregivers through Continuous Engagement, Regular Trainings and Recognizing Achievements</h2>
@@ -122,7 +124,8 @@ layout: ml_layout
       </p>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-      <img class="ml-image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428445/website/Images/seinor_living_survey_hbrfll.png" alt="">
+      <!-- <img class="ml-image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428445/website/Images/seinor_living_survey_hbrfll.png" alt=""> -->
+      <img class="ml-image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/seinor_living_survey_hbrfll.png" alt="">
     </div>
   </div>
 </section>

@@ -17,7 +17,8 @@ layout: ml_layout
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581425890/website/HomePage/Home-hero-isometric_itr4yx.png">
+        <!-- <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581425890/website/HomePage/Home-hero-isometric_itr4yx.png"> -->
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/HomePage_2020-03-23_09_46/Home-hero-isometric_itr4yx.png">
       </div>
     </div>
   </div>
@@ -223,7 +224,8 @@ layout: ml_layout
     <div class="row ml-margin-bottom0">
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" align="center">
         <h1>Built for large, distributed sales teams</h1>
-        <img src="https://res.cloudinary.com/smartwinnr/image/upload/v1581426077/website/HomePage/homepage_distributed_sales_fmgzsd.png" alt="">
+        <!-- <img src="https://res.cloudinary.com/smartwinnr/image/upload/v1581426077/website/HomePage/homepage_distributed_sales_fmgzsd.png" alt=""> -->
+        <img src="https://d2htycb3ayzv6u.cloudfront.net/HomePage_2020-03-23_09_46/homepage_distributed_sales_fmgzsd.png" alt="">
       </div>
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <div class="row ml-margin-bottom20">
