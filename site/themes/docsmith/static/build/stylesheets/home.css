@@ -26077,6 +26077,6 @@ img {
   padding: 0 20px 0;
 }
 
-.ml_special_div_blog_content li {
+.ml_special_div_blog_content li, .ml_pro_tip li {
   font-size: 1rem;
 }
