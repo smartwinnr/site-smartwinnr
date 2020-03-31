@@ -21626,7 +21626,7 @@ section .row:first-child,
 header .row-content:first-child,
 nav .row-content:first-child,
 section .row-content:first-child {
-  margin-top: 10px !important;
+  /* margin-top: 10px !important; */
 }
 
 body {
@@ -22000,6 +22000,9 @@ p {
   }
   .ml_blog_header_bar {
     margin-top: 50px !important;
+  }
+  .ml_header_bar {
+    padding-top: 65px !important;
   }
 }
 .ml-compliance {
@@ -25011,7 +25014,7 @@ img {
   }
   .ml_top_container{
     /* padding: 0px !important; */
-    margin-top: 48px !important;
+    /* margin-top: 48px !important; */
   }
   /* below styles are temporarily written */
   div div .ml-font20{
@@ -25261,7 +25264,7 @@ img {
   max-width: 1660px;
   width: 100%;
   /* padding: 0 20px; */
-  margin-top: 40px;
+  /* margin-top: 40px; */
 }
 
 .ml_padding_left0 {
@@ -25310,8 +25313,19 @@ img {
   background: linear-gradient(135deg, #6f42c1 0%,#4582ec 100%) !important;
 }
 
+.ml_header_bar {
+  padding: 15px;
+  padding-top: 55px;
+  color: #fff;
+  font-size: 1.1rem;
+  text-align: center !important;
+  width: 100%;
+  background: linear-gradient(135deg, #6f42c1 0%,#4582ec 100%) !important;
+}
+
 .ml_link {
   color : #fff !important;
+  text-decoration: underline !important;
 }
 
 .ml_link:hover {
