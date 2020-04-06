@@ -26094,3 +26094,47 @@ img {
 .ml_special_div_blog_content li, .ml_pro_tip li {
   font-size: 1rem;
 }
+
+/* covid -19 special offers styles */
+
+.ml_covid_special_div {
+  text-align: center;
+  min-height: 400px;
+  border: 2px solid #5951ff;
+  /* border-radius: 5px; */
+  margin: 5%;
+}
+
+.ml_covid_special_div:hover {
+  margin-top: 3px;
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.ml_covid_special_div img {
+  height: 200px;
+  width: 100%;
+}
+
+.ml_covid_special_div_text {
+  padding: 3% 0;
+}
+
+.ml_covid_special_div_button {
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff !important;
+  font-size: .875em;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-weight: 600;
+  padding: 10px 20px;
+  border: 2px solid #5951FF;
+  border-radius: 4px;
+}
+
+.ml_covid_special_div_button:hover {
+  color: #5951FF !important;
+  background-color: #fff !important;
+  border: 2px solid #5951FF !important;
+  border-radius: 4px !important;
+}
