@@ -25,30 +25,6 @@ layout: ml_layout
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<!-- Covid-19 special offer starts -->
-<section class="ml-key-points ml-background-white">
-  <div class="padding50">
-    <div class="row ml_div_contents_in_center">
-      <div class="col-lg-7 col-md-6 col-sm-6 col-xs-12">
-        <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
-        <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
-        <!-- <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p> -->
-      </div>
-      <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12">
-        <div class="ml_covid_special_div">
-          <img src="../images/homepage_Gamify_KPIs.png" alt="Image" class="">
-          <div class="ml_covid_special_div_text">
-            <h4> Special Offer </h4>
-            <p> Get unlimited access for free for all your teams of the SalesHood Sales Enablement Platform, until we get through these tough times.</p>
-          </div>
-          <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml_covid_special_div_button" align="center" href="/request-demo">Request Access</a></p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Covid-19 special offer ends -->
-
 <section class="ml-key-points ml-background-white">
   <div class="padding50">
     <div class="row">
