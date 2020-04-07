@@ -26094,3 +26094,7 @@ img {
 .ml_special_div_blog_content li, .ml_pro_tip li {
   font-size: 1rem;
 }
+
+.ml_text_italic {
+  font-style: italic !important;
+}
