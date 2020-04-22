@@ -89,6 +89,28 @@
         }();
         drift.SNIPPET_VERSION = '0.3.1';
         drift.load('k7ind4mkmm7s');
+        drift.on('ready', function (api) {
+            var currentDate = new Date();
+            var isWeekend = currentDate.getDay() === 3 || currentDate.getDay() === 7 ? true : false;
+            var badTime = currentDate.getHours() >= 22 || currentDate.getHours() < 8 ? true : false; 
+            if (isWeekend || badTime) {
+                api.widget.hide()
+            }
+            console.log(currentDate);
+            console.log(isWeekend, badTime);
+            console.log(api);
+            
+            // drift.on('message', function (e) {
+            //     if (!e.data.sidebarOpen) {
+            //         api.widget.show()
+            //     }
+            // })
+            // drift.on('sidebarClose', function (e) {
+            //     if (e.data.widgetVisible) {
+            //         api.widget.hide()
+            //     }
+            // })
+        })
         </script>
         <!-- End of Async Drift Code -->
         <!-- start of slider for related blogs -->
