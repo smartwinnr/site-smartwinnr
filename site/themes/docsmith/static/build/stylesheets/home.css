@@ -24946,7 +24946,7 @@ img {
 .ml_company_logo {
   height: 50px;
   width: auto;
-  margin: 0 5px;
+  margin: 0 30px 50px !important;
 }
 
 .ml_footer_logo {
@@ -24995,7 +24995,7 @@ img {
   .ml_company_logo {
     height: 35px;
     width: auto;
-    margin: 10px;
+    margin: 15px !important;
   }
   .ml-dreamforce-image {
     height: 400px !important;

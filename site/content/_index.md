@@ -36,12 +36,13 @@ layout: ml_layout
     <div class="row text-center">
       <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
       <img class="ml_company_logo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
-      <!-- <img class="ml_company_logo" src="/images/org-logos/fedex-logo.png" alt="FTN logo"> -->
-      <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN logo">
-      <!-- <img class="ml_company_logo" src="/images/org-logos/icici logo.png" alt="ICICI logo"> -->
-      <img class="ml_company_logo ml-margin-top10" src="/images/org-logos/hcr-logo-2x.png" alt="ICICI logo">
-      <img class="ml_company_logo ml-margin-top10" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed logo">
-      <!-- <img class="ml_company_logo" src="/images/org-logos/curefit_logo.png" alt="Cure.fit logo"> -->
+      <img class="ml_company_logo" src="/images/org-logos/nn-logo.png" alt="NN Logo">
+      <img class="ml_company_logo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
+      <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
+      <img class="ml_company_logo" src="/images/org-logos/convatech-logo.png" alt="Convatec Logo">
+      <img class="ml_company_logo" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo">
+      <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo">
+      <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
     </div>
   </div>
 </section>
