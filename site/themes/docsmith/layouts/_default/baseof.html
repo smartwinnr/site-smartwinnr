@@ -95,6 +95,7 @@
             var badTime = currentDate.getHours() >= 22 || currentDate.getHours() < 8 ? true : false; 
             if (isWeekend || badTime) {
                 api.widget.hide()
+                document.getElementById("drift-widget-container").style.display = "none";
             }
             console.log(currentDate);
             console.log(isWeekend, badTime);
