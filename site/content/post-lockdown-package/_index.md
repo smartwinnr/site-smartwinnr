@@ -101,8 +101,8 @@ title: Post Lockdown Package
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
-    <h1 class="ml_body_text_white text-center">Ready to improve sales call effectiveness through structured coaching?</h1>
-    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo to see SmartWinnr in action and how it drives the coaching effectiveness.</div>
+    <h1 class="ml_body_text_white text-center">Are you ready to also digitize your post lockdown journey?</h1>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo to see SmartWinnr in action and how it can help you.</div>
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>
