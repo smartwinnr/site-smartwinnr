@@ -92,12 +92,12 @@ title: Post Lockdown Package
   </div>
 </div>
 
-<div class="white padding50">
+<!-- <div class="white padding50">
   <h2 class="text-center ml-margin-bottom30">Not to be added</h2>
   <p class="ml-subtext ml_body_text_black">SmartWinnr provides you with essential solutions designed to help businesses reopen the workplace as quickly as possible, while helping to keep employees, customers, partners, and communities safe and informed during the COVID-19 crisis and beyond.</p>
   <p class="ml-subtext ml_body_text_black">Hopefully the curve continues to flatten and re-opening our Companies/Stores will be here soon...it will be a journey and Salesforce has developed solutions designed to help businesses reopen the workplace as quickly as possible, while helping to keep employees, customers, partners, and communities safe.</p>
   <p class="ml-subtext ml_body_text_black"><a href="https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6663233779068387328&keywords=%23consumergoods&originTrackingId=oKSeEEY4IzJj32DWV9XkbA%3D%3D" target="_blank">#consumergoods, #retail</a></p>
-</div>
+</div> -->
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
