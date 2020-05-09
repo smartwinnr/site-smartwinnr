@@ -25289,6 +25289,9 @@ img {
   .ml_video_container {
     width: 100% !important;
   }
+  .ml_iframe_video_container {
+    margin: 0 !important;
+  }
   .ml_video_popup {
     left: 20% !important;
     bottom: 5% !important;
@@ -26097,4 +26100,23 @@ img {
 
 .ml_text_italic {
   font-style: italic !important;
+}
+
+.ml_iframe_video_container {
+  margin: 0 10%;
+}
+
+.ml_iframe_video_wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  /* padding-top: 25px; */
+  height: 0;
+  z-index:1;
+}
+.ml_iframe_video_wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

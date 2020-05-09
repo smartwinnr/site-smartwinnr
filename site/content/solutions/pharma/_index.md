@@ -12,13 +12,18 @@ layout: ml_layout
 ---
 
 <section class="ml_pharma_top_section">
-  <div class="row padding50">
-    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+  <div class="ml_no_padding_bottom50">
+    <!-- <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12"> -->
       <div class="ml_label ml_smartpath_badge">Pharma</div><br>
       <h1>Supercharge the Sales Productivity of your Medical Reps</h1>
       <div class="ml-font20 padding0">Train, motivate and coach your medical reps for superlative sales performance</div></br>
-      <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
-    </div>
+      <div class="ml_iframe_video_container">
+        <div class="ml_iframe_video_wrapper">
+          <iframe class="" src="https://www.youtube.com/embed/5cRxuU1-jyc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <!-- <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p> -->
+    <!-- </div> -->
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>

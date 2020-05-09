@@ -14,15 +14,20 @@ title: Sales Contest
 <section class="">
   <div class="ml_sales_contest_top_section ml_no_padding_bottom50">
     <h1 class="text-center ml-margin-bottom30 ml_body_text_white">Boost Sales by 60% through Gamified Sales Contests</h1>
-    <div class="ml_video_container">
-      <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="ml_iframe_video_container">
+      <div class="ml_iframe_video_wrapper">
+        <iframe class="" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+    <!-- <div class="ml_video_container">
+      <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
       <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
       <div class="ml_video_popup" id="ml_popup">
         <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
         <div class="popup_message"> Do you want to know more? </div>
         <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
       </div> -->
-    </div>
+    <!-- </div> -->
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
