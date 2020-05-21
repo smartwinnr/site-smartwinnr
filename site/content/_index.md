@@ -35,6 +35,7 @@ layout: ml_layout
     </div>
     <div class="row text-center">
       <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
+      <img class="ml_company_logo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
       <img class="ml_company_logo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
       <img class="ml_company_logo" src="/images/org-logos/nn-logo.png" alt="NN Logo">
       <img class="ml_company_logo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
