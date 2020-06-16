@@ -250,6 +250,21 @@ title: Targeted Learning
         </div>
       </div>
     </div>
+    <div class="waterfall__item" onclick="location.href='https://smartwinnr.com/post/creative-employee-recognition-award-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/12-Use-micro-learning-for-sales-team.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Creative Employee Recognition Award Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            When someone says “Olympics Gold Medalist”, what comes to your mind? Whether you are a sports fan or not, you can’t help but imagine an athlete who is hardworking, talented, and determined to win...
+          </article>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
