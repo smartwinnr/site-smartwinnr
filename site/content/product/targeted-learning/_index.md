@@ -253,7 +253,7 @@ title: Targeted Learning
     <div class="waterfall__item" onclick="location.href='https://smartwinnr.com/post/creative-employee-recognition-award-names/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
-          <img src="/images/12-Use-micro-learning-for-sales-team.png">
+          <img src="/images/86.creative-employee-recognition-award-names.jpg">
           <span class="card-title ml-margin-bottom0">
             <a class="ml-margin-bottom0">Creative Employee Recognition Award Names</a>
           </span>
