@@ -149,3 +149,159 @@ layout: ml_layout
     document.getElementById("ml_popup").style.display = "none";
   }
 </script> -->
+
+<div class="row ml-margin0 padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/7-fun-activities-for-seniors-and-caregivers-to-enjoy/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-65/65.7-fun-activities-for-seniors-and-caregivers-to-enjoy.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">7 Fun Activities for Seniors and Caregivers to enjoy</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Being a caregiver at senior living is no easy task. Apart from ensuring that all the needs of the seniors are met, you also need to make sure that they stay physically, mentally and emotionally fit and active.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/spaced-repetition-and-microlearning-two-peas-in-a-pod/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-49/49.spaced-repetition-and-microlearning-two-peas-in-a-pod.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Spaced Repetition and Microlearning: Two peas in a pod</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Do you remember undergoing a full-day training program and instantly comprehending the content and recalling every detail even after years? Quite irrational a question, right?
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/ways-to-challenge-the-forgetting-curve/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/26.ways-to-challenge-the-forgetting-curve.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Ways to Challenge the Forgetting Curve</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            How often do your participants forget what they have learned during a training session? Probably very frequently. Usually, it is not possible for the human brain to remember every piece of information that it has consumed.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/29.why-continuous-training-is-important-in-sales.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Why continuous training is important in sales?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Do you think Nick Saban shows up every spring and starts coaching his team with a new style, new drills, and different set of expectations?
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/2016/09/reduce-ramp-up-time-for-new-sales/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog4.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Developing new sales reps has been a challenging task for any sales-focused organization. Though organizations hope to recruit reps who can start selling right from Day 1, the reality is far from that.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/use-micro-learning-to-turbo-charge-your-sales-team/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/12-Use-micro-learning-for-sales-team.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Use Micro-Learning to Turbo-Charge your Sales Team</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Knowledge is key to a sales person’s performance. Sales training and enablement practices are put in place to help reps become better at selling.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/reasons-to-use-video-coaching-in-your-sales-progress/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/17.5 Reasons to Use Video Coaching in Your Sales Process.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Reasons to Use Video Coaching in Your Sales Process</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales coaching is one of the most impactful training techniques to help your sales team capitalize on every buyer interaction. An effective sales coaching strategy should incorporate a systematic coaching approach for continuous improvement.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/21.sales coaching.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching Playbook Part 1 - Competency Framework</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Why is Sales Coaching important? What if your sales reps perform 19% better-- not just over the next several weeks, but month after month.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/22.sales-coaching-playbook-part-2-training-managers-to-coach.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching PlayBook Part 2 - Training the Managers to Coach</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            This article is the continuation of the sales coaching playbook part-1. In the previous article, we have focussed on creating a structured competency framework for coaching the sales team.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-3-how-to-measure-the-success-of-coaching/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/23.coaching measures.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching Playbook Part 3- How to Measure Success of Coaching</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Welcome to the third part in the series of sales coaching playbook. In the first two parts we have discussed about: 
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
