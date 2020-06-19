@@ -104,4 +104,188 @@ layout: ml_layout
     </div>
 </section>
 
-
+<div class="row ml-margin0 padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/5-sales-contests-for-pharma-and-medical-device-companies/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-60/60.5-sales-contests-for-pharma-and-medical-device-companies.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Sales Contest Ideas for Pharmaceuticals and Medical Devices Companies</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Medical devices and Pharmaceutical sellers today are more driven than ever to close sales with aggressive outreach efforts and repeated contact with the customer.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/top-20-sales-contest-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-44/44.top-20-sales-contest-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Top 20 Sales Contest Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales contests create a healthy competitive environment in your sales department. According to the 80/20 rule, only 20% of sales made by salespeople make up for an overall 80% of the company revenue.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/25-creative-sales-team-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-53/53.25-creative-sales-team-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">25 Creative Sales Team Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            What's in a name? A lot actually! When we think of successful sport team names, like the New England Patriots or the New York Yankees, we picture the motivated individuals that make up the team.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/25-creative-sales-team-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-53/53.25-creative-sales-team-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">23 Sales incentive ideas to keep your sales team motivated</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            What's in a name? A lot actually! When we think of successful sport team names, like the New England Patriots or the New York Yankees, we picture the motivated individuals that make up the team.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-contest-communication-template/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-45/45.sales-contest-communication-template.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Contest Communication Template</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Are you planning to implement a sales contest for your sales department? At a minimum, you’ll need to follow these 3 vital rules:
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/funny-sales-team-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/84.funny-sales-team-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Funny Sales Team Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            We can all agree that coming up with a perfect sales team name is a bit of a struggle. A sales team consists of various people with different mindsets and preferences.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/creative-employee-recognition-award-names/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/86.creative-employee-recognition-award-names.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Creative Employee Recognition Award Names</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            When someone says <b>“Olympics Gold Medalist”</b>, what comes to your mind? Whether you are a sports fan or not, you can’t help but imagine an athlete who is hardworking, talented, and determined to win the gold medal.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/10-effective-techniques-to-overcome-sales-objections/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-39/39.10-effective-techniques-to-overcome-sales-objections.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">10 Effective Techniques to overcome Sales Objections</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            “I’m OK with the current situation and don’t feel the need to change.” “It’s too expensive. We don’t have budget.”
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/does-good-product-knowledge-help-sales-teams-to-sell-effectively/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/5-ways-product-knowledge.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How Good Product Knowledge help Sales Teams to Sell Effectively</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            ‘Knowledge is power’. This saying is more relevant than ever in today’s market. Potential buyers are armed with a lot of research and knowledge before they make a purchase decision.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/21.sales coaching.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching Playbook Part 1 - Competency Framework</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Why is Sales Coaching important? What if your sales reps perform 19% better-- not just over the next several weeks, but month after month.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/22.sales-coaching-playbook-part-2-training-managers-to-coach.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching PlayBook Part 2 - Training the Managers to Coach</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            This article is the continuation of the sales coaching playbook part-1. In the previous article, we have focussed on creating a structured competency framework for coaching the sales team.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-3-how-to-measure-the-success-of-coaching/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/23.coaching measures.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching Playbook Part 3- How to Measure Success of Coaching</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Welcome to the third part in the series of sales coaching playbook. In the first two parts we have discussed about: 
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -35,34 +35,235 @@ layout: ml_layout
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
 <div class="padding50 ml-background-white">
-    <div class="row ml_text_flex_row">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
-        <div class="ml-subtext">Drive real-time sales contests with points, badges, challenges and more to track and improve sales productivity.</div>
+  <div class="row ml_text_flex_row">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
+      <div class="ml-subtext">Drive real-time sales contests with points, badges, challenges and more to track and improve sales productivity.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Boost Rep Productivity</h4>
+      <div class="ml-subtext">Improve rep productivity without increasing incentive payouts through effective gamification design</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Increase Up & Cross-Sell Revenue</h4>
+      <div class="ml-subtext">Help teams to uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Reduce Attrition</h4>
+      <div class="ml-subtext">Combine gamification, motivation, coaching and tracking to ensure new reps are engaged and motivated till they find their pace. This greatly helps in reducing new rep attrition.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Motivate and Elicit Performance Across Your Team</h4>
+      <div class="ml-subtext">20% top reps contribute significantly to your sales. Create a tiered sales contest, celebrate wins, share success stories and recognize achievements to motivate the top 20% while inspiring the rest of the team as well to perform at their full potential.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Train Your Team for Top Sales Performance</h4>
+      <div class="ml-subtext">Keep the reps trained and up-to-date with the latest knowledge about products, processes and competition intel.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Improve Sales Pitch Through Continuous Practise</h4>
+      <div class="ml-subtext">Send video coaching challenges to let SDRs practice critical sellings skills in a safe and supporting environment.</div>
+    </div>
+  </div>
+</div>
+
+<div class="row ml-margin0 padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/psychology-of-sales-gamification/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/19.The-psychology-of-sales-gamification.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">The Psychology of Sales Gamification</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales gamification is the application of game mechanics to motivate sales teams to achieve more. Gamification harnesses sales team’s competitive spirit to incentivize their achievements such as closing deals, following up with leads etc.
+          </article>
+        </div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Boost Rep Productivity</h4>
-        <div class="ml-subtext">Improve rep productivity without increasing incentive payouts through effective gamification design</div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/the-ultimate-sales-onboarding-checklist/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-40/40.the-ultimate-sales-onboarding-checklist.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">The Ultimate Sales Onboarding Checklist</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Even if your hiring process is bringing in the right talent, you need an equally effective onboarding plan to get your new rock-star sales reps to succeed in the sales game.
+          </article>
+        </div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Increase Up & Cross-Sell Revenue</h4>
-        <div class="ml-subtext">Help teams to uncover additional revenue opportunities by applying proven up/cross sell techniques and better product knowledge.</div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-create-and-implement-a-perfect-virtual-sales-kick-off/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-85/85.how-to-create-and-implement-a-perfect-virtual-sales-kick-off.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Create and Implement a Perfect Virtual Sales Kick-off?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            In the midst of the world-wide pandemic and stay-at-home orders, many organizations are tasked with the challenge of kicking-off the new fiscal year virtually.
+          </article>
+        </div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Reduce Attrition</h4>
-        <div class="ml-subtext">Combine gamification, motivation, coaching and tracking to ensure new reps are engaged and motivated till they find their pace. This greatly helps in reducing new rep attrition.</div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/4-best-practices-to-have-a-perfect-sales-enablement-process/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/70.4-best-practices-to-have-a-perfect-sales-enablement-process.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">4 Best Practices to have a Perfect Sales Enablement Process</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            To get to the answer of this question, you should first know how sales enablement came into existence. Marketing and sales have traditionally had a bit of a contentious relationship in many companies.
+          </article>
+        </div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Motivate and Elicit Performance Across Your Team</h4>
-        <div class="ml-subtext">20% top reps contribute significantly to your sales. Create a tiered sales contest, celebrate wins, share success stories and recognize achievements to motivate the top 20% while inspiring the rest of the team as well to perform at their full potential.</div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/30-60-90-days-gamified-sales-training-plan/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-64/64.30-60-90-days-gamified-sales-training-plan.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">30 60 90 Days Gamified Sales Training Plan</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Ask yourself, is your new hire training everything it needs to be to prepare your employees for today’s business challenges?
+          </article>
+        </div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Train Your Team for Top Sales Performance</h4>
-        <div class="ml-subtext">Keep the reps trained and up-to-date with the latest knowledge about products, processes and competition intel.</div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/work-from-home-warriors-sales-training-game-for-remote-sales-teams/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/82.work-from-home-warriors-sales-training-game-for-remote-sales-teams.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">‘Work from Home Warriors’: Sales Training Game for Remote Sales Teams</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Your salespeople are the soldiers who guard your company at the forefront. They need to be equipped with the right knowledge to face any customer question effectively.
+          </article>
+        </div>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Improve Sales Pitch Through Continuous Practise</h4>
-        <div class="ml-subtext">Send video coaching challenges to let SDRs practice critical sellings skills in a safe and supporting environment.</div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/a-guide-to-remote-sales/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/79.a-guide-to-remote-sales.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">A Guide to Remote Sales</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            The phenomenon of remote working just keeps gaining momentum. Just about every industry is adapting this remote work (especially given the crisis in the world right now). And, sales are no different.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-improve-B2B-sales-productivity-during-the-crisis/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/80.how-to-improve-B2B-sales-productivity-during-the-crisis.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Improve B2B Sales Productivity During the Crisis?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            In sales, it’s normal to deal with slow seasons, bad seasons, and horrible seasons. But none of those compare to the current situation.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/2016/09/accelerate-your-sales/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog3.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Accelerate Your Sales Performance Through Gamification</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Over the past few years, gamification has become a much talked-about approach towards increasing engagement. From Nike’s Fuelband to My Starbucks Rewards, gamification is being used in every situation as a positive motivational tool.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/top-6-sales-methodologies-for-closing-complex-deals/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-42/42.top-6-sales-methodologies-for-closing-complex-deals.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Top 6 Sales Methodologies for Closing Complex Deals</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            A sales methodology defines the “how” of selling. It takes your sales goals and turns them into actionable steps like, "Ask your prospect this question at that stage".
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/5-reasons-your-sales-training-is-failing/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-7.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Reasons Your Sales Training Is Failing</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Companies are spending billions of dollars to train their sales team. However, we often find our customers at SmartWinnr complain that they have little clarity on the effectiveness of sales training and find it difficult to correlate sales training with actual performance.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/2016/09/sales-training-not-delivering//';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog6.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Is Your Sales Training Not Delivering? These 5 Strategies Will Change That</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Companies spend a lot of money on sales training, and rightfully so. A well-trained sales force is a high performing sales force.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/reasons-to-use-video-coaching-in-your-sales-progress/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/17.5 Reasons to Use Video Coaching in Your Sales Process.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Reasons to Use Video Coaching in Your Sales Process</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales coaching is one of the most impactful training techniques to help your sales team capitalize on every buyer interaction. An effective sales coaching strategy should incorporate a systematic coaching approach for continuous improvement.
+          </article>
+        </div>
       </div>
     </div>
   </div>
+</div>
