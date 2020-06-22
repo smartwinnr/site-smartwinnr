@@ -122,10 +122,10 @@ layout: ml_layout
     </div>
 </section>
 
-<div class="row ml-margin0 white padding50">
+<div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
-  <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
           <img src="/images/29.why-continuous-training-is-important-in-sales.png">

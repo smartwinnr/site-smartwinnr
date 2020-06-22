@@ -31,3 +31,39 @@ layout: ml_layout
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
+
+<div class="row ml-margin0 ml-background-white padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-create-and-implement-a-perfect-virtual-sales-kick-off/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-85/85.how-to-create-and-implement-a-perfect-virtual-sales-kick-off.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Create and Implement a Perfect Virtual Sales Kick-off?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            In the midst of the world-wide pandemic and stay-at-home orders, many organizations are tasked with the challenge of kicking-off the new fiscal year virtually.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/guide-to-plan-and-execute-a-perfect-sales-kickoff-event/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-38/38.guide-to-plan-and-execute-a-perfect-sales-kickoff-event.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Guide to Plan and Execute a Perfect Sales Kickoff Event</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            A sales kickoff is an annual meeting (usually in January) for your entire sales team. The main objectives are motivating your reps, managers, and leaders; laying out your strategy; and celebrate last year's wins.
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

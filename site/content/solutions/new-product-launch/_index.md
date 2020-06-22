@@ -34,3 +34,69 @@ layout: ml_layout
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
+
+<div class="row ml-background-white ml-margin0 padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/survey-questions-to-ask-your-sales-team-before-new-product-launch-training/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-54/54.survey-questions-to-ask-your-sales-team-before-new-product-launch-training.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Survey Questions to ask your Sales Team before a New Product Launch Training</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            When someone says <b>“Olympics Gold Medalist”</b>, what comes to your mind? Whether you are a sports fan or not, you can’t help but imagine an athlete who is hardworking, talented, and determined to win the gold medal.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-32/32.design-sales-contest-for--new-product-launch.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Welcome to the second part in this 3-series blog post on sales contest. In the first part we have talked about: What a sales contest is and why is it important?
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-training-and-communication-playbook-for-new-product-launch/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/20.sales-training-and-communication-playbook-for-new-product-launch.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Training and Communication Playbook for New Product Launch</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            A new product is about to be launched! After thousands of hours of market research, analysis, product design and manufacturing, the big day is here.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/scenarios-where-sales-coaching-can-be-used/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/25.scenarios-where-sales-coaching-can-be-used.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Scenarios where Video Coaching is used commonly</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            “According to the Association for Talent Development, organizations that invest in coaching their employees see a 50% higher net sales per employee”.
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

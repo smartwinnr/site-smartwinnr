@@ -34,7 +34,7 @@ layout: ml_layout
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
-<div class="padding50 ml-background-white">
+<div class="padding50 white">
   <div class="row ml_text_flex_row">
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>

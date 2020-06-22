@@ -53,3 +53,84 @@ layout: ml_layout
     </div>
   </div>
 </section>
+
+<div class="row ml-margin0 padding50">
+  <h2 class="text-center">Related Resources</h2>
+  <div class="ml_slider_related_blogs">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/ramp-up-new-hire-with-preboarding-activities/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/10. ramp up your new hire by using pre-boarding activities.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Ramp-up your New Hire by Using Pre-boarding Activities</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Onboarding is usually seen as the very first step in every employee’s journey in a company. This is where they learn the essentials of their job, the work culture of the company and the expectations they have to meet.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/pre-boarding-plan-for-new-hires/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-47/47.pre-boarding-plan-for-new-hires.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Pre-boarding Plan for new hires</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Every manager or HR has at least one story about a new hire that fell through at the last minute. The story typically goes like: an offer was extended, the candidate enthusiastically accepted and then abruptly quit before their first day.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-run-the-new-hire-onboarding-process-remotely/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/78.how-to-run-the-new-hire-onboarding-process-remotely.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Run the New Hire Onboarding Process Remotely?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Since 2005, the number of people working remotely has increased by 159%. And, this number is only going to increase further in the coming years.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/5-sales-contests-for-your-next-sales-onboarding-process/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-68/68.5-sales-contests-for-your-next-sales-onboarding-process.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Sales Contests for your Next Sales Onboarding Process</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales contests around deals closed are commonplace. Sales contests around onboarding sales reps? Not so much.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/2016/09/reduce-ramp-up-time-for-new-sales/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog4.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Developing new sales reps has been a challenging task for any sales-focused organization. Though organizations hope to recruit reps who can start selling right from Day 1, the reality is far from that.
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

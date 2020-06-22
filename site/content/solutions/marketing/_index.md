@@ -27,7 +27,7 @@ layout: ml_layout
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
+<div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
     <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426797/website/Targeted-Learning/quiz_shots_x3ag1h.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/quiz_shots_x3ag1h.png"/>

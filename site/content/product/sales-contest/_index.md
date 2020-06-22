@@ -98,7 +98,7 @@ title: Sales Contest
   </div>
 </div>
 
-<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+<div class="row ml-margin0 white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black"> Follow the Game Remotely from SmartWinnr Mobile App</h2>
     <p>Your sales teams can follow the progress of the game remotely, in real-time through our easy-to-use and intuitive mobile app.</p>
