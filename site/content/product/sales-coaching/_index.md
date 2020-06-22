@@ -123,7 +123,7 @@ title: Sales Coaching
 </div>
 
 
-<div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
+<div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
       <!-- <div class="ml_label ml_smartfeed_badge">Reports</div><br> -->
       <h4 class="ml_body_text_black ml-margin-bottom10">Improve sales Productivity through systematic coaching</h4>
@@ -171,7 +171,7 @@ title: Sales Coaching
   </div>
 </div> -->
 
-<div class="row ml-margin0 white padding50">
+<div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
