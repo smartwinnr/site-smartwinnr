@@ -44,6 +44,7 @@ layout: ml_layout
       <img class="ml_company_logo" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo">
       <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo">
       <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
+      <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="HCR Logo">
     </div>
   </div>
 </section>
