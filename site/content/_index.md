@@ -290,11 +290,12 @@ layout: ml_layout
 <!-- start of Poly - Laura video section -->
 <section class="ml-chooseQP ml-background-white">
   <div class="padding50">
-    <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-centered-half">
+    <div class="row ml_div_contents_in_center">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-margin-bottom20">
         <h1 class="text-center">Customer Success Story - Poly</h1>
-        <div class="ml-subtext ml-font20">Listen to Laura Turner, Senior Manager of Global Sales Enablement, Poly on how easy it is to use and implement SmartWinnr for sales teams.
+        <div class="ml-subtext ml-font20 ml-margin-bottom20">Listen to Laura Turner, Senior Manager of Global Sales Enablement, Poly on how easy it is to use and implement SmartWinnr for sales teams.
         </div>
+        <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="ml_iframe_video_wrapper">
