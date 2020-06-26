@@ -125,7 +125,142 @@ layout: ml_layout
 <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
-    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/7-features-to-check-while-selecting-a-video-coaching-platform/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-83/83.7-features-to-check-while-selecting-a-video-coaching-platform.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">7 Features to Check While Selecting a Video Coaching Platform</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Over the past few years, the number of businesses hiring remote employees or allowing their regular employees to work remotely has increased substantially.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-create-a-remote-sales-playbook/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/89.how-to-create-a-remote-sales-playbook.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Create a Remote Sales Playbook?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            A sales playbook is a document outlining your sales process; buyer personas; call scripts and agendas; sample emails; discovery, qualification, demo, and negotiation questions; proposal guidelines; and/or competitive intelligence guidelines.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-create-and-implement-a-perfect-virtual-sales-kick-off/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-85/85.how-to-create-and-implement-a-perfect-virtual-sales-kick-off.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Create and Implement a Perfect Virtual Sales Kick-off?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            In the midst of the world-wide pandemic and stay-at-home orders, many organizations are tasked with the challenge of kicking-off the new fiscal year virtually.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-deliver-training-to-your-remote-sales-staff/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/77.how-to-deliver-training-to-your-remote-sales-staff.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Deliver Training to your Remote Sales Staff?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Consider this scenario: You are about to enter the second quarter (Q2) in the year and you have big plans for this quarter. You are going to launch some new products which are going to give you a huge competitive advantage.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/survey-questions-to-ask-your-sales-team-before-new-product-launch-training/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-54/54.survey-questions-to-ask-your-sales-team-before-new-product-launch-training.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Survey Questions to ask your Sales Team before a New Product Launch Training</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            When someone says <b>“Olympics Gold Medalist”</b>, what comes to your mind? Whether you are a sports fan or not, you can’t help but imagine an athlete who is hardworking, talented, and determined to win the gold medal.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/gamified-assessments/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-51/51.gamified-assessments.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Gamified Assessments</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Digital learning has swept the Learning and Development industry over the past few years and went on to become one of the primary training techniques in larger organizations.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/spaced-repetition-and-microlearning-two-peas-in-a-pod/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-49/49.spaced-repetition-and-microlearning-two-peas-in-a-pod.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Spaced Repetition and Microlearning: Two peas in a pod</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Do you remember undergoing a full-day training program and instantly comprehending the content and recalling every detail even after years? Quite irrational a question, right?
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-32/32.design-sales-contest-for--new-product-launch.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Welcome to the second part in this 3-series blog post on sales contest. In the first part we have talked about: What a sales contest is and why is it important?
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/microlearning-as-a-supplement-for-lms/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/27.microlearning-as-a-supplement-for-LMS.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Microlearning as a supplement for LMS</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            If you are a sales manager or an L&D professional you must be familiar with this trend called microlearning.
+          </article>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
           <img src="/images/29.why-continuous-training-is-important-in-sales.png">
@@ -139,7 +274,7 @@ layout: ml_layout
           </article>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
@@ -155,7 +290,22 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/';">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-3-how-to-measure-the-success-of-coaching/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/23.coaching measures.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Sales Coaching Playbook Part 3- How to Measure Success of Coaching</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Welcome to the third part in the series of sales coaching playbook. In the first two parts we have discussed about: 
+          </article>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
           <img src="/images/22.sales-coaching-playbook-part-2-training-managers-to-coach.png">
@@ -169,8 +319,38 @@ layout: ml_layout
           </article>
         </div>
       </div>
+    </div> -->
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/microlearning-an-effective-way-to-train-millennials/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/24.microlearning-an-effective-way-to-train-millennials.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Microlearning- An effective way to train millennials</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            If you take a close look at the workforce in your organization, you will observe that more than half of your employees are millennials.
+          </article>
+        </div>
+      </div>
     </div>
-    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/scenarios-where-sales-coaching-can-be-used/';">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/reasons-to-use-video-coaching-in-your-sales-progress/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/17.5 Reasons to Use Video Coaching in Your Sales Process.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">5 Reasons to Use Video Coaching in Your Sales Process</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Sales coaching is one of the most impactful training techniques to help your sales team capitalize on every buyer interaction.
+          </article>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/scenarios-where-sales-coaching-can-be-used/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
           <img src="/images/25.scenarios-where-sales-coaching-can-be-used.png">
@@ -181,6 +361,36 @@ layout: ml_layout
         <div class="card-content">
           <article class="article">
             “According to the Association for Talent Development, organizations that invest in coaching their employees see a 50% higher net sales per employee”.
+          </article>
+        </div>
+      </div>
+    </div> -->
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/kpi-gamification-how-to-select-kpis/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/16.KPi-gamification-how-to-select-kpi.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">KPI Gamification Part 1 - How to Select KPIs</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Gamification in the workplace is a new trend that almost every organization is following today in order to improve engagement and productivity of their employees.
+          </article>
+        </div>
+      </div>
+    </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/use-micro-learning-to-turbo-charge-your-sales-team/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/12-Use-micro-learning-for-sales-team.png">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">Use Micro-Learning to Turbo-Charge your Sales Team</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Knowledge is key to a sales person’s performance. Sales training and enablement practices are put in place to help reps become better at selling.
           </article>
         </div>
       </div>
