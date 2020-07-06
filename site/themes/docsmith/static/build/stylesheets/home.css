@@ -24501,7 +24501,7 @@ img {
     border-radius: 4px;
 }
 .ml-button-blue:hover {
-  color: #fff;
+  color: #fff !important;
   background-color: #5951FF;
   border: 2px solid #5951FF;
   border-radius: 4px;
