@@ -26124,3 +26124,8 @@ img {
 .ml_w100 {
   width: 100% !important;
 }
+
+.ml_highlighted_text {
+  color: #ceac09;
+  font-weight: 600;
+}
