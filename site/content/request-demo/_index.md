@@ -44,6 +44,23 @@ layout: ml_layout
               <label class="" for="edit-submitted-company-name">Organization <span class="form-required" title="This field is required.">*</span></label>
               <input required="required" placeholder="Organization" type="text" id="edit-submitted-company-name" name="submitted[company_name]" value="" size="60" maxlength="128" class="form-text required" />
             </div>
+            <fieldset>
+              <legend class="ml_form_legend">What are you interested in?</legend>
+              <div>
+                <span class="ml-margin-right10">
+                  <input type="checkbox" class="ml_checbox_input" name="sales_contest" value="Sales Contests">
+                  <span> Sales Contests </span>
+                </span>
+                <span class="ml-margin-right10">
+                  <input type="checkbox" class="ml_checbox_input" name="sales_learning" value="Sales Learning">
+                  <span> Sales Learning </span>
+                </span>
+                <span class="ml-margin-right10">
+                  <input type="checkbox" class="ml_checbox_input" name="sales_coaching" value="Sales Coaching">
+                  <span> Sales Coaching </span>
+                </span>
+              </div>
+            </fieldset>
             <div  class="form-item">
               <label class="" for="edit-submitted-message">Message </label>
               <textarea placeholder="Message" id="edit-submitted-message" name="submitted[message]" cols="60" rows="5" class="form-textarea"></textarea>

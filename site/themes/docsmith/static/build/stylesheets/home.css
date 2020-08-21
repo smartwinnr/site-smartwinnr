@@ -26129,3 +26129,19 @@ img {
   color: #ceac09;
   font-weight: 600;
 }
+
+.ml_form_legend {
+  font-size: 12px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: #000;
+}
+
+.ml_checbox_input {
+  color: #000 !important;
+  width: 15px !important;
+  height: 15px !important;
+  margin-bottom: 0 !important;
+  display: inline !important;
+  border: 3px solid #000 !important;
+}
