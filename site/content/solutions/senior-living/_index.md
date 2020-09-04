@@ -303,5 +303,20 @@ layout: ml_layout
         </div>
       </div>
     </div>
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/how-to-drive-learning-and-engagement-of-sales-teams-in-senior-living/';">
+      <div class="card post post-summary reveal enter">
+        <div class="card-header postinfo">
+          <img src="/images/blog-107/107.how-to-drive-learning-and-engagement-of-sales-teams-in-senior-living.jpg">
+          <span class="card-title ml-margin-bottom0">
+            <a class="ml-margin-bottom0">How to Drive Learning and Engagement of Sales Teams in Senior Living?</a>
+          </span>
+        </div>
+        <div class="card-content">
+          <article class="article">
+            Being in sales in the senior care industry is different. It’s a job that requires salespeople to be helping, caring, and empathetic while selling.
+          </article>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
