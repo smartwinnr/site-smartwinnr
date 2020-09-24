@@ -26155,3 +26155,7 @@ img {
   line-height: 1.4rem;
   margin-top: 5% !important;
 }
+
+.ml_height_30 {
+  height: 30px !important;
+}

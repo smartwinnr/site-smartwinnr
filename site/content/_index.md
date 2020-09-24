@@ -45,8 +45,8 @@ layout: ml_layout
       <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo">
       <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
       <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
-      <img class="ml_company_logo" src="/images/org-logos/icici-securities-logo.png" alt="ICICI Securities Logo">
-      <img class="ml_company_logo" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
+      <img class="ml_company_logo ml_height_30" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
+      <img class="ml_company_logo ml_height_30" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
     </div>
   </div>
 </section>
