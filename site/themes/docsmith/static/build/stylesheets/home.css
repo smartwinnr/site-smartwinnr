@@ -26159,3 +26159,12 @@ img {
 .ml_height_30 {
   height: 30px !important;
 }
+
+.ml_yellow_link {
+  color: #ff7e21 !important;
+}
+
+.ml_yellow_link:hover {
+  text-decoration: underline !important;
+  color: #ff7e21 !important;
+}
