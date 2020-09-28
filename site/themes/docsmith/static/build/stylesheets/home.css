@@ -26160,11 +26160,11 @@ img {
   height: 30px !important;
 }
 
-.ml_yellow_link {
-  color: #ff7e21 !important;
+.ml_custom_link {
+  color: #0065FF !important;
 }
 
-.ml_yellow_link:hover {
+.ml_custom_link:hover {
   text-decoration: underline !important;
-  color: #ff7e21 !important;
+  color: #0065FF !important;
 }
