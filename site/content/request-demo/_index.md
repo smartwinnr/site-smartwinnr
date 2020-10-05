@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'Request Demo'
-keywords: ["contact-us", "linux", "how to"]
+title: Free Demo of SmartWinn'r Software
+og_title: Free Demo of SmartWinn'r Software
+description: Request a demo of SmartWinnr's sales training, sales coaching and sales contest Software which can help you to create a world class sales team
+og_description: Request a demo of SmartWinnr's sales training, sales coaching and sales contest Software which can help you to create a world class sales team
+keywords: ["free demo", "sales training software", "sales coaching software", "sales contest software"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Request Demo
 type: ml_layout
 layout: ml_layout
 ---

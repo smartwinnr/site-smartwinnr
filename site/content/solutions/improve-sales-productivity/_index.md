@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: SmartWinnr can boost sales productivity of your teams by up to 68%. Learn more
+title: Improve Sales Productivity of your teams with SmartWinnr
+og_title: Improve Sales Productivity of your teams with SmartWinnr
+og_description: SmartWinnr can boost sales productivity of your teams by up to 68% with continuous learning, support coaching and seamless sales contests
+description: SmartWinnr can boost sales productivity of your teams by up to 68% with continuous learning, support coaching and seamless sales contests
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Improve Sales Productivity
 type: ml_layout
 layout: ml_layout
 ---

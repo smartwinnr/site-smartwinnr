@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: See what our customers from Fortune 500 companies have to say about their experience with SmartWinnr
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: Make every rollout a success with Customer Success Support | SmartWinnr
+og_title: Make every rollout a success with Customer Success Support | SmartWinnr
+og_description: Our Customer Success Team will be with you, every step of the way, starting from roll-out to continuous support.
+description: Our Customer Success Team will be with you, every step of the way, starting from roll-out to continuous support.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "customer support", "support services", "customer success"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Customer Success
 ---
 
 <div class="">

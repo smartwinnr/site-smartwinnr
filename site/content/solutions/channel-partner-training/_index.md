@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Use SmartWinnr for total sales channel activation including your internal team and external distributors.
+title: Drive your Channel Partner Training through SmartWinnr
+og_title: Drive your Channel Partner Training through SmartWinnr
+og_description: SmartWinnr enables complete sales channel activation - internal sales to channel partners.
+description: SmartWinnr enables complete sales channel activation - internal sales to channel partners.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Channel Partner Training
 type: ml_layout
 layout: ml_layout
 ---

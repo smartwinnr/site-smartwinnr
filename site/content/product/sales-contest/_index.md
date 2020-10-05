@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Take your sales productivity to the next level with SmartWinnr’s contests. Free from tedious excel calculations, with real-time updates and automated notifications that your sales reps can follow directly from their smartphones.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: Sales Contest for Small to Enterprise Businesses | SmartWinnr
+description: Use SmartWinnr Sales Contest mobile app to remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
+og_title: Sales Contest for Small to Enterprise Businesses | SmartWinnr
+og_description: Use SmartWinnr Sales Contest mobile app to remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
+keywords: ["smartwinnr", "sales performance", "sales enablement", "sales contest tool", "sales contest software", "sales contests", "sales productivity"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Sales Contest
 ---
 
 <section class="">

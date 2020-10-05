@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: SmartWinnr helps you reimagine how you drive performance and knowledge across branches. Track individual and branch-level KPIs | Train team on the latest product, process, and regulatory knowledge | Share important regulatory and product information.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+title: SmartWinnr for Banking Industry
+og_title: SmartWinnr for Banking Industry
+og_description: SmartWinnr helps you to reimagine how you drive performance and knowledge across branches. Track individual and branch-level KPIs | Train team on the latest product, process, and regulatory knowledge | Share important regulatory and product information.
+description: SmartWinnr helps you to reimagine how you drive performance and knowledge across branches. Track individual and branch-level KPIs | Train team on the latest product, process, and regulatory knowledge | Share important regulatory and product information.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors", "banking", "BFSI", "branch knowledge", "KPI", "regulatory knowledge"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Banking
 type: ml_layout
 layout: ml_layout
 ---

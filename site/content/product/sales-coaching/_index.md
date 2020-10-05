@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Improve the call effectiveness of your sales team with SmartWinnr’s field coaching, video-based coaching, practice, and assessment. Mentor your team for peak performance through a structured coaching program.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+description: Improve call effectiveness for customer facing teams with SmartWinnr field coaching, audio coaching and video-based coaching
+title: Video Coaching and Field Coaching for Sales Teams | SmartWinnr
+og_title: Video Coaching and Field Coaching for Sales Teams | SmartWinnr
+og_description: Improve call effectiveness for customer facing teams with SmartWinnr field coaching, audio coaching and video-based coaching
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "field coaching software", "field coaching tool", "video coaching", "audio coaching"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Sales Coaching
 ---
 
 <div class="row ml_no_padding_top_bottom_right50 ml_blue_bg_gradient ml_div_contents_in_center">

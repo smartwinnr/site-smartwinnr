@@ -1,7 +1,10 @@
 ---
-title: SmartWinnr
-description: SmartWinnr is a gamified platform that helps teams to be smarter, perform better and stay compliant. We use Artificial Intelligence (AI), Gamification and Neuroscience to help our customers reduce training cost by upto 30% while clocking a 60% better knowledge retention. It is applicable for sales teams, and other customer facing teams.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: SmartWinnr | 1 Platform for Sales Learning, Sales Coaching and Sales Contests
+og_title: SmartWinnr | 1 Platform for Sales Learning, Sales Coaching and Sales Contests
+og_description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and effortless sales contests. Find contest ideas, gamification plans, learning campaigns and more resources.
+description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and effortless sales contests. Find contest ideas, gamification plans, learning campaigns and more resources.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", 
+"sales enablement", "solutions", "sales contest", "sales contests", "sales contest software", "sales contest tool"]
 tiles:
   - { title: 'SmartWinnr', description: 'Gamified platform to drive knowledge and performance', url: 'getting-started', icon: 'book' }
 type: ml_layout

@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Improve the productivity and reduce attrition of your insurance agents with SmartWinnr’s proven Sales effectiveness program.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+title: SmartWinnr Improves Sales Productivity in Insurance Industry
+og_title: SmartWinnr Improves Sales Productivity in Insurance Industry
+og_description: Improve sales productivity and reduce attrition of your insurance agents with SmartWinnr’s proven Sales effectiveness program.
+description: Improve sales productivity and reduce attrition of your insurance agents with SmartWinnr’s proven Sales effectiveness program.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "insurance", "insurance agents", "product knowledge", "reduce attrition"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Insurance
 type: ml_layout
 layout: ml_layout
 ---

@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
+title: Run engaging and exciting Sales Events with SmartWinnr
+og_title: Run engaging and exciting Sales Events with SmartWinnr
+og_description: Run your sales events with SmartWinnr to make them fun and engaging. Gamify your event, communicate with your audience, drive knowledge in a fun way and get insights on the event’s ROI - all from one platform.
 description: Run your sales events with SmartWinnr to make them fun and engaging. Gamify your event, communicate with your audience, drive knowledge in a fun way and get insights on the event’s ROI - all from one platform.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors", "sales events"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Sales Events
 type: ml_layout
 layout: ml_layout
 ---

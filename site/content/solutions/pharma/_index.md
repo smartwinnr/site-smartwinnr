@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Learn how you can train, motivate and coach your medical reps for superlative sales performance using SmartWinnr
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+title: SmartWinnr for Pharma Industry
+og_title: SmartWinnr for Pharma Industry
+og_description: Train, motivate and coach your medical reps for superlative sales performance using SmartWinnr
+description: Train, motivate and coach your medical reps for superlative sales performance using SmartWinnr
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors", "pharma", "pharmaceuticals", "medical reps", "MR"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Pharma
 type: ml_layout
 layout: ml_layout
 ---

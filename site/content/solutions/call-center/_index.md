@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: SmartWinnr equips your customer support agents with the right knowledge and motivation so they deliver excellent support to your customers consistently.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+title: How SmartWinnr empowers Call Center agents and managers
+og_title: How SmartWinnr empowers Call Center agents and managers
+og_description: SmartWinnr equips your customer support agents with the right knowledge and motivation to improve first call resolution time
+description: SmartWinnr equips your customer support agents with the right knowledge and motivation to improve first call resolution time
+keywords: ["smartwinnr", "gamification", "audio coaching", "performance", "solutions", "new product launch", "new offer launch", "new service launch", "training", "first call resolution"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Call Center
 type: ml_layout
 layout: ml_layout
 ---

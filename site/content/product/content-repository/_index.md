@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Knowledge Hub is a one-stop destination for the content needs of all your employees. It provides-- easy access to content, Intelligent Search, Multiple language support, Offline access and Sharing of documents.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: Central Content Repository for easy access | SmartWinnr
+og_title: Central Content Repository for easy access | SmartWinnr
+og_description: Use KHub as a central content repository, easily accessible from mobile app. 
+description: Use KHub as a central content repository, easily accessible from mobile app. 
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "knowledge portal", "knowledge hub", "content repository"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Content Repository
 ---
 
 <div class="row ml_blue_bg_gradient ml_no_padding_bottom_right50 ml_div_contents_in_center">

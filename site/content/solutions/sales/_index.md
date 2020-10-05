@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'SmartWinnr for sales: SmartWinnr gives your sales team the winning edge. Motivate, train and coach from a single platform.'
+title: Drive Sales with SmartWinnr
+og_title: Drive Sales with SmartWinnr
+og_description: SmartWinnr gives your sales team the winning edge. Motivate, train and coach from a single platform.
+description: SmartWinnr gives your sales team the winning edge. Motivate, train and coach from a single platform.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Sales
 type: ml_layout
 layout: ml_layout
 ---

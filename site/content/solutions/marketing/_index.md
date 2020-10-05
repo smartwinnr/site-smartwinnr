@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: SmartWinnr bridges the gap between your sales and marketing teams so that both departments deliver a uniform and effective brand message to your customers.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+title: Empower your Marketing team 
+og_title: Empower your Marketing team 
+og_description: SmartWinnr empowers the marketing team to run successful product trainings, collect feedback directly from the field
+description: SmartWinnr empowers the marketing team to run successful product trainings, collect feedback directly from the field
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors", "product training", "collect feedback"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Marketing
 type: ml_layout
 layout: ml_layout
 ---

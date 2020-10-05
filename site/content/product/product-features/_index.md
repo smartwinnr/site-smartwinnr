@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'SmartWinnr uses Artificial Intelligence (AI), Gamification and Neuroscience to help our customers reduce training cost by upto 30% while clocking a 60% better knowledge retention.'
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: SmartWinnr Modules and Features
+og_title: SmartWinnr Modules and Features
+og_description: Get more details about the modules and services SmartWinnr offers and the features associated with those modules.
+description: Get more details about the modules and services SmartWinnr offers and the features associated with those modules.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "features", "modules"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: General features
 ---
 
 <section>

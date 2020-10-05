@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Want to improve sales productivity in your organization? Use SmartWinnr’s gamification engine to engage, motivate and improve the performance of your teams.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: Gamification makes activities fun and engaging | SmartWinnr
+og_title: Gamification makes activities fun and engaging | SmartWinnr
+og_description: Use SmartWinnr’s gamification engine to engage, motivate and improve the performance of your teams.
+description: Use SmartWinnr’s gamification engine to engage, motivate and improve the performance of your teams.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "sales contests", "sales contest"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Gamification
 ---
 
 <section class="ml_blue_bg_gradient">

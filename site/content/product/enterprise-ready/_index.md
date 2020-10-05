@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: 'SmartWinnr is enterprise-ready. It provides high availability and scalability, enterprise-grade security. We provide REST APIs to integrate with any LMS, HRMS, CRM solutions. SmartWinnr integrates seamlessly with Salesforce.com'
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: Enterprise Ready Features for large enterprises | SmartWinnr
+og_title: Enterprise Ready Features for large enterprises | SmartWinnr
+og_description: SmartWinnr is enterprise-ready with high availability, scalability, enterprise-grade security, SSO and ready-made integration with other systems.
+description: SmartWinnr is enterprise-ready with high availability, scalability, enterprise-grade security, SSO and ready-made integration with other systems.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "integration", "availability", "scalability", "enterprise-grade security"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Enterprise Ready
 ---
 
 <!-- <section>

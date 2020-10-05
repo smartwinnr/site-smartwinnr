@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
+title: SmartWinnr for Senior Living Industry
+og_title: SmartWinnr for Senior Living Industry
+og_description: SmartWinnr for Senior Living-- Drive occupancy rates, improve resident satisfaction and reduce caregiver attrition using one single platform.
 description: SmartWinnr for Senior Living-- Drive occupancy rates, improve resident satisfaction and reduce caregiver attrition using one single platform.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors", "senior living", "caregivers", "marketing directors", "directors of community relations"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Senior Living
 type: ml_layout
 layout: ml_layout
 ---

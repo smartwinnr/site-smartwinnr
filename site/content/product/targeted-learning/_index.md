@@ -2,13 +2,15 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-description: Drive your sales training quickly and easily with SmartWinnr’s micro-learning feeds, gamified assessments, structured learning paths and detailed reports.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
+title: Targeted and continuous learning for on-the-field teams | SmartWinnr
+og_title: Video Coaching and Field Coaching for Sales Teams | SmartWinnr
+og_description: Drive continuous Sales Learning with SmartWinnr’s micro-learning feeds, gamified assessments, structured learning paths and detailed training needs analysis reports.
+description: Drive continuous Sales Learning with SmartWinnr’s micro-learning feeds, gamified assessments, structured learning paths and detailed training needs analysis reports.
+keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "sales learning", "quizzes", "assessments", "gamified assessments", "surveys", "modules"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
-title: Targeted Learning
 ---
 
 <section class="">

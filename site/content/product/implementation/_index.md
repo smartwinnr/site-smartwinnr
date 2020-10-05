@@ -2,11 +2,13 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
+title: Implementation and Roll-out Services | SmartWinnr
+og_title: Implementation and Roll-out Services | SmartWinnr
+og_description: Easy to implement. Easy to use. We make implementation a breeze with a structured process that works every time.
 description: Easy to implement. Easy to use. We make implementation a breeze with a structured process that works every time.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions", "new product launch", "new offer launch", "new service launch", "train partners", "train distributors"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
-title: Implementation
 type: ml_layout
 layout: ml_layout
 ---
