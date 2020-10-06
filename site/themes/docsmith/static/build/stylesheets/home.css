@@ -2495,7 +2495,7 @@ legend {
   line-height: inherit;
   color: #333333;
   border: 0;
-  border-bottom: 1px solid #e5e5e5;
+  /* border-bottom: 1px solid #e5e5e5; */
 }
 label {
   display: inline-block;
@@ -24135,7 +24135,7 @@ img {
 }
 
 .form-item {
-  margin-top: 1em;
+  /* margin-top: 1em; */
   margin-bottom: 1em;
 }
 
@@ -25954,7 +25954,7 @@ img {
 .ml_request_demo_signup {
   background: #fff;
   font-size: 12px !important;
-  padding: 10% !important;
+  padding: 5% 8% !important;
   color: #000;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -25964,8 +25964,8 @@ img {
   display: block;
   width: 100%;
   color: #000 !important;
-  height: 40px;
-  padding: 5px 0;
+  height: 35px;
+  padding: 5px;
   font-size: 1rem;
   text-indent: 2%;
   border: 1px solid #ABB0B2;
@@ -25976,29 +25976,31 @@ img {
   display: block;
   width: 100%;
   color: #000 !important;
-  padding: 5px 0;
-  text-indent: 2%;
+  padding: 5px;
+  /* text-indent: 2%; */
   font-size: 1rem;
   border: 1px solid #ABB0B2;
   border-radius: 5px;
 }
 
 .ml_request_demo_signup input.form-submit {
-  width: 50% !important;
-  margin: 5% 0% !important;
+  width: 40% !important;
+  margin: auto !important;
+  font-weight: 600;
   border: 2px solid #4e6bdf !important;
-  margin-left: 25% !important;
-  background: #fff;
-  color: #4e6bdf !important;
-  font-size: 1.2rem;
+  /* margin-left: 37% !important; */
+  background: #4e6bdf;
+  color: #fff !important;
+  font-size: 1rem;
+  text-transform: uppercase;
 }
 .ml_request_demo_signup .form-required {
   color: red !important;
 }
 
 .ml_request_demo_signup input.form-submit:hover {
-  background: #4e6bdf;
-  color: #fff !important;
+  background: #fff;
+  color: #4e6bdf !important;
 }
 /* end of request demo form styles */
 
@@ -26007,7 +26009,7 @@ img {
 }
 
 .ml_request_demo_logo {
-  width: 70%;
+  width: 50%;
   height: auto;
 }
 
@@ -26167,4 +26169,16 @@ img {
 .ml_custom_link:hover {
   text-decoration: underline !important;
   color: #0065FF !important;
+}
+
+.padding5_percent {
+  padding: 5% !important;
+}
+
+.ml_padding_left_10 {
+  padding-left: 10px !important
+}
+
+.ml_font_weight_normal {
+  font-weight: normal !important;
 }

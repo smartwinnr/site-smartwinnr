@@ -15,13 +15,30 @@ layout: ml_layout
 
 <section>
   <div class="padding50 ml_blue_bg_gradient">
-    <div class="row ml_div_contents_in_center">
-      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 text-center">
-        <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo">
-        <div class="ml_font_1_point_two ml_body_text_white">Sales Contest <b>|</b> Sales Learning <b>|</b> Sales Coaching </div> 
-        <div class="ml_font_1_point_two ml-padding-top ml_body_text_white">Get a free demo to know how you can double your sales numbers</div>
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <!-- <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo">
+        <div class="ml_font_1_point_two ml_body_text_white"> Schedule a Free Demo </div> 
+        <div class="ml_font_1_point_two ml-padding-top ml_body_text_white">Get a free demo to know how you can double your sales numbers</div> -->
+        <!-- <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo"> -->
+        <h1 class="ml_body_text_white ">Schedule a Free Demo</h1>
+        <div class="ml-font20 ml_body_text_white ">See how SmartWinnr can drive <span class="ml_text_bold">Sales Revenue goals</span> for your team, through
+          <ul class="ml_body_text_white">
+            <li class="ml-font20">gamified sales contests</li>
+            <li class="ml-font20">continuous learning</li>
+            <li class="ml-font20">systematic coaching</li>
+          </ul>
+        </div>
+        <h2 class="ml_body_text_white ml-margin-top30 ">What's in it for you?</h2>
+        <div class="ml-font20 ml_body_text_white ">In this 1-hour session, our consultant will help with:
+          <ul class="ml_body_text_white ">
+            <li class="ml-font20">Walkthrough of a <span class="ml_text_bold">customised demo</span> of SmartWinnr, to meet your business needs</li>
+            <li class="ml-font20">Take back a <span class="ml_text_bold">concrete plan</span> for gamifying your sales contest, training or coaching</li>
+            <li class="ml-font20">Start your <span class="ml_text_bold">free 1 month trial</span></li>
+          </ul>
+        </div>
       </div>
-      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <form class="ml_request_demo_signup" action="https://bu4y0vkrwi.execute-api.us-west-2.amazonaws.com/prod" method="post" id="webform-client-form-11" accept-charset="UTF-8" data-netlify="true" netlify-honeypot="_honeypot">
         <input name="_honeypot" style="display:none" type="text">
             <input type="hidden" name="_to" value="94867cb7283ac9911fadb73040c85fbe11aeafbffb09">
@@ -30,42 +47,54 @@ layout: ml_layout
             <p class="hidden">
               <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
             </p>
-            <div  class="form-item">
-              <label class="" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
-              <input required="required" placeholder="Name" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" class="form-text required" />
+            <!-- <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0"> -->
+                <div  class="form-item">
+                  <label class="" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
+                  <input required="required" placeholder="Please enter your name" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" class="form-text required" />
+                </div>
+              <!-- </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0 ml_padding_left_10"> -->
+                <div  class="form-item">
+                  <label class="" for="edit-submitted-email">Company Email Address <span class="form-required" title="This field is required.">*</span></label>
+                  <input required="required" class="email form-text form-email required" placeholder="Please enter your business email" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
+                </div>
+              <!-- </div>
             </div>
-            <div  class="form-item">
-              <label class="" for="edit-submitted-email">Email <span class="form-required" title="This field is required.">*</span></label>
-              <input required="required" class="email form-text form-email required" placeholder="Email" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
-            </div>
-            <div  class="form-item">
-              <label class="" for="edit-submitted-phone-number">Phone Number <span class="form-required" title="This field is required.">*</span></label>
-              <input required="required" placeholder="Phone Number" type="text" id="edit-submitted-phone-number" name="submitted[phone_number]" value="" size="60" maxlength="128" class="form-text" />
-            </div>
-            <div  class="form-item">
-              <label class="" for="edit-submitted-company-name">Organization <span class="form-required" title="This field is required.">*</span></label>
-              <input required="required" placeholder="Organization" type="text" id="edit-submitted-company-name" name="submitted[company_name]" value="" size="60" maxlength="128" class="form-text required" />
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0"> -->
+                <div  class="form-item">
+                  <label class="" for="edit-submitted-phone-number">Phone Number <span class="form-required" title="This field is required.">*</span></label>
+                  <input required="required" placeholder="Please enter your phone number" type="text" id="edit-submitted-phone-number" name="submitted[phone_number]" value="" size="60" maxlength="128" class="form-text" />
+                </div>
+              <!-- </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0 ml_padding_left_10"> -->
+                <div  class="form-item">
+                  <label class="" for="edit-submitted-company-name">Organization <span class="form-required" title="This field is required.">*</span></label>
+                  <input required="required" placeholder="Please enter your organization" type="text" id="edit-submitted-company-name" name="submitted[company_name]" value="" size="60" maxlength="128" class="form-text required" />
+                <!-- </div>
+              </div> -->
             </div>
             <fieldset>
               <legend class="ml_form_legend">What are you interested in?</legend>
               <div>
-                <span class="ml-margin-right10">
-                  <input type="checkbox" class="ml_checbox_input" name="sales_contest" value="Sales Contests">
-                  <span> Sales Contests </span>
-                </span>
-                <span class="ml-margin-right10">
-                  <input type="checkbox" class="ml_checbox_input" name="sales_learning" value="Sales Learning">
-                  <span> Sales Learning </span>
-                </span>
-                <span class="ml-margin-right10">
-                  <input type="checkbox" class="ml_checbox_input" name="sales_coaching" value="Sales Coaching">
-                  <span> Sales Coaching </span>
-                </span>
+                <div class="ml-margin-right10">
+                  <input type="checkbox" class="ml_checbox_input" name="sales_contest" id="sales_contest" value="Sales Contests">
+                  <label class="ml_font_weight_normal" for="sales_contest"> Sales Contests </label>
+                </div>
+                <div class="ml-margin-right10">
+                  <input type="checkbox" class="ml_checbox_input" name="sales_learning" id="sales_learning" value="Sales Learning">
+                  <label class="ml_font_weight_normal" for="sales_learning"> Sales Learning </label>
+                </div>
+                <div class="ml-margin-right10">
+                  <input type="checkbox" class="ml_checbox_input" name="sales_coaching" id="sales_coaching" value="Sales Coaching">
+                  <label class="ml_font_weight_normal" for="sales_coaching"> Sales Coaching </label>
+                </div>
               </div>
             </fieldset>
             <div  class="form-item">
               <label class="" for="edit-submitted-message">Message </label>
-              <textarea placeholder="Message" id="edit-submitted-message" name="submitted[message]" cols="60" rows="5" class="form-textarea"></textarea>
+              <textarea placeholder="Give us an outline of your requirements, to create a customised demo for you" id="edit-submitted-message" name="submitted[message]" cols="60" rows="3" class="form-textarea"></textarea>
             </div>
             <input type="hidden" name="details[sid]" />
             <input type="hidden" name="details[page_num]" value="1" />
@@ -82,6 +111,32 @@ layout: ml_layout
           </div>
         </form>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="ml-key-points ml-background-white">
+  <div class="padding50">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <h1 class="text-center ml_body_text_black ml-margin-bottom20">Global enterprises rely on SmartWinnr</h1>
+        <!-- <h4 class="text-center ml_body_text_black ml-margin-bottom20">Global enterprises rely on SmartWinnr.</h4> -->
+      </div>
+    </div>
+    <div class="row text-center">
+      <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
+      <img class="ml_company_logo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
+      <img class="ml_company_logo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
+      <img class="ml_company_logo" src="/images/org-logos/nn-logo.png" alt="NN Logo">
+      <img class="ml_company_logo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
+      <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
+      <img class="ml_company_logo" src="/images/org-logos/convatech-logo.png" alt="Convatec Logo">
+      <img class="ml_company_logo" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo">
+      <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo">
+      <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
+      <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
+      <img class="ml_company_logo ml_height_30" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
+      <img class="ml_company_logo ml_height_30" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
     </div>
   </div>
 </section>
