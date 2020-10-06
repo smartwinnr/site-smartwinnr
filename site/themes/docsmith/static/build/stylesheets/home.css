@@ -22048,6 +22048,10 @@ p {
     height: 30px;
     width: auto;
   }
+  .ml_company_logo_in_request_demo {
+    height: 30px;
+    width: auto;
+  }
   .ml_slider_related_blogs {
     padding: 0;
   }
@@ -24949,6 +24953,12 @@ img {
   margin: 0 30px 50px !important;
 }
 
+.ml_company_logo_in_request_demo {
+  height: 50px;
+  width: auto;
+  margin: 0 15px 15px !important;
+}
+
 .ml_footer_logo {
   height: 35px !important;
   width: 100px !important;
@@ -24993,6 +25003,11 @@ img {
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
   .ml_company_logo {
+    height: 35px;
+    width: auto;
+    margin: 15px !important;
+  }
+  .ml_company_logo_in_request_demo {
     height: 35px;
     width: auto;
     margin: 15px !important;
@@ -25952,10 +25967,10 @@ img {
 
 /* request demo form styles */
 .ml_request_demo_signup {
-  background: #fff;
+  background: #4e6bdf;
   font-size: 12px !important;
   padding: 5% 8% !important;
-  color: #000;
+  color: #fff;
   margin-bottom: 10px;
   border-radius: 5px;
 }
@@ -25987,10 +26002,10 @@ img {
   width: 40% !important;
   margin: auto !important;
   font-weight: 600;
-  border: 2px solid #4e6bdf !important;
+  border: 2px solid #fff !important;
   /* margin-left: 37% !important; */
-  background: #4e6bdf;
-  color: #fff !important;
+  background: #fff;
+  color: #4e6bdf !important;
   font-size: 1rem;
   text-transform: uppercase;
 }
@@ -25999,8 +26014,8 @@ img {
 }
 
 .ml_request_demo_signup input.form-submit:hover {
-  background: #fff;
-  color: #4e6bdf !important;
+  background: #4e6bdf;
+  color: #fff !important;
 }
 /* end of request demo form styles */
 
