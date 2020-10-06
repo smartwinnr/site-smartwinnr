@@ -22049,7 +22049,7 @@ p {
     width: auto;
   }
   .ml_company_logo_in_request_demo {
-    height: 30px;
+    height: 20px;
     width: auto;
   }
   .ml_slider_related_blogs {
@@ -24954,9 +24954,9 @@ img {
 }
 
 .ml_company_logo_in_request_demo {
-  height: 50px;
+  height: 30px;
   width: auto;
-  margin: 0 15px 15px !important;
+  margin: 0 10px 10px !important;
 }
 
 .ml_footer_logo {
@@ -25008,9 +25008,9 @@ img {
     margin: 15px !important;
   }
   .ml_company_logo_in_request_demo {
-    height: 35px;
+    height: 25px;
     width: auto;
-    margin: 15px !important;
+    margin: 5px !important;
   }
   .ml-dreamforce-image {
     height: 400px !important;
@@ -25968,7 +25968,7 @@ img {
 /* request demo form styles */
 .ml_request_demo_signup {
   background: #4e6bdf;
-  font-size: 12px !important;
+  font-size: 1rem !important;
   padding: 5% 8% !important;
   color: #fff;
   margin-bottom: 10px;
@@ -25981,7 +25981,7 @@ img {
   color: #000 !important;
   height: 35px;
   padding: 5px;
-  font-size: 1rem;
+  font-size: .9rem;
   text-indent: 2%;
   border: 1px solid #ABB0B2;
   border-radius: 5px;
@@ -25993,20 +25993,19 @@ img {
   color: #000 !important;
   padding: 5px;
   /* text-indent: 2%; */
-  font-size: 1rem;
+  font-size: .9rem;
   border: 1px solid #ABB0B2;
   border-radius: 5px;
 }
 
 .ml_request_demo_signup input.form-submit {
-  width: 40% !important;
+  width: 50% !important;
   margin: auto !important;
   font-weight: 600;
   border: 2px solid #fff !important;
-  /* margin-left: 37% !important; */
   background: #fff;
   color: #4e6bdf !important;
-  font-size: 1rem;
+  font-size: .9rem;
   text-transform: uppercase;
 }
 .ml_request_demo_signup .form-required {
@@ -26148,7 +26147,7 @@ img {
 }
 
 .ml_form_legend {
-  font-size: 12px;
+  font-size: 1rem;
   margin-bottom: 10px;
   font-weight: 600;
   color: #000;
@@ -26196,4 +26195,8 @@ img {
 
 .ml_font_weight_normal {
   font-weight: normal !important;
+}
+
+.ml_text_blue {
+  color: #253858 !important;
 }

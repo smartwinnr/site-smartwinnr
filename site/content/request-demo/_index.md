@@ -18,37 +18,29 @@ layout: ml_layout
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <!-- <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo"> -->
-        <h1 class="ml_body_text_blue ">Schedule a Free Demo</h1>
-        <div class="ml_font_1_point_one ml_body_text_blue ">See how SmartWinnr can drive <span class="ml_text_bold">Sales Revenue goals</span> for your team, through
-          <ul class="ml_body_text_blue">
+        <h1 class="ml_text_blue ">Schedule a Free Demo</h1>
+        <div class="ml_font_1_point_one ml_text_blue ">See how SmartWinnr can drive <span class="ml_text_bold">Sales Revenue goals</span> for your team, through
+          <ul class="ml_text_blue">
             <li class="ml_font_1_point_one">gamified sales contests</li>
             <li class="ml_font_1_point_one">continuous learning</li>
             <li class="ml_font_1_point_one">systematic coaching</li>
           </ul>
         </div>
-        <h2 class="ml_body_text_blue ml-margin-top30">What's in it for you?</h2>
-        <div class="ml_font_1_point_one ml_body_text_blue ">In this 1-hour session, our consultant will help with:
-          <ul class="ml_body_text_blue ">
+        <div class="ml_text_blue ml_font_1_point_one ml_text_bold ml-margin-top30">What's in it for you?</div>
+        <div class="ml_font_1_point_one ml_text_blue ">In this 1-hour session, our consultant will help with:
+          <ul class="ml_text_blue ">
             <li class="ml_font_1_point_one">Walkthrough of a <span class="ml_text_bold">customised demo</span> of SmartWinnr, to meet your business needs</li>
             <li class="ml_font_1_point_one">Take back a <span class="ml_text_bold">concrete plan</span> for gamifying your sales contest, training or coaching</li>
             <li class="ml_font_1_point_one">Start your <span class="ml_text_bold">free 1 month trial</span></li>
           </ul>
         </div>
-        <h2 class="ml_body_text_blue ml-margin-bottom20 ml-margin-top30">Global enterprises rely on SmartWinnr</h2>
+        <div class="ml_text_blue ml_font_1_point_one ml_text_bold ml-margin-bottom20 ml-margin-top30">Global enterprises rely on SmartWinnr</div>
         <div class="row text-center">
-          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
-          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
-          <!-- <img class="ml_company_logo_in_request_demo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo"> -->
-          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/nn-logo.png" alt="NN Logo">
-          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
           <img class="ml_company_logo_in_request_demo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
-          <!-- <img class="ml_company_logo" src="/images/org-logos/convatech-logo.png" alt="Convatec Logo"> -->
-          <!-- <img class="ml_company_logo" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo"> -->
-          <!-- <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo"> -->
-          <!-- <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo"> -->
-          <!-- <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo"> -->
-          <!-- <img class="ml_company_logo ml_height_30" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo"> -->
-          <!-- <img class="ml_company_logo ml_height_30" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo"> -->
+          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
+          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
+          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
+          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/nn-logo.png" alt="NN Logo">
         </div>
       </div>
       <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12"></div>
@@ -91,19 +83,25 @@ layout: ml_layout
             </div> -->
             <fieldset>
               <legend class="ml_form_legend ml_body_text_white">What are you interested in?</legend>
-              <div>
-                <span class="ml-margin-right10">
-                  <input type="checkbox" class="ml_checbox_input" name="sales_contest" id="sales_contest" value="Sales Contests">
-                  <label class="ml_font_weight_normal" for="sales_contest"> Sales Contests </label>
-                </span>
-                <span class="ml-margin-right10">
-                  <input type="checkbox" class="ml_checbox_input" name="sales_learning" id="sales_learning" value="Sales Learning">
-                  <label class="ml_font_weight_normal" for="sales_learning"> Sales Learning </label>
-                </span>
-                <span class="ml-margin-right10">
-                  <input type="checkbox" class="ml_checbox_input" name="sales_coaching" id="sales_coaching" value="Sales Coaching">
-                  <label class="ml_font_weight_normal" for="sales_coaching"> Sales Coaching </label>
-                </span>
+              <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
+                  <span class="ml-margin-right10">
+                    <input type="checkbox" class="ml_checbox_input" name="sales_contest" id="sales_contest" value="Sales Contests">
+                    <label class="ml_font_weight_normal" for="sales_contest"> Sales Contests </label>
+                  </span>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
+                  <span class="ml-margin-right10">
+                    <input type="checkbox" class="ml_checbox_input" name="sales_learning" id="sales_learning" value="Sales Learning">
+                    <label class="ml_font_weight_normal" for="sales_learning"> Sales Learning </label>
+                  </span>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
+                  <span class="ml-margin-right10">
+                    <input type="checkbox" class="ml_checbox_input" name="sales_coaching" id="sales_coaching" value="Sales Coaching">
+                    <label class="ml_font_weight_normal" for="sales_coaching"> Sales Coaching </label>
+                  </span>
+                </div>
               </div>
             </fieldset>
             <div  class="form-item">
