@@ -20,21 +20,23 @@ layout: ml_layout
         <!-- <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo">
         <div class="ml_font_1_point_two ml_body_text_white"> Schedule a Free Demo </div> 
         <div class="ml_font_1_point_two ml-padding-top ml_body_text_white">Get a free demo to know how you can double your sales numbers</div> -->
-        <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo">
+        <!-- <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo"> -->
         <h1 class="ml_body_text_white ">Schedule a Free Demo</h1>
-        <div class="ml-font20 ml_body_text_white ">Schedule a demo to see how SmartWinnr can drive your Sales Revenue goals for your team, through
+        <div class="ml-font20 ml_body_text_white ">See how SmartWinnr can drive <span class="ml_text_bold">Sales Revenue goals</span> for your team, through
           <ul class="ml_body_text_white">
             <li class="ml-font20">gamified sales contests</li>
             <li class="ml-font20">continuous learning</li>
             <li class="ml-font20">systematic coaching</li>
           </ul>
         </div>
-        <h2 class="ml_body_text_white ml-margin-top30 ">What is in it for you?</h2>
-        <ul class="ml_body_text_white ">
-          <li class="ml-font20">Walkthrough of a customised demo of SmartWinnr, to meet your business needs</li>
-          <li class="ml-font20">Take back a concrete plan for gamifying your sales contest, training or coaching</li>
-          <li class="ml-font20">Start your free 1 month trial</li>
-        </ul>
+        <h2 class="ml_body_text_white ml-margin-top30 ">What's in it for you?</h2>
+        <div class="ml-font20 ml_body_text_white ">In this 1-hour session, our consultant will help with:
+          <ul class="ml_body_text_white ">
+            <li class="ml-font20">Walkthrough of a <span class="ml_text_bold">customised demo</span> of SmartWinnr, to meet your business needs</li>
+            <li class="ml-font20">Take back a <span class="ml_text_bold">concrete plan</span> for gamifying your sales contest, training or coaching</li>
+            <li class="ml-font20">Start your <span class="ml_text_bold">free 1 month trial</span></li>
+          </ul>
+        </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <form class="ml_request_demo_signup" action="https://bu4y0vkrwi.execute-api.us-west-2.amazonaws.com/prod" method="post" id="webform-client-form-11" accept-charset="UTF-8" data-netlify="true" netlify-honeypot="_honeypot">
@@ -76,18 +78,18 @@ layout: ml_layout
             <fieldset>
               <legend class="ml_form_legend">What are you interested in?</legend>
               <div>
-                <span class="ml-margin-right10 ml-padding-top10">
+                <div class="ml-margin-right10">
                   <input type="checkbox" class="ml_checbox_input" name="sales_contest" id="sales_contest" value="Sales Contests">
                   <label class="ml_font_weight_normal" for="sales_contest"> Sales Contests </label>
-                </span>
-                <span class="ml-margin-right10 ml-padding-top10">
+                </div>
+                <div class="ml-margin-right10">
                   <input type="checkbox" class="ml_checbox_input" name="sales_learning" id="sales_learning" value="Sales Learning">
                   <label class="ml_font_weight_normal" for="sales_learning"> Sales Learning </label>
-                </span>
-                <span class="ml-margin-right10 ml-padding-top10">
+                </div>
+                <div class="ml-margin-right10">
                   <input type="checkbox" class="ml_checbox_input" name="sales_coaching" id="sales_coaching" value="Sales Coaching">
                   <label class="ml_font_weight_normal" for="sales_coaching"> Sales Coaching </label>
-                </span>
+                </div>
               </div>
             </fieldset>
             <div  class="form-item">

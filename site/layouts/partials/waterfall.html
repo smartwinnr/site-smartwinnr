@@ -6,7 +6,7 @@
 <div class="container container-ex">
   <div class="inner">
     <!-- This if condition is used to check whether this is blog homepage or tags blog page, because same layout is being used for both the pages. in case of tag page, the featured section has been removed, as we don't need to show the featured one everywhere. -->
-    {{ if eq .Title "Blogs" }}
+    {{ if eq .Title "SmartWinnr Blog | Sales Learning, Sales Coaching, and Sales Contest Content" }}
     <!-- Iterate over all the pages and show one blog as featured which has been set in the front matter. -->
     {{ range where .Site.Pages "Section" "post" }}
     {{ if eq .Params.isFeatured true }}
