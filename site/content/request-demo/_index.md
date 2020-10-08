@@ -48,7 +48,7 @@ layout: ml_layout
         <form class="ml_request_demo_signup" action="https://bu4y0vkrwi.execute-api.us-west-2.amazonaws.com/prod" method="post" id="webform-client-form-11" accept-charset="UTF-8" data-netlify="true" netlify-honeypot="_honeypot">
         <input name="_honeypot" style="display:none" type="text">
             <input type="hidden" name="_to" value="94867cb7283ac9911fadb73040c85fbe11aeafbffb09">
-            <input type="hidden" name="_redirect" value="https://smartwinnr.netlify.com/form-successful">
+            <input type="hidden" name="_redirect" value="https://smartwinnr.com/form-successful">
           <div>
             <p class="hidden">
               <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
@@ -62,7 +62,7 @@ layout: ml_layout
               <!-- </div>
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0 ml_padding_left_10"> -->
                 <div  class="form-item">
-                  <label class="" for="edit-submitted-email">Company Email Address <span class="form-required" title="This field is required.">*</span></label>
+                  <label class="" for="edit-submitted-email">Company Business Email <span class="form-required" title="This field is required.">*</span></label>
                   <input required="required" class="email form-text form-email required" placeholder="Please enter your business email" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
                 </div>
               <!-- </div>
