@@ -26260,7 +26260,7 @@ img {
   background: #f5ad06;
   color: #253858;
   /* padding: 5% 15%; */
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .ml_industries_banner_header {
@@ -26299,4 +26299,9 @@ img {
   padding: 5px 20px;
   border: 2px solid #5951FF;
   border-radius: 15px;
+}
+
+.ml_industries_banner_button:hover {
+  background: #f5ad06 !important;
+  color: #5951ff !important;
 }

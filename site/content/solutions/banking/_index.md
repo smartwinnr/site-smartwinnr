@@ -75,7 +75,7 @@ layout: ml_layout
   </div>
 </section>
 
-<section class="ml_industries_banner ml_no_padding_bottom_right20" onclick="location.href='https://www.smartwinnr.com/request-demo';">
+<section class="ml_industries_banner ml_no_padding_bottom_right20">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
       <h1 class="ml_industries_banner_header">Want to know how SmartWinnr can help you?</h1>
