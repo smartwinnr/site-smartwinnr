@@ -86,7 +86,7 @@ layout: ml_layout
   </div>
 </section>
 
-<section class="ml_industries_banner ml_no_padding_bottom_right20">
+<!-- <section class="ml_industries_banner ml_no_padding_bottom_right20">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
       <h1 class="ml_industries_banner_header">Want to know how SmartWinnr can help you?</h1>
@@ -100,7 +100,7 @@ layout: ml_layout
       <img class="ml_industries_banner_image" alt="" src="/images/industryBanners/MedicalDevices_Pharma.png" class="ml-padding-top0 ml-padding-bottom0">
     </div>
   </div>
-</section>
+</section> -->
 
 <section class="ml_background padding50">
     <div class="row ml-margin-bottom20">
