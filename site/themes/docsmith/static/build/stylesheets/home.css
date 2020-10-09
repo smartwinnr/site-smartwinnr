@@ -24177,8 +24177,8 @@ img {
 .ml_body_text_black {
   color: #272640 !important;
 }
-.ml_body_text_white{ color: #fff !important;  opacity:0.87 !important;}
-.ml_body_text_blue{ color: #423dce !important;  opacity:0.87 !important;}
+.ml_body_text_white{ color: #fff !important;}
+.ml_body_text_blue{ color: #423dce !important;}
 .mythumbnail{width: 240px; display: inline !important; margin: 10px;}
 .element-invisible {
   position: absolute !important;
@@ -24615,11 +24615,37 @@ img {
   .new-navbar .ml_home_logo {
     margin-right: 0px !important;
   }
+  .ml_industries_banner_header {
+    font-size: 2.2rem !important;
+  }
+  .ml_industries_banner_sub_header {
+    font-size: 1.6rem !important;
+  }
+  .ml_industries_banner_image {
+    height: 250px !important;
+  }
+  .ml_industries_banner_button {
+    font-size: 1.6rem !important;
+    padding: 5px 20px !important;
+  }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   .ml-white-tile {
     height: 80%;
     padding: 20px !important;
+  }
+  .ml_industries_banner_header {
+    font-size: 2.4rem !important;
+  }
+  .ml_industries_banner_sub_header {
+    font-size: 1.8rem !important;
+  }
+  .ml_industries_banner_image {
+    height: 280px !important;
+  }
+  .ml_industries_banner_button {
+    font-size: 1.8rem !important;
+    padding: 5px 20px !important;
   }
 }
 .ml-background-wave {
@@ -25318,6 +25344,31 @@ img {
     right: -10% !important;
     top: -33% !important;
   }
+  .ml_no_padding_bottom_right20 {
+    padding: 10% 0 2% 5% !important;
+  }
+  .ml_industries_banner_header {
+    font-size: 2rem !important;
+  }
+  
+  .ml_industries_banner_sub_header {
+    font-size: 1.4rem !important;
+  }
+  
+  .ml_industries_banner_image {
+    height: 250px !important;
+  }
+
+  .ml_industries_banner_button_div {
+    padding: 10% 2% !important;
+  }
+  
+  .ml_industries_banner_button {
+    font-size: 1.4em !important;
+    padding: 5px 20px !important;
+    margin-top: 10px !important;
+    border-radius: 10px !important;
+  }
 }
 
 /* blog page changes 12 June 2019 */
@@ -25913,6 +25964,10 @@ img {
   padding: 5% 10% 0 10%;
 }
 
+.ml_no_padding_bottom_right20 {
+  padding: 2% 0 0 5%;
+}
+
 .ml_no_padding_bottom_right50 {
   padding: 5% 0 0 10%;
 }
@@ -26199,4 +26254,49 @@ img {
 
 .ml_text_blue {
   color: #253858 !important;
+}
+
+.ml_industries_banner {
+  background: #f5ad06;
+  color: #253858;
+  /* padding: 5% 15%; */
+  cursor: pointer;
+}
+
+.ml_industries_banner_header {
+  font-size: 2.8rem;
+  font-weight: 600;
+  color: #42526e;
+  margin-bottom: 2%;
+}
+
+.ml_industries_banner_sub_header {
+  color: #193472;
+  font-size: 2rem;
+  font-weight: 600;
+  /* line-height: 2.5rem; */
+}
+
+.ml_industries_banner_image {
+  margin: auto;
+  width: auto;
+  height: 350px;
+  margin-bottom: 0 !important;
+}
+
+.ml_industries_banner_button_div {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.ml_industries_banner_button {
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff !important;
+  font-size: 2em;
+  letter-spacing: .05em;
+  font-weight: 600;
+  padding: 5px 20px;
+  border: 2px solid #5951FF;
+  border-radius: 15px;
 }

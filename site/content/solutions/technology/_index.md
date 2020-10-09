@@ -124,7 +124,7 @@ layout: ml_layout
     </div>
 </section>
 
-<div class="row ml-margin0 padding50">
+<!-- <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/7-features-to-check-while-selecting-a-video-coaching-platform/';">
@@ -262,21 +262,6 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <!-- <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
-      <div class="card post post-summary reveal enter">
-        <div class="card-header postinfo">
-          <img src="/images/29.why-continuous-training-is-important-in-sales.png">
-          <span class="card-title ml-margin-bottom0">
-            <a class="ml-margin-bottom0">Why continuous training is important in sales?</a>
-          </span>
-        </div>
-        <div class="card-content">
-          <article class="article">
-            Do you think Nick Saban shows up every spring and starts coaching his team with a new style, new drills, and different set of expectations? <br>Quick answer: No.
-          </article>
-        </div>
-      </div>
-    </div> -->
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
@@ -307,21 +292,6 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <!-- <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/';">
-      <div class="card post post-summary reveal enter">
-        <div class="card-header postinfo">
-          <img src="/images/22.sales-coaching-playbook-part-2-training-managers-to-coach.png">
-          <span class="card-title ml-margin-bottom0">
-            <a class="ml-margin-bottom0">Sales Coaching PlayBook Part 2 - Training the Managers to Coach</a>
-          </span>
-        </div>
-        <div class="card-content">
-          <article class="article">
-            This article is the continuation of the sales coaching playbook part-1. In the previous article, we have focussed on creating a structured competency framework for coaching the sales team.
-          </article>
-        </div>
-      </div>
-    </div> -->
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/microlearning-an-effective-way-to-train-millennials/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
@@ -352,21 +322,6 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <!-- <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/scenarios-where-sales-coaching-can-be-used/';">
-      <div class="card post post-summary reveal enter">
-        <div class="card-header postinfo">
-          <img src="/images/25.scenarios-where-sales-coaching-can-be-used.png">
-          <span class="card-title ml-margin-bottom0">
-            <a class="ml-margin-bottom0">Scenarios where Video Coaching is used commonly</a>
-          </span>
-        </div>
-        <div class="card-content">
-          <article class="article">
-            “According to the Association for Talent Development, organizations that invest in coaching their employees see a 50% higher net sales per employee”.
-          </article>
-        </div>
-      </div>
-    </div> -->
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/kpi-gamification-how-to-select-kpis/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
@@ -398,7 +353,7 @@ layout: ml_layout
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- <script>
