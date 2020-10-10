@@ -24619,7 +24619,7 @@ img {
     font-size: 2.2rem !important;
   }
   .ml_industries_banner_sub_header {
-    font-size: 1.6rem !important;
+    /* font-size: 1.6rem !important; */
   }
   .ml_industries_banner_image {
     height: 250px !important;
@@ -24638,7 +24638,7 @@ img {
     font-size: 2.4rem !important;
   }
   .ml_industries_banner_sub_header {
-    font-size: 1.8rem !important;
+    /* font-size: 1.8rem !important; */
   }
   .ml_industries_banner_image {
     height: 260px !important;
@@ -25352,7 +25352,7 @@ img {
   }
   
   .ml_industries_banner_sub_header {
-    font-size: 1.4rem !important;
+    /* font-size: 1.4rem !important; */
   }
   
   .ml_industries_banner_image {
@@ -26265,13 +26265,13 @@ img {
 .ml_industries_banner_header {
   font-size: 2.8rem;
   /* font-weight: 600; */
-  color: #fff;
+  color: #5951ff;
   margin-bottom: 2%;
 }
 
 .ml_industries_banner_sub_header {
-  color: #fff;
-  font-size: 2rem;
+  color: #5951ff;
+  /* font-size: 2rem; */
   /* font-weight: 600; */
   /* line-height: 2.5rem; */
 }
@@ -26290,14 +26290,14 @@ img {
 
 .ml_industries_banner_button {
   margin-top: 10px !important;
-  /* background: #5951ff !important; */
+  background: #5951ff !important;
   color: #fff !important;
   font-size: 1.5em;
   /* letter-spacing: .05em; */
   /* font-weight: 600; */
   text-transform: uppercase;
   padding: 5px 20px;
-  border: 2px solid #fff;
+  border: 2px solid #5951ff;
   border-radius: 4px;
 }
 
