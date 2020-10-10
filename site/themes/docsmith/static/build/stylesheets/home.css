@@ -24625,7 +24625,7 @@ img {
     height: 250px !important;
   }
   .ml_industries_banner_button {
-    font-size: 1.6rem !important;
+    font-size: 1.3rem !important;
     padding: 5px 20px !important;
   }
 }
@@ -24641,10 +24641,10 @@ img {
     font-size: 1.8rem !important;
   }
   .ml_industries_banner_image {
-    height: 280px !important;
+    height: 260px !important;
   }
   .ml_industries_banner_button {
-    font-size: 1.8rem !important;
+    font-size: 1.5rem !important;
     padding: 5px 20px !important;
   }
 }
@@ -25345,7 +25345,7 @@ img {
     top: -33% !important;
   }
   .ml_no_padding_bottom_right20 {
-    padding: 10% 0 2% 5% !important;
+    padding: 10% 5% 0 5% !important;
   }
   .ml_industries_banner_header {
     font-size: 2rem !important;
@@ -25364,10 +25364,9 @@ img {
   }
   
   .ml_industries_banner_button {
-    font-size: 1.4em !important;
+    font-size: 1.2em !important;
     padding: 5px 20px !important;
     margin-top: 10px !important;
-    border-radius: 10px !important;
   }
 }
 
@@ -25965,7 +25964,7 @@ img {
 }
 
 .ml_no_padding_bottom_right20 {
-  padding: 2% 0 0 5%;
+  padding: 2% 2% 0 5%;
 }
 
 .ml_no_padding_bottom_right50 {
@@ -26265,43 +26264,44 @@ img {
 
 .ml_industries_banner_header {
   font-size: 2.8rem;
-  font-weight: 600;
-  color: #42526e;
+  /* font-weight: 600; */
+  color: #fff;
   margin-bottom: 2%;
 }
 
 .ml_industries_banner_sub_header {
-  color: #193472;
+  color: #fff;
   font-size: 2rem;
-  font-weight: 600;
+  /* font-weight: 600; */
   /* line-height: 2.5rem; */
 }
 
 .ml_industries_banner_image {
   margin: auto;
   width: auto;
-  height: 350px;
+  height: 320px;
   margin-bottom: 0 !important;
 }
 
 .ml_industries_banner_button_div {
-  padding-top: 20px;
+  padding-top: 25px;
   padding-bottom: 10px;
 }
 
 .ml_industries_banner_button {
   margin-top: 10px !important;
-  background: #5951ff !important;
+  /* background: #5951ff !important; */
   color: #fff !important;
-  font-size: 2em;
-  letter-spacing: .05em;
-  font-weight: 600;
+  font-size: 1.5em;
+  /* letter-spacing: .05em; */
+  /* font-weight: 600; */
+  text-transform: uppercase;
   padding: 5px 20px;
-  border: 2px solid #5951FF;
-  border-radius: 15px;
+  border: 2px solid #fff;
+  border-radius: 4px;
 }
 
 .ml_industries_banner_button:hover {
-  background: #f5ad06 !important;
-  color: #5951ff !important;
+  background: #fff !important;
+  color: #5951FF !important;
 }
