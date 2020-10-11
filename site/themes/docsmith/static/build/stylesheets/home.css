@@ -24482,6 +24482,7 @@ img {
     letter-spacing: .05em;
     font-weight: 600;
     /* width: 100%; */
+    white-space: nowrap;
     padding: 10px 20px;
     border: 2px solid #fff;
     border-radius: 4px;
@@ -25367,6 +25368,10 @@ img {
     font-size: 1.2em !important;
     padding: 5px 20px !important;
     margin-top: 10px !important;
+  }
+
+  .ml_why_choose_SM {
+    padding: 10% 2% !important;
   }
 }
 
@@ -26304,4 +26309,10 @@ img {
 .ml_industries_banner_button:hover {
   background: #fff !important;
   color: #5951FF !important;
+}
+
+.ml_why_choose_SM {
+  background: linear-gradient(to right top, #3429be, #4030c6);
+  height: auto;
+  padding: 20% 10%;
 }

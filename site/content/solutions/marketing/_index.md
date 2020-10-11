@@ -13,7 +13,7 @@ type: ml_layout
 layout: ml_layout
 ---
 
-<section class="ml_blue_bg_gradient">
+<div class="ml_blue_bg_gradient">
   <div class="row ml_no_padding_bottom_right50 ml_margin_bottom_minus2per ml_div_contents_in_center">
     <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_survey_badge">Marketing</div><br>
@@ -26,8 +26,8 @@ layout: ml_layout
       <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/solutions_user_cases_onboarding_calendar_jzbqhw.png"/>
     </div>
   </div>
-  <img class="swoop" src="/images/swoop_mask.min.svg">
-</section>
+</div>
+<img class="swoop" src="/images/swoop_mask.min.svg">
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
