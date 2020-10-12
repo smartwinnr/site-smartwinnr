@@ -4,3 +4,10 @@
 
 [context.deploy-preview]
   command = "npm run build-preview"
+
+[[redirects]]
+  from = "/dreamforce"
+  to = "https://app.smartwinnr.com"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}
