@@ -7,7 +7,7 @@
 
 [[redirects]]
   from = "/dreamforce"
-  to = "https://app.smartwinnr.com"
+  to = "https://tools.smartwinnr.com"
   status = 301
   force = true
   headers = {X-From = "Netlify"}
