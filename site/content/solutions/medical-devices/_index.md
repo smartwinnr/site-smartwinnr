@@ -26,8 +26,8 @@ layout: ml_layout
 </section>
 
 <section class="ml-background-white padding50">
-  <div class="row">
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+  <div class="row ml_div_contents_in_center">
+    <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
       <!-- <img class="ml-image" alt="Image" src="../../images/home_hero_image_smartwinnr.png"> -->
       <script src="https://fast.wistia.com/embed/medias/r7xfygdjgw.jsonp" async></script>
       <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
@@ -41,7 +41,7 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
       <h1 class="text-center">Customer Success Story - Boston Scientific</h1>
       <div class="ml-subtext">Experience how Boston Scientific uses SmartWinnr to
         <ul>
@@ -86,6 +86,23 @@ layout: ml_layout
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <h4 class="ml-title-font">Managers Track Performance and Knowledge Easily</h4>
         <div class="ml-subtext">Managers can track and coach individual reps on knowledge and performance easily and quickly through the SmartWinnr mobile app.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ml-chooseQP ml-background-white">
+  <div class="padding50">
+    <div class="row ml_div_contents_in_center">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+        <div class="ml_iframe_video_wrapper">
+          <iframe src="https://player.vimeo.com/video/474095648" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+        <h1 class="text-center">Case Study - Boston Scientific</h1>
+        <div class="ml-subtext ml-font20">Listen to Rebecca Meehan, APAC Regional Marketing, Training and Development Manager. Learn how SmartWinnr Video Coaching has improved sales call effectiveness amongst Boston Scientific sales teams.
+        </div>
       </div>
     </div>
   </div>
