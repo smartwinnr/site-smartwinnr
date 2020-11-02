@@ -92,7 +92,7 @@ layout: ml_layout
 <!-- start of video section -->
 <section class="ml-chooseQP ml-background-white">
   <div class="ml-container">
-    <div class="row padding50">
+    <div class="row padding50 ml_div_contents_in_center">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <!-- <iframe class="ml-youtube-video" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/Ym_0EIl-JDQ"></iframe>
         </iframe> -->
@@ -112,7 +112,7 @@ layout: ml_layout
         <!-- <h3>Smarter Executives = Higher Performance</h3> -->
         <h1 class="text-center">Customer Success Story - Boston Scientific</h1>
         <div class="ml-subtext ml-font20">Experience how Boston Scientific uses SmartWinnr to
-          <ul>
+          <ul class="ml_ul_tick">
             <li>achieve YoY growth</li>
             <li>above 90% field-force engagement</li>
             <li>high knowledge retention amongst the field-force</li>
@@ -296,15 +296,16 @@ layout: ml_layout
 <section class="ml-chooseQP ml-background-white">
   <div class="padding50">
     <div class="row ml_div_contents_in_center">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-margin-bottom20">
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-margin-bottom20">
         <h1 class="text-center">Customer Success Story - Poly</h1>
         <div class="ml-subtext ml-font20 ml-margin-bottom20">Listen to Laura Turner, Senior Manager of Global Sales Enablement, Poly on how easy it is to use and implement SmartWinnr for sales teams.
         </div>
         <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <div class="ml_iframe_video_wrapper">
-          <iframe class="" src="https://www.youtube.com/embed/SjnHQymKG8Y?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="https://player.vimeo.com/video/474097907" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          <!-- <iframe class="" src="https://www.youtube.com/embed/SjnHQymKG8Y?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
         </div>
       </div>
     </div>
@@ -385,7 +386,8 @@ layout: ml_layout
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="ml_iframe_video_wrapper">
-          <iframe class="" src="https://www.youtube.com/embed/7pF0dtyqxjI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <!-- <iframe class="" src="https://www.youtube.com/embed/7pF0dtyqxjI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+          <iframe src="https://player.vimeo.com/video/474098651" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
           <div class="ml_video_popup" id="ml_popup">
             <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
