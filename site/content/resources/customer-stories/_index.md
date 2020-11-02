@@ -72,11 +72,11 @@ layout: ml_layout
 <!-- Marty Tanner (HCR) video -->
 <section class="ml-chooseQP ml-background-white">
   <div class="padding50">
-    <div class="row">
+    <div class="row ml_div_contents_in_center">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <script src="https://fast.wistia.com/embed/medias/grbzvz2e6b.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_grbzvz2e6b videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/grbzvz2e6b/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
       </div>
-      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-centered-half">
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
         <h1 class="text-center">Customer Success Story - HCR ManorCare</h1>
         <div class="ml-subtext ml-font20 ml-margin-bottom20">Listen to Marty Tanner, Director of Sales Training, HCR ManorCare, on how SmartWinnr is driving knowledge and engagement of their remote sales force.
         </div>
