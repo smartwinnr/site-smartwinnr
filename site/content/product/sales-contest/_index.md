@@ -50,7 +50,8 @@ layout: ml_layout
 <section class="ml-chooseQP ml-background-white">
   <div class="padding50">
     <div class="row ml_div_contents_in_center">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-margin-bottom20">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-margin-bottom20">
+        <h2 class="ml_body_text_black">Customer Success Story - NN Czech Republic</h2>
         <div class="ml-subtext ml-font20">Europe's leading insurance provider have utilized SmartWinnr to run contests for their agents and managers with</div>
         <ul class="ml_ul_tick">
           <li>high engagement</li>
@@ -59,7 +60,7 @@ layout: ml_layout
         </ul>
         <!-- <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/nn-logo.png" alt="NN Logo"> -->
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding0">
         <img src="/images/Hana Kneblova.png" alt="User Image" class="ml-margin-right10 ml-image"/>
       </div>
     </div>
