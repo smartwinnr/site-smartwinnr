@@ -46,6 +46,26 @@ layout: ml_layout
   </div>
 </div> -->
 
+<!-- Hana Kneblova (NN) customer stories -->
+<section class="ml-chooseQP ml-background-white">
+  <div class="padding50">
+    <div class="row ml_div_contents_in_center">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-margin-bottom20">
+        <div class="ml-subtext ml-font20">Europe's leading insurance provider have utilized SmartWinnr to run contests for their agents and managers with</div>
+        <ul class="ml_ul_tick">
+          <li>high engagement</li>
+          <li>very successful games</li>
+          <li>huge amount of collaboration</li>
+        </ul>
+        <!-- <img class="ml_company_logo ml_image_center_horizontally" src="/images/org-logos/nn-logo.png" alt="NN Logo"> -->
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <img src="/images/Hana Kneblova.png" alt="User Image" class="ml-margin-right10 ml-image"/>
+      </div>
+    </div>
+  </div>
+</section>
+
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426231/website/Sales%20Contest/kpi_explainer_gzxtcn.png"/> -->
