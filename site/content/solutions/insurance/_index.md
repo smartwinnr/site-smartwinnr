@@ -15,11 +15,14 @@ layout: ml_layout
 
 <section class="ml_insurance_top_section">
   <div class="row padding50">
-    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+    <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartfeed_badge">Insurance</div><br>
       <h1>Radically Improve Sales Productivity of Your Agents</h1>
       <div class="ml-font20 padding0">Rollout a proven sales enablement plan encompassing sales contests, training and coaching that is guaranteed to improve agent productivity</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
+    </div>
+    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding0">
+      <img src="/images/Hana Kneblova.png" alt="User Image" class="ml-margin-right10 ml-image"/>
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
