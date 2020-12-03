@@ -50,8 +50,8 @@ layout: ml_layout
       <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
       <img class="ml_company_logo ml_height_30" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
       <img class="ml_company_logo ml_height_30" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
-       <img class="ml_company_logo " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
-      <img class="ml_company_logo " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
+       <img class="ml_company_logo ml_height_10" src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
+      <img class="ml_company_logo ml_height_30" src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
     </div>
   </div>
 </section>
