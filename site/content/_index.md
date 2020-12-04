@@ -28,6 +28,7 @@ layout: ml_layout
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
+
 <section class="ml-key-points ml-background-white">
   <div class="padding50">
     <div class="row">
@@ -37,6 +38,7 @@ layout: ml_layout
       </div>
     </div>
     <div class="row text-center">
+      <div class="ml_logo_slider">
       <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
       <img class="ml_company_logo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
       <img class="ml_company_logo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
@@ -48,13 +50,15 @@ layout: ml_layout
       <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo">
       <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
       <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
-      <img class="ml_company_logo ml_height_30" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
-      <img class="ml_company_logo ml_height_30" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
-       <img class="ml_company_logo ml_height_10" src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
-      <img class="ml_company_logo ml_height_30" src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
+      <img class="ml_company_logo " src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
+      <img class="ml_company_logo " src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
+       <img class="ml_company_logo " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
+      <img class="ml_company_logo " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
+    </div>
     </div>
   </div>
 </section>
+
 <!-- this section is used for displaying company logos -->
 <section>
   <div class="ml-background-white padding50">
@@ -89,6 +93,7 @@ layout: ml_layout
   </div>
 </section>
 <img class="swoop" src="/images/swoop_mask.min.svg">
+
 
 
 <!-- start of video section -->

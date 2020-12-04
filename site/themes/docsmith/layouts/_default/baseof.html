@@ -151,6 +151,44 @@
                     // instead of a settings object
                 ]
             });
+            $('.ml_logo_slider').slick({
+                infinite: true,
+                slidesToShow: 4,
+                slidesToScroll: 1,
+                dots: true,
+                speed: 300,
+                autoplay: true,
+                autoplaySpeed: 2000,
+                pauseOnFocus: false,
+                pauseOnHover: false,
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 780,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
+                            arrows: false
+                        }
+                    }
+                    // You can unslick at a given breakpoint now by adding:
+                    // settings: "unslick"
+                    // instead of a settings object
+                ]
+            });
             $('.ml_homepage_slider').slick({
                 infinite: true,
                 slidesToShow: 1,
