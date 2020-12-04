@@ -37,24 +37,53 @@ layout: ml_layout
         <h4 class="text-center ml_body_text_black ml-margin-bottom20">Global enterprises rely on SmartWinnr.</h4>
       </div>
     </div>
-    <div class="row text-center">
-      <div class="ml_logo_slider">
-      <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
-      <img class="ml_company_logo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
-      <img class="ml_company_logo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
-      <img class="ml_company_logo" src="/images/org-logos/nn-logo.png" alt="NN Logo">
-      <img class="ml_company_logo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
-      <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
-      <img class="ml_company_logo" src="/images/org-logos/convatech-logo.png" alt="Convatec Logo">
-      <img class="ml_company_logo" src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo">
-      <img class="ml_company_logo" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo">
-      <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
-      <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
-      <img class="ml_company_logo " src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
-      <img class="ml_company_logo " src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
-       <img class="ml_company_logo " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
-      <img class="ml_company_logo " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
-    </div>
+    <div class="row text-center ">
+      <div class="ml_logo_slider  ">
+      <div class="ml_div_contents_in_center">
+        <img class="ml_company_logo  " src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
+        </div>
+        <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/icici logo.png" alt="ICICI Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/nn-logo.png" alt="NN Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/skf-logo.png" alt="SKF Logo">
+          </div>
+           <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo" src="/images/org-logos/convatech-logo.png" alt="Convatec Logo">
+          </div>
+          <div class="ml_div_contents_in_center ">
+          <img class="ml_company_logo " src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo">
+          </div>
+          <div class="ml_div_contents_in_center ">
+          <img class="ml_company_logo ml_height_75" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo"></div>
+         <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo ml_height_35" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
+          </div>
+          <div class="ml_div_contents_in_center">
+          <img class="ml_company_logo " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
+          </div>
+        </div>
     </div>
   </div>
 </section>

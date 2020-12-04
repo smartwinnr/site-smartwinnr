@@ -25940,6 +25940,9 @@ img {
   flex-direction: row;
 }
 
+
+
+
 .ml_yellow_bg_gradient {
   background: linear-gradient(to right, #FFC400, #ff991f);
 }
@@ -26234,6 +26237,14 @@ img {
 
 .ml_height_30 {
   height: 30px !important;
+}
+
+.ml_height_35 {
+  height: 35px !important;
+}
+
+.ml_height_75 {
+  height: 75px !important;
 }
 
 .ml_custom_link {
