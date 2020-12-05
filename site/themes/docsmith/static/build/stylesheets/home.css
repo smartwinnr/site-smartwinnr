@@ -25328,6 +25328,12 @@ img {
   .ml_div_contents_in_center {
     display: block !important;
   }
+  .ml_logo_contents_in_center img{
+    display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+    
+  }
   .ml_video_container {
     width: 100% !important;
   }
@@ -25940,7 +25946,17 @@ img {
   flex-direction: row;
 }
 
+.ml_logo_contents_in_center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
 
+.ml_logo_contents_in_center img {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
 
 
 .ml_yellow_bg_gradient {
@@ -26241,6 +26257,13 @@ img {
 
 .ml_height_35 {
   height: 35px !important;
+}
+.ml_height_55 {
+  height: 55px !important;
+}
+
+.ml_height_40 {
+  height: 40px !important;
 }
 
 .ml_height_75 {
