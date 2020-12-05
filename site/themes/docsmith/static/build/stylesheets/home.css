@@ -25332,8 +25332,7 @@ img {
     display: block;
     margin-left: auto !important;
     margin-right: auto !important;
-    margin-top: auto !important;
-    margin-bottom: auto !important;
+    
   }
   .ml_video_container {
     width: 100% !important;
@@ -25952,11 +25951,13 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  padding:30px !important;
 }
 
 .ml_logo_contents_in_center img {
   margin-left: auto !important;
   margin-right: auto !important;
+  margin-top:70px;
 }
 
 
