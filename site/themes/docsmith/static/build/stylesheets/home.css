@@ -25330,9 +25330,10 @@ img {
   }
   .ml_logo_contents_in_center img{
     display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
-    
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
   }
   .ml_video_container {
     width: 100% !important;
