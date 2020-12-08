@@ -38,7 +38,7 @@ layout: ml_layout
       </div>
     </div>
     <div class="row text-center ">
-      <div class="ml_logo_slider ">
+      <div class="ml_logo_slider ml-background-white ">
       <div class="ml_logo_contents_in_center">
         <img class="ml_company_logo ml_height_55" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
         </div>

@@ -25951,6 +25951,7 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: row;
+ 
 }
 
 .ml_logo_contents_in_center img {
@@ -25958,8 +25959,9 @@ img {
   margin-right: auto !important;
   margin-top:60px !important;
 }
+
 .ml_logo_slider{
-  background-color:#f2f4f7;
+  padding: 0 80px 0 80px !important;
 }
 
 
