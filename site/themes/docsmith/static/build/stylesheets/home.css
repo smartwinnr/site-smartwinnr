@@ -1588,6 +1588,9 @@ pre code {
   .container {
     width: 970px;
   }
+  .ml_logo_slider{
+    padding: 0 80px 0 80px !important;
+  }
 }
 @media (min-width: 1200px) {
   .container {
@@ -25960,9 +25963,7 @@ img {
   margin-top:60px !important;
 }
 
-.ml_logo_slider{
-  padding: 0 80px 0 80px !important;
-}
+
 
 
 .ml_yellow_bg_gradient {
