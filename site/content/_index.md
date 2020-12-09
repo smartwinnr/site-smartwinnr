@@ -37,7 +37,7 @@ layout: ml_layout
         <h4 class="text-center ml_body_text_black ml-margin-bottom20">Global enterprises rely on SmartWinnr.</h4>
       </div>
     </div>
-    <div class="row text-center ">
+    <div class="row text-center paddingLogo">
       <div class="ml_logo_slider ml-background-white ">
       <div class="ml_logo_contents_in_center">
         <img class="ml_company_logo ml_height_55" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
@@ -81,10 +81,10 @@ layout: ml_layout
           <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
           </div>        
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo " src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
+          <img class="ml_company_logo ml_height_50" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
           </div>
          <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo " src="/images/org-logos/flexi-loans.png" alt="Flexi Loans">
+          <img class="ml_company_logo ml_height_45 " src="/images/org-logos/flexi-loans.png" alt="Flexi Loans">
           </div>
          <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.png" alt="Maharishi Ayurveda">
@@ -93,7 +93,7 @@ layout: ml_layout
           <img class="ml_company_logo ml_height_55" src="/images/org-logos/sud-life.png" alt="SUD Life">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_60" src="/images/org-logos/1.png " alt="Key Factors">
+          <img class="ml_company_logo ml_height_60" src="/images/org-logos/key-factors.png " alt="Key Factors">
           </div>
         </div>
     </div>

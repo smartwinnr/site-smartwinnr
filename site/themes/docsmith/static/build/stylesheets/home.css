@@ -26257,11 +26257,15 @@ img {
   line-height: 1.4rem;
   margin-top: 5% !important;
 }
-
+.paddingLogo{
+  padding: 0 22px 0 22px !important;
+}
 .ml_height_30 {
   height: 30px !important;
 }
-
+.ml_height_50{
+  height: 50px !important;
+}
 .ml_height_35 {
   height: 35px !important;
 }
@@ -26274,7 +26278,9 @@ img {
 .ml_height_40 {
   height: 40px !important;
 }
-
+.ml_height_45 {
+  height: 45px !important;
+}
 .ml_height_75 {
   height: 75px !important;
 }
