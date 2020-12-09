@@ -22061,6 +22061,10 @@ p {
   .ml_big_text {
     font-size: 2rem !important;
   }
+  .slick-dots{
+    display: none !important;
+  }
+  
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   h1 {
@@ -26288,6 +26292,7 @@ img {
 .ml_custom_link {
   color: #0065FF !important;
 }
+
 
 .ml_custom_link:hover {
   text-decoration: underline !important;
