@@ -1292,6 +1292,19 @@ p {
     font-size: 24px;
   }
 }
+@media (min-width: 768px) and (max-width:1200px){
+ .ml_padding{
+   /* height: 10px !important ; */
+   padding-left: 30px !important; 
+   /* margin-left:50px !important; */
+ }
+ .ml_padding_left{
+  padding-left: 70px !important; 
+ }
+ /* .ml_height_30 {
+  height: 30px !important;
+} */
+}
 small,
 .small {
   font-size: 87%;
@@ -1587,6 +1600,9 @@ pre code {
 @media (min-width: 992px) {
   .container {
     width: 970px;
+  }
+  .ml_logo_slider{
+    padding: 0 80px 0 80px !important;
   }
 }
 @media (min-width: 1200px) {
@@ -22058,6 +22074,10 @@ p {
   .ml_big_text {
     font-size: 2rem !important;
   }
+  .slick-dots{
+    display: none !important;
+  }
+  
 }
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   h1 {
@@ -25328,7 +25348,7 @@ img {
   .ml_div_contents_in_center {
     display: block !important;
   }
-  .ml_logo_contents_in_center img{
+  .ml_logo_contents_in_center img{ 
     display: block;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -25951,14 +25971,16 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  padding:30px !important;
+ 
 }
 
 .ml_logo_contents_in_center img {
   margin-left: auto !important;
   margin-right: auto !important;
-  margin-top:70px;
+  margin-top:60px !important;
 }
+
+
 
 
 .ml_yellow_bg_gradient {
@@ -26252,22 +26274,30 @@ img {
   line-height: 1.4rem;
   margin-top: 5% !important;
 }
-
+.paddingLogo{
+  padding: 0 22px 0 22px !important;
+}
 .ml_height_30 {
   height: 30px !important;
 }
-
+.ml_height_50{
+  height: 50px !important;
+}
 .ml_height_35 {
   height: 35px !important;
 }
 .ml_height_55 {
   height: 55px !important;
 }
-
+.ml_height_60 {
+  height: 60px !important;
+}
 .ml_height_40 {
   height: 40px !important;
 }
-
+.ml_height_45 {
+  height: 45px !important;
+}
 .ml_height_75 {
   height: 75px !important;
 }
@@ -26275,6 +26305,7 @@ img {
 .ml_custom_link {
   color: #0065FF !important;
 }
+
 
 .ml_custom_link:hover {
   text-decoration: underline !important;
