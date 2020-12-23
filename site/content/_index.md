@@ -81,10 +81,10 @@ layout: ml_layout
           <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
           </div>        
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_50" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
+          <img class="ml_company_logo ml_height_50 ml_padding" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
           </div>
          <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_45 " src="/images/org-logos/flexi-loans.png" alt="Flexi Loans">
+          <img class="ml_company_logo ml_height_45 ml_padding_left" src="/images/org-logos/flexi-loans.png" alt="Flexi Loans">
           </div>
          <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.png" alt="Maharishi Ayurveda">

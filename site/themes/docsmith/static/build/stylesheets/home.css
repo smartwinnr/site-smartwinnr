@@ -1292,6 +1292,19 @@ p {
     font-size: 24px;
   }
 }
+@media (min-width: 768px) and (max-width:1200px){
+ .ml_padding{
+   /* height: 10px !important ; */
+   padding-left: 30px !important; 
+   /* margin-left:50px !important; */
+ }
+ .ml_padding_left{
+  padding-left: 70px !important; 
+ }
+ /* .ml_height_30 {
+  height: 30px !important;
+} */
+}
 small,
 .small {
   font-size: 87%;
@@ -25335,7 +25348,7 @@ img {
   .ml_div_contents_in_center {
     display: block !important;
   }
-  .ml_logo_contents_in_center img{
+  .ml_logo_contents_in_center img{ 
     display: block;
     margin-left: auto !important;
     margin-right: auto !important;
