@@ -14,7 +14,8 @@ layout: ml_layout
 <section class="">
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
-      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
+      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 g2-row">
+        <img src="/images/g2-badge.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
@@ -93,7 +94,7 @@ layout: ml_layout
           <img class="ml_company_logo ml_height_55" src="/images/org-logos/sud-life.png" alt="SUD Life">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_60" src="/images/org-logos/key-factors.png " alt="Key Factors">
+          <img class="ml_company_logo ml_height_35" src="/images/org-logos/key-factors-logo.png " alt="Key Factors">
           </div>
         </div>
     </div>
