@@ -1609,6 +1609,27 @@ pre code {
   .container {
     width: 1170px;
   }
+ 
+}
+@media (min-width: 1200px) {
+.row .g2-row{
+  margin-top:-225px !important;
+  }
+}
+@media (min-width: 320px) and (max-width:480px){
+  .row .g2-row{
+    margin-top:-33px !important;
+    }
+  }
+@media (min-width: 481px) and (max-width:768px){
+    .row .g2-row{
+      margin-top:-50px !important;
+      }
+    }
+@media (min-width: 769px) and (max-width:1200px){
+    .row .g2-row{
+      margin-top:-65px !important;
+  }
 }
 .container-fluid {
   margin-right: auto;
@@ -26276,6 +26297,9 @@ img {
 }
 .paddingLogo{
   padding: 0 22px 0 22px !important;
+}
+.g2-badge{
+  width: 137px
 }
 .ml_height_30 {
   height: 30px !important;
