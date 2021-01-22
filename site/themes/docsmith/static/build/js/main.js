@@ -307,3 +307,4 @@
     }
 
 })(jQuery);
+(function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-18043"); s = "https://www.g2.com/products/widget.embed?id=18043&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1608961090&text_style="; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window));

@@ -15,7 +15,8 @@ layout: ml_layout
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
       <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 g2-row">
-        <img src="/images/g2-badge.png" class="g2-badge" alt="">
+        <!-- <img src="/images/g2-badge.png" class="g2-badge" alt=""> -->
+        <a title="Users love SmartWinnr on G2" href="https://www.g2.com/products/smartwinnr/reviews?utm_source=rewards-badge" target="_blank"><img s alt="Users love SmartWinnr on G2" class="g2-badge"  src="https://my.g2.com/assets/product-badges/users-love-us-2008b519df49af90dcfa7db4b5fe13c8ec24ced0348f0a6bd039711ad8bbffc7.svg" /></a>
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>

@@ -1613,7 +1613,7 @@ pre code {
 }
 @media (min-width: 1200px) {
 .row .g2-row{
-  margin-top:-225px !important;
+  margin-top:-215px !important;
   }
 }
 @media (min-width: 320px) and (max-width:480px){
@@ -1626,11 +1626,26 @@ pre code {
       margin-top:-50px !important;
       }
     }
-@media (min-width: 769px) and (max-width:1200px){
+@media (min-width: 769px) and (max-width:1199px){
     .row .g2-row{
       margin-top:-65px !important;
   }
 }
+
+.read-more-g2-text{
+  display: block;
+  position: absolute; 
+  bottom: 6px;
+  color: black;
+  font-size: 10px; 
+  font-weight: 600; 
+  text-align: center !important;
+  width: 100%;
+}
+/* @media (min-width: 1070px) and (max-width:1199px){
+  .row .g2-row{
+    margin-top:-70px !important;
+} */
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
