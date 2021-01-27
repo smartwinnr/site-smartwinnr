@@ -77,7 +77,7 @@ layout: ml_layout
       </div>
     </div>
     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-      <img class="" alt="Image" src="/images/home_world_class_support_team.png">
+      <img class="" alt="Image" src="/images/home_world_class_support_team.webp">
     </div>
   </div>
 </section> -->
