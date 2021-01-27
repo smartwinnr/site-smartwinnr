@@ -52,3 +52,43 @@ Pre-boarding is basically engaging with a new hire between the time they accept 
 * You can also notify them about the company’s policies and  compliance regulations, .This can accelerate the training process and provide them with a basic understanding of the company.
 
 Pre boarding can not only help move along the onboarding process, it can also engage your new recruits even before their first day. It helps prevent no-shows and sets new hires up to hit the ground running on day one.
+
+<br>
+
+<h3><b>Looking for a Pre-boarding Plan for new hires?</b></h3>
+ 
+<a href="https://www.smartwinnr.com/post/pre-boarding-plan-for-new-hires/" target="_blank">Pre-boarding Plan for new hires</a>
+
+<br>
+
+<h3><b>Looking for an Onboarding Plan for new hires?</b></h3>
+
+<a href="https://www.smartwinnr.com/post/gamified-onboarding-the-secret-sauce-to-effectively-onboard-millennials-and-gen-z/" target="_blank">Gamified Onboarding: The Secret Sauce to Effectively Onboard Millennials and Gen Z</a>
+
+<br>
+
+<h3><b>Looking for a detailed new hire remote onboarding plan?</b></h3>
+
+<a href="https://smartwinnr.com/post/how-to-run-the-new-hire-onboarding-process-remotely/" target="_blank">How to Run the New Hire Onboarding Process Remotely?</a>
+<br>
+
+<a href="https://smartwinnr.com/post/how-to-run-the-new-hire-onboarding-process-remotely/" target="_blank">30-60-90 days New Hire remote Onboarding Plan</a>
+
+<br>
+
+<h3><b>Looking for strategies to quickly onboard your new hires?</b></h3>
+
+<a href="https://smartwinnr.com/post/2016/09/reduce-ramp-up-time/" target="_blank">5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits</a>
+
+<br>
+
+<h3><b>Do you want to know how sales enablement can help to drive new hire onboarding?</b></h3>
+
+<a href="https://smartwinnr.com/post/how-can-sales-enablement-help-to-drive-new-hire-onboarding/" target="_blank">How can sales enablement help to drive new hire onboarding?</a>
+
+<br>
+<h3><b>Looking for a sales gamification software that will run your new hire onboarding with gamification?</b></h3>
+
+Explore <a href="https://www.smartwinnr.com/product/targeted-learning/" target="_blank">SmartWinnr’s Learning</a> and <a href="https://www.smartwinnr.com/product/gamification/" target="_blank">Gamification</a> features and learn how to run a gamified new hire sales onboarding program that's repeatable, and takes only 10 min of your time. 
+
+Curious to learn more about it?<a href="https://www.smartwinnr.com/request-demo/" target="_blank"> Book a demo</a> today!
