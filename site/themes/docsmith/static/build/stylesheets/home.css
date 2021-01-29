@@ -25291,7 +25291,30 @@ img {
   color: #000 !important;
   /* padding: 5% !important; */
 }
-
+.ml-subscribe-button {
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff !important;
+  font-size: 1.5em;
+  letter-spacing: .05em;
+  font-weight: 800;
+  padding: 10px 20px;
+  border: 2px solid #5951FF;
+  border-radius: 4px;
+}
+.subscribe-modal{
+  background: #0747A6;
+}
+.modal-body{
+  overflow: hidden !important;
+  padding-bottom:40px;
+}
+.ml-subscribe-button:hover {
+  color: #5951FF !important;
+  background-color: #fff !important;
+  border: 2px solid #5951FF !important;
+  border-radius: 4px !important;
+}
 .ml-request-demo-button {
   /* border-radius: 4px;
   background-color: #5951ff;
@@ -25497,9 +25520,27 @@ img {
   width: 50px;
   margin: 0 !important;
 }
-
+.checkbox-section{
+  margin-top:15px !important;
+  margin-left:3px !important;
+}
+.subscribe-button{
+  background:#4741c7;
+  padding:10px;
+  color:#fff;
+}
+.subscribe-email{
+  border: none;
+    height: auto;
+    padding: 10px;
+    width:80%;
+}
 .ml_about_sm_in_blog {
   background: #f7f7f7 !important;
+}
+.ml_footer_sm_in_blog {
+  /* background: #FFF0B3 !important; */
+  background-color: #fbebd2 !important;
 }
 
 .div_sticky {

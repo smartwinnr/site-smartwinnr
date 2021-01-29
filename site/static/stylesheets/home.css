@@ -4954,6 +4954,9 @@ a.badge:focus {
   color: inherit;
   background-color: #eeeeee;
 }
+.row .subscribe-card{
+  background: #009bd6 !important;
+}
 .jumbotron h1,
 .jumbotron .h1 {
   color: inherit;
@@ -24262,6 +24265,9 @@ img {
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+#subscribe-single{
+  background: #009bd6 !important;
+}
 #mc_embed_signup input.button {
     display: block;
     width: 95% !important;
@@ -24422,3 +24428,4 @@ img {
     padding: 20px !important;
   }
 }
+
