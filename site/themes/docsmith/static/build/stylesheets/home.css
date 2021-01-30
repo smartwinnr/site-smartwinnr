@@ -5908,6 +5908,13 @@ button.close {
   width: auto;
   margin: 10px;
 }
+.subscribe-modal-content{
+  color: #091E42 !important;
+  position: relative;
+  background-color: #FAFBFC !important;
+  border: none !important;
+  border-radius: 12px !important;
+}
 .modal-content {
   position: relative;
   background-color: #fff;
@@ -24355,6 +24362,28 @@ img {
   margin-top: 10% !important;
   color: #fff !important;
 }
+.subscribe-button-small{
+  border: 2px solid #fff !important;
+  background:none;
+  color:#fff;
+  padding:5px 25px;
+  font-size:16px;
+  font-weight:600;
+}
+.checkbox-subscribe{
+  left: 0;
+    vertical-align: middle;
+    border: 2px solid #cbd6e2;
+    width: 1.3rem;
+    height: 1.3rem;
+    border-radius: .1875rem;
+}
+.sub-span{
+  padding-left:8px;
+}
+.checkbox-div{
+  padding-bottom: 0.5rem;
+}
 /* Mailing subscription list */
 #mc_embed_signup {
   background: #6a67ce !important;
@@ -25301,6 +25330,21 @@ img {
   padding: 10px 20px;
   border: 2px solid #5951FF;
   border-radius: 4px;
+
+  
+}
+.ml-subscribe-button-email {
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff !important;
+  font-size: 1em;
+  letter-spacing: .05em;
+  font-weight: 800;
+  padding: 10px 50px;
+  border: 2px solid #5951FF;
+  border-radius: 4px;
+
+  
 }
 .subscribe-modal{
   background: #0747A6;
@@ -25530,17 +25574,28 @@ img {
   color:#fff;
 }
 .subscribe-email{
-  border: none;
-    height: auto;
-    padding: 10px;
-    width:80%;
+  font-size: 1rem;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  color: #33475b;
+  line-height: 1.375;
+  border: 1px solid;
+  border-color: #cbd6e2;
+  border-radius: .1875rem;
+  width: 100%;
+  min-height: 2.5rem;
+  padding: 0.5625rem 0.625rem;
+  transition: all 0.15s ease-out
 }
 .ml_about_sm_in_blog {
   background: #f7f7f7 !important;
 }
 .ml_footer_sm_in_blog {
   /* background: #FFF0B3 !important; */
-  background-color: #fbebd2 !important;
+  /* background-color: #fbebd2 !important; */
+  background: #fff!important;
 }
 
 .div_sticky {
