@@ -25339,12 +25339,13 @@ img {
 }
 .ml-subscribe-button-email {
   margin-top: 5px !important;
-  background: #5951ff !important;
+  background: #FFAB00 !important;
   color: #fff !important;
   font-size: 1em;
   letter-spacing: .05em;
   font-weight: 800;
   padding: 10px 50px;
+  font-weight:600;
   border: 2px solid #5951FF;
   border-radius: 4px;
 
@@ -25599,7 +25600,8 @@ img {
 .ml_footer_sm_in_blog {
   /* background: #FFF0B3 !important; */
   /* background-color: #fbebd2 !important; */
-  background: #fff!important;
+  background: #3C37A6 !important;
+  color:#fff !important;
 }
 
 .div_sticky {
