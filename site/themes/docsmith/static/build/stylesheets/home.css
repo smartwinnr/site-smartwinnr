@@ -24369,6 +24369,7 @@ img {
   padding:5px 25px;
   font-size:16px;
   font-weight:600;
+  text-decoration: none;
 }
 .checkbox-subscribe{
   left: 0;
@@ -24388,6 +24389,9 @@ img {
 #mc_embed_signup {
   background: #6a67ce !important;
   padding: 10% 0%;
+}
+.subscribe-email-section {
+  padding: 8% 0% !important;
 }
 #mc_embed_signup input {
     /* border: 1px solid #6a67ce !important; */
@@ -25334,7 +25338,7 @@ img {
   
 }
 .ml-subscribe-button-email {
-  margin-top: 10px !important;
+  margin-top: 5px !important;
   background: #5951ff !important;
   color: #fff !important;
   font-size: 1em;
