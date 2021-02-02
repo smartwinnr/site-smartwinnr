@@ -72,7 +72,7 @@ Pre boarding can not only help move along the onboarding process, it can also en
 <a href="https://smartwinnr.com/post/how-to-run-the-new-hire-onboarding-process-remotely/" target="_blank">How to Run the New Hire Onboarding Process Remotely?</a>
 <br>
 
-<a href="https://smartwinnr.com/post/how-to-run-the-new-hire-onboarding-process-remotely/" target="_blank">30-60-90 days New Hire remote Onboarding Plan</a>
+<a href="https://www.smartwinnr.com/post/30-60-90-days-gamified-sales-training-plan/" target="_blank">30-60-90 days New Hire remote Onboarding Plan</a>
 
 <br>
 
