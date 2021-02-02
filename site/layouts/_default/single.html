@@ -509,24 +509,19 @@
                 var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
            
                 if (input.value.match(validRegex)) {
-
-                    alert("Valid email address!");
-
-                    document.form1.text1.focus();
-
+                     //ajax call
+                     subscribeDataObject['EMAIL'] = document.getElementById('EMAIL');
               
 
-                    } else {
+                } else {
 
-                    alert("Invalid email address!");
-
-                    document.form1.text1.focus();
+                      alert("please enter valid email address!");
 
 
                     }
               }
             
-              console.log(validateEmail());
+              //console.log(validateEmail());
                 
               //subscribeDataObject['EMAIL'] = document.getElementById('EMAIL');
               // subscribeDataObject['SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME'] = document.getElementById('SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME').value;
