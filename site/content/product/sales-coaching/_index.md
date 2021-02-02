@@ -20,7 +20,6 @@ layout: ml_layout
       <div class="ml-font20 ml_body_text_white">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment. Mentor your team for peak performance through a structured coaching program.</div>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426491/website/Sales-Coaching/coaching_home_zmr3po.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coaching_home_zmr3po.png"/>
   </div>
 </div>
@@ -45,7 +44,6 @@ layout: ml_layout
 
 <div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426504/website/Sales-Coaching/coaching_explainer_txo6bx.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coaching_explainer_txo6bx.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -63,37 +61,8 @@ layout: ml_layout
 
 <!-- new design ends -->
 
-
-<!-- <div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
-    <h1>Sales Coaching</h1>
-    <div class="ml-font20 ml_body_text_black">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment.</div>
-    <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <img class="ml_top_image padding10" alt="Image" src="/images/sales-coaching/sales-coaching.png"/>
-  </div>
-</div>
-
-<div class="row ml-margin0 padding50 white">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/Final - View Coaching .png"/>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> Video Coaching </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">Practice makes it perfect. SmartWinnr provides the perfect channel for your sales teams to practice their sales pitch in a supportive environment. It can be on talking about a new product, training your new hires, handling price objections, facing difficult situations, taking over an account and more. You pick a scenario and your sales team records their videos on the phone and sends it to you through SmartWinnr. You review each video, provide helpful feedback and share the best videos with everyone.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10 ml-margin-top30">Especially helpful in</h4>
-    <ul class="ml_font_1_point_two">
-      <li class="ml-margin-top10">Quick ramp up of new hires in having conversations with customers</li>
-      <li class="ml-margin-top10">Training for a new product or service launch</li>
-      <li class="ml-margin-top10">Your continuous training strategy</li>
-    </ul>
-  </div>
-</div> -->
-
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426516/website/Sales-Coaching/coaching_steps_nrcpmc.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coaching_steps_nrcpmc.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -102,7 +71,6 @@ layout: ml_layout
     <p class="ml-subtext ml_body_text_black"><strong>Assess:</strong> Videos are assessed based on a structured competency framework. Managers and coaches can give qualitative and quantitative feedback to improve messaging.</p>
     <p class="ml-subtext ml_body_text_black"><strong>Gamify:</strong> Gamify your coaching using live leaderboards. Create team competitions to further increase engagement and learning.</p>
     <p class="ml-subtext ml_body_text_black"><strong>Share:</strong> Share best videos with your team to drive best practices. Preserve top videos as future learning reference.</p>
-    <!-- <p class="ml-subtext ml_body_text_black"><strong>Experience the Same Video Technology that Drives Amazon Prime</strong><br><br> Poor internet speed? Unreliable network? No problem. SmartWinnr uses the same technology that drives Amazon Prime by splitting your video into short segments. You don’t have to wait for the entire video to download to start viewing. Depending on your network speed, we automatically serve appropriate video resolution. The result - smooth viewing in any device, anywhere.</p> -->
   </div>
 </div>
 
@@ -118,7 +86,6 @@ layout: ml_layout
       <p class="ml-subtext ml_body_text_black">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the coaching process. They do baseline assessments, set coaching goals for joint field visits, and provide crucial feedback to their sales reps.</p>
   </div>
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426530/website/Sales-Coaching/coachtogether_q6bmhh.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coachtogether_q6bmhh.png"/>
   </div>
 </div>
@@ -155,40 +122,10 @@ layout: ml_layout
       </ul>
   </div>
   <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <!-- <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426538/website/Sales-Coaching/coachtogether_coaching_olaaak.png"/> -->
     <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales-Coaching_2020-03-23_09_46/coachtogether_coaching_olaaak.png"/>
   </div>
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">
-
-<!-- <div class="row ml-margin0 padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_black"> On-the-job Coaching </h1>
-    <h4 class="ml_body_text_black ml-margin-bottom10">SmartWinnr’s on-the-job coaching automates your sales coaching process. Plugin your own competency frameworks to measure and coach your sales teams. Managers play a crucial role in the entire process by doing baseline assessments, setting coaching goals for joint field visits, and providing crucial feedback to their sales rep.</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10 ml-margin-top30">Benefits</h4>
-    <ul class="ml_font_1_point_two">
-      <li class="ml-margin-top10">Ensures a systematic approach to developing your sales teams</li>
-      <li class="ml-margin-top10">Increases call effectiveness and drives productivity</li>
-      <li class="ml-margin-top10">Provides helpful qualitative data to the sales training team</li>
-    </ul>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-dreamforce-image" alt="Image" src="/images/sales-coaching/Final - Top video.png"/>
-  </div>
-</div> -->
-
-<!-- <div class="row ml-margin0 white padding50">
-  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <h2>Related Blogs</h2>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-coaching-playbook-part-1-competency-framework/" alt="Sales Coaching Playbook Part 1 - Competency Framework">Sales Coaching Playbook Part 1 - Competency Framework</h4>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-coaching-playbook-part-2-training-managers-to-coach/" alt="Sales Coaching PlayBook Part 2 - Training the Managers to Coach">Sales Coaching PlayBook Part 2 - Training the Managers to Coach</h4>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-coaching-playbook-3-how-to-measure-the-success-of-coaching/" alt="Sales Coaching Playbook Part 3- How to Measure Success of Coaching">Sales Coaching Playbook Part 3- How to Measure Success of Coaching</h4>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/5-sales-role-play-games-that-prepares-your-team-to-win/" alt="5 Sales Role Play Games that Prepares your Team to Win">5 Sales Role Play Games that Prepares your Team to Win</h4>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/6-buyer-personas-and-how-to-train-your-team-to-sell/" alt="The 6 Buyer Personas and how to train your team to sell to them">The 6 Buyer Personas and how to train your team to sell to them</h4>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/scenarios-where-sales-coaching-can-be-used/" alt="Scenarios where Video Coaching is used commonly">Scenarios where Video Coaching is used commonly</h4>
-    <h4 class="ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/reasons-to-use-video-coaching-in-your-sales-progress/" alt="5 Reasons to Use Video Coaching in Your Sales Process">5 Reasons to Use Video Coaching in Your Sales Process</h4>
-  </div>
-</div> -->
 
 <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>

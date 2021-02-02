@@ -18,33 +18,12 @@ layout: ml_layout
     <h1 class="text-center ml-margin-bottom30 ml_body_text_white">Boost Sales by 60% through Gamified Sales Contests</h1>
     <div class="ml_iframe_video_container">
       <div class="ml_iframe_video_wrapper">
-        <!-- <iframe class="" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
         <iframe src="https://player.vimeo.com/video/474098800" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
     </div>
-    <!-- <div class="ml_video_container">
-      <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-      <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
-      <div class="ml_video_popup" id="ml_popup">
-        <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
-        <div class="popup_message"> Do you want to know more? </div>
-        <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
-      </div> -->
-    <!-- </div> -->
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
-
-<!-- <div class="row ml-margin0 white padding50">
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-text-over-image">
-    <h1>Sales Contest</h1>
-    <div class="ml-font20 ml_body_text_black">Drive sales contests that meet your business targets. Motivate your team to achieve sales goals by organizing weekly, monthly or quarterly sales contests.</div>
-    <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request for demo</a></p>
-  </div>
-  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <img class="ml_top_image padding10" alt="Image" src="/images/targeted-learning/targeted-learning.png"/>
-  </div>
-</div> -->
 
 <!-- Hana Kneblova (NN) customer stories -->
 <section class="ml-chooseQP ml-background-white">
@@ -69,7 +48,6 @@ layout: ml_layout
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426231/website/Sales%20Contest/kpi_explainer_gzxtcn.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/kpi_explainer_gzxtcn.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -84,14 +62,12 @@ layout: ml_layout
     <p>Break down quarter-end goals into more achievable targets, distributed across the weeks and months. SmartWinnr enables you to track and push out incentives weekly, monthly, quarterly and yearly. This encourages your team to meet smaller goals that lead to the larger number at the end of the quarter.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426285/website/Sales%20Contest/editor_analytics_oyutgw.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/editor_analytics_oyutgw.png"/>
   </div>
 </div>
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426319/website/Sales%20Contest/manager-user-card_combined_jsnxnd.png"/> -->
     <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/manager-user-card_combined_jsnxnd.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -106,14 +82,12 @@ layout: ml_layout
     <p>Take your contests to a whole different level by introducing one-on-one and team vs team challenges. This is especially helpful when you want to drive the performance of your top performers and top teams.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426360/website/Sales%20Contest/user-manager_challenge-combined_fvu552.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/user-manager_challenge-combined_fvu552.png"/>
   </div>
 </div>
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426365/website/Sales%20Contest/chat_bjh4gh.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/chat_bjh4gh.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -128,20 +102,9 @@ layout: ml_layout
     <p>Your sales teams can follow the progress of the game remotely, in real-time through our easy-to-use and intuitive mobile app.</p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426372/website/Sales%20Contest/individual-team-leaderboard-combined_heynkl.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/individual-team-leaderboard-combined_heynkl.png"/>
   </div>
 </div>
-
-<!-- <div class="row ml-margin0 white padding50">
-  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <h2>Related Blogs</h2>
-    <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/secrets-of-running-successful-sales-contest/" alt="Sales Contest Part 1: The Secrets of Running a Successful Sales Contest">Sales Contest Part 1: The Secrets of Running a Successful Sales Contest</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/design-sales-contest-for--new-product-launch/" alt="Sales Contest Part 2: How to design Sales Contest for a New Product Launch">Sales Contest Part 2: How to design Sales Contest for a New Product Launch</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/9-proven-sales-contests-that-drive-productivity/" alt="Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity">Sales Contest Part 3: 9 Proven Sales Contests that Drive Productivity</h4>
-    <h4 class="ml_body_text_black ml-margin-bottom10"> <a href="https://www.smartwinnr.com/post/sales-incentive-ideas-to-keep-your-sales-team-motivated/" alt="23 Sales incentive ideas to keep your sales team motivated">23 Sales incentive ideas to keep your sales team motivated</h4>
-  </div>
-</div> -->
 
 <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
@@ -351,21 +314,3 @@ layout: ml_layout
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>
-
-<!-- <script>
-  // Cloudinary video player 
-  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', {
-    posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
-    playedEventPercents: [10]
-  });
-  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
-  videoPlayer.on('percentsplayed', (event) => {
-    if (event.eventData.percent == 10) {
-      document.getElementById("ml_popup").style.display = "block";
-    }
-  });
-  function hidePopup() {
-    document.getElementById("ml_popup").style.display = "none";
-  }
-</script> -->

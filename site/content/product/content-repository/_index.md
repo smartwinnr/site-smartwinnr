@@ -20,7 +20,6 @@ layout: ml_layout
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 padding0 ml_zindex1 ml-margin0">
-    <!-- <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427048/website/Images/khub-hero_ru5mgi.png"/> -->
     <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/khub-hero_ru5mgi.png"/>
   </div>
 </div>
@@ -28,7 +27,6 @@ layout: ml_layout
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427073/website/Images/khub_explainer_tmjhwb.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/khub_explainer_tmjhwb.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">

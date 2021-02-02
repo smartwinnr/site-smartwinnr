@@ -43,92 +43,6 @@
               </div>
               <!-- <div class=" "></div> -->
               <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12 div_sticky">
-                <!-- <div class="row">
-                  <ul class="ml_list_group list-group">
-                    <li class="list-group-item">Share Article</li>
-                    <li class="list-group-item text-center padding20">
-                      <a href=""> <img class="ml_share_icon" src="/images/share-icons/linkedin-icon.svg" alt=""> </a>
-                      <a href=""> <img class="ml_share_icon" src="/images/share-icons/twitter-icon.svg" alt=""> </a>
-                      <a href=""> <img class="ml_share_icon" src="/images/share-icons/facebook-icon.svg" alt=""> </a>
-                    </li>
-                  </ul>
-                </div> -->
-
-                <!-- <div class="row" id="ml_blog_form">
-                  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-                  <style type="text/css">
-                    #mc_embed_signup {
-                      background: #fff;
-                      clear: left;
-                      font: 12px Helvetica, Arial, sans-serif !important;
-                    }
-
-                    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-                      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-                  </style>
-                  <div id="" class="ml_blog_signup">
-                    <form
-                      action="https://smartwinnr.us16.list-manage.com/subscribe/post?u=3372c8181d39adec2a3eaf411&amp;id=54a5499385"
-                      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-                      target="_blank" novalidate>
-                      <div id="mc_embed_signup_scroll">
-                        <div class="ml_blog_signup_message">How to Run Effective Sales Contests to Meet Targets in Q4?</div>
-                        <div class="ml_blog_signup_time ml-margin-top10 text-center">Attend the Webinar on 21 January, Tuesday 2:00 PM (India), 4:30 PM (Singapore) for 30 minutes</div>
-                        <div class="ml_blog_signup_message ml-margin-top10">
-                          You will learn about:
-                          <ul>
-                            <li class="ml-margin-top10">Effective Contest themes, names and prizes,</li>
-                            <li>Structuring your sales contest for highest return,</li>
-                            <li>Contest management strategy for maximum return</li>
-                          </ul>
-                        </div>
-                        <div class="row">
-                          <div class="col col-lg-6 col-md-6 col-sm-6 col-xs-6 ml_padding_left0 ml-padding-right10">
-                            <div class="mc-field-group">
-                              <label for="mce-FNAME">First Name <span class="asterisk">*</span>
-                              </label>
-                              <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
-                            </div>
-                          </div>
-                          <div class="col col-lg-6 col-md-6 col-sm-6 col-xs-6 ml-padding-leftright0">
-                            <div class="mc-field-group">
-                              <label for="mce-LNAME">Last Name <span class="asterisk">*</span>
-                              </label>
-                              <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
-                            </div>
-                          </div>
-                        </div>
-                        <div class="mc-field-group">
-                          <label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
-                          </label>
-                          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                        </div>
-                        <div class="mc-field-group">
-                          <label for="mce-ORG">Organization <span class="asterisk">*</span>
-                          </label>
-                          <input type="text" value="" name="ORG" class="required" id="mce-ORG">
-                        </div>
-                        <div class="mc-field-group">
-                          <label for="mce-PHONE">Phone <span class="asterisk">*</span>
-                          </label>
-                          <input type="text" value="" name="PHONE" class="required" id="mce-PHONE">
-                        </div>
-                        <div id="mce-responses" class="clear">
-                          <div class="response" id="mce-error-response" style="display:none"></div>
-                          <div class="response" id="mce-success-response" style="display:none"></div>
-                        </div>
-                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                            name="b_3372c8181d39adec2a3eaf411_54a5499385" tabindex="-1" value=""></div>
-                        <div class="clear"><input type="submit" value="Register Now" name="subscribe"
-                            id="mc-embedded-subscribe" class="button"></div>
-                      </div>
-                    </form>
-                  </div>
-                  <script type='text/javascript'
-                    src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-                  <script
-                    type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[4] = 'ORG'; ftypes[4] = 'text'; fnames[9] = 'PHONE'; ftypes[9] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
-                </div> -->
 
                 <div class="row">
                   <ul class="ml_list_group ml-margin-bottom0 list-group">
@@ -229,29 +143,6 @@
                     </li>
                   </ul>
                 </div>
-
-                <!-- <div class="row">
-                  <ul class="ml_list_group list-group">
-                    <li class="list-group-item">Related Articles</li>
-                    <li class="list-group-item padding20">
-                      <ul>
-                        {{ $relatedArticles := .Params.relatedBlogs }}
-                      {{ $.Scratch.Set "relatedArticlesCount" 0 }}
-                      {{ range where .Site.Pages "Section" "post" }}
-                        {{ if in $relatedArticles .Params.Title }}
-                          {{ $.Scratch.Set "relatedArticlesCount" (add ($.Scratch.Get "relatedArticlesCount") 1) }}
-                          <li>
-                            <a href="{{ .Permalink }}" class="ml_display_block">{{ .Params.Title }}</a>
-                          </li>
-                        {{ end }}
-                      {{ end }}
-                      {{ if eq ($.Scratch.Get "relatedArticlesCount") 0 }}
-                        <span>No related articles yet</span>
-                      {{ end }}
-                      </ul>
-                    </li>
-                  </ul>
-                </div> -->
               </div>
             </div>
             <div class="row ml-margin-top30 ml-margin-left10">
@@ -286,35 +177,10 @@
     </div>
     <div class="ml_iframe_video_container">
       <div class="ml_iframe_video_wrapper">
-        <!-- <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/nJNfTjI1VSA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
         <iframe src="https://player.vimeo.com/video/474098800" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-        <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
-        <div class="ml_video_popup" id="ml_popup">
-          <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
-          <div class="popup_message"> Do you want to know more? </div>
-          <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
-        </div> -->
       </div>
     </div>
   </div>
-
-  <!-- <script>
-    // Cloudinary video player 
-    var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-    var videoPlayer = cld.videoPlayer('video-player', {
-      posterOptions: {publicId: 'website/Sales_Contests_video_poster_cvyqnf.png'}, 
-      playedEventPercents: [10]
-    });
-    videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1581053710/website/Sales_Contests_Top_Section_nh4mvw.mp4');
-    videoPlayer.on('percentsplayed', (event) => {
-      if (event.eventData.percent == 10) {
-        document.getElementById("ml_popup").style.display = "block";
-      }
-    });
-    function hidePopup() {
-      document.getElementById("ml_popup").style.display = "none";
-    }
-  </script> -->
 
   {{ end }}
 
@@ -355,9 +221,4 @@
   xhr.open('GET', 'https://api.ipdata.co?api-key=af2a4ff4e21b7fc47af465212f4dc9947af9bdb2eabc6c7d18a19b28');
   xhr.send();
 </script>
-
-<!-- <br /><br /><br /><br /><br />
-<div id="results">
-</div> -->
-<!-- <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"3372c8181d39adec2a3eaf411","lid":"54a5499385","uniqueMethods":true}) })</script> -->
 {{ end }}
