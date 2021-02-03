@@ -7,7 +7,7 @@
 
 [[redirects]]
   from = "/dreamforce"
-  to = "https://tools.smartwinnr.com"
+  to = "https://tools.smartwinnr.com/#/contest-theme-generator"
   status = 301
   force = true
   headers = {X-From = "Netlify"}

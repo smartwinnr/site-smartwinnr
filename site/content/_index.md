@@ -21,7 +21,7 @@ layout: ml_layout
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/HomePage_2020-03-23_09_46/Home-hero-isometric_itr4yx.png">
+        <img class="ml-image ml-margin-bottom0" alt="Image" src="./images/Home-hero-isometric_itr4yx.webp">
       </div>
     </div>
   </div>
@@ -43,7 +43,7 @@ layout: ml_layout
         <img class="ml_company_logo ml_height_55" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
         </div>
         <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_40 " src="/images/org-logos/icici_bank_logo.png" alt="ICICI Logo">
+          <img class="ml_company_logo ml_height_40 " src="/images/org-logos/icici_bank_logo.webp" alt="ICICI Logo">
           </div>
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo " src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
@@ -52,7 +52,7 @@ layout: ml_layout
           <img class="ml_company_logo " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo " src="/images/org-logos/skf-logo.png" alt="SKF Logo">
+          <img class="ml_company_logo " src="/images/org-logos/skf-logo.webp" alt="SKF Logo">
           </div>
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
@@ -61,39 +61,39 @@ layout: ml_layout
           <img class="ml_company_logo " src="/images/org-logos/nn-logo.png" alt="NN Logo">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.png" alt="Canara HSBC Logo">
+          <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.webp" alt="Canara HSBC Logo">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_35" src="/images/org-logos/icici-securities-logo1.png" alt="ICICI Securities Logo">
+          <img class="ml_company_logo ml_height_35" src="/images/org-logos/icici-securities-logo1.webp" alt="ICICI Securities Logo">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo" src="/images/org-logos/convatech-logo.png" alt="Convatec Logo">
+          <img class="ml_company_logo" src="/images/org-logos/convatech-logo.webp" alt="Convatec Logo">
           </div>
            <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
           </div>
           <div class="ml_logo_contents_in_center ">
-          <img class="ml_company_logo " src="/images/org-logos/nouvmed logo.png" alt="Nouvmed Logo">
+          <img class="ml_company_logo " src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo">
           </div>    
           <div class="ml_logo_contents_in_center ">
-          <img class="ml_company_logo ml_height_75" src="/images/org-logos/Regrow-biosciences-logo.png" alt="Regrow Logo"></div>
+          <img class="ml_company_logo ml_height_75" src="/images/org-logos/Regrow-biosciences-logo.webp" alt="Regrow Logo"></div>
          <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
           </div>        
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_50 ml_padding" src="/images/org-logos/transforce-logo.png" alt="Transforce Logo">
+          <img class="ml_company_logo ml_height_50 ml_padding" src="/images/org-logos/transforce-logo.webp" alt="Transforce Logo">
           </div>
          <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_45 ml_padding_left" src="/images/org-logos/flexi-loans.png" alt="Flexi Loans">
+          <img class="ml_company_logo ml_height_45 ml_padding_left" src="/images/org-logos/flexi-loans.webp" alt="Flexi Loans">
           </div>
          <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.png" alt="Maharishi Ayurveda">
+          <img class="ml_company_logo ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.webp" alt="Maharishi Ayurveda">
           </div>      
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_55" src="/images/org-logos/sud-life.png" alt="SUD Life">
+          <img class="ml_company_logo ml_height_55" src="/images/org-logos/sud-life.webp" alt="SUD Life">
           </div>
           <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_35" src="/images/org-logos/key-factors-logo.png " alt="Key Factors">
+          <img class="ml_company_logo ml_height_35" src="/images/org-logos/key-factors-logo.webp " alt="Key Factors">
           </div>
         </div>
     </div>
@@ -280,7 +280,7 @@ layout: ml_layout
     <div class="row ml-margin-bottom0">
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" align="center">
         <h1>Built for large, distributed sales teams</h1>
-        <img src="https://d2htycb3ayzv6u.cloudfront.net/HomePage_2020-03-23_09_46/homepage_distributed_sales_fmgzsd.png" alt="">
+        <img src="https://d2htycb3ayzv6u.cloudfront.net/HomePage_2020-03-23_09_46/homepage_distributed_sales_fmgzsd.webp" alt="">
       </div>
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
         <div class="row ml-margin-bottom20">
@@ -375,42 +375,42 @@ layout: ml_layout
     <div class="row ml-margin-bottom20 ml_text_flex_row">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/product/sales-contest">
-          <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.png">
+          <img class="ml_small_image" alt="Image" src="../images/homepage_Gamify_KPIs.webp">
           <h4 class="ml-title-font">Drive Successful Sales Contests</h4>
         </a>
         <div class="ml-subtext">SmartWInnr doubles your sales productivity by gamifying KPIs. Run contests and challenges to motivate your team.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/solutions/new-product-launch">
-          <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.png">
+          <img class="ml_small_image" alt="Image" src="../images/home_new_product_launch.webp">
           <h4 class="ml-title-font">New Product Launch</h4>
         </a>
         <div class="ml-subtext">SmartWinnr helps you to answer - How ready is my sales team to launch the new product? Tailor training plans, reinforce and measure retention of product launch information.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/solutions/channel-partner-training">
-          <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.png">
+          <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.webp">
           <h4 class="ml-title-font">Refresher Product Trainings</h4>
         </a>
         <div class="ml-subtext">Ensure meaningful conversations with customers. SmartWinnr helps your sales teams to retain latest product information, reinforce key messages, and more.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/solutions/channel-partner-training">
-          <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.png">
+          <img class="ml_small_image" alt="Image" src="../images/home_drive_sales_methodology.webp">
           <h4 class="ml-title-font">Drive Sales Methodology</h4>
         </a>
         <div class="ml-subtext">Use SmartWinnr to drive adoption of your new sales methodology. Teams practice selling by using the ‘steps-of-the-sale’ through Video Coaching.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/solutions/new-hire-onboarding">
-          <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.png">
+          <img class="ml_small_image" alt="Image" src="../images/home_new_hire_onboarding.webp">
           <h4 class="ml-title-font">New Hire Onboarding</h4>
         </a>
         <div class="ml-subtext">Reduce time to productivity of your new hires. Create contests and leaderboards, quiz them on sessions and get them excited to be part of your organization.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/solutions/sales-events">
-          <img class="ml_small_image" alt="Image" src="../images/home_sales_events.png">
+          <img class="ml_small_image" alt="Image" src="../images/home_sales_events.webp">
           <h4 class="ml-title-font">Drive Engaging Sales Events</h4>
         </a>
         <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
@@ -522,7 +522,7 @@ layout: ml_layout
         </div>
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-        <img class="" alt="Image" src="../images/home_world_class_support_team.png">
+        <img class="" alt="Image" src="../images/home_world_class_support_team.webp">
       </div>
     </div>
   </div>
