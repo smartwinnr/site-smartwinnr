@@ -21,7 +21,6 @@ layout: ml_layout
     </div>
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
-        <!-- <img class="ml-image ml-margin-bottom0" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581428969/website/Images/new-product_launch_yjlqaf.png"/> -->
         <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/new-product_launch_yjlqaf.png"/>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">

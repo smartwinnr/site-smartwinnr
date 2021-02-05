@@ -28,7 +28,7 @@ layout: ml_layout
 <section class="ml-background-white padding50">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      <a href="https://www.g2.com/products/smartwinnr/reviews/smartwinnr-review-4015553#survey-response-4015553" target="_blank"><img class="ml-image" alt="Image" src="../../images/2020-02-16.png"></a>
+      <a href="https://www.g2.com/products/smartwinnr/reviews/smartwinnr-review-4015553#survey-response-4015553" rel="noreferrer" target="_blank"><img class="ml-image" alt="Image" src="../../images/2020-02-16.png"></a>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
       <h1 class="text-center">Customer Success Story - Large Private Bank with more than 30,000 users</h1>

@@ -22,26 +22,15 @@ layout: ml_layout
     </div>
     <div class="ml_iframe_video_container">
       <div class="ml_iframe_video_wrapper">
-        <!-- <iframe class="" src="https://www.youtube.com/embed/bVWLyRme7kM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
         <iframe src="https://player.vimeo.com/video/474097714" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
     </div>
-    <!-- <div class="ml_video_container">
-      <iframe class="ml-youtube-video" src="https://www.youtube.com/embed/5wx__AZNTFU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-      <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
-      <div class="ml_video_popup" id="ml_popup">
-        <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
-        <div class="popup_message"> Test Message </div>
-        <div class="text-center popup_button">Click Me</div>
-      </div> -->
-    <!-- </div> -->
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426762/website/Targeted-Learning/smartfeed_dashboard_txs4cj.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/smartfeed_dashboard_txs4cj.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -76,7 +65,6 @@ layout: ml_layout
     <p class="ml-subtext ml_body_text_black">AI-driven personalized assessments that help to retain key information 60% more effectively</p>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426797/website/Targeted-Learning/quiz_shots_x3ag1h.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/quiz_shots_x3ag1h.png"/>
   </div>
 </div>
@@ -101,7 +89,6 @@ layout: ml_layout
 
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-dreamforce-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426847/website/Targeted-Learning/smartpath_details_fqmuo4.png"/> -->
     <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/smartpath_details_fqmuo4.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -113,7 +100,6 @@ layout: ml_layout
 
 <div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426829/website/Targeted-Learning/survey_zravlq.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/survey_zravlq.png"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
@@ -140,7 +126,6 @@ layout: ml_layout
     </ul>
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
-    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581426833/website/Targeted-Learning/reports_upbur5.png"/> -->
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/reports_upbur5.png"/>
   </div>
 </div>
@@ -278,28 +263,3 @@ layout: ml_layout
     <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>
 </div>
-
-<!-- <script>
-  // Cloudinary video player 
-  var cld = new cloudinary.Cloudinary({cloud_name: "smartwinnr", secure: true});
-  var videoPlayer = cld.videoPlayer('video-player', { 
-    // playedEventPercents: [10, 20],
-    autoplay: true,
-    loop: true
-  });
-  videoPlayer.source('https://res.cloudinary.com/smartwinnr/video/upload/v1580730068/website/Targeted_Learning_rxupp9.mp4');
-  // var thumbnail = cld.videoTag('Sales_Contests_Top_Section_nh4mvw.jpg').toHtml();
-  // console.log(thumbnail);
-  videoPlayer.on('percentsplayed', (event) => {
-      if (event.eventData.percent == 10) {
-          document.getElementById("ml_popup").style.display = "block";
-      }
-      if(event.eventData.percent == 20) {
-          document.getElementById("ml_popup").style.display = "none";
-      }
-      console.log(event.eventData.percent + " percents played")
-  });
-  function hidePopup() {
-    document.getElementById("ml_popup").style.display = "none";
-  }
-</script> -->
