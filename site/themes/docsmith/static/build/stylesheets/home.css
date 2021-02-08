@@ -23978,7 +23978,64 @@ img {
   color: #272640;
   display: inline-block;
 }
+#sib-div{
+  background-color: #6a67ce !important;
+  
+}
 
+@font-face {
+  font-display: block;
+  font-family: Roboto;
+  src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: Roboto;
+  font-weight: 600;
+  src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: Roboto;
+  font-weight: 700;
+  src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+}
+
+#sib-container input:-ms-input-placeholder {
+  text-align: left;
+  font-family: "Helvetica", sans-serif;
+  color: #c0ccda;
+}
+
+#sib-container input::placeholder {
+  text-align: left;
+  font-family: "Helvetica", sans-serif;
+  color: #c0ccda;
+  font-size: 14px;
+}
+
+#sib-container textarea::placeholder {
+  text-align: left;
+  font-family: "Helvetica", sans-serif;
+  color: #c0ccda;
+}
+.entry__field{
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 90%;
+}
+.sib-button-ml{
+  margin-left: 16% !important;
+
+  font-size:16px !important;
+  color:#FFFFFF !important; 
+  background:none !important;
+  border-radius:3px !important;
+  border:2px solid #fff  !important; 
+  min-width: 150px;
+}
 .ml-featured-card-content {
   padding: 5px 20px 5px 20px;
   color: #000;
