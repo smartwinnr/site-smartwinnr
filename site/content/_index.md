@@ -276,7 +276,7 @@ layout: ml_layout
 </section> -->
 
 <section class="ml-background-white">
-  <div class="ml-container padding50">
+  <div class="ml-container padding50 ml-background-wave">
     <div class="row ml-margin-bottom0">
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" align="center">
         <h1>Built for large, distributed sales teams</h1>

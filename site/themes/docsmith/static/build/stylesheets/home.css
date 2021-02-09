@@ -24730,6 +24730,7 @@ img {
   background-image: url("https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/wave1_kwnyud.svg");
   background-repeat: no-repeat;
   background-size: 40%;
+  background-size: auto !important;
   /* height: -webkit-fill-available; */
   background-position-y: bottom;
 }
