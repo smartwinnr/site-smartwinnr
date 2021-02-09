@@ -149,3 +149,15 @@ Gary Vaynerchuk is a Belarusian American entrepreneur, author and an Internet pe
 
 >_“Developing your personal brand is key to monetizing your passion online.”_
 **-Gary Vaynerchuk**
+
+<br>
+
+#### **Want to know where Sales is headed in 2021?**
+
+<a href="https://smartwinnr.com/post/6-trends-that-sales-experts-are-predicting-for-2021/" target="_blank" class="ml_custom_link">6 Trends that Sales Experts are predicting for 2021</a>
+
+<br>
+
+#### **Want to build a happy, prosperous, and successful sales environment at your organization?**
+
+<a href="https://www.smartwinnr.com/post/how-to-build-a-successful-sales-environment/" target="_blank" class="ml_custom_link">Click here and learn</a> how to Build a Successful Sales Environment
