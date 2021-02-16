@@ -6,7 +6,7 @@ layout: ml_layout
 ---
 
 <section class="">
-  <div class="padding30 ml-pure-white-background">
+  <div class="padding50 ml-pure-white-background">
     <div class="row  ">
       <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
         <h4><b>Table of Contents</b></h4><br>
