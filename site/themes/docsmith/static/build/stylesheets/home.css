@@ -25555,7 +25555,19 @@ img {
   position : sticky !important;
   top : 60px;
 }
-
+.div_sticky_privacy {
+  position : sticky !important;
+  top : 60px;
+  height: 100vh;
+  
+  /* overflow-y: scroll; */
+}
+.scroll-smooth{
+  scroll-behavior: smooth !important;
+}
+.content-link:active{
+  color:red;
+}
 /* different size of fonts */
 .ml_font_1 {
   font-size: 1rem !important;

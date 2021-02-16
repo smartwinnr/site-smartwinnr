@@ -7,8 +7,8 @@ layout: ml_layout
 
 <section class="">
   <div class="padding50 ml-pure-white-background">
-    <div class="row  ">
-      <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+    <div class="row  ml_div_contents_in_center">
+      <!-- <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 div_sticky_privacy">
         <h4><b>Table of Contents</b></h4><br>
         <p><b><a href="#policy-covers"> What this policy covers</a></b></p>  
         <p><b><a href="#information-we-collect-about-you">  What information we collect about you</a></b></p>
@@ -18,9 +18,11 @@ layout: ml_layout
         <p><b><a href="">  How to access and control your information</a></b></p>
         <p><b><a href=""> How we transfer information we collect internationally</a></b></p>
         <p><b><a href=""> Other important privacy information</a></b></p>  
-      </div>
-      <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-        <h2><b>Cookies & Tracking Notice</b></h2><br>
+      </div> -->
+      <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+        <h2><b>Cookies & Tracking Notice</b></h2>
+        <h6>Effective Starting: Apr 21, 2019</h6>
+        <br>
       <section >  
         <div id="policy-covers">
           <h4><b>Cookies and Other Tracking Technologies</b></h4>
@@ -30,7 +32,7 @@ layout: ml_layout
          <b>What types of technologies do we use?</b>
          <p>
           We use cookies, web beacons and other technologies to improve and customize our products and websites ("the Services") and your experience; to allow you to access and use the Services without re-entering your username or password; to understand usage of our Services and the interests of our customers; to determine whether an email has been opened and acted upon; and to present you with advertising relevant to your interests.
-          </p>
+          </p><br>
         <b>How do we use them?</b>
         <ul>
         <li>Where strictly necessary.  These cookies and other technologies are essential in order to enable the Services to provide the feature you have requested, such as remembering you have logged in.</li>
@@ -42,7 +44,7 @@ layout: ml_layout
         </li>
         </ul>
         <br>
-        <b>How do we use them?</b>
+        <b>How can you opt-out?</b>
         <p>To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services. SmartWinnr and our third party partners also collect information using web beacons (also known as "tracking pixels").</p>
         <p>
         Many browsers include their own management tools for removing HTML5 local storage objects. To manage "flash cookies" please click here. You may be able to opt out of receiving personalized advertisements as described in the Privacy Policy under "Your Choices."</p>

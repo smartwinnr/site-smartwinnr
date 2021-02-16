@@ -5,19 +5,19 @@ type: ml_layout
 layout: ml_layout
 ---
 
-<section class="">
-  <div class="padding50 ml-pure-white-background">
+<section class="scroll-smooth">
+  <div class="padding50 ml-pure-white-background ">
     <div class="row  ">
-      <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-        <h4><b>Table of Contents</b></h4><br>
-        <p><b><a href="#policy-covers"> What this policy covers</a></b></p>  
-        <p><b><a href="#information-we-collect-about-you">  What information we collect about you</a></b></p>
-        <p><b><a href="">  How we use information we collect</a></b></p>
-        <p><b><a href=""> How we share information we collect</a></b></p>
-        <p><b><a href="">  How we store and secure information we collect</a></b></p> 
-        <p><b><a href="">  How to access and control your information</a></b></p>
-        <p><b><a href=""> How we transfer information we collect internationally</a></b></p>
-        <p><b><a href=""> Other important privacy information</a></b></p>  
+      <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 div_sticky_privacy">
+        <p><h4><b>Table of Contents</b></h4></p>
+        <p><b><a href="#our-approach-to-security" class="content-link"> Our Approach to Security</a></b></p>  
+        <p><b><a href="#securing-our-internal-environment"> Securing our internal environment</a></b></p>
+        <p><b><a href="#security-in-our-day-to-day-operations">  Security in our day-to-day operations</a></b></p>
+        <p><b><a href="#keeping-data-secure"> Keeping data secure</a></b></p>
+        <p><b><a href="#how-we-identify-protect-against-and-respond-to-security-threats">How we identify, protect against and respond to security threats</a></b></p> 
+        <p><b><a href="#securing-our-ecosystem-and-supply-chain-partners"> Securing our ecosystem and supply chain partners</a></b></p>
+        <p><b><a href="#compliance-and-risk-management"> Compliance and risk management</a></b></p>
+        <p><b><a href="#further-questions-and-inquiries"> Further questions and inquiries</a></b></p>  
       </div>
       <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
         <h2><b>SmartWinnr Security practices</b></h2>
@@ -25,9 +25,9 @@ layout: ml_layout
              <div id="">
                 <p>
                 At SmartWinnr, trust and security is one of the most important aspects of all that we do. We're transparent with our security program so you can feel informed and safe using our products and services.</p>
-                <p>
+                <p id="our-approach-to-security">
                   Read more about our approach to security and learn about how customers can play their part.
-                </p>         
+                </p>   
             </div>    
           </section> 
           <br> 
@@ -77,7 +77,7 @@ layout: ml_layout
                 <p><a href="" target="_blank" class="ml_custom_link">Our Approach to Vulnerability Management </a></p>
                 <p><a href="" target="_blank" class="ml_custom_link">Cloud Security Shared Responsibilities</a></p>
                 <p><a href="" target="_blank" class="ml_custom_link">Our SmartWinnr Trust Management System </a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">Our SmartWinnr Security & Technology Policies </a></p>
+                <p><a href="" target="_blank" class="ml_custom_link" id="securing-our-internal-environment">Our SmartWinnr Security & Technology Policies </a></p>
             </div> 
             <br><br>
             <div id="">
@@ -100,8 +100,8 @@ layout: ml_layout
                 <p>
                   SmartWinnr has a well-defined process for provisioning (assigning or revoking) user access for all systems and services. We use role-based access control based on predefined user profiles to ensure staff only have access appropriate to their job role. All user accounts must be approved by management prior to having access to data, applications, infrastructure or network components.
                 </p>  
-                <p>
-                   For accessing business-critical data, users need to authenticate either through a mobile application authenticator provisioned to SmartWinnr employees – we have removed less secure authentication methods such as SMS and phone-based OTPs. SmartWinnr has adopted this approach to ensure our authentication process is highly resistant to phishing-based and man-in-the-middle attacks - any system that sends codes in a text message can be compromised by a skilled attacker.
+                <p >
+                   For accessing business-critical data, users need to authenticate either through a mobile application authenticator provisioned to SmartWinnr employees – we have removed less secure authentication methods such as SMS and phone-based OTPs. SmartWinnr has adopted this approach to ensure our authentication process is highly resistant to phishing-based and man-in-the-middle attacks - any system that sends codes in a text message can be compromised by a skilled attacker.<span id="security-in-our-day-to-day-operations"></span>
                 </p>   
             </div> <br> <br>
             <div id="">
@@ -190,9 +190,9 @@ layout: ml_layout
                    Physical security controls in our offices are guided by our physical and environmental security policy which ensures robust physical security is implemented across our environments on premises and in the cloud. This policy covers areas such as secure working areas, securing our IT equipment wherever it may be, restricting access to our buildings and offices to appropriate personnel, and monitoring physical ingress and egress points. Our physical security practices include reception attendance during work hours, requirements for visitors to register, badge access to all non-public areas, and we partner with our office building management for after hours access and video recording at ingress and egress points.
                 </p>  
                 <p>
-                  Our partner data centres are SOC-2 compliant, at a minimum. These certifications address a range of security controls including physical and environmental security and protection. Access to the data centres is limited to authorized personnel, and verified by biometric identity verification measures. Physical security measures include on-premises security guards, closed circuit video monitoring, man traps, and additional intrusion protection measures.
+                  Our partner data centres are SOC-2 compliant, at a minimum. These certifications address a range of security controls including physical and environmental security and protection. Access to the data centres is limited to authorized personnel, and verified by biometric identity verification measures. Physical security measures include on-premises security guards, closed circuit video monitoring, man traps, and additional intrusion protection measures.<span id="keeping-data-secure"></span>
                 </p>
-            </div> 
+            </div> <br><br>
             <div id="">
              <h3><b>Keeping data secure</b></h3>
                 <p>
@@ -367,9 +367,9 @@ layout: ml_layout
            <div id="">
                <h4><b>Code analysis</b></h4>
                  <p>
-                   We have an automated code analysis platform that covers all code repositories at SmartWinnr. This platform runs a variety of static analysis tools (which we are continually adding to and improving) that help to ensure the overall security of our code. 
+                   We have an automated code analysis platform that covers all code repositories at SmartWinnr. This platform runs a variety of static analysis tools (which we are continually adding to and improving) that help to ensure the overall security of our code. <span id="how-we-identify-protect-against-and-respond-to-security-threats"></span>
                  </p> 
-            </div>  <br> 
+            </div>  <br> <br>
             <div id="">
                <h3><b>How we identify, protect against and respond to security threats</b></h3>              
             </div>  
@@ -431,9 +431,9 @@ layout: ml_layout
                      Comprehensive and centralized logging and monitoring of our products and infrastructure is in place to ensure we quickly detect potential incidents, supported by a team of highly-qualified on-call incident managers who have significant experience in coordinating an effective response. We also have access to a range of external experts to assist us with investigating and responding as effectively as possible.
                 </p> 
                <p>
-                  We have notification processes in place for our customers if their data is involved in a confirmed incident, as well as a robust post-incident review process so we can take any lessons from an incident to improve our practices to make the job of malicious actors harder in the future. For more information, please see our separate paper our SmartWinnr Trust Center on Our Approach to Managing Security Incidents.
+                  We have notification processes in place for our customers if their data is involved in a confirmed incident, as well as a robust post-incident review process so we can take any lessons from an incident to improve our practices to make the job of malicious actors harder in the future. For more information, please see our separate paper our SmartWinnr Trust Center on Our Approach to Managing Security Incidents.<span id="securing-our-ecosystem-and-supply-chain-partners"></span>
                </p> 
-            </div><br>
+            </div><br><br>
             <div id="">
                <h3><b>Securing our ecosystem and supply chain partners</b></h3>
               </div>
@@ -447,9 +447,9 @@ layout: ml_layout
                  </p>
                  <ul>
                   <li>Encryption for data in transit and at rest using non-deprecated algorithms</li>
-                  <li>Having sufficient logging mechanisms in place to provide SmartWinnr with relevant information regarding potential security incidents  </li>
+                  <li>Having sufficient logging mechanisms in place to provide SmartWinnr with relevant information regarding potential security incidents  </li> <span id="compliance-and-risk-management"></span>
                  </ul>
-              </div> <br>
+              </div> <br><br>
               <div id="">
                 <h3><b>Compliance and risk management</b></h3>
                 <h4><b>Our Risk Management Program</b></h4>
@@ -478,9 +478,9 @@ layout: ml_layout
               </div> 
               <div id="">
                 <h4><b>Internal and external audit</b></h4>
-                    <p>
+                    <p id="further-questions-and-inquiries">
                       We perform comprehensive security audits annually. Additional internal audits are performed in areas that are deemed ‘high risk’ and are all fed into a continuous improvement cycle which helps us keep sharpening the overall security program.
-                    </p> 
+                    </p>
               </div>
               <br> 
               <div id="">

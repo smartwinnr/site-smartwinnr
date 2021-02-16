@@ -8,21 +8,21 @@ layout: ml_layout
 <section class="">
   <div class="padding50 ml-pure-white-background">
     <div class="row  ">
-      <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-        <h4><b>Table of Contents</b></h4><br>
+      <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 div_sticky_privacy">
+        <p><h4><b>Table of Contents</b></h4></p>
         <p><b><a href="#policy-covers"> What this policy covers</a></b></p>  
         <p><b><a href="#information-we-collect-about-you">  What information we collect about you</a></b></p>
-        <p><b><a href="">  How we use information we collect</a></b></p>
-        <p><b><a href=""> How we share information we collect</a></b></p>
-        <p><b><a href="">  How we store and secure information we collect</a></b></p> 
-        <p><b><a href="">  How to access and control your information</a></b></p>
-        <p><b><a href=""> How we transfer information we collect internationally</a></b></p>
-        <p><b><a href=""> Other important privacy information</a></b></p>  
+        <p><b><a href="#how-we-use-information-we-collect">  How we use information we collect</a></b></p>
+        <p><b><a href="#how-we-share-information-we-collect"> How we share information we collect</a></b></p>
+        <p><b><a href="#how-we-store-and-secure-information-we-collect">  How we store and secure information we collect</a></b></p> 
+        <p><b><a href="#how-to-access-and-control-your-information">  How to access and control your information</a></b></p>
+        <p><b><a href="#how-we-transfer-information-we-collect-internationally"> How we transfer information we collect internationally</a></b></p>
+        <p><b><a href="#other-important-privacy-information"> Other important privacy information</a></b></p> 
       </div>
-      <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+      <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 " id="policy-covers" class="privacy-content">
         <h2><b>Privacy Policy</b></h2><br>
       <section >  
-        <div id="policy-covers">
+        <div >
           <h4><b>What this policy covers</b></h4>
           <p>
           Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This policy is intended to help you understand:      </p>
@@ -39,13 +39,13 @@ layout: ml_layout
           This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed.  SmartWinnr, we and us refers to Mobillionlabs, Inc. and any of our corporate affiliates.  "Services" in this policy refers to all products and services offered by SmartWinnr.    
           This policy also explains your choices surrounding how we use information about you, which include how you can object to certain uses of information about you and how you can access and update certain information about you. <b> If you do not agree with this policy, do not access or use our Services or interact with any other aspect of our business.</b>  
           <br></p>
-          <p>
+          <p id="information-we-collect-about-you">
           Where we provide the Services under contract with an organization (for example, your employer) that organization controls the information processed by the Services. For more information, please see Notice to End Users below. This policy does not apply to the extent we process personal information in the role of a processor on behalf of such organizations.</p>         
       </div>
         <div>
     </section>  
         <br>
-     <section id="information-we-collect-about-you" class="ml-margin-bottom30">   
+     <section  class="ml-margin-bottom30">   
      <div >
           <h3><b>What information we collect about you</b></h3>
           <p>
@@ -132,7 +132,7 @@ layout: ml_layout
       </div> 
       <div>
           <h4><b>Third Party Providers</b></h4>
-          <p>
+          <p id="how-we-use-information-we-collect">
              We may receive information about you from third party providers of business information and publicly available sources (like social media platforms), including physical mail addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), IP addresses and social media profiles, for the purposes of targeted advertising of products that may interest you, delivering personalized communications, event promotion, and profiling.
           </p>
       </div> 
@@ -204,7 +204,7 @@ layout: ml_layout
             <li>You give us consent to do so for a specific purpose; or</li>
             <li>We need to process your data to comply with a legal obligation.</li>
           </ul>
-          <p>
+          <p id="how-we-share-information-we-collect">
           If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place.  Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
           </p>
       </div>
@@ -212,7 +212,7 @@ layout: ml_layout
       <br>
       <section> 
         <div>
-          <h4><b>How we share information we collect</b></h4>
+          <h3><b>How we share information we collect</b></h3>
             <p>
             We are not in the business of selling information about you to advertisers or other third parties.      
             </p>
@@ -291,13 +291,13 @@ layout: ml_layout
       </div>
       <div>
           <h4><b>Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights</b></h4>
-            <p>
+           <p id="how-we-store-and-secure-information-we-collect">
                In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to (a) comply with any applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect SmartWinnr, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
             </p>
       </div>
       </section> 
       <br>
-      <section> 
+      <section > 
       <div>
           <h3><b>How we store and secure information we collect</b></h3>
           <h4><b>Information storage and security</b></h4>
@@ -333,7 +333,7 @@ layout: ml_layout
       </div>
     <div>
           <h4><b>Marketing information</b></h4>
-            <p>
+            <p id="how-to-access-and-control-your-information">
               If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services, such as when you last opened an email from us or ceased using your SmartWinnr account.  We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created
             </p>
       </div>
@@ -393,11 +393,10 @@ layout: ml_layout
     </div>
   <div>
       <h4><b>Send "Do Not Track" Signals</b></h4>
-          <p>
+          <p id="how-we-transfer-information-we-collect-internationally">
              Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals. You can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above.
           </p>
     </div>
-    <br>
   <div>
   </section> 
   <br>
@@ -419,7 +418,7 @@ layout: ml_layout
     </div>
     <div>
       <h4><b>International transfers to third parties</b></h4>
-          <p>
+          <p id="other-important-privacy-information">
            Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information about you with these third-parties, we make use of standard contractual data protection clauses, which have been approved by the European Commission to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland. 
           </p>
     </div>
