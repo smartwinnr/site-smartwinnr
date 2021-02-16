@@ -24204,6 +24204,9 @@ img {
   background: linear-gradient(to bottom, white 0%, white 45%, #f2f4f4 100%) !important;
   /* height: 90%; */
 }
+.ml-pure-white-background {
+  background: #fff !important;
+}
 .form-text {
   color: #272640;
   padding-left: 8px;
