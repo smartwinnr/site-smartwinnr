@@ -33,7 +33,7 @@ layout: ml_layout
         <tr>
           <td class="padding5">AWS Amazon</td>
           <td class="padding5">Data Hosting</td>  
-          <td class="padding5">Ireland, US, India</td>       
+          <td class="padding5">Ireland, USA, India</td>       
         </tr>
          <tr>
           <td class="padding5">Mailgun</td>
