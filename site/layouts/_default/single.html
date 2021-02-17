@@ -293,7 +293,7 @@
       <div class="row">
     <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
     <div class="col-lg-3"></div>
-        <div class="col-lg-6">
+        <div class="col-lg-6" style="margin-bottom: 0 !important;">
           
           <div class="checkbox-section"> 
             
@@ -337,20 +337,20 @@
                 <div class="col-lg-12 col-md-6   checkbox-div">
                   <!-- <input type="checkbox" value="" name=""  class="checkbox-subscribe" required > -->
                   
-                  <input type="checkbox" class="input_replaced" value="1" class="checkbox-subscribe" id="SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME" name="SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME" /> <span class="sub-span">All</span>
+                  <input type="checkbox" class="input_replaced" value="1" class="checkbox-subscribe" id="ALL" name="ALL" /> <span class="sub-span">All</span>
                  
                 </div>
                 <div class="col-lg-6 col-md-6 checkbox-div">
-                  <input type="checkbox" class="input_replaced sales_training" value="1" id="SALES_TRAINING" name="SALES_TRAINING" /> <span class="sub-span">Sales Training</span>
+                  <input type="checkbox" class="input_replaced sales_training" value="1" id="SALES_TRAINING" name="ALL" /> <span class="sub-span">Sales Training</span>
                 </div>
                 <div class="col-lg-6 col-md-6  checkbox-div">
-                  <input type="checkbox" class="input_replaced" value="1" id="SALES_CONTESTS" name="SALES_CONTESTS" /> <span class="sub-span">Sales Contests</span>
+                  <input type="checkbox" class="input_replaced" value="1" id="SALES_CONTESTS" name="ALL" /> <span class="sub-span">Sales Contests</span>
                 </div>
                 <div class="col-lg-6   checkbox-div">
-                  <input type="checkbox" class="input_replaced" value="1" id="PERFORMANCE_GAMIFICATION" name="PERFORMANCE_GAMIFICATION" /> <span class="sub-span">Performance Gamification</span>
+                  <input type="checkbox" class="input_replaced" value="1" id="PERFORMANCE_GAMIFICATION" name="ALL" /> <span class="sub-span">Performance Gamification</span>
                 </div>
                 <div class="col-lg-6 checkbox-div">
-                  <input type="checkbox" class="input_replaced" value="1" id="SALES_COACHING" name="SALES_COACHING" /> <span class="sub-span">Sales Coaching
+                  <input type="checkbox" class="input_replaced" value="1" id="SALES_COACHING" name="ALL" /> <span class="sub-span">Sales Coaching
                   </span>
                 </div><br>
                 <div class="col-lg-7 col-md-7 col-sm-7 ml-margin-top10">
@@ -434,8 +434,7 @@
                 </div>
               </div>
               <div></div>
-            <form id="sib-form" method="POST" action="https://62f60974.sibforms.com/serve/MUIEAGjgx8eYXLLmhgx0o0o9yFy5Okkulg9zQxDiFTKRVSIWqHjF7iCFmU5GJK96Mi_QF5Wl8LpJwgF5ygAXakTJ2MXO1eqcdA2dcn382B6vhL7dNZIAABJkxxUF4UvEaj1kJUEn2gpxVl8ZG2GfeN9YsK9Umtxx2jwRbSqJ81MSGn1UEdChfngdVVsjEp8Wem2RXDM4qGlqe67B"
-            data-type="subscription">
+      
             <div class="col-lg-12">
               <h5 class="modal-title" id="exampleModalLabel" style="font-weight: 600;color: #091E42;">Like what you read? We publish a weekly newsletter covering more such topics. Subscribe today to get actionable insights and practical guides</h5>
             </div>
@@ -446,39 +445,33 @@
             <div class="col-lg-12 col-md-6   checkbox-div">
               <!-- <input type="checkbox" value="" name=""  class="checkbox-subscribe" required > -->
               
-              <input type="checkbox" class="input_replaced" value="1" class="checkbox-subscribe" id="SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME" name="SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME" /> <span class="sub-span">All</span>
+              <input type="checkbox" class="input_replaced" value="1" class="checkbox-subscribe" id="MODAL_ALL" name="MODAL_ALL" /> <span class="sub-span">All</span>
              
             </div>
             <div class="col-lg-6 col-md-6 checkbox-div">
-              <input type="checkbox" class="input_replaced" value="1" id="SALES_TRAINING" name="SALES_TRAINING" /> <span class="sub-span">Sales Training</span>
+              <input type="checkbox" class="input_replaced" value="1" id="MODAL_SALES_TRAINING" name="MODAL_ALL" /> <span class="sub-span">Sales Training</span>
             </div>
             <div class="col-lg-6 col-md-6  checkbox-div">
-              <input type="checkbox" class="input_replaced" value="1" id="SALES_CONTESTS" name="SALES_CONTESTS" /> <span class="sub-span">Sales Contests</span>
+              <input type="checkbox" class="input_replaced" value="1" id="MODAL_SALES_CONTESTS" name="MODAL_ALL" /> <span class="sub-span">Sales Contests</span>
             </div>
             <div class="col-lg-6   checkbox-div">
-              <input type="checkbox" class="input_replaced" value="1" id="PERFORMANCE_GAMIFICATION" name="PERFORMANCE_GAMIFICATION" /> <span class="sub-span">Performance Gamification</span>
+              <input type="checkbox" class="input_replaced" value="1" id="MODAL_PERFORMANCE_GAMIFICATION" name="MODAL_ALL" /> <span class="sub-span">Performance Gamification</span>
             </div>
             <div class="col-lg-6 checkbox-div">
-              <input type="checkbox" class="input_replaced" value="1" id="SALES_COACHING" name="SALES_COACHING" /> <span class="sub-span">Sales Coaching
+              <input type="checkbox" class="input_replaced" value="1" id="MODAL_SALES_COACHING" name="MODAL_ALL" /> <span class="sub-span">Sales Coaching
               </span>
             </div><br>
             <div class="col-lg-7 col-md-7 col-sm-7 ml-margin-top10">
               <!-- <input type="email" name="email" id="" class="subscribe-email" placeholder="Enter your email address"> -->
-              <input  type="text" id="EMAIL" class="subscribe-email ml-margin-top10" name="EMAIL" autocomplete="off" placeholder="Enter your email address" data-required="true" required />
+              <input  type="text" id="MODAL_EMAIL" class="subscribe-email ml-margin-top10" name="MODAL_EMAIL" autocomplete="off" placeholder="Enter your email address" data-required="true" required />
             </div>
             <div class="col-lg-5 col-md-5 col-sm-5 sib-form-block" style="margin-top: 15px;">
               <!-- <a class="ml-subscribe-button-email ml-margin-top30 ml-margin-right10" href="" data-toggle="modal" data-target="#exampleModal">Subscribe Now</a> -->
+              <button class="ml-subscribe-button-email  ml-margin-right10" onclick="submit()">  
+                Subscribe
+              </button>
 
-              <button class="sib-form-block__button  ml-subscribe-button-email  ml-margin-right10" 
-              form="sib-form" type="submit" >
-              <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512"  style="height: 0.1px; width:0.1px;">
-                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
-                />
-              </svg>
-              Subscribe
-            </button>
-
-            </form>
+     
 
             <script>
               window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
@@ -488,46 +481,69 @@
               window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
             
               window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-            
+
+              document.getElementById('MODAL_ALL').onclick = function() {
+                var checkboxes = document.getElementsByName('MODAL_ALL');
+                for (var checkbox of checkboxes) {
+                  checkbox.checked = this.checked;
+                }
+              }
+              document.getElementById('ALL').onclick = function() {
+                var checkboxes = document.getElementsByName('ALL');
+                for (var checkbox of checkboxes) {
+                  checkbox.checked = this.checked;
+                }
+              }
+
               function submit(){
               var subscribeDataObject = {};
-              var all = document.getElementById('SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME');
+              var all = document.getElementById('ALL');
               var sales_training = document.getElementById('SALES_TRAINING');
               var sales_coaching = document.getElementById('SALES_COACHING');
               var sales_contests = document.getElementById('SALES_CONTESTS');
               var performance_gamification = document.getElementById('PERFORMANCE_GAMIFICATION');
 
-              subscribeDataObject['SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME'] = all.checked == true ? 1 : 0;
-              subscribeDataObject['SALES_TRAINING'] = sales_training.checked == true ? 1 : 0;
-              subscribeDataObject['SALES_COACHING'] = sales_coaching.checked == true ? 1 : 0;
-              subscribeDataObject['SALES_CONTESTS'] = sales_contests.checked == true ? 1 : 0;
-              subscribeDataObject['PERFORMANCE_GAMIFICATION'] = performance_gamification.checked == true ? 1 : 0;
-
-              var input =  document.getElementById('EMAIL');
-
-              const validateEmail = (email)  => {
-                var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
-           
-                if (input.value.match(validRegex)) {
-                     //ajax call
-                     subscribeDataObject['EMAIL'] = document.getElementById('EMAIL');
-              
-
-                } else {
-
-                      alert("please enter valid email address!");
-
-
-                    }
+              //modal fields
+              var modal_all = document.getElementById('MODAL_ALL');
+              var modal_sales_training = document.getElementById('MODAL_SALES_TRAINING');
+              var modal_sales_coaching = document.getElementById('MODAL_SALES_COACHING');
+              var modal_sales_contests = document.getElementById('MODAL_SALES_CONTESTS');
+              var modal_performance_gamification = document.getElementById('MODAL_PERFORMANCE_GAMIFICATION');
+              var userChoice = [];
+              //subscribeDataObject['SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME'] = all.checked == true ? 1 : 0;
+              if(sales_training.checked == true || modal_sales_training.checked == true ){
+                userChoice.push('Sales Training')
               }
-            
-              //console.log(validateEmail());
-                
-              //subscribeDataObject['EMAIL'] = document.getElementById('EMAIL');
-              // subscribeDataObject['SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME'] = document.getElementById('SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME').value;
-          
+              if(sales_coaching.checked  == true || modal_sales_coaching.checked == true){
+                userChoice.push('Sales Coaching')
+              }
+              if(sales_contests.checked == true || modal_sales_contests.checked == true ){
+                userChoice.push('Sales Contests')
+              }
+              if(performance_gamification.checked == true || modal_performance_gamification.checked == true){
+                userChoice.push('Performance Gamification')
+              }
+              if(all.checked == true || modal_all.checked == true){
+                userChoice = [];
+                userChoice = ["Sales Training","Sales Coaching","Sales Contests","Performance Gamification"];
+                //userChoice.push('SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME')
+              }
+              
+              
+              var input =  document.getElementById('EMAIL');
+              var modlInput = document.getElementById('MODAL_EMAIL');
+              var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
            
-              console.log(subscribeDataObject);
+                if (input.value.match(validRegex) || modlInput.value.match(validRegex)) {
+                     //ajax call
+                     subscribeDataObject['email'] = document.getElementById('EMAIL').value;
+                     subscribeDataObject['user_choice'] = userChoice;
+                    console.log(subscribeDataObject);
+                }
+                else {
+                      alert("please enter valid email address!");
+                }
+              
               }
          
 
