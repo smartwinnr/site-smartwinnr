@@ -21,9 +21,9 @@ layout: ml_layout
       <div class="ml-font20 padding0">Rollout a proven sales enablement plan encompassing sales contests, training and coaching that is guaranteed to improve agent productivity</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
-    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding0">
+    <!-- <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding0">
       <img src="/images/Hana Kneblova.png" alt="User Image" class="ml-margin-right10 ml-image"/>
-    </div>
+    </div> -->
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>

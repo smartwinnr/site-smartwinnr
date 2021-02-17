@@ -18,14 +18,14 @@ relatedBlogs : ["5 Strategies to Reduce Ramp-up Time for Your New Sales Recruits
 ---
 
 
-Onboarding is usually seen as the very first step in every employee’s journey in a company. This is where they learn the essentials of their job, the work culture of the company and the expectations they have to meet. For any new recruit, adjusting to all these changes can be quite intimidating. In fact, it has been observed that **The first week in a new job is when 33% of new employees decide whether to stay or go**.
+<a href="https://www.smartwinnr.com/post/gamified-onboarding-the-secret-sauce-to-effectively-onboard-millennials-and-gen-z/" target="_blank" class="ml_custom_link">Onboarding</a> is usually seen as the very first step in every employee’s journey in a company. This is where they learn the essentials of their job, the work culture of the company and the expectations they have to meet. For any new recruit, adjusting to all these changes can be quite intimidating. In fact, it has been observed that **The first week in a new job is when 33% of new employees decide whether to stay or go**.
 
 Most recruiters will tell you that they have faced situations where new hires fell through at the last minute. The story is almost always the same. An offer was extended, the candidate enthusiastically accepted and then abruptly quit before their first day.
 There are many reasons this happens but the lack of communication in the time between a candidate accepting the job and their start date often makes things worse. New hires usually have weeks, or even months, to seek out another offer which might make them second guess their decision to work for your company.
 
 **So what can you do to ensure your new recruits remain excited about the job they are offered?**
 
-One simple and easy solution is pre-boarding!
+One simple and easy solution is <a href="https://www.smartwinnr.com/post/pre-boarding-plan-for-new-hires/" target="_blank" class="ml_custom_link">pre-boarding! </a>
 
 Pre-boarding is basically engaging with a new hire between the time they accept your offer and their first day. This process takes place before the employee’s first day and is followed up by the common onboarding practices.
 
@@ -41,7 +41,7 @@ Pre-boarding is basically engaging with a new hire between the time they accept 
 
 * Introduce games like ‘Know thy neighbour’, which allows them to learn more about their coworkers. This will help establish a personal connection between employees. They can also reach out to other new hires and learn from their experience.
 
-* Share success stories, news and other publicly available information with the new hires. This will help them to keep up-to-date with the latest happenings within their new organization.
+* Share <a href="https://smartwinnr.com/post/top10-ceos-who-started-as-salesreps/" target="_blank" class="ml_custom_link">success stories </a>, news and other publicly available information with the new hires. This will help them to keep up-to-date with the latest happenings within their new organization.
 
 * If your company hosts a weekly happy hour or other social events, invite the new hire to attend.They can come back in more relaxed with a sense of familiarity.
 
@@ -55,13 +55,13 @@ Pre boarding can not only help move along the onboarding process, it can also en
 
 <br>
 
-<h3><b>Looking for a Pre-boarding Plan for new hires?</b></h3>
+<h3><b>Looking for a Pre-boarding plan for new hires?</b></h3>
  
 <a href="https://www.smartwinnr.com/post/pre-boarding-plan-for-new-hires/" target="_blank">Pre-boarding Plan for new hires</a>
 
 <br>
 
-<h3><b>Looking for an Onboarding Plan for new hires?</b></h3>
+<h3><b>Learn how gamification helps in effectively onboarding millennials and Gen Z</b></h3>
 
 <a href="https://www.smartwinnr.com/post/gamified-onboarding-the-secret-sauce-to-effectively-onboard-millennials-and-gen-z/" target="_blank">Gamified Onboarding: The Secret Sauce to Effectively Onboard Millennials and Gen Z</a>
 
@@ -82,9 +82,9 @@ Pre boarding can not only help move along the onboarding process, it can also en
 
 <br>
 
-<h3><b>Do you want to know how sales enablement can help to drive new hire onboarding?</b></h3>
+<h3><b>Want to know how sales enablement helps in driving a successful new hire onboarding?</b></h3>
 
-<a href="https://smartwinnr.com/post/how-can-sales-enablement-help-to-drive-new-hire-onboarding/" target="_blank">How can sales enablement help to drive new hire onboarding?</a>
+<a href="https://smartwinnr.com/post/how-can-sales-enablement-help-to-drive-new-hire-onboarding/" target="_blank">Click here</a>  to learn how sales enablement helps in driving a new hire onboarding
 
 <br>
 <h3><b>Looking for a sales gamification software that will run your new hire onboarding with gamification?</b></h3>

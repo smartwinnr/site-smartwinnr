@@ -57,9 +57,9 @@ layout: ml_layout
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo">
           </div>
-          <div class="ml_logo_contents_in_center">
+          <!-- <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo " src="/images/org-logos/nn-logo.png" alt="NN Logo">
-          </div>
+          </div> -->
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo" src="/images/org-logos/canara-hsbc-logo.webp" alt="Canara HSBC Logo">
           </div>
