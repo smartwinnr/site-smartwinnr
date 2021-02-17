@@ -71,11 +71,9 @@ layout: ml_layout
                     While this paper will provide a broad overview of our approach to security, more detail regarding our security program is available on our SmartWinnr Trust Center. There’s also a range of dedicated whitepapers on 
                 </p>         
                 <p><a href="/trust/security-policy" target="_blank" class="ml_custom_link">Our Security Practices </a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">How SmartWinnr Manages Customer Data </a></p>
                 <p><a href="/trust/security-testing" target="_blank" class="ml_custom_link">Our Approach to External Security Testing</a></p>
                 <p><a href="/trust/security-incident-management" target="_blank" class="ml_custom_link">Our Approach to Managing Security Incidents</a></p>
                 <p><a href="/trust/security-incident-management" target="_blank" class="ml_custom_link">Our Approach to Vulnerability Management </a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">Cloud Security Shared Responsibilities</a></p>
                 <p><a href="/trust" target="_blank" class="ml_custom_link">Our SmartWinnr Trust Management System </a></p>
                 <p><a href="/trust/security-policy" target="_blank" class="ml_custom_link" id="securing-our-internal-environment">Our SmartWinnr Security & Technology Policies </a></p>
             </div> 
@@ -143,7 +141,7 @@ layout: ml_layout
                    We care deeply about the resiliency of our products. We appreciate that disruptions can happen. So we are determined to build-in processes to plan for disruptions, and handle disruption with minimal impact to our customers when they do occur. Our business continuity (BC) and disaster recovery (DR) programs capture the various activities done to meet those objectives.
                 </p>  
                 <p>
-                   Leadership involvement in BC and DR planning activities ensures the oversight required to make sure accountability for resiliency reaches all teams. Our BC and DR planning activities strive to achieve the right balance between cost, benefits and risk through an analysis of ‘recovery time objectives’ (RTO) and ‘recovery point objectives’ (RPO) of services. This analysis has led to us establishing a system to help group services based on their respective recovery requirements – details of this approach can be found on our page on How SmartWinnr Manages Customer Data.
+                   Leadership involvement in BC and DR planning activities ensures the oversight required to make sure accountability for resiliency reaches all teams. Our BC and DR planning activities strive to achieve the right balance between cost, benefits and risk through an analysis of ‘recovery time objectives’ (RTO) and ‘recovery point objectives’ (RPO) of services. This analysis has led to us establishing a system to help group services based on their respective recovery requirements.
                 </p>
                 <p>
                 Our BC and (DR) programs involve the following activities:
@@ -202,7 +200,7 @@ layout: ml_layout
             <div id="">
              <h4><b>Data centers</b></h4>
                 <p>
-                  SmartWinnr products and data are hosted with the industry-leading cloud hosting provider Amazon Web Services (AWS). We make use of optimal performance with redundancy and failover options globally. We make use of multiple geographically diverse regions within AWS (US-East and USWest, European Union and the Asia Pacific), and multiple availability zones within each of those regions to ensure that a failure in any single data center does not affect the availability of our products or customer data. For more information, see our separate paper on How SmartWinnr Manages Customer Data and our Cloud Hosting Infrastructure page.
+                  SmartWinnr products and data are hosted with the industry-leading cloud hosting provider Amazon Web Services (AWS). We make use of optimal performance with redundancy and failover options globally. We make use of multiple geographically diverse regions within AWS (US-East and USWest, European Union and the Asia Pacific), and multiple availability zones within each of those regions to ensure that a failure in any single data center does not affect the availability of our products or customer data. 
                 </p> 
                 <p>
                   Physical access to our data centers, where customer data is hosted, is limited to authorized personnel only, with access being verified using biometric measures. Physical security measures for our data centers include on-premise security guards, closed-circuit video monitoring, man traps, and additional intrusion protection measures.
