@@ -47,7 +47,7 @@ layout: ml_layout
         <b>How can you opt-out?</b>
         <p>To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services. SmartWinnr and our third party partners also collect information using web beacons (also known as "tracking pixels").</p>
         <p>
-        Many browsers include their own management tools for removing HTML5 local storage objects. To manage "flash cookies" please click here. You may be able to opt out of receiving personalized advertisements as described in the Privacy Policy under "Your Choices."</p>
+        Many browsers include their own management tools for removing HTML5 local storage objects. To manage "flash cookies" please click here. You may be able to opt out of receiving personalized advertisements as described in the <a href="/trust/privacy-policy" class="ml_custom_link">Privacy Policy</a> under "Your Choices."</p>
         <p>
         You will not be able to opt-out of any cookies or other technologies that are “strictly necessary” for the Services.
         </p>

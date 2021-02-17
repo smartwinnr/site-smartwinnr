@@ -302,7 +302,7 @@ layout: ml_layout
           <h3><b>How we store and secure information we collect</b></h3>
           <h4><b>Information storage and security</b></h4>
             <p>
-              We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the SmartWinnr Trust.</p>
+              We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the <a href="/trust" class="ml_custom_link">SmartWinnr Trust.</a></p>
             <p>
               While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
             </p>
@@ -388,7 +388,7 @@ layout: ml_layout
     <div>
       <h4><b>Turn off Cookie Controls</b></h4>
           <p>
-             Relevant browser-based cookie controls are described in our Cookies & Tracking Notice.
+             Relevant browser-based cookie controls are described in our <a href="/trust/cookie-tracking-notice" class="ml_custom_link">Cookies & Tracking Notice.</a>
           </p>
     </div>
   <div>

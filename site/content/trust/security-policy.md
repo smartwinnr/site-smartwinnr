@@ -70,14 +70,14 @@ layout: ml_layout
                 <p>
                     While this paper will provide a broad overview of our approach to security, more detail regarding our security program is available on our SmartWinnr Trust Center. There’s also a range of dedicated whitepapers on 
                 </p>         
-                <p><a href="" target="_blank" class="ml_custom_link">Our Security Practices </a></p>
+                <p><a href="/trust/security-policy" target="_blank" class="ml_custom_link">Our Security Practices </a></p>
                 <p><a href="" target="_blank" class="ml_custom_link">How SmartWinnr Manages Customer Data </a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">Our Approach to External Security Testing</a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">Our Approach to Managing Security Incidents</a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">Our Approach to Vulnerability Management </a></p>
+                <p><a href="/trust/security-testing" target="_blank" class="ml_custom_link">Our Approach to External Security Testing</a></p>
+                <p><a href="/trust/security-incident-management" target="_blank" class="ml_custom_link">Our Approach to Managing Security Incidents</a></p>
+                <p><a href="/trust/security-incident-management" target="_blank" class="ml_custom_link">Our Approach to Vulnerability Management </a></p>
                 <p><a href="" target="_blank" class="ml_custom_link">Cloud Security Shared Responsibilities</a></p>
-                <p><a href="" target="_blank" class="ml_custom_link">Our SmartWinnr Trust Management System </a></p>
-                <p><a href="" target="_blank" class="ml_custom_link" id="securing-our-internal-environment">Our SmartWinnr Security & Technology Policies </a></p>
+                <p><a href="/trust" target="_blank" class="ml_custom_link">Our SmartWinnr Trust Management System </a></p>
+                <p><a href="/trust/security-policy" target="_blank" class="ml_custom_link" id="securing-our-internal-environment">Our SmartWinnr Security & Technology Policies </a></p>
             </div> 
             <br><br>
             <div id="">
@@ -376,7 +376,7 @@ layout: ml_layout
             <div id="">
                <h4><b>Security testing</b></h4>
                  <p>
-                   Our security testing approach is built around the concept of ‘continuous assurance’ – including use of targeted, point-in-time penetration tests. More information is available in our separate paper covering our approach to external security testing, and a summary of our testing measures is provided below:
+                   Our security testing approach is built around the concept of ‘continuous assurance’ – including use of targeted, point-in-time penetration tests. More information is available in our separate paper covering our <a href="/trust/security-testing" class="ml_custom_link">approach to external security</a> testing, and a summary of our testing measures is provided below:
                  </p> 
                  <ul>
                  <li>Internal Security Review - As mentioned above, our Product Security team runs a security review program including security testing as a regular activity. Testing consists of code review and application security testing, targeting areas of weakness highlighted by risk assessment</li>
@@ -390,7 +390,7 @@ layout: ml_layout
                     SmartWinnr is constantly striving to reduce the severity and frequency of vulnerabilities in our products, services and infrastructure. To this end, we have a multi-faceted and continually evolving approach to vulnerability management that utilises both automated and manual processes across both our products and infrastructure.
                  </p> 
                  <p>
-                    We track vulnerabilities we identify using our internal ticketing systems, and we have created a purpose-built tool that provides a ‘single pane of glass’ view for tracking the current status of vulnerabilities that exist across our products and infrastructure throughout the SmartWinnr environment. This means we have a central point from which we can track every vulnerability that has been identified to ensure that nothing accidentally gets forgotten or overlooked. A summary is provided below, and more information is available in our dedicated paper on SmartWinnr’s approach to vulnerability management.
+                    We track vulnerabilities we identify using our internal ticketing systems, and we have created a purpose-built tool that provides a ‘single pane of glass’ view for tracking the current status of vulnerabilities that exist across our products and infrastructure throughout the SmartWinnr environment. This means we have a central point from which we can track every vulnerability that has been identified to ensure that nothing accidentally gets forgotten or overlooked. A summary is provided below, and more information is available in our dedicated paper on <a href="/trust/security-incident-management" class="ml_custom_link">SmartWinnr’s approach to vulnerability management.</a>
                  </p> 
             </div>
              <div id="">
@@ -431,7 +431,7 @@ layout: ml_layout
                      Comprehensive and centralized logging and monitoring of our products and infrastructure is in place to ensure we quickly detect potential incidents, supported by a team of highly-qualified on-call incident managers who have significant experience in coordinating an effective response. We also have access to a range of external experts to assist us with investigating and responding as effectively as possible.
                 </p> 
                <p>
-                  We have notification processes in place for our customers if their data is involved in a confirmed incident, as well as a robust post-incident review process so we can take any lessons from an incident to improve our practices to make the job of malicious actors harder in the future. For more information, please see our separate paper our SmartWinnr Trust Center on Our Approach to Managing Security Incidents.<span id="securing-our-ecosystem-and-supply-chain-partners"></span>
+                  We have notification processes in place for our customers if their data is involved in a confirmed incident, as well as a robust post-incident review process so we can take any lessons from an incident to improve our practices to make the job of malicious actors harder in the future. For more information, please see our separate paper our SmartWinnr Trust Center on <a href="/trust/security-incident-management" class="ml_custom_link">Our Approach to Managing Security Incidents.</a><span id="securing-our-ecosystem-and-supply-chain-partners"></span>
                </p> 
             </div><br><br>
             <div id="">
@@ -466,14 +466,14 @@ layout: ml_layout
                  We have invested significant resources in maintaining compliance with current privacy requirements in jurisdictions across the world – the Global Data Protection Resolution (GDPR) and the California Consumer Protection Act (CCPA) being two examples. We have ensured SmartWinnr staff that access and process SmartWinnr customer personal data have been trained in handling that data and are bound to maintain the confidentiality and security of that data. We also hold any vendors that we engage that handle personal data to the same data management, security, and privacy practices that we hold ourselves and are subject to.
                  </p> 
                 <p>
-                Where applicable, we institute appropriate international data transfer mechanisms by executing standard contractual clauses through our updated data processing addendum. We have made a number of data management and portability tools available to our customers as well, including: 
+                Where applicable, we institute appropriate international data transfer mechanisms by executing standard contractual clauses through our updated <a href="https://smartwinnr-resources.s3-eu-west-1.amazonaws.com/SmartWinnr+Trust+Policies+Resources/SmartWinnr+Data+Processing+Addendum.pdf" target="_blank" class="ml_custom_link">data processing addendum.</a> We have made a number of data management and portability tools available to our customers as well, including: 
                 </p>
                 <ul>
                 <li>Profile deletion tool: We help customers respond to user requests to delete personal information, and we also help end users with SmartWinnr accounts delete their personal information</li>
                 <li>Import and export tools: Customers may access, import, and export their Customer Data using SmartWinnr’s tools</li>
                 </ul>
                 <p>
-                More information about our privacy program is available on our SmartWinnr Trust Center. You can also view our current privacy policy here.
+                More information about our privacy program is available on our <a href="/trust" class="ml_custom_link">SmartWinnr Trust Center.</a> You can also view our current <a href="/trust/privacy-policy" class="ml_custom_link">Privacy Policy </a>here.
                 </p>
               </div> 
               <div id="">
@@ -489,7 +489,7 @@ layout: ml_layout
                       While our security practices have provided a broad overview of our approach to security, naturally given this is a complex area and SmartWinnr is doing a significant amount in this space, we haven’t been able to cover everything in detail here.
                     </p> 
                     <p>
-                    If you need more information, visit our SmartWinnr Trust Center.
+                    If you need more information, visit our <a href="/trust" class="ml_custom_link">SmartWinnr Trust Center.</a>
                     </p>
               </div> 
           </section>  

@@ -13,7 +13,7 @@ layout: ml_layout
         <h6>Current as of 1 January 2021</h6>
         <br>
      <p>
-      <a href="https://smartwinnr.com/legal/sub-processors/rss" target="_blank" class="ml_custom_link">Subscribe to an RSS feed</a> to be notified when we add new SmartWinnr Subprocessors (note: you will need to cut and paste the "Subscribe to an RSS feed" URL into an RSS Feed Reader to monitor updates).
+     As our business grows and evolves, the Subprocessors we engage may also change. We will endeavour to provide the owner of the Customer’s account with notice of any new Subprocessors to the extent required under the Agreement, along with posting such updates here. Please check here regularly for updates.
     </p><br>
     <div>
     <table class="table-bordered table-striped ml-margin-bottom10">

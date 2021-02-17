@@ -22,14 +22,14 @@ layout: ml_layout
         <div>
           <h4><b>Dedication to your data privacy </b></h4>
           <p >
-          We are wholly invested in our customers' success and the protection of data. One way that we deliver on this promise is by helping SmartWinnr customers and users understand, and where applicable, comply with the General Data Protection Regulation <a href="" target="https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en" class="ml_custom_link" id="security-and-certifications">(GDPR)</a>. The GDPR is designed to give EU citizens more control over their data and seeks to unify a number of existing privacy and security laws under one comprehensive law. The GDPR not only applies to organizations located within the EU, but it also applies to all companies processing and holding the personal data of data subjects residing in the European Union, regardless of the company’s location.
+          We are wholly invested in our customers' success and the protection of data. One way that we deliver on this promise is by helping SmartWinnr customers and users understand, and where applicable, comply with the General Data Protection Regulation <a href="https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en" target="_blank" class="ml_custom_link" id="security-and-certifications">(GDPR)</a>. The GDPR is designed to give EU citizens more control over their data and seeks to unify a number of existing privacy and security laws under one comprehensive law. The GDPR not only applies to organizations located within the EU, but it also applies to all companies processing and holding the personal data of data subjects residing in the European Union, regardless of the company’s location.
           The following sections outline our approach and investment in GDPR compliance in service of our customers and individual data subjects.
           </p>
       </div>
         <div><br>
           <h4><b>Security and certifications</b></h4>
           <p>
-            Protecting our customers' information and their user's privacy is extremely important to us. We are entrusted with some of our customer's most valuable data, which is why we have built security into every layer of the SmartWinnr Cloud architecture. We provide replication, backup, and disaster recovery planning, encryption in transit and at rest, advanced threat detection, common controls, and more. Visit the SmartWinnr Security Practices page to learn more about our approach to security.
+            Protecting our customers' information and their user's privacy is extremely important to us. We are entrusted with some of our customer's most valuable data, which is why we have built security into every layer of the SmartWinnr Cloud architecture. We provide replication, backup, and disaster recovery planning, encryption in transit and at rest, advanced threat detection, common controls, and more. Visit the  <a href="/trust/security-policy" class="ml_custom_link">SmartWinnr Security Practices</a> page to learn more about our approach to security.
             </p>
             <p id="international-data-transfers">
             Additionally, we have devoted significant resources towards ensuring our cloud products are built and designed in accordance with widely accepted standards and certifications. These standards mirror many of the security and privacy requirements of the GDPR and give our customers a transparent framework by which to measure our software development and data management practices. Our data centers, co-location, and managed service providers undergo a thorough security assessment as a part of the evaluation process and then undergo regular SOC 1, SOC 2, and/or ISO/IEC 27001 audits thereafter.
@@ -46,7 +46,7 @@ layout: ml_layout
              We are aware that the European Data Protection Board recently issued further guidance on supplementary measures to meet the adequacy requirement of GDPR. We will continue to analyze these requirements and any others issued by European data protection authorities as they arise.
              </p>
             <p>
-              For more information on how we transfer and process personal data, see our Privacy Policy.
+              For more information on how we transfer and process personal data, see our <a href="/trust/privacy-policy" class="ml_custom_link">Privacy Policy.</a>
               </p>
           </p>
       </div>
@@ -79,7 +79,7 @@ layout: ml_layout
         <div><br>
       <p><h4><b>Choice and consent</b></h4></p>
           <p>
-            We value choice and transparency around how we collect, use, and share information, and provide optionality within different product or account settings. Our Privacy Policy summarizes those choices, how to exercise them, and any relevant limitations.
+            We value choice and transparency around how we collect, use, and share information, and provide optionality within different product or account settings. Our <a href="/trust/privacy-policy" class="ml_custom_link">Privacy Policy</a> summarizes those choices, how to exercise them, and any relevant limitations.
             </p>
             <p id="other-commitments">
             For our EU end users, we surface consents for cookies and marketing messages to provide clarity and control at points of collection. Our internal processes centralize consents to ensure we’re consistently honoring your choices across our product suite.
@@ -93,7 +93,7 @@ layout: ml_layout
         </p>
         <ul>
             <li>We have ensured SmartWinnr staff that access and process SmartWinnr customer personal data have been trained in handling that data and are bound to maintain the confidentiality and security of that data</li>
-          <li>We provide a list of our subprocessors on our Subprocessors page, and offer an RSS feed subscription so you can stay up-to-date on any changes</li>
+            <li>We provide a list of our subprocessors on our <a href="/trust/subprocessors" class="ml_custom_link">Subprocessors page</a> which you can visit anytime to stay up-to-date on any changes</li>
           <li>We have committed to carrying out data impact assessments and consulting with EU regulators where appropriate</li>
           <li>We will assist with notifying regulators of breaches and promptly communicating any breaches to customers and users</li>
         </ul>
