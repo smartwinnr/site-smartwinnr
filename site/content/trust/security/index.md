@@ -74,3 +74,20 @@ layout: ml_layout
       </div>
     </div>
 </section>
+
+<section class="ml-pure-white-background ml-padding-left-right50">
+<h2 class="text-center ml-padding-bottom20 ml_text_bold">Certifications</h2>
+    <div class="row ml-padding-left5 ml-padding-bottom40">
+    <div class="col-lg-4">
+            <div class="card-content">
+                 <a href="https://cloudsecurityalliance.org/star/registry/mobillionlabs-inc" target="_blank"><img src="/images/csl-logo.png" class="ml-csl-logo"></a>                               
+           </div>   
+           <h5 class="text-center ml_text_bold pull-right ml-margin-right40">Cloud Security Alliance</h5>    
+      </div>
+       <div class="col-lg-8">
+       <h4>Our customers want to know about how we secure their data. As a Cloud Security Alliance STAR registrant SmartWinnr's security practices are available for everyone to review. <a href="https://cloudsecurityalliance.org/star/registry/mobillionlabs-inc" target="_blank" class="ml_custom_link">Learn More</a></h4>
+       </div>
+      </div>
+      </div>
+    </div>
+</section>

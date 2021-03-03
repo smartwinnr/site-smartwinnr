@@ -24102,6 +24102,9 @@ img {
 .ml-margin-right10 {
   margin-right: 10px !important;
 }
+.ml-margin-right40 {
+  margin-right: 40px !important;
+}
 .ml-margin-top0 {
   margin-top: 0px !important;
 }
@@ -24233,6 +24236,18 @@ img {
 }
 .ml-padding-right30 {
   padding-right: 5% !important;
+}
+.ml-padding-right50 {
+  padding-right: 5% !important;
+}
+.ml-padding-left-right50{
+  padding-right:50px !important;
+  padding-left: 50px !important;
+}
+.ml-csl-logo{
+  height: auto;
+    width: 250px !important;
+    float: right !important;
 }
 .ml-padding-left30 {
   padding-left: 5% !important;
