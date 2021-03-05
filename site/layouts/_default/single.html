@@ -286,13 +286,11 @@
       </div>
     </div>
   </div>
-
-  {{ if in .Params.Tags "Sales Contests" }}
   <div class="ml_footer_sm_in_blog " style="padding: 5% 5% !important;" id="footerSubscribe">
     <div class="footer-blog">
       <div class="row">
     <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-    <div class="col-lg-3"></div>
+       <div class="col-lg-3"></div>
         <div class="col-lg-6" style="margin-bottom: 0 !important;">
           
           <div class="checkbox-section"> 
@@ -359,7 +357,7 @@
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-5 sib-form-block" style="margin-top: 15px;">
                   <!-- <a class="ml-subscribe-button-email ml-margin-top30 ml-margin-right10" href="" data-toggle="modal" data-target="#exampleModal">Subscribe Now</a> -->
-<!-- 
+      <!-- 
                   <button class="sib-form-block__button  ml-subscribe-button-email  ml-margin-right10" 
                   form="sib-form" type="submit" >
                   <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512"  style="height: 0.1px; width:0.1px;">
@@ -473,89 +471,6 @@
 
      
 
-            <script>
-              window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-            
-              window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-            
-              window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
-            
-              window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-
-              document.getElementById('MODAL_ALL').onclick = function() {
-                var checkboxes = document.getElementsByName('MODAL_ALL');
-                for (var checkbox of checkboxes) {
-                  checkbox.checked = this.checked;
-                }
-              }
-              document.getElementById('ALL').onclick = function() {
-                var checkboxes = document.getElementsByName('ALL');
-                for (var checkbox of checkboxes) {
-                  checkbox.checked = this.checked;
-                }
-              }
-
-              function submit(){
-              var subscribeDataObject = {};
-              var all = document.getElementById('ALL');
-              var sales_training = document.getElementById('SALES_TRAINING');
-              var sales_coaching = document.getElementById('SALES_COACHING');
-              var sales_contests = document.getElementById('SALES_CONTESTS');
-              var performance_gamification = document.getElementById('PERFORMANCE_GAMIFICATION');
-
-              //modal fields
-              var modal_all = document.getElementById('MODAL_ALL');
-              var modal_sales_training = document.getElementById('MODAL_SALES_TRAINING');
-              var modal_sales_coaching = document.getElementById('MODAL_SALES_COACHING');
-              var modal_sales_contests = document.getElementById('MODAL_SALES_CONTESTS');
-              var modal_performance_gamification = document.getElementById('MODAL_PERFORMANCE_GAMIFICATION');
-              var userChoice = [];
-              //subscribeDataObject['SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME'] = all.checked == true ? 1 : 0;
-              if(sales_training.checked == true || modal_sales_training.checked == true ){
-                userChoice.push('Sales Training')
-              }
-              if(sales_coaching.checked  == true || modal_sales_coaching.checked == true){
-                userChoice.push('Sales Coaching')
-              }
-              if(sales_contests.checked == true || modal_sales_contests.checked == true ){
-                userChoice.push('Sales Contests')
-              }
-              if(performance_gamification.checked == true || modal_performance_gamification.checked == true){
-                userChoice.push('Performance Gamification')
-              }
-              if(all.checked == true || modal_all.checked == true){
-                userChoice = [];
-                userChoice = ["Sales Training","Sales Coaching","Sales Contests","Performance Gamification"];
-                //userChoice.push('SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME')
-              }
-              
-              
-              var input =  document.getElementById('EMAIL');
-              var modlInput = document.getElementById('MODAL_EMAIL');
-              var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
-           
-                if (input.value.match(validRegex) || modlInput.value.match(validRegex)) {
-                     //ajax call
-                     subscribeDataObject['email'] = document.getElementById('EMAIL').value;
-                     subscribeDataObject['user_choice'] = userChoice;
-                    console.log(subscribeDataObject);
-                }
-                else {
-                      alert("please enter valid email address!");
-                }
-              
-              }
-         
-
-              window.translation = {
-                common: {
-                  selectedList: '{quantity} list selected',
-                  selectedLists: '{quantity} lists selected'
-                }
-              };
-            
-              var AUTOHIDE = Boolean(0);
-            </script>
             <script src="https://sibforms.com/forms/end-form/build/main.js"></script>
 
           </div>
@@ -564,6 +479,9 @@
       </div>
     </div>
   </div>
+  </div>
+  {{ if in .Params.Tags "Sales Contests" }}
+
 </section>
 <section>
   <div class="ml_about_sm_in_blog padding50">
@@ -649,6 +567,124 @@
   xhr.send();
 </script>
 
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+
+  document.getElementById('MODAL_ALL').onclick = function() {
+    var checkboxes = document.getElementsByName('MODAL_ALL');
+    for (var checkbox of checkboxes) {
+      checkbox.checked = this.checked;
+    }
+  }
+  document.getElementById('ALL').onclick = function() {
+    var checkboxes = document.getElementsByName('ALL');
+    for (var checkbox of checkboxes) {
+      checkbox.checked = this.checked;
+    }
+  }
+
+  function submit(){
+  var subscribeDataObject = {};
+  var all = document.getElementById('ALL');
+  var sales_training = document.getElementById('SALES_TRAINING');
+  var sales_coaching = document.getElementById('SALES_COACHING');
+  var sales_contests = document.getElementById('SALES_CONTESTS');
+  var performance_gamification = document.getElementById('PERFORMANCE_GAMIFICATION');
+
+  //modal fields
+  var modal_all = document.getElementById('MODAL_ALL');
+  var modal_sales_training = document.getElementById('MODAL_SALES_TRAINING');
+  var modal_sales_coaching = document.getElementById('MODAL_SALES_COACHING');
+  var modal_sales_contests = document.getElementById('MODAL_SALES_CONTESTS');
+  var modal_performance_gamification = document.getElementById('MODAL_PERFORMANCE_GAMIFICATION');
+  var userChoice = [];
+  //subscribeDataObject['SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME'] = all.checked == true ? 1 : 0;
+  if(sales_training.checked == true || modal_sales_training.checked == true ){
+    userChoice.push('Sales Training')
+  }
+  if(sales_coaching.checked  == true || modal_sales_coaching.checked == true){
+    userChoice.push('Sales Coaching')
+  }
+  if(sales_contests.checked == true || modal_sales_contests.checked == true ){
+    userChoice.push('Sales Contests')
+  }
+  if(performance_gamification.checked == true || modal_performance_gamification.checked == true){
+    userChoice.push('Performance Gamification')
+  }
+  if(all.checked == true || modal_all.checked == true){
+    userChoice = [];
+    userChoice = ["Sales Training","Sales Coaching","Sales Contests","Performance Gamification"];
+    //userChoice.push('SALES_CONTESTS_COACHING_TRAINING_PERFORMANCE_GAME')
+  }
+  
+  
+  var input =  document.getElementById('EMAIL');
+  var modlInput = document.getElementById('MODAL_EMAIL');
+  var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+
+    if (input.value.match(validRegex) || modlInput.value.match(validRegex)) {
+         //ajax call
+         var modalEmail = document.getElementById('MODAL_EMAIL').value;
+         var email = document.getElementById('EMAIL').value;
+        //  if(email == '' & modalEmail != ''){
+        //   subscribeDataObject['email'] = modalEmail;
+        //   document.getElementById('EMAIL').value = '';
+        //  }
+        //  if(modalEmail == '' && email != ''){
+        //   subscribeDataObject['email'] = email;
+        //   document.getElementById('MODAL_EMAIL').value = '';
+        //  }
+
+        //  console.log("modal email:",modalEmail);
+        //  console.log("email:",email);
+        subscribeDataObject['email'] = modalEmail!=''?modalEmail:email;
+        subscribeDataObject['user_choice'] = userChoice;
+        subscribeDataObject["contactListID"] = 16;
+        sendSubscribeData(subscribeDataObject)
+       
+    }
+    else {
+          alert("please enter valid email address!");
+    }
+  
+  }
+
+  function sendSubscribeData(subscribeDataObject) {
+    console.log(subscribeDataObject);
+    var url = "https://1ifyp37r37.execute-api.us-west-2.amazonaws.com/production/visitors/addContact";
+    var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance 
+    // xmlhttp.open("POST",url,true);
+    // xmlhttp.setRequestHeader('Access-Control-Allow-Origin','*');
+    // xmlhttp.setRequestHeader( 'Content-Type', 'application/json' );
+      $.ajax({
+           method: "POST",
+           url: url,
+           data: subscribeDataObject,
+           crossDomain: true,
+           headers: {
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Origin":"*",
+            "Access-Control-Allow-Methods" : "POST"
+          }
+      });
+    //xmlhttp.send(subscribeDataObject)
+}
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected'
+    }
+  };
+
+  var AUTOHIDE = Boolean(0);
+</script>
 <!-- <br /><br /><br /><br /><br />
 <div id="results">
 </div> -->
