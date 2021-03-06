@@ -35,7 +35,7 @@ Poor levels of engagement results in poor performance. Therefore, boosting emplo
 
 ### How can gamification help to increase engagement?
 
-Gamification can be an option to mitigate the 3 challenges mentioned above and drive employee engagement and performance. The concept of digital motivation that uses game mechanics in a non-game environment to increase engagement is a powerful new tool. Gamification taps into basic human impulses – the desire to win, to be recognized and to be rewarded – to drive engagement, modify behavior and ultimately, push performance.
+<a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank" class="ml_custom_link">Gamification</a> can be an option to mitigate the 3 challenges mentioned above and drive employee engagement and performance. The concept of digital motivation that uses game mechanics in a non-game environment to increase engagement is a powerful new tool. Gamification taps into basic human impulses – the desire to win, to be recognized and to be rewarded – to drive engagement, modify behavior and ultimately, push performance.
 
 Gamification often involves quantifying results in real-time. For example, a sales agent’s daily wins can be tracked and gamified into a leaderboard. This real-time performance feedback acts as a motivator. The transparency in performance monitoring also helps top performers engage more.
 
@@ -51,4 +51,28 @@ Motivation can be broken down into different categories: some workers are motiva
 
 This is true In gamification-driven motivation as well. For example, leveling up may motivate those with a power motive while leaderboards and badges invoke a sense of affiliation and social relatedness.
 
-All in all, the use of gamification in the workplace has been shown to elevate employee morale and motivation and hence, boost their performance. To quote Steve Jobs - **“The only way to do great work is to love what you do.”** Gamification is a way to increase employees’ love for their job and thus help them to do great work.
+All in all, the use of gamification in the workplace has been shown to elevate employee morale and motivation and hence, <a href="https://smartwinnr.com/blog/2016/09/accelerate-your-sales-performance-through-gamification/" target="_blank" class="ml_custom_link">boost their performance.</a> To quote Steve Jobs - **“The only way to do great work is to love what you do.”** Gamification is a way to increase employees’ love for their job and thus help them to do great work.
+
+<br>
+
+#### **Want to know how you can introduce gamification to your remote employees?**
+
+<a href="https://www.smartwinnr.com/post/improve-employee-engagement-of-your-remote-teams-with-gamification/" target="_blank" class="ml_custom_link">Improve Employee Engagement of your Remote Teams with Gamification</a>
+
+<br>
+
+#### **More resources on gamification**
+
+<a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank" class="ml_custom_link">The Psychology of Sales Gamification</a>
+
+<a href="https://smartwinnr.com/blog/2016/09/accelerate-your-sales-performance-through-gamification/" target="_blank" class="ml_custom_link">Accelerate Your Sales Performance Through Gamification</a>
+
+<br>
+
+#### **SmartWinnr: #1 Easy to Use Sales Gamification Software**
+
+<a href="https://www.smartwinnr.com/" target="_blank" class="ml_custom_link">SmartWinnr</a> is an AI-powered gamification platform that helps you to improve your sales team’s knowledge and performance by up to 80%.
+
+You can run the most effective, engaging, hustle-free, and automated contests with the help of SmartWinnr. No tedious excel calculations, live leaderboards, and many more.
+
+Curious to see SmartWinnr in action? <a href="https://www.smartwinnr.com/request-demo/" target="_blank" class="ml_custom_link">Book a demo</a> with us today!
