@@ -28,13 +28,31 @@ What can organizations do to make the life of reps better so that they can focus
   Don’t let your sales reps go out and shoot in the dark. Give them a complete understanding of the customer profile. Use technology to build a system that will house all key customer data - their preferences, interests, maturity levels and past engagement experience. Devise a selling model to help sales reps understand customer-specific selling strategy that they must undertake to make a successful sell.
 
   4.  **Make all marketing collaterals instantly available to the sales reps**
-  Sales reps must have access to all the latest marketing collaterals, competitor information and any other published information that help them to sell. It is even better if they have all this information available to them on their mobile devices so that they can prepare on the road before meetings, as well as show it to the customer while they sell
+  Sales reps must have access to all the latest marketing collaterals, competitor information and any other published information that help them to sell. It is even better if they have all this <a href="https://www.smartwinnr.com/product/content-repository/" target="_blank" class="ml_custom_link">information available to them on their mobile devices</a> so that they can prepare on the road before meetings, as well as show it to the customer while they sell
 
   5.  **Create intuitive applications for sales reps for data collection**
   Data is important for senior management to monitor sales and take actions. But sales reps often don’t like to input data in the systems because the systems are too complicated. Make it easy for the reps to enter data into your applications by designing them as extremely easy to use and intuitive. You have to give the feeling to the reps that using the applications is much easier than the existing process that they are following.
 
   6.  **Create a gamified competitive environment**
-  Sales reps are competitive by nature. Use leaderboards to publish monthly, quarterly and yearly sales data. You can also choose to publish this information by region or country. The inherent competitiveness of sales reps will motivate them to climb to the top of the leaderboard.
+  Sales reps are competitive by nature. Use leaderboards to publish monthly, quarterly and yearly sales data. You can also choose to publish this information by region or country. The inherent competitiveness of sales reps will <a href="https://www.smartwinnr.com/product/gamification/" target="_blank" class="ml_custom_link">motivate them to climb to the top of the leaderboard.</a>
 
   7.  **Arrange for regular trainings/coachings for their development**
-  No sales rep is highly effective from day 1\. It is important for the sales manager to invest time and coach the reps and help them become more effective. You first-line managers can start by identifying areas of strengths and areas of improvements and help the rep to focus on these areas. They can participate jointly with the rep and commit to improve the rep’s performance.
+  No sales rep is highly effective from day 1\. It is important for the sales manager to <a href="https://www.smartwinnr.com/post/reasons-to-use-video-coaching-in-your-sales-progress/" target="_blank" class="ml_custom_link">invest time and coach the reps</a> and help them become more effective. You first-line managers can start by identifying areas of strengths and areas of improvements and help the rep to focus on these areas. They can participate jointly with the rep and commit to improve the rep’s performance.
+
+<br>
+
+#### **Want to gamify your training? Check out the below articles which explain how to best gamify your training**
+
+<a href="https://smartwinnr.com/post/improve-employee-engagement-of-your-remote-teams-with-gamification/" target="_blank" class="ml_custom_link">Improve Employee Engagement of your Remote Teams with Gamification</a>
+
+<a href="https://smartwinnr.com/post/30-60-90-days-gamified-sales-training-plan/" target="_blank" class="ml_custom_link">30 60 90 Days Gamified Sales Training Plan</a>
+
+<a href="https://smartwinnr.com/post/work-from-home-warriors-sales-training-game-for-remote-sales-teams/" target="_blank" class="ml_custom_link">‘Work from Home Warriors’: Sales Training Game for Remote Sales Teams</a>
+
+<br>
+
+#### **Looking for a sales training software that takes your sales training to a whole new level?**
+
+Explore <a href="https://www.smartwinnr.com/product/targeted-learning/" target="_blank" class="ml_custom_link">SmartWinnr’s Learning</a> and <a href="https://www.smartwinnr.com/product/gamification/" target="_blank" class="ml_custom_link">Gamification</a> features. Learn how to run fun and engaging sales training and sales coaching for your team through SmartWinnr.
+
+Curious to learn more about it? <a href="https://www.smartwinnr.com/request-demo/" target="_blank" class="ml_custom_link">Book a demo</a> today!
