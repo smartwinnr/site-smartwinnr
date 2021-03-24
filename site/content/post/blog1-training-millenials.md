@@ -24,14 +24,14 @@ Their career aspirations, attitudes about work, and knowledge of new technologie
 
 ## Challenge in Training Millennials
 
-One of the biggest challenges that companies face is how to onboard millennials and train them effectively. This is especially true for sales based organizations who still have classroom sessions as their primary form of training. Millennials have have short attention spans and are adept at multi-tasking. They naturally find long classroom trainings to be boring. They can be very competitive, but collaborative and congenial too at the same time. They are extremely savvy and they want answers and they want them NOW. Their unpredictability sends many a brave sales trainer scrambling. We have heard many experienced sales trainer bemoan their lack of attention in the classroom.
+One of the biggest challenges that companies face is how to <a href="https://www.smartwinnr.com/post/gamified-onboarding-the-secret-sauce-to-effectively-onboard-millennials-and-gen-z/" class="ml_custom_link" target="_blank">onboard millennials and train them effectively</a>. This is especially true for sales based organizations who still have classroom sessions as their primary form of training. Millennials have have short attention spans and are adept at multi-tasking. They naturally find long classroom trainings to be boring. They can be very competitive, but collaborative and congenial too at the same time. They are extremely savvy and they want answers and they want them NOW. Their unpredictability sends many a brave sales trainer scrambling. We have heard many experienced sales trainer bemoan their lack of attention in the classroom.
 
 So, why don’t we turn their so-called shortcomings into strengths and design a sales training program just for them?
 
 Use these 5 tried and tested ways to engage millennials in sales training:
 
   1.  **Micro-Learning - Learning in Byte-sized Pieces**  
-  Millennials absolutely abhor pages and pages of training material, even in digitised form. Put them in a classroom and they will be bored to no end. They have been brought up in the world of Twitter, Facebook and Instagram. They are more familiar with small pieces of information sent in bursts. Introduce Micro-Learning. It’s a way to send byte-sized information at regular intervals. Almost like you are tweeting the information. This goes well with their short attention spans.  
+  Millennials absolutely abhor pages and pages of training material, even in digitised form. Put them in a classroom and they will be bored to no end. They have been brought up in the world of Twitter, Facebook and Instagram. They are more familiar with small pieces of information sent in bursts. Introduce <a href="https://smartwinnr.com/post/microlearning-an-effective-way-to-train-millennials/" class="ml_custom_link" target="_blank">Micro-Learning.</a> It’s a way to send byte-sized information at regular intervals. Almost like you are tweeting the information. This goes well with their short attention spans.  
   Break up your training material into essential pieces of information. And send those information at regular intervals.
 
   2.  **Mobile Based Learning**  
@@ -39,7 +39,7 @@ Use these 5 tried and tested ways to engage millennials in sales training:
   Make sure that they are able to access the short eLearning tutorials ‘_Anytime, Anywhere_’ - while they are traveling or even waiting for the customer.
 
   3.  **Gamify Everything**  
-  Millennials are competitive by nature. Keep their spirit alive by introducing gamification. They are already familiar with leaderboards in sales. Introduce leaderboards in learning as well. It is a way to quantify their learning and way to tap into their competitive nature.  
+  Millennials are competitive by nature. Keep their spirit alive by introducing <a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" class="ml_custom_link" target="_blank">gamification.</a> They are already familiar with leaderboards in sales. Introduce leaderboards in learning as well. It is a way to quantify their learning and way to tap into their competitive nature.  
   Use gaming concepts like levels and points which make learning challenging and fun at the same time. Give them something to talk about - ‘_I am level 5 in Objection Handling!_’.  
   Hand out badges as rewards. It could be for completing a training byte on time, or for being at the top of the learning leaderboard for that quarter, or for winning a team competition.
 
@@ -51,3 +51,25 @@ Use these 5 tried and tested ways to engage millennials in sales training:
   Create that environment of sharing and learning. Use technology that helps them to collaborate and share their knowledge and experience. You will be surprised at how effective this peer to peer learning can be.
 
 It is time to change your sales training ways to adapt to the millennial mindset. Start today!
+
+<br>
+
+#### **Want to know how microlearning helps to effectively train your millennial workforce?**
+
+Read: <a href="https://smartwinnr.com/post/microlearning-an-effective-way-to-train-millennials/" class="ml_custom_link" target="_blank">Microlearning- An effective way to train millennials</a>
+
+<br>
+
+#### **Looking for ways to gamify onboarding of your millennial workforce? Read the below articles**
+
+<a href="https://smartwinnr.com/post/games-for-new-hire-onboarding/" class="ml_custom_link" target="_blank">Games for New Hire Onboarding</a>
+
+<a href="https://smartwinnr.com/post/gamified-onboarding-the-secret-sauce-to-effectively-onboard-millennials-and-gen-z/" class="ml_custom_link" target="_blank">Gamified Onboarding: The Secret Sauce to Effectively Onboard Millennials and Gen Z</a>
+
+<br>
+
+#### **Looking for a sales training software that takes your sales training to a whole new level?**
+
+Explore <a href="https://www.smartwinnr.com/product/targeted-learning/" class="ml_custom_link" target="_blank">SmartWinnr’s Learning</a> and <a href="https://www.smartwinnr.com/product/gamification/" class="ml_custom_link" target="_blank">Gamification</a> features. Learn how to run fun, exciting and engaging sales training for your team through SmartWinnr.
+
+Curious to learn more about it? <a href="https://www.smartwinnr.com/request-demo/" class="ml_custom_link" target="_blank">Book a demo</a> today
