@@ -96,7 +96,7 @@ layout: ml_layout
           </div>
         </div>
               <!-- Swiper -->
-  <div class="swiper-container">
+  <!-- <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide" style="background-image:url(/images/g2badges/1.png)"></div>
       <div class="swiper-slide" style="background-image:url(/images/g2badges/2.png)"></div>
@@ -108,11 +108,11 @@ layout: ml_layout
       <div class="swiper-slide" style="background-image:url(/images/g2badges/8.png)"></div>
       <div class="swiper-slide" style="background-image:url(/images/g2badges/9.png"></div>
       <div class="swiper-slide" style="background-image:url(/images/g2badges/10.png)"></div>
-    </div>
+    </div> -->
     <!-- Add Pagination -->
     <!-- <div class="swiper-pagination"></div> -->
-  </div>
-    </div> 
+  <!-- </div>
+    </div>  -->
       <!-- g2 slider -->
       <!-- <div class="g2-badges  ml-padding-left-right10">
       <div class="ml_logo_contents_in_center">
@@ -161,6 +161,22 @@ layout: ml_layout
         <img class="ml_g2_badge" src="/images/g2badges/15.png">
       </div>
     </div> -->
+
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/1.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/2.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/3.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/4.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/5.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/6.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/7.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/8.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/9.png"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/10.png)"></div>
+      </div>
+    </div>
+      
     </div>
   </div>
 </section>
@@ -592,3 +608,20 @@ layout: ml_layout
     </div>
   </div>
 </section>
+
+<!-- Initialize Swiper -->
+<script>
+  var swiper = new Swiper('.swiper-container', {
+    effect: 'coverflow',
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: 'auto',
+    coverflowEffect: {
+      rotate: 50,
+      stretch: 0,
+      depth: 100,
+      modifier: 1,
+      slideShadows: true,
+    }
+  });
+</script>
