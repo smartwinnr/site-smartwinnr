@@ -21331,6 +21331,22 @@ h1.contribute {
   width:200px !important;
   height:auto !important;
 }
+
+
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 300px !important;
+  height: 300px !important;
+
+}
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
   right: 2.2rem;
