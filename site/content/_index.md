@@ -38,7 +38,7 @@ layout: ml_layout
       </div>
     </div>
     <div class="row text-center paddingLogo">
-      <div class="ml_logo_slider ml-background-white ">
+      <div class="ml_logo_slider  ml-padding-left-right10">
       <div class="ml_logo_contents_in_center">
         <img class="ml_company_logo ml_height_55" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
         </div>
@@ -95,6 +95,56 @@ layout: ml_layout
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo ml_height_35" src="/images/org-logos/key-factors-logo.webp " alt="Key Factors">
           </div>
+        </div>
+    </div> 
+      <!-- g2 slider -->
+      <div class="g2-badges  ml-padding-left-right10">
+      <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/1.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/2.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/3.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/4.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/5.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/6.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/7.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/8.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/9.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/10.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/11.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/12.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/13.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/14.png">
+      </div>
+       <div class="ml_logo_contents_in_center">
+        <img class="ml_g2_badge" src="/images/g2badges/15.png">
+      </div>
+    
         </div>
     </div>
   </div>

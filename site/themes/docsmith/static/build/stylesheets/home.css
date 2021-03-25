@@ -21327,6 +21327,10 @@ h1.contribute {
   right: 1.4rem;
   opacity: 0;
 }
+.ml_g2_badge{
+  width:200px !important;
+  height:auto !important;
+}
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
   right: 2.2rem;
@@ -22081,6 +22085,7 @@ p {
   .ml-logo {
     margin-top : 2% !important;
   }
+    
   .ml_company_logo {
     height: 30px;
     width: auto;
@@ -25259,6 +25264,10 @@ img {
 .ml-padding-left-right20 {
   padding-left: 20% !important;
   padding-right: 20% !important;
+}
+.ml-padding-left-right10 {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
 }
 
 .ml-padding-top-bottom20 {
