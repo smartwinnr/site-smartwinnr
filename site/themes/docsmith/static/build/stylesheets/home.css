@@ -21340,6 +21340,7 @@ h1.contribute {
 }
 
 .swiper-slide {
+  background-size: auto 250px  !important;
   background-position: center;
   background-size: cover; 
   background-repeat: no-repeat;
@@ -21347,6 +21348,18 @@ h1.contribute {
   height: 300px !important;
 
 }
+
+@media (min-width:480px){
+  .swiper-button-next{
+    display:none  !important
+  }
+  .swiper-button-prev{
+    display:none  !important
+  }
+}
+/* .swiper-button-next{
+  color: #5951ff !important;
+} */
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
   right: 2.2rem;

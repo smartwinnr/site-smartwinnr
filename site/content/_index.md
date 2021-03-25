@@ -161,7 +161,6 @@ layout: ml_layout
         <img class="ml_g2_badge" src="/images/g2badges/15.png">
       </div>
     </div> -->
-
     <div class="swiper-container">
       <div class="swiper-wrapper">
         <div class="swiper-slide" style="background-image:url(/images/g2badges/1.png)"></div>
@@ -174,9 +173,16 @@ layout: ml_layout
         <div class="swiper-slide" style="background-image:url(/images/g2badges/8.png)"></div>
         <div class="swiper-slide" style="background-image:url(/images/g2badges/9.png"></div>
         <div class="swiper-slide" style="background-image:url(/images/g2badges/10.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/11.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/12.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/13.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/14.png)"></div>
+        <div class="swiper-slide" style="background-image:url(/images/g2badges/15.png)"></div>
       </div>
-    </div>
-      
+          <!-- Add Arrows -->
+    <div class="swiper-button-next "></div>
+    <div class="swiper-button-prev"></div>
+    </div>     
     </div>
   </div>
 </section>
@@ -616,12 +622,20 @@ layout: ml_layout
     grabCursor: true,
     centeredSlides: true,
     slidesPerView: 'auto',
+       autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
     coverflowEffect: {
-      rotate: 50,
+      rotate: 60,
       stretch: 0,
       depth: 100,
       modifier: 1,
       slideShadows: true,
-    }
+    },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
   });
 </script>
