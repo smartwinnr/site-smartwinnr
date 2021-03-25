@@ -160,29 +160,7 @@ layout: ml_layout
        <div class="ml_logo_contents_in_center">
         <img class="ml_g2_badge" src="/images/g2badges/15.png">
       </div>
-    </div> -->
-    <div class="swiper-container">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/1.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/2.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/3.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/4.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/5.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/6.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/7.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/8.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/9.png"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/10.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/11.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/12.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/13.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/14.png)"></div>
-        <div class="swiper-slide" style="background-image:url(/images/g2badges/15.png)"></div>
-      </div>
-          <!-- Add Arrows -->
-    <div class="swiper-button-next "></div>
-    <div class="swiper-button-prev"></div>
-    </div>     
+    </div> -->   
     </div>
   </div>
 </section>
@@ -222,7 +200,210 @@ layout: ml_layout
 </section>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
-
+<section class="ml-background-white padding50 ">
+    <div class="swiper-container ml-padding-top-bottom50">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/1.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/2.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/3.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/4.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/5.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/6.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/7.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/8.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/9.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/10.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/11.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide"> 
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/12.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/13.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/14.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/15.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Users Love Us</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+      </div>
+          <!-- Add Arrows -->
+    <div class="swiper-button-next "></div>
+    <div class="swiper-button-prev"></div>
+    </div>  
+</section>
 
 <!-- start of video section -->
 <section class="ml-chooseQP ml-background-white">
@@ -617,25 +798,25 @@ layout: ml_layout
 
 <!-- Initialize Swiper -->
 <script>
-  var swiper = new Swiper('.swiper-container', {
-    effect: 'coverflow',
-    grabCursor: true,
-    centeredSlides: true,
-    slidesPerView: 'auto',
-       autoplay: {
-        delay: 2500,
-        disableOnInteraction: false,
+   var swiper = new Swiper('.swiper-container', {
+      effect: 'coverflow',
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: 'auto',
+      spaceBetween: 80,
+      coverflowEffect: {
+        rotate: 0,
+        stretch: 0,
+        depth: 100,
+        modifier: 1,
+        slideShadows: false,
       },
-    coverflowEffect: {
-      rotate: 60,
-      stretch: 0,
-      depth: 100,
-      modifier: 1,
-      slideShadows: true,
-    },
-      navigation: {
+      pagination: {
+        el: '.swiper-pagination',
+      },
+        navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
-  });
+    });
 </script>
