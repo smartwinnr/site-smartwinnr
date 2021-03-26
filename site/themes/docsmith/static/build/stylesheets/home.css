@@ -21357,6 +21357,10 @@ h1.contribute {
   height: 230px !important;
   width: auto  !important;
 }
+.swiper-slide-active .swiper-img-asia{
+  height: 200px !important;
+  width: auto  !important;
+}
 .swiper-slide-active{
   opacity:100% !important;
     margin: 0 2px;
@@ -21364,7 +21368,13 @@ h1.contribute {
     object-fit: cover;
     transition: all .5s
 }
-
+.swiper-img-asia{
+  height: 200px;
+  width: auto;
+  margin: 0 2px;
+  max-width: 100%;
+  object-fit: cover;
+}
 .swiper-img{
   height: 200px;
   width: auto;

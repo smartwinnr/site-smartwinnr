@@ -13,7 +13,7 @@ layout: ml_layout
 <section class="">
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
-      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 g2-row">
+      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 ">
         <img src="/images/g2-badge.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
@@ -29,7 +29,7 @@ layout: ml_layout
 
 
 <section class="ml-key-points ml-background-white">
-  <div class="padding50">
+  <div class="padding50 ml-padding-bottom10">
     <div class="row">
       <div class="col-md-12 col-sm-12">
         <h1 class="text-center ml_body_text_black ml-margin-bottom20">You are in good company.</h1>
@@ -74,7 +74,7 @@ layout: ml_layout
           <div class="ml_logo_contents_in_center ">
           <img class="ml_company_logo " src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo">
           </div>    
-          <div class="ml_logo_contents_in_center ">
+          <div class="ml_logo_contents_in_center ml-margin-bottom10 ">
           <img class="ml_company_logo ml_height_75" src="/images/org-logos/Regrow-biosciences-logo.webp" alt="Regrow Logo"></div>
          <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
@@ -91,76 +91,10 @@ layout: ml_layout
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo ml_height_55" src="/images/org-logos/sud-life.webp" alt="SUD Life">
           </div>
-          <div class="ml_logo_contents_in_center" >
-          <img class="ml_company_logo ml_height_35" src="/images/org-logos/key-factors-logo.webp " alt="Key Factors">
+          <div class="ml_logo_contents_in_center ml-margin-top10" >
+          <img class="ml_company_logo ml_height_35 " src="/images/org-logos/key-factors-logo.webp " alt="Key Factors">
           </div>
-        </div>
-              <!-- Swiper -->
-  <!-- <div class="swiper-container">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/1.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/2.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/3.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/4.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/5.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/6.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/7.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/8.png)"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/9.png"></div>
-      <div class="swiper-slide" style="background-image:url(/images/g2badges/10.png)"></div>
-    </div> -->
-    <!-- Add Pagination -->
-    <!-- <div class="swiper-pagination"></div> -->
-  <!-- </div>
-    </div>  -->
-      <!-- g2 slider -->
-      <!-- <div class="g2-badges  ml-padding-left-right10">
-      <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/1.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/2.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/3.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/4.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/5.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/6.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/7.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/8.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/9.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/10.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/11.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/12.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/13.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/14.png">
-      </div>
-       <div class="ml_logo_contents_in_center">
-        <img class="ml_g2_badge" src="/images/g2badges/15.png">
-      </div>
-    </div> -->   
+        </div> 
     </div>
   </div>
 </section>
@@ -203,15 +137,41 @@ layout: ml_layout
 <section class="ml-background-white padding50 ">
     <div class="swiper-container ml-padding-top-bottom50">
       <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <div class="row">
+            <div class="swiper-slide" >
+            <div class="row">
             <div class="col-lg-12">
-               <img src="/images/g2badges/1.png" class="swiper-img">
+               <img src="/images/g2badges/6.png" class="swiper-img-asia">
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">High Performer </h3>
+                <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/15.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Usability </h3>
+                <p>The Best Usability product in the Usability Index earned the highest Usability rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/1.png" class="swiper-img" alt="Best Relationship">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Relationship</h3>
+                <p>The Best Relationship product in the Relationship Index earned the highest Relationship rating in its category</p>
             </div>
            </div>
          </div>
@@ -223,8 +183,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Best Support</h3>
+                <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category</p>
             </div>
            </div>
          </div>
@@ -236,8 +196,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Easiest To Use </h3>
+                <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category</p>
             </div>
            </div>
          </div>
@@ -249,8 +209,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Easiest Admin </h3>
+                <p>The Easiest Admin product in the Usability Index earned the highest Ease of Admin rating in its category</p>
             </div>
            </div>
          </div>
@@ -262,20 +222,7 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
-            </div>
-           </div>
-         </div>
-        </div>
-        <div class="swiper-slide" >
-            <div class="row">
-            <div class="col-lg-12">
-               <img src="/images/g2badges/6.png" class="swiper-img">
-            </div>
-            <div class="col-lg-12">
-              <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
+                <h3 class="ml-bold-text"> Enterprise Leader</h3>
                 <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
             </div>
            </div>
@@ -288,8 +235,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Easiest To Do Business With </h3>
+                <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category</p>
             </div>
            </div>
          </div>
@@ -301,8 +248,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Best Support </h3>
+                <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category</p>
             </div>
            </div>
          </div>
@@ -314,8 +261,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Highest User Adoption </h3>
+                <p>The Highest User Adoption product in the Implementation Index earned the highest User Adoption rating in its category</p>
             </div>
            </div>
          </div>
@@ -327,8 +274,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Easiest Setup </h3>
+                <p>The Easiest Setup product in the Implementation Index earned the highest Ease of Setup rating in its category</p>
             </div>
            </div>
          </div>
@@ -340,8 +287,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Enterprise High Performer </h3>
+                <p>Products in the High Performer quadrant in the Enterprise Grid® Report have high customer satisfaction scores and low Market Presence scores compared to the rest of the category</p>
             </div>
            </div>
          </div>
@@ -353,8 +300,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">High Performer </h3>
+                <p>Products in the High Performer quadrant in the Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
             </div>
            </div>
          </div>
@@ -366,8 +313,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Best Meets Requirements </h3>
+                <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category</p>
             </div>
            </div>
          </div>
@@ -379,21 +326,8 @@ layout: ml_layout
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
-            </div>
-           </div>
-         </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="row">
-            <div class="col-lg-12">
-               <img src="/images/g2badges/15.png" class="swiper-img">
-            </div>
-            <div class="col-lg-12">
-              <div class="card-title">
-                <h3 class="ml-bold-text">Users Love Us</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+                <h3 class="ml-bold-text">Easiest To Do Business With Enterprise</h3>
+                <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category</p>
             </div>
            </div>
          </div>
