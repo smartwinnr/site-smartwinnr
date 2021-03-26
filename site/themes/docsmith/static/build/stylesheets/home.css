@@ -21412,10 +21412,12 @@ h1.contribute {
 .swiper-button-prev{
   left: 50px !important;
   right:auto !important;
+  outline: none !important;
 }
 .swiper-button-next{
   right: 50px !important;
   left:auto !important;
+  outline: none !important;
 }
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
