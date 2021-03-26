@@ -140,12 +140,12 @@ layout: ml_layout
             <div class="swiper-slide" >
             <div class="row">
             <div class="col-lg-12">
-               <img src="/images/g2badges/6.png" class="swiper-img-asia">
+               <img src="/images/g2badges/5.png" class="swiper-img">
             </div>
             <div class="col-lg-12">
               <div class="card-title">
-                <h3 class="ml-bold-text">High Performer </h3>
-                <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+                <h3 class="ml-bold-text"> Enterprise Leader</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
             </div>
            </div>
          </div>
@@ -211,19 +211,6 @@ layout: ml_layout
               <div class="card-title">
                 <h3 class="ml-bold-text">Easiest Admin </h3>
                 <p>The Easiest Admin product in the Usability Index earned the highest Ease of Admin rating in its category</p>
-            </div>
-           </div>
-         </div>
-        </div>
-        <div class="swiper-slide" >
-            <div class="row">
-            <div class="col-lg-12">
-               <img src="/images/g2badges/5.png" class="swiper-img">
-            </div>
-            <div class="col-lg-12">
-              <div class="card-title">
-                <h3 class="ml-bold-text"> Enterprise Leader</h3>
-                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
             </div>
            </div>
          </div>
@@ -328,6 +315,19 @@ layout: ml_layout
               <div class="card-title">
                 <h3 class="ml-bold-text">Easiest To Do Business With Enterprise</h3>
                 <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+                <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/6.png" class="swiper-img-asia">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">High Performer </h3>
+                <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer satisfaction scores and low Market Presence scores compared to the rest of the category</p>
             </div>
            </div>
          </div>
