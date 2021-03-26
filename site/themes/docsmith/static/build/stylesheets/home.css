@@ -26528,6 +26528,11 @@ img {
 .g2-badge{
   width: 137px
 }
+@media (min-width:300px) and (max-width: 480px){
+  .g2-badge{
+    margin-top:30px  !important;
+  }
+}
 .ml_height_30 {
   height: 30px !important;
 }
