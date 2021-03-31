@@ -15,7 +15,7 @@ layout: ml_layout
 
 <div class="row ml_blue_bg_gradient ml_no_padding_bottom_right50 ml_div_contents_in_center">
   <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
-    <h1 class="ml_body_text_white">Access Critical Information Anytime, Anywhere</h1>
+    <h1 class="ml_body_text_white ml-margin-top-sections">Access Critical Information Anytime, Anywhere</h1>
     <div class="ml-font20 ml_body_text_white">Give your team the content they need, right when they need it.</div>
     <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
   </div>

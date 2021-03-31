@@ -1,10 +1,9 @@
 ---
 title: SmartWinnr | 1 Platform for Sales Learning, Sales Coaching and Sales Contests
 og_title: SmartWinnr | 1 Platform for Sales Learning, Sales Coaching and Sales Contests
-og_description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and effortless sales contests. Find contest ideas, gamification plans, learning campaigns and more resources.
-description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and effortless sales contests. Find contest ideas, gamification plans, learning campaigns and more resources.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", 
-"sales enablement", "solutions", "sales contest", "sales contests", "sales contest software", "sales contest tool"]
+og_description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and sales gamification. Find contest ideas, gamification plans, learning campaigns and more resources.
+description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and sales gamification. Find contest ideas, gamification plans, learning campaigns and more resources.
+keywords: ["smartwinnr", "sales training", "gamification", "sales gamification software", "sales gamification platform", "contest software", "sales gamification app", "sales game software", "sales coaching", "sales performance", "sales enablement", "solutions", "sales contest", "sales contests", "sales contest software", "sales contest tool"]
 tiles:
   - { title: 'SmartWinnr', description: 'Gamified platform to drive knowledge and performance', url: 'getting-started', icon: 'book' }
 type: ml_layout
@@ -490,8 +489,8 @@ layout: ml_layout
             <span class="icon-aim ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Gamify Targets to drive sales productivity</h4>
-            <div class="ml-subtext">Create quarterly and annual scorecards, challenges and contests to motivate sales teams to drive maximum sales productivity.<a class="ml_body_text_blue" href="/product/sales-contest"> Learn More</a></div>
+            <h4 class="ml-title-adjustable ml-title-font">Sales Gamification Software that Drives Results</h4>
+            <div class="ml-subtext">Create quarterly and annual KPI scorecards, challenges and contests to motivate sales teams to drive maximum sales productivity.<a class="ml_body_text_blue" href="product/sales-contest"> Learn More</a></div>
           </div>
         </div>
         <div class="row ml-margin-bottom20">
@@ -499,8 +498,8 @@ layout: ml_layout
             <span class="icon-lamp ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Track and Reinforce Product Information</h4>
-            <div class="ml-subtext">Use SmartWinnr’s AI to reinforce key messages regularly, measure and track retention of product information while making it fun and engaging.<a class="ml_body_text_blue" href="/product/targeted-learning"> Learn More</a></div>
+            <h4 class="ml-title-adjustable ml-title-font">Gamified Sales Learning App that Increases Knowledge Retention</h4>
+            <div class="ml-subtext">Use SmartWinnr’s AI to reinforce key messages regularly, measure and track retention of product knowledge, while making it fun and engaging.<a class="ml_body_text_blue" href="product/targeted-learning"> Learn More</a></div>
           </div>
         </div>
         <div class="row ml-margin-bottom20">
@@ -508,8 +507,8 @@ layout: ml_layout
             <span class="icon-bag-dollar ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Drive uniform messaging through regular Video Coachings</h4>
-            <div class="ml-subtext">Help your teams practice their customer interactions through regular video coachings. Use your own competency framework to provide systematic feedback and support.<a class="ml_body_text_blue" href="/product/sales-coaching"> Learn More</a></div>
+            <h4 class="ml-title-adjustable ml-title-font">Coaching App that Improves Sales Call Effectiveness</h4>
+            <div class="ml-subtext">Help your teams practice their customer interactions through regular video coachings. Use your own competency framework to provide systematic feedback and support.<a class="ml_body_text_blue" href="product/sales-coaching"> Learn More</a></div>
           </div>
         </div>
       </div>

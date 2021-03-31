@@ -15,7 +15,7 @@ layout: ml_layout
 
 <div class="row ml_no_padding_top_bottom_right50 ml_blue_bg_gradient ml_div_contents_in_center">
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-padding-top10">
-      <div class="ml_label ml_smartfeed_badge">Coaching</div><br>
+      <div class="ml_label ml_smartfeed_badge ml-margin-top-sections">Coaching</div><br>
       <h1 class="ml_body_text_white ml-margin-bottom10">The Definitive Coaching Platform for Your Sales Team</h1>
       <div class="ml-font20 ml_body_text_white">Improve call effectiveness of your sales team with our field coaching, video-based coaching, practice and assessment. Mentor your team for peak performance through a structured coaching program.</div>
   </div>

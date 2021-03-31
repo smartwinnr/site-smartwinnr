@@ -15,7 +15,7 @@ layout: ml_layout
 
 <div class="row ml_no_padding_bottom_right50 white ml_div_contents_in_center">
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-      <div class="ml_label ml_smartfeed_badge">Improve Sales Productivity</div><br>
+      <div class="ml_label ml_smartfeed_badge ml-margin-top-sections">Improve Sales Productivity</div><br>
       <h1 class="ml_body_text_black ml-margin-bottom10">Boost Sales Productivity by Up to 60%</h1>
       <div class="ml-font20 ml_body_text_black">Introduce a comprehensive sales enablement program that drives measurable results. Combine sales contests, sales training and sales coaching to boost productivity.</div>
   </div>

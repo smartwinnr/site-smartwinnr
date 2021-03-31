@@ -16,7 +16,7 @@ layout: ml_layout
 <section class="">
   <div class="ml_no_padding_bottom50 ml_yellow_bg_gradient">
     <div class="row ml-padding-bottom10">
-      <h3>Make Every Launch Perfect</h3>
+      <h3 class="ml-margin-top-sections">Make Every Launch Perfect</h3>
       <div class="ml_text_12">60% of sales leaders find it challenging to train their teams effectively during new product launch. Poor awareness of new product features and benefits can lead to loss of potential sales.</div>
     </div>
     <div class="row ml_div_contents_in_center">

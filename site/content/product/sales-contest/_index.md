@@ -2,11 +2,11 @@
 author:
   name: SmartWinnr
   email: smartwinnr@mobillionlabs.com
-title: Sales Contest for Small to Enterprise Businesses | SmartWinnr
-description: Use SmartWinnr Sales Contest mobile app to remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
-og_title: Sales Contest for Small to Enterprise Businesses | SmartWinnr
-og_description: Use SmartWinnr Sales Contest mobile app to remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
-keywords: ["smartwinnr", "sales performance", "sales enablement", "sales contest tool", "sales contest software", "sales contests", "sales productivity"]
+title: Sales Contest Software | SmartWinnr
+description: Use SmartWinnr Sales Gamification app to drive successful sales contests, remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
+og_title: Sales Contest Software | SmartWinnr
+og_description: Use SmartWinnr Sales Gamification app to drive successful sales contests, remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
+keywords: ["smartwinnr", "sales performance", "sales enablement", "sales contest tool", "sales contest software", "sales contests", "sales productivity"," sales gamification platform", "sales gamification software"," contest software", "sales gamification app", "sales game software"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
@@ -14,11 +14,18 @@ layout: ml_layout
 ---
 
 <section class="">
-  <div class="ml_sales_contest_top_section ml_no_padding_bottom50">
-    <h1 class="text-center ml-margin-bottom30 ml_body_text_white">Boost Sales by 60% through Gamified Sales Contests</h1>
-    <div class="ml_iframe_video_container">
-      <div class="ml_iframe_video_wrapper">
-        <iframe src="https://player.vimeo.com/video/474098800" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <div class="ml_sales_contest_top_section  ml-padding-top-left7">
+    <div class="row ml_div_contents_in_center " >
+      <div class="col-lg-5 ml-padding-top50">
+        <h1 class="text-center ml-margin-bottom30 ml_body_text_white">#1 Sales Gamification Software</h1>
+        <div class="text-center ml-margin-bottom30 ml_body_text_white ml-font20">SmartWinnr is the #1 highest rated sales gamification app in the world. Our ease of use makes it easy for sales teams to roll-out sales contests faster. </div >
+      </div>
+      <div class="col-lg-7 ml-padding-top50 ">
+        <div class="ml_iframe_video_container">
+          <div class="ml_iframe_video_wrapper">
+            <iframe src="https://player.vimeo.com/video/474098800" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+         </div> 
       </div>
     </div>
   </div>

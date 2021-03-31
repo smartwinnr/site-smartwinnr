@@ -16,7 +16,7 @@ layout: ml_layout
 <section class="ml_technology_top_section">
   <div class="row padding50">
     <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-      <div class="ml_label ml_quiz_badge">Technology</div><br>
+      <div class="ml_label ml_quiz_badge ml-margin-top-sections">Technology</div><br>
       <h1>Accelerate Sales Performance Through the Most Comprehensive Sales Enablement Platform</h1>
       <div class="ml-font20 padding0">Sales Contest | Sales Coaching | Sales Training</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>

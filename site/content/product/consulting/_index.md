@@ -15,7 +15,7 @@ layout: ml_layout
 
 <div class="">
   <div class="ml_implementation_top_section">
-    <div class="ml_label ml_quiz_badge">Consulting</div>
+    <div class="ml_label ml_quiz_badge ml-margin-top-sections">Consulting</div>
     <h2 class="ml_body_text_white">Thinking about gamifying your sales?</h2>
     <p class="ml-subtext ml_body_text_white">We consult Fortune 500 companies on how to gamify sales.</p>
   </div>
