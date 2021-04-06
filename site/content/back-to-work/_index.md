@@ -14,7 +14,7 @@ title: Back to Work
 <section>
 <div class="row ml_no_padding_top_bottom_right50 ml_blue_bg_gradient ml_div_contents_in_center">
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ml-padding-top10">
-      <div class="ml_label ml_smartfeed_badge">Covid-19</div><br>
+      <div class="ml_label ml_smartfeed_badge ml-margin-top-sections">Covid-19</div><br>
       <h1 class="ml_body_text_white ml-margin-bottom10">Back to Work</h1>
       <div class="ml-font20 ml_body_text_white">SmartWinnr provides digital solutions which are designed to help organizations reopen as soon as possible after the COVID-19 lockdowns. We focus on keeping your employees, suppliers, distributors and external partners safe and aware during the COVID-19 crisis and beyond.</div>
   </div>

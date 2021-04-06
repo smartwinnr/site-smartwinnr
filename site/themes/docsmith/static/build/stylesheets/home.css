@@ -24390,7 +24390,7 @@ img {
 
  }
 } */
-@media (min-width:300px) and (max-width:786px){
+@media (min-width:300px) and (max-width:1200px){
   .security-image{
     display: none;
   }
@@ -26279,6 +26279,13 @@ img {
 .ml_no_padding_right50 {
   padding: 5% 0 5% 10%;
 }
+
+@media(min-width:300px) and (max-width:480px){
+  .ml_targeted_learning_report_image{
+    padding: 5% 10% !important;
+  }
+}
+
 
 .ml_no_padding_left50 {
   padding: 5% 10% 5% 0;

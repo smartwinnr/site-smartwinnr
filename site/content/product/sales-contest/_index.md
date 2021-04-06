@@ -17,11 +17,11 @@ layout: ml_layout
   <div class="ml_sales_contest_top_section  ml-padding-top-left7">
     <div class="row ml_div_contents_in_center " >
       <div class="col-lg-5 ml-padding-top50">
-        <h1 class="text-center ml-margin-bottom30 ml_body_text_white">#1 Sales Gamification Software</h1>
-        <div class="text-center ml-margin-bottom30 ml_body_text_white ml-font20">SmartWinnr is the #1 highest rated sales gamification app in the world. Our ease of use makes it easy for sales teams to roll-out sales contests faster. </div >
+        <h1 class=" ml-margin-bottom30 ml_body_text_white">#1 Sales Gamification Software</h1>
+        <div class=" ml-margin-bottom30 ml_body_text_white ml-font20">SmartWinnr is the #1 highest rated sales gamification app in the world. Our ease of use makes it easy for sales teams to roll-out sales contests faster. </div >
       </div>
       <div class="col-lg-7 ml-padding-top50 ">
-        <div class="ml_iframe_video_container">
+        <div class="ml_iframe_video_container ml-margin-left0 ">
           <div class="ml_iframe_video_wrapper">
             <iframe src="https://player.vimeo.com/video/474098800" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           </div>
