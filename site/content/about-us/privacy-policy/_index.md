@@ -11,307 +11,506 @@ layout: ml_layout
 title: Privacy Policy
 ---
 
-<section>
-  <div class="ml-this-tile padding50">
-    <div class="row ml_top_container ml-prodfeaturerow">
-      <h1>Privacy Policy</h1>
-        <p class="ml_body_text_black ml-margin-top20">
-          <b>Welcome, and thank you for your interest in SmartWinnr (“SmartWinnr”, “we,” or “us”), our web site at https://smartwinnr.com (the “Site”), and all related web sites, downloadable software, mobile applications (including tablet applications), and other services provided by us, and all other communications with individuals though from written or oral means, such as email or phone (collectively, together with the Site, our “Service”).</b>
-        </p>
-        <p class="ml_body_text_black">
-          This Privacy Policy (“Policy”) describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. By visiting the Site, or by purchasing or using the Service, you accept the privacy practices described in this Policy.
+<section class="">
+  <div class="padding50 ml-pure-white-background">
+    <div class="row  ">
+      <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 div_sticky_privacy">
+        <p><h4><b>Table of Contents</b></h4></p>
+        <p><b><a href="#policy-covers"> What this policy covers</a></b></p>  
+        <p><b><a href="#information-we-collect-about-you">  What information we collect about you</a></b></p>
+        <p><b><a href="#how-we-use-information-we-collect">  How we use information we collect</a></b></p>
+        <p><b><a href="#how-we-share-information-we-collect"> How we share information we collect</a></b></p>
+        <p><b><a href="#how-we-store-and-secure-information-we-collect">  How we store and secure information we collect</a></b></p> 
+        <p><b><a href="#how-to-access-and-control-your-information">  How to access and control your information</a></b></p>
+        <p><b><a href="#how-we-transfer-information-we-collect-internationally"> How we transfer information we collect internationally</a></b></p>
+        <p><b><a href="#other-important-privacy-information"> Other important privacy information</a></b></p> 
+      </div>
+      <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12 " id="policy-covers" class="privacy-content">
+        <h2><b>Privacy Policy</b></h2><br>
+      <section >  
+        <div >
+          <h4><b>What this policy covers</b></h4>
+          <p>
+          Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This policy is intended to help you understand:      </p>
+          <ul>
+              <li>What information we collect about you</li>
+              <li>How we use information we collect </li>
+              <li>How we share information we collect </li>
+              <li>How we store and secure information we collect </li>
+              <li>How to access and control your information </li>
+              <li>How we transfer information we collect internationally </li>
+              <li>Other important privacy information</li>
+          </ul>
+          <p>
+          This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed.  SmartWinnr, we and us refers to Mobillionlabs, Inc. and any of our corporate affiliates.  "Services" in this policy refers to all products and services offered by SmartWinnr.    
+          This policy also explains your choices surrounding how we use information about you, which include how you can object to certain uses of information about you and how you can access and update certain information about you. <b> If you do not agree with this policy, do not access or use our Services or interact with any other aspect of our business.</b>  
+          <br></p>
+          <p id="information-we-collect-about-you">
+          Where we provide the Services under contract with an organization (for example, your employer) that organization controls the information processed by the Services. For more information, please see Notice to End Users below. This policy does not apply to the extent we process personal information in the role of a processor on behalf of such organizations.</p>         
+      </div>
+        <div>
+    </section>  
+        <br>
+     <section  class="ml-margin-bottom30">   
+     <div >
+          <h3><b>What information we collect about you</b></h3>
+          <p>
+           We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below.  
+          </p>
+      </div>
+      <div>
+          <h4><b>Information you provide to us</b></h4>
+          <p>
+           We collect information about you when you input it into the Services or otherwise provide it directly to us.    
+          </p>
+      </div>
+      <div>
+          <h4><b>Content you provide through our products</b></h4>
+          <p>
+           The Services include the SmartWinnr products you use, where we collect and store content that you post, send, receive and share. This content includes any information about you that you may choose to include. Content also includes the files and links you upload to the Services.
+          </p>
+      </div>
+      <div>
+          <h4><b>Information you provide through our support channels</b></h4>
+          <p>
+         The Services also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Service.  Whether you designate yourself as a technical contact, open a support ticket, speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue.
+          </p>
+      </div>
+      <div>
+          <h4><b>Payment Information</b></h4>
+          <p>
+           We collect payment and billing information when you register for certain Services.  You might also provide payment information, such as payment card details, which we collect via secure payment processing services..
+          </p>
+      </div>
+      <div>
+          <h4><b>Information we collect automatically when you use the Services</b></h4>
+          <p>
+            We collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services.
+          </p>
+      </div>
+      <div>
+          <h4><b>Your use of the Services</b></h4>
+          <p>
+             We keep track of certain information about you when you visit and interact with any of our Services. This information includes the features you use; the links you click on; the type, size and filenames of attachments you upload to the Services; frequently used search terms;; and how you interact with others on the Services.  We also collect information about the teams and people you work with and how you work with them, like who you collaborate with and communicate with most frequently.
+          </p>
+      </div>
+      <div>
+          <h4><b>Device and Connection Information</b></h4>
+          <p>
+            We collect information about your computer, phone, tablet, or other devices you use to access the Services. This device information includes your connection type and settings when you install, access, update, or use our Services. We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data. We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience.  How much of this information we collect depends on the type and settings of the device you use to access the Services.
+          </p>
+      </div> 
+       <div>
+          <h4><b>Cookies and Other Tracking Technologies</b></h4>
+          <p>
+            SmartWinnr and our third-party partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.
+          </p>
+      </div> 
+      <div>
+          <h4><b>Information we receive from other sources</b></h4>
+          <p>
+              We receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners. We may combine this information with information we collect through other means described above. This helps us to update and improve our records, identify new customers and suggest services that may be of interest to you. 
+          </p>
+      </div> 
+      <div>
+          <h4><b>Other users of the Services</b></h4>
+          <p>
+              Other users of our Services may provide information about you when they submit content through the Services. For example, an administrator may provide your contact information when they designate you as the billing or technical contact on your company's account or when they designate you as an administrator. 
+          </p>
+      </div>  
+       <div>
+          <h4><b>Other services you link to your account</b></h4>
+          <p>
+            We receive information about you when you or your administrator integrate third-party apps, or link a third-party service with our Services. The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
+          </p>
+      </div> 
+      <div>
+          <h4><b>SmartWinnr Partners</b></h4>
+          <p>
+            We work with a global network of partners who provide consulting, implementation, training and other services around our products.  Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services.  We receive information from these partners, such as billing information, billing and technical contact information, company name, what SmartWinnr Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in. 
+          </p>
+      </div> 
+      <div>
+          <h4><b>Other Partners</b></h4>
+          <p>
+           We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements.
+          </p>
+      </div> 
+      <div>
+          <h4><b>Third Party Providers</b></h4>
+          <p id="how-we-use-information-we-collect">
+             We may receive information about you from third party providers of business information and publicly available sources (like social media platforms), including physical mail addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), IP addresses and social media profiles, for the purposes of targeted advertising of products that may interest you, delivering personalized communications, event promotion, and profiling.
+          </p>
+      </div> 
+    </section>
+    <br>
+    <section>
+      <div>
+          <h3><b>How we use information we collect</b></h3>
+          <p>
+              How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us.  Below are the specific purposes for which we use the information we collect about you
+          </p>
+      </div> 
+      <div>
+          <h4><b>To provide the Services and personalize your experience</b></h4>
+          <p>
+            We use information about you to provide the Services to you, including to process transactions with you, authenticate you when you log in, provide customer support, and operate, maintain, and improve the Services.  For example, we use the name and picture you provide in your account to identify you to other Service users. Our Services also include tailored features that personalize your experience, enhance your productivity, and improve your ability to collaborate effectively with others by automatically analyzing the activities of your team to provide search results, activity feeds, notifications and recommendations that are most relevant for you and your team.  We may use your email domain to infer your affiliation with a particular organization or industry to personalize the content and experience you receive on our websites. Based on your interactions with different SmartWinnr products and advertisements, we will personalize your experience and tailor our communications and offers to you. To opt out of this personalization, please contact privacy@smartwinnr.com.  
+          </p>
+      </div>   
+      <div>
+          <h4><b>For research and development</b></h4>
+          <p>
+            We are always looking for ways to make our Services smarter, faster, secure, integrated, and useful.  We use information and collective learnings (including feedback) about how people use our Services to troubleshoot, to identify trends, usage, activity patterns, and areas for integration and to improve our Services and to develop new products, features and technologies that benefit our users and the public. We automatically analyze and aggregate frequently used search terms to improve the accuracy and relevance of suggested topics that auto-populate when you use the search feature. In some cases, we apply these learnings across our Services to improve and develop similar features, to better integrate the Services you use, or to provide you with insights based on how others use our Services. We also test and analyze certain new features with some users before rolling the feature out to all users.
+          </p>
+      </div> 
+      <div>
+          <h4><b>To communicate with you about the Services</b></h4>
+          <p>
+            We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages.  We also provide tailored communications based on your activity and interactions with us.  For example, certain actions you take in the Services may automatically trigger a feature suggestion within the Services that would make that task easier.  We also send you communications as you onboard to a particular Service to help you become more proficient in using that Service. These communications are part of the Services and in most cases you cannot opt out of them.  If an opt out is available, you will find that option within the communication itself or in your account settings.   
+          </p>
+      </div> 
+      <div>
+          <h4><b>To market, promote and drive engagement with the Services</b></h4>
+          <p>
+            We use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying SmartWinnr ads on other companies' websites and applications.  These communications may be informed by audits of interactions (like counting ad impressions), and are aimed at driving engagement and maximizing what you get out of the Services, including information about new features, survey requests, newsletters, and events we think may be of interest to you.  We also communicate with you about new Services, product offers, promotions, and contests.  You can control whether you receive these communications as described below under "Opt-out of communications." 
+          </p>
+      </div> 
+      <div>
+          <h4><b>Customer support</b></h4>
+          <p>
+             We use your information to resolve technical issues you encounter, to respond to your requests for assistance, to analyze crash information, and to repair and improve the Services. Where you give us express permission to do so, we share information with a third party expert for the purpose of responding to support-related requests
+          </p>
+      </div>    
+      <div>
+          <h4><b>For safety and security</b></h4>
+          <p>
+             We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies.
+          </p>
+      </div>    
+     <div>
+          <h4><b>To protect our legitimate business interests and legal rights</b></h4>
+          <p>
+             Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business
+          </p>
+      </div>  
+      <div>
+          <h4><b>With your consent</b></h4>
+          <p>
+             We use information about you where you have given us consent to do so for a specific purpose not listed above.  For example, we may publish testimonials or featured customer stories to promote the Services, with your permission. 
+          </p>
+      </div>   
+      <div>
+          <h4><b>Legal bases for processing (for EEA users)</b></h4>
+          <p>
+            If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws.  The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where
+          </p>
+          <ul>
+            <li>We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services</li>
+            <li>It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interest</li>
+            <li>You give us consent to do so for a specific purpose; or</li>
+            <li>We need to process your data to comply with a legal obligation.</li>
+          </ul>
+          <p id="how-we-share-information-we-collect">
+          If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place.  Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
+          </p>
+      </div>
+      </section> 
+      <br>
+      <section> 
+        <div>
+          <h3><b>How we share information we collect</b></h3>
+            <p>
+            We are not in the business of selling information about you to advertisers or other third parties.      
+            </p>
+        </div>
+        <div>
+          <h4><b>Sharing with other Service users </b></h4>
+            <p>
+            When you use the Services, we share certain information about you with other Service users    
+            </p>
+        </div>
+        <div>
+          <h4><b>For collaboration </b></h4>
+            <p>
+           You can create content, which may contain information about you, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select.  Some of the collaboration features of the Services display some or all of your profile information to other Service users when you share or interact with specific content.  For example, when you comment on a SmartFeed, we display your profile picture and name next to your comments so that other users with access to the page or issue understand who made the comment.  
+            </p>
+        </div>
+        <div>
+          <h4><b>Managed accounts and administrators </b></h4>
+            <p>
+               If you register or access the Services using an email address with a domain that is owned by your employer or organization or associate that email address with your existing account, and such organization wishes to establish an account or site, certain information about you including your name, profile picture, contact info, content and past use of your account may become accessible to that organization’s administrator and other Service users sharing the same domain.  If you are an administrator for a particular site or group of users within the Services, we may share your contact information with current or past Service users, for the purpose of facilitating Service-related requests 
+            </p>
+        </div>
+        <div>
+          <h4><b>Community Forums</b></h4>
+            <p>
+              Our websites offer publicly accessible blogs, forums, issue trackers, and wikis. You should be aware that any information you provide on these websites - including profile information associated with the account you use to post the information - may be read, collected, and used by any member of the public who accesses these websites.  Your posts and certain profile information may remain even after you terminate your account. We urge you to consider the sensitivity of any information you input into these Services. To request removal of your information from publicly accessible websites operated by us, please contact us as provided below. In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to and why.
+            </p>
+        </div>
+       <div>
+          <h4><b>Sharing with third parties</b></h4>
+            <p>
+               We share information with third parties that help us operate, provide, improve, integrate, customize, support and market our Services.
+            </p>
+        </div>
+       <div>
+          <h4><b>Service Providers</b></h4>
+            <p>
+               We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you.  If a service provider needs to access information about you to perform services on our behalf, they do so under close instruction from us, including appropriate security and confidentiality procedures designed to protect your information.
+            </p>
+        </div>
+        <div>
+          <h4><b>SmartWinnr Partners</b></h4>
+            <p>
+                We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services. We may share your information with these third parties in connection with their services, such as to assist with billing and collections, to provide localized support, and to provide customizations.  We may also share information with these third parties where you have agreed to that sharing.
+            </p>
+        </div>
+         <div>
+          <h4><b>Third Party Apps</b></h4>
+            <p>
+                 You, your administrator or other Service users may choose to add new functionality or change the behavior of the Services by installing third party apps within the Services.  Doing so may give third-party apps access to your account and information about you like your name and email address, and any content you choose to use in connection with those apps. Third-party app policies and procedures are not controlled by us, and this privacy policy does not cover how third-party apps use your information. We encourage you to review the privacy policies of third parties before connecting to or using their applications or services to learn more about their privacy and information handling practices. If you object to information about you being shared with these third parties, please uninstall the app
+            </p>
+        </div>
+      <div>
+          <h4><b>Links to Third Party Sites</b></h4>
+            <p>
+            The Services may include links that direct you to other websites or services whose privacy practices may differ from ours. If you submit information to any of those third party sites, your information is governed by their privacy policies, not this one. We encourage you to carefully read the privacy policy of any website you visit.
+            </p>
+      </div>
+      <div>
+          <h4><b>Third Party Services</b></h4>
+            <p>
+                We may offer you the ability to interact with or share information with third parties through the Services. For example, we may offer users the ability to log in to the Services via a third-party service like Google or interact with social media networks via links on the Services. When you intentionally interact with these third parties, we may share certain information with those third parties or receive information with those third parties, consistent with your privacy settings on the third-party service. Such information may include contact information, identification, and demographic information, and device information and identifiers. You should always check the privacy settings and notices in these third-party services to understand how those third-parties may use your information
+            </p>
+      </div>
+        <div>
+          <h4><b>Third Party Widgets</b></h4>
+            <p>
+             Some of our services contain widgets and social media features, such as the Twitter "tweet" button or Facebook "like" button. These widgets and features may collect your IP address, which page you are visiting on the Services, and may set a cookie to enable the feature to function properly. Widgets and social media features are either hosted by a third-party or hosted directly on our Services. You should always check the privacy settings and notices in these third-party services to understand how those third-parties may use your information.
+            </p>
+      </div>
+      <div>
+          <h4><b>With your consent</b></h4>
+            <p>
+               We share information about you with third parties when you give us consent to do so.  For example, we often display personal testimonials of satisfied customers on our public websites. With your consent, we may post your name alongside the testimonial. 
+            </p>
+      </div>
+      <div>
+          <h4><b>Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights</b></h4>
+           <p id="how-we-store-and-secure-information-we-collect">
+               In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to (a) comply with any applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect SmartWinnr, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
+            </p>
+      </div>
+      </section> 
+      <br>
+      <section > 
+      <div>
+          <h3><b>How we store and secure information we collect</b></h3>
+          <h4><b>Information storage and security</b></h4>
+            <p>
+              We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the <a href="/trust" class="ml_custom_link">SmartWinnr Trust.</a></p>
+            <p>
+              While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
+            </p>
+      </div>
+      <div>
+          <h4><b>How long we keep information</b></h4>
+            <p>
+             How long we keep information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or de-identify your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.  
+            </p>
+      </div>
+      <div>
+          <h4><b>Account information</b></h4>
+            <p>
+                We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you. 
+            </p>
+      </div>
+      <div>
+          <h4><b>Information you share on the Services</b></h4>
+            <p>
+               If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services 
+            </p>
+      </div>
+      <div>
+          <h4><b>Managed accounts</b></h4>
+            <p>
+              If the Services are made available to you through an organization (e.g., your employer), we retain your information as long as required by the administrator of your account.  For more information, see "Managed accounts and administrators" above.
+            </p>
+      </div>
+    <div>
+          <h4><b>Marketing information</b></h4>
+            <p id="how-to-access-and-control-your-information">
+              If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services, such as when you last opened an email from us or ceased using your SmartWinnr account.  We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created
+            </p>
+      </div>
+      </section> 
+      <br>
+      <section> 
+      <div>
+          <h3><b>How to access and control your information</b></h3>
+            <p>
+             You have certain choices available to you when it comes to your information. Below is a summary of those choices, how to exercise them and any limitations.
+            </p>
+      </div>
+     <div>
+          <h4><b>Your Choices</b></h4>
+            <p>
+           You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format.  Below, we describe the tools and processes for making these requests.  You can exercise some of the choices by logging into the Services and using settings available within the Services or your account. Where the Services are administered for you by an administrator (see "Notice to End Users" below), you may need to contact your administrator to assist with your requests first.  For all other requests, you may contact us as provided in the Contact Us section below to request assistance.
+            </p>
+            <p>
+            You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format.  Below, we describe the tools and processes for making these requests.  You can exercise some of the choices by logging into the Services and using settings available within the Services or your account. Where the Services are administered for you by an administrator (see "Notice to End Users" below), you may need to contact your administrator to assist with your requests first.  For all other requests, you may contact us as provided in the Contact Us section below to request assistance.
+            </p>
+      </div>
+    <div>
+      <h4><b>Access and update your information</b></h4>
+          <p>
+            Our Services and related documentation give you the ability to access and update certain information about you from within the Service. For example, you can access your profile information from your account.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.
+          </p>
+    </div>
+    <div>
+      <h4><b>Deactivate your account</b></h4>
+          <p>
+            If you no longer wish to use our Services, you or your administrator may be able to deactivate your Services account. If you can deactivate your own account, that setting is available to you in your account settings. Otherwise, please contact your administrator. If you are an administrator and are unable to deactivate an account through your administrator settings, please contact the SmartWinnr support team.  Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services.  For more information on how to delete your information, see below.
+          </p>
+    </div>
+    <div>
+      <h4><b>Delete your information</b></h4>
+          <p>
+           Our Services and related documentation give you the ability to delete certain information about you from within the Service. For example, you can remove certain profile information within your profile settings. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+          </p>
+    </div>
+    <div>
+      <h4><b>Request that we stop using your information</b></h4>
+          <p>
+            In some cases, you may ask us to stop accessing, storing, using and otherwise processing your information where you believe we don't have the appropriate rights to do so.  For example, if you believe a Services account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this policy.  Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time. You can also opt-out of our use of your information for marketing purposes by contacting us, as provided below.  When you make such requests, we may need time to investigate and facilitate your request.  If there is delay or dispute as to whether we have the right to continue using your information, we will restrict any further use of your information until the request is honored or the dispute is resolved, provided your administrator does not object (where applicable). If you object to information about you being shared with a third-party app, please disable the app or contact your administrator to do so.
+          </p>
+    </div>
+    <div>
+      <h4><b>Opt out of communications</b></h4>
+          <p>
+       You may opt out of receiving promotional communications from us by using the unsubscribe link within each email  or by contacting us as provided below to have your contact information removed from our promotional email list or registration database.  Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your account settings. 
+          </p>
+    </div>
+    <div>
+      <h4><b>Turn off Cookie Controls</b></h4>
+          <p>
+             Relevant browser-based cookie controls are described in our <a href="/trust/cookie-tracking-notice" class="ml_custom_link">Cookies & Tracking Notice.</a>
+          </p>
+    </div>
+  <div>
+      <h4><b>Send "Do Not Track" Signals</b></h4>
+          <p id="how-we-transfer-information-we-collect-internationally">
+             Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals. You can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above.
+          </p>
+    </div>
+  <div>
+  </section> 
+  <br>
+  <section> 
+    <div>
+      <h3><b>How we transfer information we collect internationally</b></h3>
+          <p>
+          International transfers of information we collect
+          </p>
+          <p>
+          We collect information globally and may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.
+          </p>
+    </div>
+    <div>
+      <h4><b>International transfers within the SmartWinnr Companies</b></h4>
+          <p>
+            To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the SmartWinnr owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we share information about you within and among SmartWinnr corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+          </p>
+    </div>
+    <div>
+      <h4><b>International transfers to third parties</b></h4>
+          <p id="other-important-privacy-information">
+           Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information about you with these third-parties, we make use of standard contractual data protection clauses, which have been approved by the European Commission to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland. 
+          </p>
+    </div>
+    </section> 
+    <br>
+    <section> 
+    <div>
+      <h3><b>Other important privacy information</b></h3>
+          <p>
+              Notice to End Users
+          </p>
+          <p>
+             Many of our products are intended for use by organizations. Where the Services are made available to you through an organization (e.g. your employer), that organization is the administrator of the Services and is responsible for the accounts and/or Service sites over which it has control. If this is the case, please direct your data privacy questions to your administrator, as your use of the Services is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy.
+          </p>
+          Administrators are able to:
+          <ul>
+              <li>require you to reset your account password</li>
+              <li>restrict, suspend or terminate your access to the Services</li>
+              <li>access information in and about your account</li>
+              <li>access or retain information stored as part of your account</li>
+              <li>install or uninstall third-party apps or other integrations</li>
+          </ul>
+          In some cases, administrators can also:
+          <ul>
+              <li>restrict, suspend or terminate your account access</li>
+              <li>change the email address associated with your account</li>
+              <li>change your information, including profile information</li>
+              <li>restrict your ability to edit, restrict, modify or delete information</li>
+          </ul>
+        <p>
+           Even if the Services are not currently administered to you by an organization, if you use an email address provided by an organization (such as your work email address) to access the Services, then the owner of the domain associated with your email address (e.g. your employer) may assert administrative control over your account and use of the Services at a later date. 
         </p>
         <p>
-          This Policy is incorporated into, and is subject to, the SmartWinnr Terms of Service.
-          Capitalized terms used but not defined in this Policy have the meaning given to them in the
-          SmartWinnr Terms of Service.
+          Please contact your organization or refer to your administrator’s organizational policies for more information.
         </p>
+    </div>
+    <br>
+    <div>
+      <h3><b>California Requirements</b></h3>
+          <h4><b>Exercising your rights</b></h4>
+          <p>
+          If you are a California resident, there are some additional rights that may be available to you under the California Consumer Protection Act (“CCPA”). This policy explains the tools that we have made available to you to exercise your data rights under the CCPA, such as the right to deletion and the right to request access to the categories of information we have collected about you. For more information on how to exercise your rights please visit the <b>“How to access and control your information”</b> section of this policy. We encourage you to manage your information, and to make use of the privacy controls we have included in our Services. You will not be discriminated against for exercising any of your privacy rights under the CCPA. In order to protect your information from unauthorized access or deletion, we may require you to provide additional information for verification. If we cannot verify your identity, we will not provide or delete your information.
+          </p>
       </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">1. Definitions</h2>
-        <div class="col-md-12">
-          <p><b>“Client”</b> means a customer of SmartWinnr.</p>
-          <p><b>“Client Data”</b> means personal data, reports, and other files, folders or documents in electronic form that a User of the Service stores within the Service.</p>
-          <p><b>"Personal Data"</b> means any information relating to an identified or identifiable natural person.</p>
-          <p><b>“Public Area”</b> means the area of the Site that can be accessed both by Users and Visitors, without needing to log in.</p>
-          <p><b>“Restricted Area”</b> means the area of the Site that can be accessed only by Users, and where access requires logging in.</p>
-          <p><b>“User”</b> means an employee, agent, or representative of a Client, who primarily uses the restricted areas of the Site for the purpose of accessing the Service in such capacity.</p>
-          <p><b>“Visitor”</b> means an individual other than a User, who uses the public area, but has no access to the restricted areas of the Site or Service.</p>
-        </div>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">2. The Information We Collect on the Service</h2>
-        <p class="ml_body_text_black">We collect different types of information from or through the Service. The legal bases for SmartWinnr’s processing of personal data are primarily that the processing is necessary for providing the Service in accordance with SmartWinnr’s Terms of Service and that the processing is carried out in SmartWinnr’s legitimate interests, which are further explained in the section “How We Use the Information We Collect” of this Policy. We may also process data upon your consent, asking for it as appropriate.</p>
-        <div class="col-md-12">
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">2.1 <b>User-provided Information.</b></h4>
-              <p class="ml_body_text_black ">
-                When you use the Service, as a User or as a Visitor, you may provide, and we may collect Personal Data. Examples of Personal Data include name, email address, mailing address, mobile phone number, and credit card or other billing information. Personal Data also includes other information, such as geographic area or preferences, when any such information is linked to information that identifies a specific individual. You may provide us with Personal Data in various ways on the Service. For example, when you register for an Account, use the Service, post Client Data, interact with other users of the Service through communication or messaging capabilities, or send us customer service -related requests.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">2.2 Information Collected by Clients.</h4>
-              <p class="ml_body_text_black ">
-                A Client or User may store or upload into the Service Client Data. SmartWinnr has no direct relationship with the individuals whose Personal Data it hosts as part of Client Data. Each Client is responsible for providing notice to its customers and third persons concerning the purpose for which Client collects their Personal Data and how this Personal Data is processed in or through the Service as part of Client Data.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">2.3 <b>“Automatically Collected" Information.</b></h4>
-              <p class="ml_body_text_black ">
-                When a User or Visitor uses the Service, we may automatically record certain information from the User’s or Visitor’s device by using various types of technology, including cookies, “clear gifs" or “web beacons.” This “automatically collected" information may include IP address or other device address or ID, web browser and/or device type, the web pages or sites visited just before or just after using the Service, the pages or other content the User or Visitor views or interacts with on the Service, and the dates and times of the visit, access, or use of the Service. We also may use these technologies to collect information regarding a Visitor or User’s interaction with email messages, such as whether the Visitor or User opens, clicks on, or forwards a message. This information is gathered from all Users and Visitors.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">2.4 Integrated Services.</h4>
-              <p class="ml_body_text_black ">
-                You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each, an “Integrated Service”), such as through the use of your Google account, or otherwise have the option to authorize an Integrated Service to provide Personal Data or other information to us. By authorizing us to connect with an Integrated Service, you authorize us to access and store your name, email address(es), date of birth, gender, current city, profile picture URL, and other information that the Integrated Service makes available to us, and to use  and disclose it in accordance with this Policy. You should check your privacy settings on each Integrated Service to understand what information that Integrated Service makes available to us, and make changes as appropriate. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">2.5 <b>Information from Other Sources.</b></h4>
-              <p class="ml_body_text_black ">
-                We may obtain information, including Personal Data, from third parties and sources other than the Service, such as our partners, advertisers, credit rating agencies, and Integrated Services. If we combine or associate information from other sources with Personal Data that we collect through the Service, we will treat the combined information as Personal Data in accordance with this Policy.
-              </p>
-          </div>
-        </div>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container ">
-        <h2 class="ml-title">3. How We Use the Information We Collect</h2>
-        <p class="ml_body_text_black ">
-          We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
-        </p>
-        <div class="col-md-12">
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">3.1 Operations</h4>
-              <p class="ml_body_text_black ">
-                We use the information – other than Client Data - to operate, maintain, enhance and provide all features of the Service, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the Service. We process Client Data solely in accordance with the directions provided by the applicable Client or User.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">3.2 Improvements</h4>
-              <p class="ml_body_text_black ">
-                We use the information to understand and analyze the usage trends and preferences of our Visitors and Users, to improve the Service, and to develop new products, services, feature, and functionality. Should this purpose require SmartWinnr to process Client Data, then the data will only be used in anonymized or aggregated form.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">3.3 Communications</h4>
-              <p class="ml_body_text_black ">
-                We may use a Visitor’s or User’s email address or other information – other than Client Data – to contact that Visitor or User (i) for administrative purposes such as customer service, to address intellectual property infringement, right of privacy violations or defamation issues related to the Client Data or Personal Data posted on the Service or (ii) with updates on promotions and events, relating to products and services offered by us and by third parties we work with. You have the ability to opt-out of receiving any promotional communications as described below under <b>“Your Choices.”</b>
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">3.4 Cookies and Tracking Technologies</h4>
-              <p class="ml_body_text_black ">
-                We use automatically collected information and other information collected on the Service through cookies and similar technologies to: (i) personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re- enter it during a visit or on subsequent visits; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third- party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. You can obtain more information about cookies by visiting <a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org.</a>
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">3.5 Analytics</h4>
-              <p class="ml_body_text_black ">
-                We use Google Analytics to measure and evaluate access to and traffic on the Public Area of the Site, and create user navigation reports for our Site administrators. Google operates independently from us and has its own privacy policy, which we strongly suggest you review. Google may use the information collected through Google Analytics to evaluate Users' and Visitors’ activity on our Site.
-              </p>
-              <p class="ml_body_text_black ">
-                We take measures to protect the technical information collected by our use of Google Analytics. The data collected will only be used on a need to know basis to resolve technical issues, administer the Site and identify visitor preferences; but in this case, the data will be in non-identifiable form. We do not use any of this information to identify Visitors or Users.
-              </p>
-          </div>
-        </div>
-      </div>
-      <div class="row prodfeaturerow"></div>
-      <div class="row ml-prodfeaturerow ml-container ">
-        <h2 class="ml-title">4. To Whom We Disclose Information</h2>
-        <p class="ml_body_text_black ">
-          Except as described in this Policy, we will not intentionally disclose the Personal Data or Client Data that we collect or store on the Service to third parties without the consent of the applicable Visitor, User or Client. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
-        </p>
-        <div class="col-md-12">
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">4.1 Unrestricted Information</h4>
-              <p class="ml_body_text_black ">
-                Any information that you voluntarily choose to include in a Public Area of the Service, such as a public profile page, will be available to any Visitor or User who has access to that content.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">4.2 Other Users in Your Company Account</h4>
-              <p class="ml_body_text_black ">
-                Certain information about your use of the SmartWinnr Services is available to the administrator(s) of your SmartWinnr Account and, depending on the settings chosen by the Users of the Account, also to other Users for the purposes of providing the SmartWinnr Services.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">4.3 Service Providers</h4>
-              <p class="ml_body_text_black ">
-                We work with third party service providers who provide website, application development, hosting, maintenance, and other services for us. These third parties may have access to, or process Personal Data or Client Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and our contracts with them require them to maintain the confidentiality of such information.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">4.4 Non Personally Identifiable Information</h4>
-              <p class="ml_body_text_black ">
-                We may make certain automatically-collected, aggregated, or otherwise non-personally- identifiable information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our Clients’, Users’ and Visitors’ interests, habits, and usage patterns for certain programs, content, services, and/or functionality available through the Service.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">4.5 Law Enforcement, Legal Process and Compliance</h4>
-              <p class="ml_body_text_black ">
-                We may disclose Personal Data or other information if required to do so by law or in the good-faith belief that such action is necessary to comply with applicable laws, in response to a facially valid court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.
-              </p>
-              <p class="ml_body_text_black ">
-                We also reserve the right to disclose Personal Data or other information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights, enforce our contracts, or protect the rights, property, or safety of others.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">4.6 Change of Ownership</h4>
-              <p class="ml_body_text_black ">
-                Information about Users and Visitors, including Personal Data, may be disclosed and otherwise transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets and only if the recipient of the User or Visitor Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
-              </p>
-              <p class="ml_body_text_black ">
-                Client Data may be physically or electronically transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets, for the sole purpose of continuing the operation of the Service, and only if the recipient of the Client Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
-              </p>
-          </div>
-        </div>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container ">
-        <h2 class="ml-title">5. Your Choices</h2>
-        <div class="col-md-12">
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">5.1 Access, Correction, Deletion</h4>
-              <p class="ml_body_text_black ">
-                We respect your privacy rights and provide you with reasonable access to the Personal Data that you may have provided through your use of the Services. If you wish to access or amend any other Personal Data we hold about you, or to request that we delete or transfer any information about you that we have obtained from an Integrated Service, you may contact us as set forth in the “How to Contact Us” section. At your request, we will have any reference to you deleted or blocked in our database.
-              </p>
-              <p class="ml_body_text_black ">
-                You may update, correct, or delete your Account information and preferences at any time by accessing your Account settings page on the Service. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
-              </p>
-              <p class="ml_body_text_black ">
-                You may decline to share certain Personal Data with us, in which case we may not be able to provide to you some of the features and functionality of the Service.
-              </p>
-              <p class="ml_body_text_black ">
-                At any time, you may object to the processing of your Personal Data, on legitimate grounds, except if otherwise permitted by applicable law. If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact SmartWinnr’s Data Protection Officer at <span class="ml_body_text_blue">privacy@smartwinnr.com</span>. You also have a right to lodge a complaint with data protection authorities.
-              </p>
-              <p class="ml_body_text_black ">
-                This provision does not apply to Personal Data that is part of Client Data. In this case, the management of the Client Data is subject to the Client’s own Privacy Policy, and any request for access, correction or deletion should be made to the Client responsible for the uploading and storage of such data into the Service.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">5.2 Navigation Information</h4>
-              <p class="ml_body_text_black ">
-                You may opt out from the collection of navigation information about your visit to the Site by Google Analytics by using the <span class="ml_body_text_blue">Google Analytics Opt-out feature</span>.
-              </p>
-          </div>
-          <div class="row ">
-              <h4 class="ml-title-blue ml-font20">5.3 Opting out from Commercial Communications</h4>
-              <p class="ml_body_text_black ">
-                If you receive commercial emails from us, you may unsubscribe at any time by following the instructions contained within the email or by sending an email to the address provided in the “How to Contact Us” section.
-              </p>
-              <p>
-                Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten (10) business days for us to process your request. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.
-              </p>
-              <p>
-                SmartWinnr has no direct relationship with the Client’s customers or third party whose Personal Data it may process on behalf of a Client. An individual who seeks access, or who seeks to correct, amend, delete inaccurate data or withdraw consent for further contact should direct his or her query to the Client or User they deal with directly. If the Client requests SmartWinnr to remove the data, we will respond to its request within thirty (30) days. We will delete, amend or block access to any Personal Data that we are storing only if we receive a written request to do so from the Client who is responsible for such Personal Data, unless we have a legal right to retain such Personal Data. We reserve the right to retain a copy of such data for archiving purposes, or to defend our rights in litigation. Any such request regarding Client Data should be addressed as indicated in the “How to Contact Us” section, and include sufficient information for SmartWinnr to identify the Client or its customer or third party and the information to delete or amend.
-              </p>
-          </div>
-        </div>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container ">
-        <h2 class="ml-title">6. Third-Party Services</h2>
-        <p class="ml_body_text_black ">
-          The Service may contain features or links to web sites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container ">
-        <h2 class="ml-title">7. Your California Privacy Rights</h2>
-        <p class="ml_body_text_black ">
-          We will not share any Personal Data with third-parties for their direct marketing purposes to the extent prohibited by California law. If our practices change, we will do so in accordance with applicable laws and will notify you in advance.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container ">
-        <h2 class="ml-title">8. Third Party Cookies</h2>
-        <p class="ml_body_text_black">
-          <b>The Following Types of Cookies Are Used in the Site:</b>
-        </p>
-        <ol>
-          <li class="ml-margin-bottom10">
-            strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
-          </li>
-          <li class="ml-margin-bottom10">
-            performance cookies - These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
-          </li>
-          <li>
-            functionality cookies - These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-        </ol>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">9. Minors and Children’s Privacy</h2>
-        <p class="ml_body_text_black ">
-          Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent. If you are under 18 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 18 years of age has obtained an Account on the Service, then you may alert us at <span class="ml_body_text_blue">privacy@smartwinnr.com</span> and request that we delete that child’s Personal Data from our systems.
-        </p>
-        <p class="ml_body_text_black ">
-          The Service is not intended to be used by minors, and is not intended to be used to post content to share publicly or with friends. To the extent that a minor has posted such content on the Service, the minor has the right to have this content deleted or removed using the deletion or removal options detailed in this Privacy Policy. If you have any question regarding this topic, please contact us as indicated in the “How to Contact Us” section. Please be aware that, although we offer this deletion capability, the removal of content may not ensure complete or comprehensive removal of that content or information.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">10. Data Security</h2>
-        <p class="ml_body_text_black ">
-          We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We maintain appropriate administrative, technical and physical safeguards to protect Personal Data against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Data in our possession. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, and we also employ application-layer security features to further anonymize Personal Data.
-        </p>
-        <p class="ml_body_text_black ">
-          However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you believe your Personal Data has been compromised, please contact us as set forth in the “How to Contact Us” section.
-        </p>
-        <p>
-          If we learn of a security systems breach, we will inform you and the authorities of the occurrence of the breach in accordance with applicable law.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">11. Data Retention</h2>
-        <p class="ml_body_text_black ">
-          We only retain the Personal Data collected from a User for as long as the User’s account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as follows:
-        </p>
-        <ul>
-          <li class="ml-margin-bottom10">
-            the contents of closed accounts are deleted within 3 months of the date of closure;
-          </li>
-          <li class="ml-margin-bottom10">
-            backups are kept for 3 months;
-          </li>
-          <li class="ml-margin-bottom10">
-            billing information is retained for a period of 7 years as of their provision to SmartWinnr in accordance with the applicable accounting and taxation laws
-          </li>
-          <li>
-            information on legal transactions between Client and SmartWinnr is retained for a period of 10 years
-          </li>
-        </ul>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">12. Settings</h2>
-        <p class="ml_body_text_black ">
-          Although we may allow you to adjust your privacy settings to limit access to certain Personal Data, please be aware that no security measures are perfect or impenetrable. We are not responsible for circumvention of any privacy settings or security measures on the Service. Additionally, we cannot control the actions of other users with whom you may choose to share your information. Further, even after information posted on the Service is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Service. We cannot and do not guarantee that information you post on or transmit to the Service will not be viewed by unauthorized persons.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">13. Data Controller and Data Processor</h2>
-        <p class="ml_body_text_black ">
-          The Service is hosted in the United States or Germany. EU customers’ databases will be hosted in SmartWinnr’s EU datacenter located in Ireland.
-        </p>
-        <p class="ml_body_text_black ">
-          SmartWinnr does not own, control or direct the use of any of the Client Data stored or processed by a Client or User via the Service. Only the Client or Users are entitled to access, retrieve and direct the use of such Client Data. SmartWinnr is largely unaware of what Client Data is actually being stored or made available by a Client or User to the Service and does not directly access such Client Data except as authorized by the Client, or as necessary to provide Services to the Client and its Users.
-        </p>
-        <p class="ml_body_text_black ">
-          Because SmartWinnr does not collect or determine the use of any Personal Data contained in the Client Data and because it does not determine the purposes for which such Personal Data is collected, the means of collecting such Personal Data, or the uses of such Personal Data, SmartWinnr is not acting in the capacity of data controller in terms of the European Union’s General Data Protection Regulation (Regulation (EU) 2016/679, hereinafter “GDPR”) and does not have the associated responsibilities under the GDPR. SmartWinnr should be considered only as a processor on behalf of its Clients and Users as to any Client Data containing Personal Data that is subject to the requirements of the GDPR. Except as provided in this Privacy Policy, SmartWinnr does not independently cause Client Data containing Personal Data stored in connection with the Services to be transferred or otherwise made available to third parties, except to third party subcontractors who may process such data on behalf of SmartWinnr in connection with SmartWinnr’s provision of Services to Clients. Such actions are performed or authorized only by the applicable Client or User.
-        </p>
-        <p class="ml_body_text_black ">
-          The Client or the User is the data controller under the Regulation for any Client Data containing Personal Data, meaning that such party controls the manner such Personal Data is collected and used as well as the determination of the purposes and means of the processing of such Personal Data.
-        </p>
-        <p class="ml_body_text_black ">
-          SmartWinnr is not responsible for the content of the Personal Data contained in the Client Data or other information stored on its servers (or its subcontractors’ servers) at the discretion of the Client or User nor is SmartWinnr responsible for the manner in which the Client or User collects, handles disclosure, distributes or otherwise processes such information.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">14. Changes and Updates to this Policy</h2>
-        <p class="ml_body_text_black ">
-          Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify the Policy, we will make it available through the Service, and indicate the date of the latest revision, and will comply with applicable law. Your continued use of the Service after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of the Policy.
-        </p>
-      </div>
-      <div class="row ml-prodfeaturerow ml-container">
-        <h2 class="ml-title">15. Settings</h2>
-        <p class="ml_body_text_black ">
-          Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email at <span class="ml_body_text_blue">privacy@smartwinnr.com</span>. If you have any concerns or complaints about this Policy or your Personal Data, you may contact SmartWinnr’s Data Protection Officer by email at <span class="ml_body_text_blue">privacy@smartwinnr.com</span>.
-        </p>
-      </div>
+    <div>
+      <h4><b>Sharing your personal information</b></h4>
+          <p>
+          We don't sell your personal information. We do share your information with others as described in the “How we share information we collect” section of this policy. We also show ads that we think are relevant. We've provided more information about how you can manage your advertising, and do-not-track preferences, within this policy.     
+          </p>
+    </div>
+    <div>
+      <h4><b>Processing your information</b></h4>
+          <p>
+          This policy describes the categories of personal information we may collect, the sources of that information, and our deletion and retention policies. We’ve also included information about how we may process your information, which includes for "business purposes" under the CCPA  - such as to protect against illegal activities, and for the development of new products, features, and technologies.  If you have questions about the categories of information we may collect about you, please be sure to visit the section of this policy called, “What information we collect about you.” For more details about our processing activities, please be sure to visit the section called, “How we use information we collect.”
+          <p>
+          <p>
+          If you have any questions or would like to exercise your rights under the CCPA, you can reach out to us at privacy@smartwinnr.com. 
+          </p>
+    </div>
+    <div>
+      <h4><b>Our policy towards children</b></h4>
+          <p>
+             The Services are not directed to individuals under 18. We do not knowingly collect personal information from children under 18. If we become aware that a child under 18 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact the SmartWinnr support team
+              If you have any questions or would like to exercise your rights under the CCPA, you can reach out to us at privacy@smartwinnr.com. 
+          </p>
+    </div>
+    <div>
+      <h4><b>Changes to our Privacy Policy</b></h4>
+          <p>
+              We may change this privacy policy from time to time. We will post any privacy policy changes on this page. We encourage you to review our privacy policy whenever you use the Services to stay informed about our information practices and the ways you can help protect your privacy.
+          </p>
+          <p>
+          If you disagree with any changes to this privacy policy, you will need to stop using the Services and deactivate your account(s), as outlined above.
+          </p>
+    </div>
+    <div>
+      <h4><b>Contact Us</b></h4>
+          <p>
+               MobillionLabs, Inc.<br>
+              340 S Lemon Ave #9775, Walnut, <br>
+              California 91789<br>
+              USA
+          </p>
+    </div>
+    </section> 
+   </div>
+    </div>
   </div>
 </section>
