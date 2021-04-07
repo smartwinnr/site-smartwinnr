@@ -78,14 +78,14 @@ title: Back to Work
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <!-- <div class="ml_label ml_smartfeed_badge">CoachTogether</div><br> -->
     <h2 class="ml_body_text_black ml-margin-bottom10">Keep your Teams Engaged and Motivated</h2>
-    <p class="ml-subtext ml_body_text_black">Run gamification initiatives that keep your teams in high spirits, in spite of the lockdowns.<a href="https://www.smartwinnr.com/product/gamification/" target="_blank">Learn more</a></p>
+    <p class="ml-subtext ml_body_text_black">Run gamification initiatives that keep your teams in high spirits, in spite of the lockdowns.<a href="https://www.smartwinnr.com/product/gamification/" target="_blank" class="ml_custom_link">Learn more</a></p>
   </div>
 </div>
 
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black ml-margin-bottom10"> Re-train your Workforce </h2>
-    <p class="ml-subtext ml_body_text_black">Use SmartWinnr’s learning modules to re-skill your workforce to meet new business demands. <a href="https://www.smartwinnr.com/product/targeted-learning/" target="_blank">Learn more</a></p>
+    <p class="ml-subtext ml_body_text_black">Use SmartWinnr’s learning modules to re-skill your workforce to meet new business demands. <a href="https://www.smartwinnr.com/product/targeted-learning/" target="_blank" class="ml_custom_link">Learn more</a></p>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/smartpath_details_fqmuo4.png"/>

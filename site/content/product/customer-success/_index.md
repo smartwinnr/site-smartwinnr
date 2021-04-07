@@ -38,7 +38,7 @@ layout: ml_layout
 </div>
 
 <section class="ml-background-white ml-padding-top-bottom5">
-  <h1 class="ml-padding-left30">What Our Customers Say</h1> 
+  <h1 class="ml-padding-left-cs-30 ">What Our Customers Say</h1> 
   <div class="row">
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <img src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/Adam_Jensen_amarup.png" alt="Adam Jensen">
