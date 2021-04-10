@@ -44,7 +44,7 @@ layout: ml_layout
     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
       <h1 class="text-center">Customer Success Story - Boston Scientific</h1>
       <div class="ml-subtext">Experience how Boston Scientific uses SmartWinnr to
-        <ul>
+        <ul class="ml_ul_tick">
           <li>achieve YoY growth</li>
           <li>above 90% field-force engagement</li>
           <li>high knowledge retention amongst the field-force</li>
