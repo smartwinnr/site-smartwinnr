@@ -16,8 +16,8 @@ layout: ml_layout
 <section class="">
   <div class="ml_no_padding_bottom50 ml_yellow_bg_gradient">
     <div class="row ml-padding-bottom10">
-      <h3 class="ml-margin-top-sections">A Scientific Method to Improve Ramp-up Time</h3>
-      <div class="ml_text_12">Organizations take up to 6 months to make new sales recruits fully productive. In industries with high turnover, this becomes all the more challenging.</div>
+      <h1 class="ml-margin-top-sections">A Scientific Method to Improve Ramp-up Time</h1>
+      <div class="ml-font20">Organizations take up to 6 months to make new sales recruits fully productive. In industries with high turnover, this becomes all the more challenging.</div>
     </div>
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">

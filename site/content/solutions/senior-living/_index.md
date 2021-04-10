@@ -118,7 +118,7 @@ layout: ml_layout
   </div>
 </section>
 
-<section class="padding50 white">
+<section class="padding50 ml-background-white">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
       <h2>Drive Operational Excellence - Freedom from Paper Based Inspections</h2>

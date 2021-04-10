@@ -18,7 +18,7 @@ layout: ml_layout
   <div class="ml_top_container">
     <div class="row">
       <div class="col-md-12 col-sm-12">
-        <h1 class="ml_body_text_white text-center">Customer Stories</h1>
+        <h1 class="ml_body_text_white text-center ml-margin-top-sections">Customer Stories</h1>
       </div>
     </div>
   </div>
