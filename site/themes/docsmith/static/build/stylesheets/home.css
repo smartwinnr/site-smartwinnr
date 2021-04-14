@@ -26577,6 +26577,10 @@ img {
 .ml_height_75 {
   height: 75px !important;
 }
+.ml_height_500 {
+  height: 500px !important;
+  width: auto !important;
+}
 
 .ml_custom_link {
   color: #0065FF !important;
