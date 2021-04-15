@@ -15,7 +15,7 @@ layout: ml_layout
 
 <div class="padding50 ml_yellow_bg_gradient">
   <div class="row ml-padding-bottom10">
-    <h3>Drive Sales Productivity</h3>
+    <h3 class="ml-margin-top-sections">Drive Sales Productivity</h3>
     <div class="ml_text_12">Give your sales team the winning edge. Motivate, train and coach from a single platform.</div>
   </div>
   <div class="row ml_div_contents_in_center">

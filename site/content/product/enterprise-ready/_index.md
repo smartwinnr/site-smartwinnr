@@ -31,7 +31,7 @@ layout: ml_layout
 <section class="">
   <div class="ml_enterprise_top_section row padding50">
     <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-      <div class="ml_label ml_smartpath_badge">Enterprise Ready</div><br>
+      <div class="ml_label ml_smartpath_badge ml-margin-top-sections">Enterprise Ready</div><br>
       <h1>SmartWinnr is the preferred choice for large enterprises</h1>
       <div class="ml-font20 padding0">With its enterprise-grade security and features, SmartWinnr is used by some of the world's largest enterprises. including those in highly regulated industries.</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>

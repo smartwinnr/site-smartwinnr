@@ -15,7 +15,7 @@ layout: ml_layout
 
 <section class="ml_senior_living_top_section">
   <div class="ml_no_padding_bottom50">
-    <h1 class="text-center ml-margin-bottom30 ml_body_text_white">Centrally Manage and Monitor Coronavirus Readiness</h1>
+    <h1 class="text-center ml-margin-bottom30 ml_body_text_white ml-margin-top-sections">Centrally Manage and Monitor Coronavirus Readiness</h1>
     <div class=" ml-subtext ml-font20">Digitize CDC checklists and audit surveys. Drive Coronavirus Awareness Training.
     Track knowledge retention and prevention protocol.</div></br>
     <div class="ml_iframe_video_container">

@@ -15,7 +15,7 @@ layout: ml_layout
 
 <div class="">
   <div class="ml_implementation_top_section">
-    <div class="ml_label ml_quiz_badge">Implementation</div>
+    <div class="ml_label ml_quiz_badge ml-margin-top-sections">Implementation</div>
     <h2 class="ml_body_text_white">Easy to implement. Easy to use</h2>
     <p class="ml-subtext ml_body_text_white">We make implementation a breeze with a structured process that works every time.</p>
   </div>

@@ -1,4 +1,6 @@
 ---
+title: 'Privacy Policy'
+description: 'Privacy Policy'
 slug: "privacy-policy"
 date: '2017-12-07T15:14:32+08:00'
 type: ml_layout

@@ -32,7 +32,7 @@ layout: ml_layout
   <div class="padding50">
     <div class="row ml_text_flex_row">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Boost Agent Productivity</h4>
+        <h4 class="ml-title-font ml-margin-top-sections">Boost Agent Productivity</h4>
         <div class="ml-subtext">Improve agent productivity without increasing incentive payouts through effective gamification design</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">

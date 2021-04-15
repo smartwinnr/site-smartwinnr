@@ -1,20 +1,18 @@
 ---
 title: SmartWinnr | 1 Platform for Sales Learning, Sales Coaching and Sales Contests
 og_title: SmartWinnr | 1 Platform for Sales Learning, Sales Coaching and Sales Contests
-og_description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and effortless sales contests. Find contest ideas, gamification plans, learning campaigns and more resources.
-description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and effortless sales contests. Find contest ideas, gamification plans, learning campaigns and more resources.
-keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", 
-"sales enablement", "solutions", "sales contest", "sales contests", "sales contest software", "sales contest tool"]
+og_description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and sales gamification. Find contest ideas, gamification plans, learning campaigns and more resources.
+description: SmartWinnr offers a unified platform to drive sales learning, sales coaching and sales gamification. Find contest ideas, gamification plans, learning campaigns and more resources.
+keywords: ["smartwinnr", "sales training", "gamification", "sales gamification software", "sales gamification platform", "contest software", "sales gamification app", "sales game software", "sales coaching", "sales performance", "sales enablement", "solutions", "sales contest", "sales contests", "sales contest software", "sales contest tool"]
 tiles:
   - { title: 'SmartWinnr', description: 'Gamified platform to drive knowledge and performance', url: 'getting-started', icon: 'book' }
 type: ml_layout
 layout: ml_layout
 ---
-
 <section class="">
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
-      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 g2-row">
+      <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 ">
         <img src="/images/g2-badge.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
@@ -30,7 +28,7 @@ layout: ml_layout
 
 
 <section class="ml-key-points ml-background-white">
-  <div class="padding50">
+  <div class="padding50 ml-padding-bottom10">
     <div class="row">
       <div class="col-md-12 col-sm-12">
         <h1 class="text-center ml_body_text_black ml-margin-bottom20">You are in good company.</h1>
@@ -38,7 +36,7 @@ layout: ml_layout
       </div>
     </div>
     <div class="row text-center paddingLogo">
-      <div class="ml_logo_slider ml-background-white ">
+      <div class="ml_logo_slider  ml-padding-left-right10">
       <div class="ml_logo_contents_in_center">
         <img class="ml_company_logo ml_height_55" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
         </div>
@@ -75,7 +73,7 @@ layout: ml_layout
           <div class="ml_logo_contents_in_center ">
           <img class="ml_company_logo " src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo">
           </div>    
-          <div class="ml_logo_contents_in_center ">
+          <div class="ml_logo_contents_in_center ml-margin-bottom10 ">
           <img class="ml_company_logo ml_height_75" src="/images/org-logos/Regrow-biosciences-logo.webp" alt="Regrow Logo"></div>
          <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo">
@@ -92,10 +90,10 @@ layout: ml_layout
           <div class="ml_logo_contents_in_center">
           <img class="ml_company_logo ml_height_55" src="/images/org-logos/sud-life.webp" alt="SUD Life">
           </div>
-          <div class="ml_logo_contents_in_center">
-          <img class="ml_company_logo ml_height_35" src="/images/org-logos/key-factors-logo.webp " alt="Key Factors">
+          <div class="ml_logo_contents_in_center ml-margin-top10" >
+          <img class="ml_company_logo ml_height_35 " src="/images/org-logos/key-factors-logo.webp " alt="Key Factors">
           </div>
-        </div>
+        </div> 
     </div>
   </div>
 </section>
@@ -135,7 +133,210 @@ layout: ml_layout
 </section>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
-
+<section class="ml-background-white padding50 ">
+    <div class="swiper-container ml-padding-top-bottom50">
+      <div class="swiper-wrapper">
+            <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/5.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text"> Enterprise Leader</h3>
+                <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/15.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Usability </h3>
+                <p>The Best Usability product in the Usability Index earned the highest Usability rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/1.png" class="swiper-img" alt="Best Relationship">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Relationship</h3>
+                <p>The Best Relationship product in the Relationship Index earned the highest Relationship rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/2.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Support</h3>
+                <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/3.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Easiest To Use </h3>
+                <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/4.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Easiest Admin </h3>
+                <p>The Easiest Admin product in the Usability Index earned the highest Ease of Admin rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/7.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Easiest To Do Business With </h3>
+                <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/8.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Support </h3>
+                <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/9.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Highest User Adoption </h3>
+                <p>The Highest User Adoption product in the Implementation Index earned the highest User Adoption rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/10.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Easiest Setup </h3>
+                <p>The Easiest Setup product in the Implementation Index earned the highest Ease of Setup rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/11.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Enterprise High Performer </h3>
+                <p>Products in the High Performer quadrant in the Enterprise Grid® Report have high customer satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide"> 
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/12.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">High Performer </h3>
+                <p>Products in the High Performer quadrant in the Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/13.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Best Meets Requirements </h3>
+                <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+        <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/14.png" class="swiper-img">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">Easiest To Do Business With Enterprise</h3>
+                <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+                <div class="swiper-slide" >
+            <div class="row">
+            <div class="col-lg-12">
+               <img src="/images/g2badges/6.png" class="swiper-img-asia">
+            </div>
+            <div class="col-lg-12">
+              <div class="card-title">
+                <h3 class="ml-bold-text">High Performer </h3>
+                <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+            </div>
+           </div>
+         </div>
+        </div>
+      </div>
+          <!-- Add Arrows -->
+    <div class="swiper-button-next "></div>
+    <div class="swiper-button-prev"></div>
+    </div>  
+</section>
 
 <!-- start of video section -->
 <section class="ml-chooseQP ml-background-white">
@@ -288,8 +489,8 @@ layout: ml_layout
             <span class="icon-aim ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Gamify Targets to drive sales productivity</h4>
-            <div class="ml-subtext">Create quarterly and annual scorecards, challenges and contests to motivate sales teams to drive maximum sales productivity.<a class="ml_body_text_blue" href="/product/sales-contest"> Learn More</a></div>
+            <h4 class="ml-title-adjustable ml-title-font">Sales Gamification Software that Drives Results</h4>
+            <div class="ml-subtext">Create quarterly and annual KPI scorecards, challenges and contests to motivate sales teams to drive maximum sales productivity.<a class="ml_body_text_blue" href="product/sales-contest"> Learn More</a></div>
           </div>
         </div>
         <div class="row ml-margin-bottom20">
@@ -297,8 +498,8 @@ layout: ml_layout
             <span class="icon-lamp ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Track and Reinforce Product Information</h4>
-            <div class="ml-subtext">Use SmartWinnr’s AI to reinforce key messages regularly, measure and track retention of product information while making it fun and engaging.<a class="ml_body_text_blue" href="/product/targeted-learning"> Learn More</a></div>
+            <h4 class="ml-title-adjustable ml-title-font">Gamified Sales Learning App that Increases Knowledge Retention</h4>
+            <div class="ml-subtext">Use SmartWinnr’s AI to reinforce key messages regularly, measure and track retention of product knowledge, while making it fun and engaging.<a class="ml_body_text_blue" href="product/targeted-learning"> Learn More</a></div>
           </div>
         </div>
         <div class="row ml-margin-bottom20">
@@ -306,8 +507,8 @@ layout: ml_layout
             <span class="icon-bag-dollar ml-icon-blue"></span>
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Drive uniform messaging through regular Video Coachings</h4>
-            <div class="ml-subtext">Help your teams practice their customer interactions through regular video coachings. Use your own competency framework to provide systematic feedback and support.<a class="ml_body_text_blue" href="/product/sales-coaching"> Learn More</a></div>
+            <h4 class="ml-title-adjustable ml-title-font">Coaching App that Improves Sales Call Effectiveness</h4>
+            <div class="ml-subtext">Help your teams practice their customer interactions through regular video coachings. Use your own competency framework to provide systematic feedback and support.<a class="ml_body_text_blue" href="product/sales-coaching"> Learn More</a></div>
           </div>
         </div>
       </div>
@@ -527,3 +728,28 @@ layout: ml_layout
     </div>
   </div>
 </section>
+
+<!-- Initialize Swiper -->
+<script>
+   var swiper = new Swiper('.swiper-container', {
+      effect: 'coverflow',
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: 'auto',
+      spaceBetween: 80,
+      coverflowEffect: {
+        rotate: 0,
+        stretch: 0,
+        depth: 100,
+        modifier: 1,
+        slideShadows: false,
+      },
+      pagination: {
+        el: '.swiper-pagination',
+      },
+        navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+</script>

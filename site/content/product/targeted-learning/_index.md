@@ -15,8 +15,8 @@ layout: ml_layout
 
 <section class="">
   <div class="ml_sales_contest_top_section">
-    <div class="padding50 ml_body_text_white text-center">
-      <h1>Targeted Learning</h1>
+    <div class="padding50 ml_body_text_white text-center ">
+      <h1 class="ml-margin-top-sections">Targeted Learning</h1>
       <div class="ml-font20">A completely new approach to training sales teams.</div>
       <div class="ml-font20">Harness the power of AI to identify areas of improvement.</div>
     </div>

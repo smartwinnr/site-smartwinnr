@@ -21327,6 +21327,98 @@ h1.contribute {
   right: 1.4rem;
   opacity: 0;
 }
+.ml_g2_badge{
+  width:200px !important;
+  height:auto !important;
+}
+
+/* 
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-size: auto 250px  !important;
+  background-position: center;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 300px !important;
+  height: 300px !important;
+
+} */
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide-active .swiper-img{
+  height: 230px !important;
+  width: auto  !important;
+}
+.swiper-slide-active .swiper-img-asia{
+  height: 200px !important;
+  width: auto  !important;
+}
+.swiper-slide-active{
+  opacity:100% !important;
+    margin: 0 2px;
+    max-width: 100%;
+    object-fit: cover;
+    transition: all .5s
+}
+.swiper-img-asia{
+  height: 200px;
+  width: auto;
+  margin: 0 2px;
+  max-width: 100%;
+  object-fit: cover;
+}
+.swiper-img{
+  height: 200px;
+  width: auto;
+  margin: 0 2px;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+
+.swiper-slide {
+   background-size: auto 150px ;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  width: 300px !important;
+  height: 300px !important;
+  text-align: center;
+  font-size: 18px;
+  opacity:0.3;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-button-prev{
+  left: 50px !important;
+  right:auto !important;
+  outline: none !important;
+}
+.swiper-button-next{
+  right: 50px !important;
+  left:auto !important;
+  outline: none !important;
+}
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
   right: 2.2rem;
@@ -22081,6 +22173,7 @@ p {
   .ml-logo {
     margin-top : 2% !important;
   }
+    
   .ml_company_logo {
     height: 30px;
     width: auto;
@@ -24093,6 +24186,9 @@ img {
   background: linear-gradient(45deg,#00c0ef,#4ab081) rgba(0,0,0,0);
   color: #fff;
 }
+.ml-padding-top-left7{
+  padding:7% 0 7% 7% !important;
+}
 .ml-margin0 {
   margin: 0px !important;
 }
@@ -24123,11 +24219,12 @@ img {
 .ml-margin-top58 {
   margin-top: 58px !important;
 }
-.ml-margin-top60 {
-  margin-top: 60px !important;
-}
+
 .ml-margin-bottom100 {
   margin-bottom: 100px !important;
+}
+.ml-padding-bottom60 {
+  padding-bottom: 60px !important;
 }
 .ml-padding-privacy {
  padding: 5% 5% 0 5% !important
@@ -24244,6 +24341,10 @@ img {
   padding-right:50px !important;
   padding-left: 50px !important;
 }
+.ml-padding-top-bottom50{
+  padding-top:50px !important;
+  padding-bottom: 80px !important;
+}
 .ml-csl-logo{
   height: auto;
     width: 250px !important;
@@ -24268,11 +24369,23 @@ img {
   width: 300px;
   margin-top: -200px !important;
 }
+.ml-margin-top60 {
+  margin-top: 60px !important;
+}
+/* @media (min-width:300px) and (max-width:480px){
+ .ml-margin-top-sections{
+  margin-top: 60px !important;
+
+ }
+} */
 @media (min-width:300px) and (max-width:786px){
   .security-image{
     display: none;
   }
-
+  .ml-margin-top-sections{
+    margin-top: 60px !important;
+  
+   }
   /* .privacy-button{
     margin-left:30px;
   } */
@@ -25260,6 +25373,10 @@ img {
   padding-left: 20% !important;
   padding-right: 20% !important;
 }
+.ml-padding-left-right10 {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
 
 .ml-padding-top-bottom20 {
   padding-top: 20% !important;
@@ -25311,7 +25428,9 @@ img {
 .ml-padding-top10 {
   padding-top: 10px !important;
 }
-
+.ml-padding-top50 {
+  padding-top: 50px !important;
+}
 .ml-padding-left50 {
   padding-left: 50px !important;
 }
@@ -26429,6 +26548,11 @@ img {
 .g2-badge{
   width: 137px
 }
+@media (min-width:300px) and (max-width: 480px){
+  .g2-badge{
+    margin-top:30px  !important;
+  }
+}
 .ml_height_30 {
   height: 30px !important;
 }
@@ -26452,6 +26576,10 @@ img {
 }
 .ml_height_75 {
   height: 75px !important;
+}
+.ml_height_500 {
+  height: 500px !important;
+  width: auto !important;
 }
 
 .ml_custom_link {

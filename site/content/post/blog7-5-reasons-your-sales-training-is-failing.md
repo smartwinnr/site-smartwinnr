@@ -40,14 +40,14 @@ What is missing is a **systematic reinforcement approach**. This is especially t
 **What can you do about it?**
 
    * -**Create follow-through plan**:  Create follow-up action plan after every training event  
-   * -**Reinforce knowledge**:  Prevent knowledge loss by sending refresher content periodically  
+   * -**Reinforce knowledge**:  Prevent knowledge loss by <a href="https://smartwinnr.com/post/improve-knowledge-proficiency-by-21-percent-through-knowledge-reinforcement/" target="_blank">sending refresher content</a> periodically  
    * -**Focus on retention**: Have 30-60-90 days assessment on key learning areas to improve retention  
    * -**Provide mentorship**: Initiate mentoring/coaching session by managers to help change behaviors  
 
 
 ## 2. Lack of employee-specific training:
 
- Different people have different developmental needs.The needs of a fresher and a newly hired sales rep with 10 years of experience will be very different. A one size fits all training protocol cannot cater to disparate requirements. In the above case, the fresher will need to develop both selling skills and product knowledge from scratch. But an experienced sales rep will need to focus more on the company and product knowledge and less on basic selling techniques. The same training program cannot be applied to both of them.
+ Different people have different developmental needs.The needs of a fresher and a newly hired sales rep with 10 years of experience will be very different. A one size fits all training protocol cannot cater to disparate requirements. In the above case, the fresher will need to develop both <a href="https://www.smartwinnr.com/post/7-selling-skills-that-are-essential-to-ace-remote-sales/" target="_blank">selling skills</a> and product knowledge from scratch. But an experienced sales rep will need to focus more on the company and product knowledge and less on basic selling techniques. The same training program cannot be applied to both of them.
 
 **What can you do about it?**
 
@@ -72,7 +72,7 @@ On the other hand, engaged learning sessions are highly effective learning sessi
 
 * **Break the monotony** - Interspace powerpoint sessions with simulations, role plays, games etc.
 * **Create a sense of competition** - Break down the training group into teams. Create team knowledge competitions, in-session quizzes etc.
-* **Gamify learning** - Use game mechanics like leaderboards, badges etc. to increase training engagement
+* **Gamify learning** - Use <a href="https://www.smartwinnr.com/post/gamification-and-employee-engagement/" target="_blank">game mechanics</a> like leaderboards, badges etc. to increase training engagement
 
 ## 4. Ineffective Refresher Sessions :
 Refresher courses are often repetition of original training sessions and do not incorporate feedbacks from the original session. You will often find salespeople come out of these sessions asking “ What was the point of that?”
@@ -82,7 +82,7 @@ We found that sales reps often skip refresher training sessions. When asked why 
 **What can you do about it?**
 
 * **Create targeted refresher session** - Sessions planned after post-training follow-up analysis can often reduce the training time and have highly targeted, relevant content.
-* **Send short, targeted bursts of information**: Keep employees updated without taking up too much of their time through short snackable content.
+* **Send short, targeted bursts of information**: Keep employees updated without taking up too much of their time through <a href="https://www.smartwinnr.com/post/use-micro-learning-to-turbo-charge-your-sales-team/" target="_blank">short snackable content.</a>
 
 ## 5. Lack of active involvement of senior management:
  Attending training sessions involves spending time away from the job, time sales teams rarely have. Managers play a unique role in keeping their staff motivated by showing that they are invested in each team member. Our studies show that teams, where managers are actively involved in tracking training results, have a higher learning outcome.
@@ -96,3 +96,22 @@ We found that sales reps often skip refresher training sessions. When asked why 
 Properly done, sales training can provide a significant RoI. However, it is important to have a systematic approach, track improvements regularly and keep sales team motivated for best results.
 
 <!-- <img class="ml-blog-page-image" center-align alt="5 reasons your sales training is failing" src="/images/5 Reasons Your Sales Training is Failing.png"> -->
+
+
+<br>
+
+### **Want to gamify your training? Check out the below articles which explain how to best gamify your training**
+
+<a href="https://smartwinnr.com/post/improve-employee-engagement-of-your-remote-teams-with-gamification/" target="_blank">Improve Employee Engagement of your Remote Teams with Gamification</a>
+
+<a href="https://smartwinnr.com/post/30-60-90-days-gamified-sales-training-plan/" target="_blank">30 60 90 Days Gamified Sales Training Plan</a>
+
+<a href="https://smartwinnr.com/post/work-from-home-warriors-sales-training-game-for-remote-sales-teams/" target="_blank">‘Work from Home Warriors’: Sales Training Game for Remote Sales Teams</a>
+
+<br>
+
+### **Looking for a sales training software that takes your sales training to a whole new level?**
+
+Explore <a href="https://www.smartwinnr.com/product/targeted-learning/" target="_blank">SmartWinnr’s Learning</a> and <a href="https://www.smartwinnr.com/product/gamification/" target="_blank">Gamification</a> features. Learn how to run fun and engaging sales training and sales coaching for your team through SmartWinnr.
+
+Curious to learn more about it? <a href="https://www.smartwinnr.com/request-demo/" target="_blank">Book a demo</a> today!
