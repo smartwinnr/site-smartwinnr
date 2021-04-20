@@ -41,7 +41,7 @@ layout: ml_layout
                 <p>Passionate about the little details that matter</p>
                 <p>Deeply technical with a strong background in computer science</p>
                 <p>Inquisitive with an intrinsic drive to learn and improve</p>
-                <a href="/about-us/company">Learn more about our values.</a>
+                <!-- <a href="/about-us/company">Learn more about our values.</a> -->
                 <p></p><p></p>
                 <p>
                   <a href="mailto:contact@mobillionlabs.com?subject=Apply for Full Stack Developer" class="btn btn-large btn-success"><span>Apply Now</span></a>
@@ -58,14 +58,13 @@ layout: ml_layout
       					<p>Deep understanding of marketing metrics</p>
       					<p>Ability to collaborate with key stakeholders to develop a marketing plan for a product launch</p>
       					<p>Comfortable editing content about technology, specifically product marketing content</p>
-
               <h3>You Are</h3>
                 <p>B2B marketing experience</p>
                 <p>Experience in marketing SaaS based products</p>
                 <p>Passionate about working in emerging technologies</p>
                 <p></p>
                 <p></p>
-                <p> <a href="/about-us/company">Learn more about our values.</a></p>
+                <!-- <p> <a href="/about-us/company">Learn more about our values.</a></p> -->
               <p></p>
               <p></p>
               <p>
@@ -83,8 +82,7 @@ layout: ml_layout
                   		<p>Prior experience working in Javascript frameworks</p>
       					<p>Its a huge bonus if you already know about the <a href="http://meanjs.org/">MEANJS</a> stack and <a href="http://ionicframework.com/">Ionic</a>. </p>
       					<p></p>
-      					<p><a href="/about-us/company">Learn more about our values.</a></p>
-
+      					<!-- <p><a href="/about-us/company">Learn more about our values.</a></p> -->
       					<p></p>
       					<p></p>
       					<p>
