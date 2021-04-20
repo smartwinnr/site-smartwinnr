@@ -12,8 +12,8 @@ layout: ml_layout
 ---
 
 <section>
-  <div class="ml-this-tile padding50 ml-margin-top-sections">
-    <div class="row ml_top_container ml-prodfeaturerow">
+  <div class="ml-this-tile padding50 ml-margin-top-sections ml-margin-top20">
+    <div class="row ml_top_container ml-prodfeaturerow ml-margin-top50">
       <!-- <div class="col-md-12"> -->
         <h1>Acceptable Use Policy</h1>
         <p class="ml_body_text_black ml-margin-left20">
