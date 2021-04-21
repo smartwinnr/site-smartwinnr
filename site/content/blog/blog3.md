@@ -77,9 +77,8 @@ There are several points that you need to consider before you implement gamifica
 
 <br>
 
-<p><h3><b>Want to know more about gamification? Check out the below articles</b></h3></p>
-<p>
-<a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank" class="">The Psychology of Sales Gamification</a></p>
+<p><h3><b>Want to know how gamification can help in accelerating your employee engagement? Read the below articles to find out:
+</b></h3></p>
 
 <a href="https://www.smartwinnr.com/post/gamification-and-employee-engagement/" target="_blank" class="">Gamification and Employee Engagement: the Why and the How</a>
 
