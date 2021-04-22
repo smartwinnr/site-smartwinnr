@@ -40,7 +40,7 @@
         <meta name="twitter:creator" content="@smartwinnr">
         <meta name="twitter:description" content="{{ .Params.Description }}" />
         <meta name="twitter:title" content="{{ .Params.Title }}" />
-        <meta name="twitter:image" content="http://www.smartwinnr.com{{ .Params.Featured_image }}" />
+        <meta name="twitter:image" content="https://www.smartwinnr.com{{ .Params.Featured_image }}" />
         {{ with  .Site.Home.OutputFormats.Get "rss" -}}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end }}
         {{ if (getenv "HUGO_ENV") }}
