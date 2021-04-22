@@ -32,9 +32,9 @@
         {{ end }}
         {{ with .Params.twitter }}
         {{ with .card }}
-        <meta name="twitter:card" content="summary_large_image">{{ end }}
+        <meta name="twitter:card" content="{{ . }}">{{ end }}
         {{ else }}
-        <meta name="twitter:card" content="{{ . }}">
+        <meta name="twitter:card" content="summary_large_image">
         {{ end }}
         <meta name="twitter:site" content="@smartwinnr">
         <meta name="twitter:creator" content="@smartwinnr">
