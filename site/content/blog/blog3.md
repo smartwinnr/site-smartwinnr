@@ -16,7 +16,7 @@ Over the past few years, gamification has become a much talked-about approach to
 
 Gartner, in its report on _‘Gamification 2020: What Is the Future of Gamification’_ says:
 
-> <a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank" class="">Gamification</a> is a tool to design behaviors, develop skills and enable innovation. Combined with other technologies and trends, gamification can cause major discontinuities in innovation, employee performance management, education, personal development and customer engagement.
+>  <a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank">Gamification</a> is a tool to design behaviors, develop skills and enable innovation. Combined with other technologies and trends, gamification can cause major discontinuities in innovation, employee performance management, education, personal development and customer engagement.
 
 Gamification is the application of typical elements of game playing (e.g. scoring, competition with others, rules of play) to other areas of activity. One of the most notable applications of gamification is in engaging and motivating people to achieve their goals.
 
@@ -43,7 +43,7 @@ L&D professionals and CSOs today are very keen to <a href="https://www.smartwinn
 ## How can you use Gamification?
 
 There are various ways of implementing gamification. What is important is to link gamification to clearly defined objectives - whether it’s to increase sales performance or increase knowledge level.  
-Some of the most common ways to implement gamification are through:
+Some of the most common ways to <a href="https://www.smartwinnr.com/post/kpi-gamification-how-to-select-kpis/" target="_blank">implement gamification</a> are through:
 
 *   **Points** - Scoring points is crucial to any gamification. Points are given against accomplishments.
     For example, 10 points are awarded for every correct answer or 100 points for every converted opportunity. These points add to a person’s score for that quarter or year
@@ -77,8 +77,7 @@ There are several points that you need to consider before you implement gamifica
 
 <br>
 
-<p><h3><b>Want to know how gamification can help in accelerating your employee engagement? Read the below articles to find out:
-</b></h3></p>
+### **>Want to know how gamification can help in accelerating your employee engagement? Read the below articles to find out:**
 
 <a href="https://www.smartwinnr.com/post/gamification-and-employee-engagement/" target="_blank" class="">Gamification and Employee Engagement: the Why and the How</a>
 
