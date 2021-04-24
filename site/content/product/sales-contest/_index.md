@@ -317,7 +317,7 @@ layout: ml_layout
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<!-- <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/top-20-sales-contest-names/';">
@@ -516,7 +516,7 @@ layout: ml_layout
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">

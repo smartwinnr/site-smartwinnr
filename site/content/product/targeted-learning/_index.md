@@ -30,7 +30,16 @@ layout: ml_layout
 </section>
 
 <section class="ml-background-white padding50" >
+   <h2 class="ml_body_text_black ml-margin-bottom10">Customer Success Story - Boston Scientific</h2>
 
+<p class="ml-subtext ml_body_text_black">Listen to Janet Lange,  clinical training manager for Boston Scientific, in their Cardiac Rhythm Management division, how SmartWinnr helps
+  <ul class="ml-margin-top10 ml_font_1 ml_ul_tick">
+    <li class="ml-margin-top10">Enhance classroom training</li>
+    <li class="ml-margin-top10">Drive Successful New Product launch</li>
+    <li class="ml-margin-top10">Keep sales teams engaged and motivated</li>
+    <li class="ml-margin-top10">Drive business KPIs</li>
+  </ul>
+</p>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/990418141&color=%23eda510&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/smartwinnr" title="SmartWinnr" target="_blank" style="color: #cccccc; text-decoration: none;">SmartWinnr</a> · <a href="https://soundcloud.com/smartwinnr/janet-lange-podcast" title="Janet Lange podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Janet Lange podcast</a></div>
 
 </section>
@@ -340,7 +349,7 @@ layout: ml_layout
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<!-- <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/why-continuous-training-is-important-in-sales/';">
@@ -464,7 +473,7 @@ layout: ml_layout
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
