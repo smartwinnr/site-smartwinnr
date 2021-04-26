@@ -24839,6 +24839,28 @@ img {
     display: block !important;
   }
 }
+.ml_medical_devices_sub_header {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+
+.ml_medical_request_button {
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff !important;
+  font-size: 20px !important;
+  /* letter-spacing: .05em; */
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  border: 2px solid #5951ff;
+  border-radius: 4px;
+}
+
+.ml_medical_request_button:hover {
+  background: #fff !important;
+  color: #5951FF !important;
+}
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-white-tile {
     height: 60%;
@@ -24885,10 +24907,13 @@ img {
   .ml_industries_banner_sub_header {
     font-size: 1.6rem !important;
   }
+  .ml_medical_devices_sub_header {
+    font-size: 20px !important;
+  }
   .ml_industries_banner_image {
     height: 250px !important;
   }
-  .ml_industries_banner_button {
+  .ml_medical_devices_sub_header {
     font-size: 1.3rem !important;
     padding: 5px 20px !important;
   }
@@ -24903,6 +24928,9 @@ img {
   }
   .ml_industries_banner_sub_header {
     font-size: 1.8rem !important;
+  }
+  .ml_medical_devices_sub_header {
+    font-size: 20px !important;
   }
   .ml_industries_banner_image {
     height: 260px !important;
@@ -25641,7 +25669,9 @@ img {
     font-size: 1.4rem !important;
     line-height: 2rem !important;
   }
-  
+  .ml_medical_devices_sub_header {
+    font-size: 20px !important;
+  }
   .ml_industries_banner_image {
     height: 250px !important;
   }
