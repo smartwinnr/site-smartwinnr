@@ -21,10 +21,7 @@ layout: ml_layout
       <div class="ml-font20 padding0">Sales Contest | Sales Coaching | Sales Training</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
-     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
-     <div style="background: #ffffff; height:377px; position: relative; width:220px; border: solid 1px #ccc;;"> <div id="g2-widg-smartwinnr-18042"></div> <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 0; color: #333; font-size: 10px; font-weight: 600; width: 220px; text-align: center;"> Read more smartwinnr reviews </a> </div> <script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-18042"); s = "https://www.g2.com/products/widget.embed?id=18042&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1619412928&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 
-     </div>
-  </div>
+    </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
