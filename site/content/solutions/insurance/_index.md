@@ -14,16 +14,16 @@ layout: ml_layout
 ---
 
 <section class="ml_insurance_top_section">
-  <div class="row padding50">
+  <div class="row padding50 ml_div_contents_in_center">
     <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartfeed_badge">Insurance</div><br>
       <h1>Radically Improve Sales Productivity of Your Agents</h1>
       <div class="ml-font20 padding0">Rollout a proven sales enablement plan encompassing sales contests, training and coaching that is guaranteed to improve agent productivity</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
-    <!-- <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding0">
-      <img src="/images/Hana Kneblova.png" alt="User Image" class="ml-margin-right10 ml-image"/>
-    </div> -->
+      <div class="col-lg-4 col-md-12 col-sm-8 col-xs-12">
+      <div class="g2_review_widget_common"> <div id="g2-widg-smartwinnr-19479"></div> <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 25px; color: #333; font-size: 10px; font-weight: 600; width: auto; text-align: center;"> Read more smartwinnr reviews </a> </div> <script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-19479"); s = "https://www.g2.com/products/widget.embed?id=19479&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1619849091&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 
+      </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>

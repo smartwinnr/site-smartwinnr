@@ -21,7 +21,7 @@ layout: ml_layout
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
     <div class="col-lg-4 col-md-12 col-sm-8 col-xs-12">
-        <div style="background: #ffffff; height:377px; position: relative; width:auto; border: solid 1px #ccc;;"> 
+        <div class="g2_review_widget_common"> 
           <div id="g2-widg-smartwinnr-18042"></div>
            <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 25px; color: #333; font-size: 10px; font-weight: 600; width: auto; text-align: center !important;" align="center">
             Read more smartwinnr reviews 

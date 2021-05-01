@@ -26696,3 +26696,22 @@ img {
   height: auto;
   padding: 20% 10%;
 }
+
+.g2_review_widget_common{
+  background: #ffffff; 
+  height:377px;
+  position: relative;
+  width:auto;
+  border: solid 1px #ccc;
+}
+@media (min-width: 768px) and (max-width: 992px){
+  .g2_review_widget{
+    background: #ffffff;
+    height: 377px !important;
+    position: relative !important;
+    width: 60% !important;
+    border: solid 1px #ccc !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
