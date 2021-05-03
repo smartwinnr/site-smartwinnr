@@ -21383,7 +21383,32 @@ h1.contribute {
   object-fit: cover;
 }
 
-
+.swiper-img-request-demo{
+  height: 100px;
+  width: auto;
+  margin: 0 2px;
+  max-width: 100%;
+  object-fit: cover;
+}
+@media (min-width: 300px) and (max-width:768px){
+  .swiper-img-request-demo{
+    height: 200px;
+    width: auto;
+    margin: 0 2px;
+   
+    max-width: 100%;
+    object-fit: cover;
+  }
+  .swiper-margin-top-request-demo{
+    margin-top: 30px !important;
+  }
+}
+.swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title p{
+  font-size: 12px !important;
+}
+.swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title h3{
+  font-size: 18px !important;
+}
 .swiper-slide {
    background-size: auto 150px ;
   background-position: center !important;

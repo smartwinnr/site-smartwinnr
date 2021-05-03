@@ -30,8 +30,9 @@ layout: ml_layout
       <!-- <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p> -->
     </div>
       <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-        <div class=" g2_review_widget_common g2_review_widget"> <div id="g2-widg-smartwinnr-19480"></div> <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 25px; color: #333; font-size: 10px; font-weight: 600; width: auto; text-align: center;"> Read more smartwinnr reviews </a> </div> <script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-19480"); s = "https://www.g2.com/products/widget.embed?id=19480&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1619849264&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 
-      </div>
+        <div class="g2_review_widget" style="background: #ffffff; height:377px; position: relative; width:auto; border: solid 1px #ccc;;"> <div id="g2-widg-smartwinnr-19480"></div> <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 25px; color: #333; font-size: 10px; font-weight: 600; width: auto; text-align: center;"> Read more smartwinnr reviews </a> </div> <script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-19480"); s = "https://www.g2.com/products/widget.embed?id=19480&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1620019999&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 
+        </div>
+
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
@@ -295,7 +296,7 @@ layout: ml_layout
   </div>
 </section>
 
-<section class="ml_industries_banner ml_no_padding_bottom_right20">
+<!-- <section class="ml_industries_banner ml_no_padding_bottom_right20">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
       <h1 class="ml_industries_banner_header">Want to know how SmartWinnr can help you?</h1>
@@ -309,8 +310,23 @@ layout: ml_layout
       <img class="ml_industries_banner_image" alt="" src="/images/industryBanners/MedicalDevices_Pharma.png" class="ml-padding-top0 ml-padding-bottom0">
     </div>
   </div>
-</section>
+</section> -->
 
+<section class="ml_industries_banner ml_no_padding_bottom_right20">
+  <div class="row ml_div_contents_in_center">
+    <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+      <h1 >Want to know how SmartWinnr can help you?</h1>
+      <h2 class=" padding0">Get a no-obligation, free 30 min demo session.</h2>
+      <h2 class=" padding0">Start your <u>free-1-month trial</u> today!</h2>
+      <div class="ml_industries_banner_button_div text-center">
+        <a class="ml_industries_banner_button" align="center" href="/request-demo">Request for Demo</a>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-5 col-xs-12 ml-margin-bottom0 text-center padding0">
+      <img class="ml_industries_banner_image" alt="" src="/images/industryBanners/Banking.png" class="ml-padding-top0 ml-padding-bottom0">
+    </div>
+  </div>
+</section>
 <section class="ml_background padding50">
     <div class="row ml-margin-bottom20">
       <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 ml-text-on-image">

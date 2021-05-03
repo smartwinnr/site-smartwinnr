@@ -21,16 +21,7 @@ layout: ml_layout
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
     <div class="col-lg-4 col-md-12 col-sm-8 col-xs-12">
-        <div class="g2_review_widget_common"> 
-          <div id="g2-widg-smartwinnr-18042"></div>
-           <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 25px; color: #333; font-size: 10px; font-weight: 600; width: auto; text-align: center !important;" align="center">
-            Read more smartwinnr reviews 
-            </a>
-         </div> 
-         <script> 
-         (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-18042"); s = "https://www.g2.com/products/widget.embed?id=18042&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1619412928&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window));
-          </script> 
-        </div>
+        <div class="g2_review_widget_common">  <div id="g2-widg-smartwinnr-19481"></div> <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 0; color: #333; font-size: 10px; font-weight: 600; width: 220px; text-align: center;"> Read more smartwinnr reviews </a> </div> <script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-19481"); s = "https://www.g2.com/products/widget.embed?id=19481&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1620032020&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 
       </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
@@ -339,9 +330,9 @@ layout: ml_layout
 <section class="ml_industries_banner ml_no_padding_bottom_right20">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
-      <h1 class="ml_industries_banner_header">Want to know how SmartWinnr can help you?</h1>
-      <div class="ml_industries_banner_sub_header padding0">Get a no-obligation, free 30 min demo session.</div>
-      <div class="ml_industries_banner_sub_header padding0">Start your <u>free-1-month trial</u> today!</div>
+      <h1 >Want to know how SmartWinnr can help you?</h1>
+      <h2 class=" padding0">Get a no-obligation, free 30 min demo session.</h2>
+      <h2 class=" padding0">Start your <u>free-1-month trial</u> today!</h2>
       <div class="ml_industries_banner_button_div text-center">
         <a class="ml_industries_banner_button" align="center" href="/request-demo">Request for Demo</a>
       </div>
