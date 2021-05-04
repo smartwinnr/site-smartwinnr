@@ -16,19 +16,19 @@ Over the past few years, gamification has become a much talked-about approach to
 
 Gartner, in its report on _‘Gamification 2020: What Is the Future of Gamification’_ says:
 
-> <a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank" class="ml_custom_link">Gamification</a> is a tool to design behaviors, develop skills and enable innovation. Combined with other technologies and trends, gamification can cause major discontinuities in innovation, employee performance management, education, personal development and customer engagement.
+>  <a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank">Gamification</a> is a tool to design behaviors, develop skills and enable innovation. Combined with other technologies and trends, gamification can cause major discontinuities in innovation, employee performance management, education, personal development and customer engagement.
 
 Gamification is the application of typical elements of game playing (e.g. scoring, competition with others, rules of play) to other areas of activity. One of the most notable applications of gamification is in engaging and motivating people to achieve their goals.
 
 ## How is Gamification relevant to Sales?
 
-Companies have been using gamification one way or the other in their sales training programmes. Take role playing and playbooks as examples of conventional gamification techniques. In today’s world, gamification takes on a whole different meaning. It talks about interaction, instant feedback, team competitions, scores, leaderboards and much more.
+Companies have been using <a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank">gamification</a> one way or the other in their sales training programmes. Take role playing and playbooks as examples of conventional gamification techniques. In today’s world, gamification takes on a whole different meaning. It talks about interaction, instant feedback, team competitions, scores, leaderboards and much more.
 
 Salespeople are extremely competitive by nature. And gamification just taps into that. Be it sales performance or knowledge, gamification helps to quantify it and reward achievements through interactive modes.
 
 ## Why use Gamification?
 
-L&D professionals and CSOs today are very keen to <a href="https://www.smartwinnr.com/post/kpi-gamification-how-to-select-kpis/" target="_blank" class="ml_custom_link">implement gamification</a> within their organization. Some of the compelling reasons are:
+L&D professionals and CSOs today are very keen to <a href="https://www.smartwinnr.com/post/kpi-gamification-how-to-select-kpis/" target="_blank" class="">implement gamification</a> within their organization. Some of the compelling reasons are:
 
 *   **Motivate** - Gamification helps to motivate salespeople to achieve better results.
 
@@ -43,7 +43,7 @@ L&D professionals and CSOs today are very keen to <a href="https://www.smartwinn
 ## How can you use Gamification?
 
 There are various ways of implementing gamification. What is important is to link gamification to clearly defined objectives - whether it’s to increase sales performance or increase knowledge level.  
-Some of the most common ways to implement gamification are through:
+Some of the most common ways to <a href="https://www.smartwinnr.com/post/kpi-gamification-how-to-select-kpis/" target="_blank">implement gamification</a> are through:
 
 *   **Points** - Scoring points is crucial to any gamification. Points are given against accomplishments.
     For example, 10 points are awarded for every correct answer or 100 points for every converted opportunity. These points add to a person’s score for that quarter or year
@@ -67,7 +67,7 @@ There are several points that you need to consider before you implement gamifica
   Tie gamification to a business objective. It is important to know what is it that you are trying to achieve through a new initiative. Your business objective could be as particular as ‘to introduce a new concept’, or ‘to launch a new product’. Or it could be as generic as ‘keep my reps engaged’.
 
   2.  Which activities will you gamify?  
-  Once you have defined your business objective, it’s time to identify the steps that you want to gamify to achieve that. For example, your business objective could be <a href="https://smartwinnr.com/post/design-sales-contest-for--new-product-launch/" target="_blank" class="ml_custom_link">‘to successfully launch a new product’</a>.  
+  Once you have defined your business objective, it’s time to identify the steps that you want to gamify to achieve that. For example, your business objective could be <a href="https://smartwinnr.com/post/design-sales-contest-for--new-product-launch/" target="_blank" class="">‘to successfully launch a new product’</a>.  
   Now, what are those activities that will lead to the highest gains? In this case, you need to arm your reps with information about your new product which helps them to do value based selling. Like Information on features and benefits, competitor information, sales objections and rebuttals, etc. So, gamify the learning.
 
   3.  Is your sales team competitive or collaborative?  
@@ -77,20 +77,18 @@ There are several points that you need to consider before you implement gamifica
 
 <br>
 
-<p><h4><b>Want to know more about gamification? Check out the below articles</b></h4></p>
-<p>
-<a href="https://smartwinnr.com/post/psychology-of-sales-gamification/" target="_blank" class="ml_custom_link">The Psychology of Sales Gamification</a></p>
+### **>Want to know how gamification can help in accelerating your employee engagement? Read the below articles to find out:**
 
-<a href="https://www.smartwinnr.com/post/gamification-and-employee-engagement/" target="_blank" class="ml_custom_link">Gamification and Employee Engagement: the Why and the How</a>
+<a href="https://www.smartwinnr.com/post/gamification-and-employee-engagement/" target="_blank" class="">Gamification and Employee Engagement: the Why and the How</a>
 
-<a href="https://www.smartwinnr.com/post/improve-employee-engagement-of-your-remote-teams-with-gamification/" target="_blank" class="ml_custom_link">Improve Employee Engagement of your Remote Teams with Gamification</a>
+<a href="https://www.smartwinnr.com/post/improve-employee-engagement-of-your-remote-teams-with-gamification/" target="_blank" class="">Improve Employee Engagement of your Remote Teams with Gamification</a>
 
 <br>
 
-#### **SmartWinnr: #1 Easy to Use Sales Gamification Software**
+<h3><b>SmartWinnr: #1 Easy to Use Sales Gamification Software</b></h3>
 
-<a href="https://www.smartwinnr.com/" target="_blank" class="ml_custom_link">SmartWinnr</a> is an AI-powered gamification platform that helps you to improve your sales team’s knowledge and performance by up to 80%.
+<a href="https://www.smartwinnr.com/" target="_blank" class="">SmartWinnr</a> is an AI-powered gamification platform that helps you to improve your sales team’s knowledge and performance by up to 80%.
 
 You can run the most effective, engaging, hustle-free, and automated contests with the help of SmartWinnr. No tedious excel calculations, live leaderboards, and many more.
 
-Curious to see SmartWinnr in action? <a href="https://www.smartwinnr.com/request-demo/" target="_blank" class="ml_custom_link">Book a demo</a> with us today!
+Curious to see SmartWinnr in action? <a href="https://www.smartwinnr.com/request-demo/" target="_blank" class="">Book a demo</a> with us today!

@@ -152,12 +152,18 @@ Gary Vaynerchuk is a Belarusian American entrepreneur, author and an Internet pe
 
 <br>
 
-#### **Want to know where Sales is headed in 2021?**
+### **There are a lot of crucial sales lessons that you can learn from successful entrepreneurs. Want to learn a few?**
 
-<a href="https://smartwinnr.com/post/6-trends-that-sales-experts-are-predicting-for-2021/" target="_blank" class="ml_custom_link">6 Trends that Sales Experts are predicting for 2021</a>
+<a href="https://www.smartwinnr.com/post/what-sales-lessons-can-you-learn-from-successful-entrepreneurs/" target="_blank">Click here</a> to learn
 
 <br>
 
-#### **Want to build a happy, prosperous, and successful sales environment at your organization?**
+### **Want to know where Sales is headed in 2021?**
 
-<a href="https://www.smartwinnr.com/post/how-to-build-a-successful-sales-environment/" target="_blank" class="ml_custom_link">Click here and learn</a> how to Build a Successful Sales Environment
+<a href="https://smartwinnr.com/post/6-trends-that-sales-experts-are-predicting-for-2021/" target="_blank">6 Trends that Sales Experts are predicting for 2021</a>
+
+<br>
+
+### **Want to build a happy, prosperous, and successful sales environment at your organization?**
+
+<a href="https://www.smartwinnr.com/post/how-to-build-a-successful-sales-environment/" target="_blank" >Click here and learn</a> how to Build a Successful Sales Environment

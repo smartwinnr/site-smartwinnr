@@ -21383,7 +21383,45 @@ h1.contribute {
   object-fit: cover;
 }
 
+.swiper-img-request-demo{
+  height:   150px;
+  width: auto;
+  margin: 0 2px;
+  max-width: 100%;
+  object-fit: cover;
+}
 
+  .swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title p{
+    display: none;
+  }
+  .swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title h3{
+    display:none;
+  }
+
+@media (min-width: 300px) and (max-width:768px){
+  .swiper-img-request-demo{
+    height: 200px;
+    width: auto;
+    margin: 0 2px;
+   
+    max-width: 100%;
+    object-fit: cover;
+  }
+  .swiper-margin-top-request-demo{
+    margin-top: 30px !important;
+  }
+  .swiper-button-prev-request-demo{
+    right: 3% !important;
+    left:auto !important;
+    outline: none !important;
+  }
+}
+.swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title p{
+  font-size: 12px !important;
+}
+.swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title h3{
+  font-size: 18px !important;
+}
 .swiper-slide {
    background-size: auto 150px ;
   background-position: center !important;
@@ -21418,18 +21456,6 @@ h1.contribute {
   right: 50px !important;
   left:auto !important;
   outline: none !important;
-}
-@media (min-width:300px) and (max-width:768px){
-  .swiper-button-prev{
-    left: 10px !important;
-    right:auto !important;
-    outline: none !important;
-  }
-  .swiper-button-next{
-    right: 10px !important;
-    left:auto !important;
-    outline: none !important;
-  }
 }
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
@@ -24854,6 +24880,28 @@ img {
     display: block !important;
   }
 }
+.ml_medical_devices_sub_header {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+
+.ml_medical_request_button {
+  margin-top: 10px !important;
+  background: #5951ff !important;
+  color: #fff !important;
+  font-size: 20px !important;
+  /* letter-spacing: .05em; */
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  border: 2px solid #5951ff;
+  border-radius: 4px;
+}
+
+.ml_medical_request_button:hover {
+  background: #fff !important;
+  color: #5951FF !important;
+}
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .ml-white-tile {
     height: 60%;
@@ -24900,10 +24948,13 @@ img {
   .ml_industries_banner_sub_header {
     font-size: 1.6rem !important;
   }
+  .ml_medical_devices_sub_header {
+    font-size: 20px !important;
+  }
   .ml_industries_banner_image {
     height: 250px !important;
   }
-  .ml_industries_banner_button {
+  .ml_medical_devices_sub_header {
     font-size: 1.3rem !important;
     padding: 5px 20px !important;
   }
@@ -24919,11 +24970,14 @@ img {
   .ml_industries_banner_sub_header {
     font-size: 1.8rem !important;
   }
+  .ml_medical_devices_sub_header {
+    font-size: 20px !important;
+  }
   .ml_industries_banner_image {
     height: 260px !important;
   }
   .ml_industries_banner_button {
-    font-size: 1.5rem !important;
+    font-size: 1rem !important;
     padding: 5px 20px !important;
   }
 }
@@ -25659,7 +25713,9 @@ img {
     font-size: 1.4rem !important;
     line-height: 2rem !important;
   }
-  
+  .ml_medical_devices_sub_header {
+    font-size: 20px !important;
+  }
   .ml_industries_banner_image {
     height: 250px !important;
   }
@@ -26602,6 +26658,10 @@ img {
 .ml_height_75 {
   height: 75px !important;
 }
+.ml_height_500 {
+  height: 500px !important;
+  width: auto !important;
+}
 
 .ml_custom_link {
   color: #0065FF !important;
@@ -26668,7 +26728,7 @@ img {
   margin-top: 10px !important;
   background: #5951ff !important;
   color: #fff !important;
-  font-size: 1.5em;
+  font-size: 1em;
   /* letter-spacing: .05em; */
   font-weight: 600;
   text-transform: uppercase;
@@ -26686,4 +26746,23 @@ img {
   background: linear-gradient(to right top, #3429be, #4030c6);
   height: auto;
   padding: 20% 10%;
+}
+
+.g2_review_widget_common{
+  background: #ffffff; 
+  height:377px;
+  position: relative;
+  width:auto;
+  border: solid 1px #ccc;
+}
+@media (min-width: 768px) and (max-width: 992px){
+  .g2_review_widget{
+    background: #ffffff;
+    height: 377px !important;
+    position: relative !important;
+    width: 60% !important;
+    border: solid 1px #ccc !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
