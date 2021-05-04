@@ -80,7 +80,7 @@ layout: ml_layout
       					<p>You are a graduate in Computer Science or related fields</p>
                   		<p>Passionate about learning new technologies</p>
                   		<p>Prior experience working in Javascript frameworks</p>
-      					<p>Its a huge bonus if you already know about the <a href="http://meanjs.org/">MEANJS</a> stack and <a href="http://ionicframework.com/" class="ml_custom_link">Ionic</a>. </p>
+      					<p>Its a huge bonus if you already know about the <a href="http://meanjs.org/" class="ml_custom_link">MEANJS</a> stack and <a href="http://ionicframework.com/" class="ml_custom_link">Ionic</a>. </p>
       					<p></p>
       					<!-- <p><a href="/about-us/company">Learn more about our values.</a></p> -->
       					<p></p>

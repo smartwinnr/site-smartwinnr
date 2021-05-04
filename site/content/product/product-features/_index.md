@@ -18,7 +18,7 @@ layout: ml_layout
     <div class="row ml_top_container ml-margin-bottom0">
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h1 class="ml-margin-top-sections">If knowledge matters for your organization success, you need SmartWinnr.</h1>
-        <div class="ml-font20">SmartWinnr helps to drive team performance through better knowledge retention. Gamified mobile-friendly short quizzes and Twitter-like SmartFeeds keeps your team always up to date with latest information.</div>
+        <div class="ml-font-20-CS">SmartWinnr helps to drive team performance through better knowledge retention. Gamified mobile-friendly short quizzes and Twitter-like SmartFeeds keeps your team always up to date with latest information.</div>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
