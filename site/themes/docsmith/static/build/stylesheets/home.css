@@ -21384,12 +21384,20 @@ h1.contribute {
 }
 
 .swiper-img-request-demo{
-  height: 100px;
+  height:   150px;
   width: auto;
   margin: 0 2px;
   max-width: 100%;
   object-fit: cover;
 }
+
+  .swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title p{
+    display: none;
+  }
+  .swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title h3{
+    display:none;
+  }
+
 @media (min-width: 300px) and (max-width:768px){
   .swiper-img-request-demo{
     height: 200px;
@@ -24961,7 +24969,7 @@ img {
     height: 260px !important;
   }
   .ml_industries_banner_button {
-    font-size: 1.5rem !important;
+    font-size: 1rem !important;
     padding: 5px 20px !important;
   }
 }
@@ -26702,7 +26710,7 @@ img {
   margin-top: 10px !important;
   background: #5951ff !important;
   color: #fff !important;
-  font-size: 1.5em;
+  font-size: 1em;
   /* letter-spacing: .05em; */
   font-weight: 600;
   text-transform: uppercase;

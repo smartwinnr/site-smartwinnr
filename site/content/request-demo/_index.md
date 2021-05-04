@@ -31,7 +31,7 @@ layout: ml_layout
           <ul class="ml_text_blue ">
             <li class="ml_font_1_point_one">Walkthrough of a <span class="ml_text_bold">customised demo</span> of SmartWinnr, to meet your business needs</li>
             <li class="ml_font_1_point_one">Take back a <span class="ml_text_bold">concrete plan</span> for gamifying your sales contest, training or coaching</li>
-            <li class="ml_font_1_point_one">Start your <span class="ml_text_bold">free 1 month trial</span></li>
+            <!-- <li class="ml_font_1_point_one">Start your <span class="ml_text_bold">free 1 month trial</span></li> -->
           </ul>
         </div>
         <div class="ml_text_blue ml_font_1_point_one ml_text_bold ml-margin-bottom20 ml-margin-top30">Global enterprises rely on SmartWinnr</div>
@@ -377,6 +377,10 @@ layout: ml_layout
       centeredSlides: true,
       slidesPerView: 'auto',
       spaceBetween: 80,
+        autoplay: {
+          delay: 2500,
+          disableOnInteraction: false,
+        },
       coverflowEffect: {
         rotate: 0,
         stretch: 0,
