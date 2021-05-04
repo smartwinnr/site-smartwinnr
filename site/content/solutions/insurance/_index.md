@@ -16,7 +16,7 @@ layout: ml_layout
 <section class="ml_insurance_top_section">
   <div class="row padding50 ml_div_contents_in_center">
     <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-      <div class="ml_label ml_smartfeed_badge">Insurance</div><br>
+      <div class="ml_label ml_smartfeed_badge ml-margin-top-sections">Insurance</div><br>
       <h1>Radically Improve Sales Productivity of Your Agents</h1>
       <div class="ml-font20 padding0">Rollout a proven sales enablement plan encompassing sales contests, training and coaching that is guaranteed to improve agent productivity</div></br>
       <p align="left" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
@@ -289,7 +289,7 @@ layout: ml_layout
 <section class="ml_industries_banner ml_no_padding_bottom_right20">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
-      <h1 >Want to know how SmartWinnr can help you?</h1>
+      <h1  >Want to know how SmartWinnr can help you?</h1>
       <h2 class=" padding0">Get a no-obligation, free 30 min demo session.</h2>
       <h2 class=" padding0">Start your <u>free-1-month trial</u> today!</h2>
       <div class="ml_industries_banner_button_div text-center">

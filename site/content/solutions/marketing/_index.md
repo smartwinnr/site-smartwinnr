@@ -16,7 +16,7 @@ layout: ml_layout
 <div class="ml_blue_bg_gradient">
   <div class="row ml_no_padding_bottom_right50 ml_margin_bottom_minus2per ml_div_contents_in_center">
     <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-      <div class="ml_label ml_survey_badge">Marketing</div><br>
+      <div class="ml_label ml_survey_badge ml-margin-top-sections">Marketing</div><br>
       <h1 class="ml_body_text_white">Effective messaging for your sales team</h1>
       <div class="ml_body_text_white ml-font20 padding0">Bridge the gap between sales and marketing</div></br>
       <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>

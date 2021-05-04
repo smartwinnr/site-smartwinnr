@@ -17,7 +17,7 @@ layout: ml_layout
   <div class="ml-resource">
     <div class="ml_top_container">
       <!-- <div class="row"> -->
-        <h1 class="text-center ml_body_text_white">Resources</h1>
+        <h1 class="text-center ml_body_text_white ml-margin-top-sections">Resources</h1>
         <h3 class="ml_body_text_white text-center">Looking for more information on how SmartWinnr can drive your team performance? You can find them here.</h3>
         <div class="text-center">
           <ul class="resources_icon_tab">

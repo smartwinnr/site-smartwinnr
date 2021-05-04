@@ -21410,6 +21410,11 @@ h1.contribute {
   .swiper-margin-top-request-demo{
     margin-top: 30px !important;
   }
+  .swiper-button-prev-request-demo{
+    right: 3% !important;
+    left:auto !important;
+    outline: none !important;
+  }
 }
 .swiper-request-demo  .swiper-slide .row .col-lg-12 .card-title p{
   font-size: 12px !important;
@@ -21452,6 +21457,7 @@ h1.contribute {
   left:auto !important;
   outline: none !important;
 }
+
 blockquote > div > div.btn-copy > .copy-code {
   padding-top: 0.01rem;
   right: 2.2rem;
