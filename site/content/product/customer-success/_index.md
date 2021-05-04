@@ -18,7 +18,7 @@ layout: ml_layout
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_smartpath_badge ml-margin-top-sections">Customer Success</div><br>
       <h1>World Class Support Team</h1>
-      <div class="ml-font20">Have any questions on how to use SmartWinnr? We have an amazing support team to help you!</div>
+      <div class="ml-font-20-CS">Have any questions on how to use SmartWinnr? We have an amazing support team to help you!</div>
       <div class="row ml-margin-top20">
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <div class="pull-left">

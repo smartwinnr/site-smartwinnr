@@ -16,7 +16,7 @@ layout: ml_layout
 <section>
   <div class="ml-resource">
     <div class="row text-center ml-container">
-      <h1 class="ml_body_text_white">Openings</h1>
+      <h1 class="ml_body_text_white  ml-margin-top-sections">Openings</h1>
       <h3 class="ml_body_text_white">We work out of T-Hub, Hyderabad. Its the most exciting place to be! Come, join us.</h3>
     </div>
   </div>
@@ -36,12 +36,12 @@ layout: ml_layout
                 <p>Build both client side and server side scripting code in NodeJS, MongoDB and AngularJS</p>
                 <p>You are confortable working in small to medium size teams in a sprint based agile development environment</p>
                 <p>You have a strong grasp of Git and how to resolve problems that inevitably arise when collaborating</p>
-                <p>Its a huge bonus if you already know about the <a href="http://meanjs.org/">MEANJS stack</a> and <a href="http://ionicframework.com/">Ionic</a></p>
+                <p>Its a huge bonus if you already know about the <a href="http://meanjs.org/" class="ml_custom_link">MEANJS stack</a> and <a href="http://ionicframework.com/" class="ml_custom_link">Ionic</a></p>
               <h3>You Are</h3>
                 <p>Passionate about the little details that matter</p>
                 <p>Deeply technical with a strong background in computer science</p>
                 <p>Inquisitive with an intrinsic drive to learn and improve</p>
-                <a href="/about-us/company">Learn more about our values.</a>
+                <a href="/about-us/company" class="ml_custom_link">Learn more about our values.</a>
                 <p></p><p></p>
                 <p>
                   <a href="mailto:contact@mobillionlabs.com?subject=Apply for Full Stack Developer" class="btn btn-large btn-success"><span>Apply Now</span></a>
@@ -58,18 +58,17 @@ layout: ml_layout
       					<p>Deep understanding of marketing metrics</p>
       					<p>Ability to collaborate with key stakeholders to develop a marketing plan for a product launch</p>
       					<p>Comfortable editing content about technology, specifically product marketing content</p>
-
               <h3>You Are</h3>
                 <p>B2B marketing experience</p>
                 <p>Experience in marketing SaaS based products</p>
                 <p>Passionate about working in emerging technologies</p>
                 <p></p>
                 <p></p>
-                <p> <a href="/about-us/company">Learn more about our values.</a></p>
+                <p> <a href="/about-us/company" class="ml_custom_link">Learn more about our values.</a></p>
               <p></p>
               <p></p>
               <p>
-                <a href="mailto:contact@mobillionlabs.com?subject=Apply for Product Marketing Specialist" class="btn btn-large btn-success"><span>Apply Now</span></a>
+                <a href="mailto:contact@mobillionlabs.com?subject=Apply for Product Marketing Specialist" class="btn btn-large btn-success "><span>Apply Now</span></a>
             </p>
             </div>
             </div>
@@ -81,10 +80,9 @@ layout: ml_layout
       					<p>You are a graduate in Computer Science or related fields</p>
                   		<p>Passionate about learning new technologies</p>
                   		<p>Prior experience working in Javascript frameworks</p>
-      					<p>Its a huge bonus if you already know about the <a href="http://meanjs.org/">MEANJS</a> stack and <a href="http://ionicframework.com/">Ionic</a>. </p>
+      					<p>Its a huge bonus if you already know about the <a href="http://meanjs.org/">MEANJS</a> stack and <a href="http://ionicframework.com/" class="ml_custom_link">Ionic</a>. </p>
       					<p></p>
-      					<p><a href="/about-us/company">Learn more about our values.</a></p>
-
+      					<p><a href="/about-us/company" class="ml_custom_link">Learn more about our values.</a></p> 
       					<p></p>
       					<p></p>
       					<p>

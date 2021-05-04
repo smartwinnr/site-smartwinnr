@@ -18,7 +18,7 @@ layout: ml_layout
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <!-- <img class="ml-margin-bottom20 ml_request_demo_logo" src="/images/smartwinnr_white_logo 2.png" alt="SmartWinnr Logo"> -->
-        <h1 class="ml_text_blue ">Schedule a Free Demo</h1>
+        <h1 class="ml_text_blue  ml-margin-top-sections">Schedule a Free Demo</h1>
         <div class="ml_font_1_point_one ml_text_blue ">See how SmartWinnr can drive <span class="ml_text_bold">Sales Revenue goals</span> for your team, through
           <ul class="ml_text_blue">
             <li class="ml_font_1_point_one">gamified sales contests</li>

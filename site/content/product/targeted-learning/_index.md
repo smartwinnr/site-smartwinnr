@@ -114,7 +114,7 @@ layout: ml_layout
   </div>
 </div>
 
-<div class="row ml-margin0 ml_no_padding_right50 ml_targeted_learning_report_image white ml_div_contents_in_center ">
+<div class="row ml-margin0 padding50 ml_targeted_learning_report_image white ml_div_contents_in_center ">
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_smartfeed_badge">Reports</div><br>
     <h2 class="ml_body_text_black ml-margin-bottom10">Get access to detailed reports  by business unit, country or team.</h2>

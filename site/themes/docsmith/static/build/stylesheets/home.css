@@ -25303,6 +25303,9 @@ img {
   height: 150px;
 }
 
+.ml-font-20-CS{
+  font-size: 20px !important;
+}
 @media screen and (max-height: 320px) and (min-width: 768px) {
   .ml_footer_logo {
     height: auto !important;
@@ -26285,7 +26288,7 @@ img {
 
 @media(min-width:300px) and (max-width:480px){
   .ml_targeted_learning_report_image{
-    padding: 5% 10% !important;
+    padding: 5% !important;
   }
 }
 
