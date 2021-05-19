@@ -68,7 +68,7 @@ layout: ml_layout
   </div>
 </div>
 
-<div class="row ml-margin0 padding50">
+<!-- <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
     <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/psychology-of-sales-gamification/';">
@@ -267,7 +267,7 @@ layout: ml_layout
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <script>

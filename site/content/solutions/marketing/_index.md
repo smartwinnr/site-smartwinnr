@@ -42,7 +42,7 @@ layout: ml_layout
     </ul>
   </div>
 </div>
-
+<!-- 
 <div class="row ml-margin0 padding50">
   <h2 class="text-center">Related Resources</h2>
   <div class="ml_slider_related_blogs">
@@ -122,4 +122,4 @@ layout: ml_layout
       </div>
     </div>
   </div>
-</div>
+</div> -->
