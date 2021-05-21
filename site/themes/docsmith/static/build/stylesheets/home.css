@@ -21446,15 +21446,35 @@ h1.contribute {
   -webkit-align-items: center;
   align-items: center;
 }
+@media (min-width: 300px) and (max-width:768px){
+  .swiper-button-prev{
 
+    left: 10px !important;
+    right:auto !important;
+  }
+  .swiper-button-next{
+    right: 10px !important;
+    left:auto !important;
+  }
+
+}
+
+@media (min-width: 768px){
+  .swiper-button-prev{
+
+    left: 50px !important;
+    right:auto !important;
+  }
+  .swiper-button-next{
+    right: 50px !important;
+    left:auto !important;
+  }
+
+}
 .swiper-button-prev{
-  left: 50px !important;
-  right:auto !important;
   outline: none !important;
 }
 .swiper-button-next{
-  right: 50px !important;
-  left:auto !important;
   outline: none !important;
 }
 blockquote > div > div.btn-copy > .copy-code {
@@ -25321,7 +25341,16 @@ img {
   width: auto;
   margin: 0 30px 50px !important;
 }
-
+.ml_company_logo_home {
+  height: 50px;
+  width: auto;
+  /* margin: 0 30px 50px !important; */
+}
+.ml_bonalive_company_logo {
+  height: 70px !important;
+  width: auto;
+  margin: 0 30px 50px !important;
+}
 .ml_company_logo_in_request_demo {
   height: 30px;
   width: auto;
@@ -25662,6 +25691,13 @@ img {
 
 .ml_padding_left0 {
   padding-left: 0px !important;
+}
+.ml_height_100_flex{
+  height:100px !important; 
+  display:flex !important;
+  align-items: center; 
+  justify-content: center  !important;
+  flex-direction: row;
 }
 
 @media only screen and (min-width: 300px) and (max-width: 767px) {
