@@ -37,9 +37,9 @@ layout: ml_layout
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+      <li class="ml-margin-top10">Run campaigns for your internal sales team and external partners</li>
       <li class="ml-margin-top10">Send new product information through bite-sized SmartFeeds</li>
       <li class="ml-margin-top10">Check knowledge readiness through AI-driven quizzes</li>
-      <li class="ml-margin-top10">Run campaigns for your internal sales team and external partners</li>
       <li class="ml-margin-top10">Gamify learning to increase engagement and compliance</li>
       <li class="ml-margin-top10">Get market feedback through easily-administered surveys</li>
     </ul>
