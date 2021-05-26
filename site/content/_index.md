@@ -36,7 +36,7 @@ layout: ml_layout
       </div>
     </div>
    <div class="row text-center paddingLogo ">
-      <div class="ml_logo_slider ml_div_contents_in_center">
+      <div class="ml_logo_slider ml_div_contents_in_center ml_padding_left_right20">
         <div  class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
          <img class="ml_company_logo_home ml_height_55"  src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
         </div>

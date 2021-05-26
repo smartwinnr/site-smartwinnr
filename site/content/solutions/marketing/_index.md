@@ -14,23 +14,26 @@ layout: ml_layout
 ---
 
 <div class="ml_blue_bg_gradient">
-  <div class="row ml_no_padding_bottom_right50 ml_margin_bottom_minus2per ml_div_contents_in_center">
-    <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+  <div class="row padding50  ml_div_contents_in_center">
+    <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_survey_badge ml-margin-top-sections">Marketing</div><br>
       <h1 class="ml_body_text_white">Effective messaging for your sales team</h1>
       <div class="ml_body_text_white ml-font20 padding0">Bridge the gap between sales and marketing</div></br>
-      <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
+      <p  class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
     </div>
-    <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 padding0 ml_zindex1 ml-margin-bottom0">
-      <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/solutions_user_cases_onboarding_calendar_jzbqhw.png"/>
-    </div>
+   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+      <div class="g2_review_widget_common">
+       <div id="g2-widg-smartwinnr-19689"></div>
+        <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 0; color: #333; font-size: 10px; font-weight: 600; width: 220px; text-align: center;"> Read more smartwinnr reviews </a>
+       </div> 
+  </div>
   </div>
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/quiz_shots_x3ag1h.png"/>
+    <img class="ml-image" alt="Image" src="/images/new-product-launch.jpeg"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
@@ -123,3 +126,7 @@ layout: ml_layout
     </div>
   </div>
 </div> -->
+
+
+
+<script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-19689"); s = "https://www.g2.com/products/widget.embed?id=19689&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1622006041&text_style="; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 

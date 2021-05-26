@@ -14,15 +14,16 @@ layout: ml_layout
 ---
 
 <div class="padding50 ml_yellow_bg_gradient">
-  <div class="row ml-padding-bottom10">
-    <h3 class="ml-margin-top-sections">Drive Sales Productivity</h3>
-    <div class="ml_text_12">Give your sales team the winning edge. Motivate, train and coach from a single platform.</div>
-  </div>
+
   <div class="row ml_div_contents_in_center">
-    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
+    <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center padding0 ml_zindex1">
       <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/sales_productivity_dxfy3v.png"/>
-    </div>
-    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    </div> -->
+      <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+          <div class=" ml-padding-bottom10">
+          <h1 class="ml-margin-top-sections">Drive Sales Productivity</h1>
+          <div class="ml_text_12">Give your sales team the winning edge. Motivate, train and coach from a single platform.</div>
+      </div>
       <h2 class="ml-padding-top10">SmartWinnr for Sales</h2>
       <ul class="ml_font_1 ml_ul_tick">
         <li class="ml-margin-top10">Run sales contests to boost sales</li>
@@ -30,7 +31,11 @@ layout: ml_layout
         <li class="ml-margin-top10">Coach teams for top performance</li>
         <li class="ml-margin-top10">Reduce ramp-up time for new rep onboarding</li>
       </ul>
+          <p  class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
+  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+    <div class="g2_review_widget_common"> <div id="g2-widg-smartwinnr-19680"></div> <a onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" href="https://www.g2.com/products/smartwinnr/reviews?utm_campaign=widget_embed&amp;utm_medium=riblets&amp;utm_source=read_more" style="display: block; position: absolute; bottom: 6px; left: 0; color: #333; font-size: 10px; font-weight: 600; width: 220px; text-align: center;"> Read more smartwinnr reviews </a> </div> <script> (function (w) { w._g2load = true; function p(i, s) { i = document.getElementById("g2-widg-smartwinnr-19680"); s = "https://www.g2.com/products/widget.embed?id=19680&amp;max=4&amp;product_id=smartwinnr&amp;version=2&amp;wid=1621834258&text_style=text-dark"; i.innerHTML = "<iframe src='" + s + "'width='100%' height='377px' frameBorder=0 scrolling='no'></iframe>"; w._g2load = true; } if (w._g2load) p(); w.addEventListener ? w.addEventListener("load", p, false) : w.attachEvent("onload", p); }(window)); </script> 
+  </div>
   </div>
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">

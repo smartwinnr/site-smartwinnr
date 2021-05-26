@@ -13,16 +13,18 @@ type: ml_layout
 layout: ml_layout
 ---
 
-<section class="ml_blue_bg_gradient">
-  <div class="row ml_no_padding_bottom_right50 ml_div_contents_in_center">
+<section class="ml_yellow_bg_gradient">
+  <div class="row padding50 ml_div_contents_in_center">
     <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
       <div class="ml_label ml_survey_badge ml-margin-top-sections">Call Center</div><br>
-      <h1 class="ml_body_text_white">Deliver Customer Happiness</h1>
-      <div class="ml_body_text_white ml-font20 padding0">Empower your call center team with right knowledge and motivation</div></br>
-      <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
+      <h1 class="">Deliver Customer Happiness</h1>
+      <div class=" ml-font20 padding0">Empower your call center team with right knowledge and motivation</div></br>
+      <!-- <p class="ml-padding-top ml-padding-bottom10"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p> -->
+             <p  class=" ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
     <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 padding0 ml_zindex1 ml-margin-bottom0">
-      <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/user-case-call-center_fhck06.png"/>
+      <!-- <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/user-case-call-center_fhck06.png"/> -->
+      <img class="ml-image " src="/images/sales-tv-gif.gif">
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
@@ -30,7 +32,7 @@ layout: ml_layout
 
 <div class="row ml-margin0 padding50 white ml_div_contents_in_center">
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
-    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/individual-team-leaderboard-combined_heynkl.png"/>
+    <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/individual-team-leaderboard-combined_heynkl.png"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
