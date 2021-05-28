@@ -33,8 +33,7 @@ title: SmartWinnr License Terms and Conditions
       <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12" id="policy-covers" class="privacy-content">
         <h2><b>SmartWinnr License Terms and Conditions</b></h2><br>
         <p>BY AGREEING TO A DOCUMENT INCORPORATING THESE SMARTWINNR LICENSE TERMS AND CONDITIONS (“THE TERMS”) (AN “ORDER FORM”) SMARTWINNR AND CUSTOMER AGREE THAT THESE TERMS SHALL GOVERN THE RELATIONSHIP BETWEEN THE PARTIES AS TO ANY SMARTWINNR PRODUCTS OR SERVICES PROVIDED OR TO BE PROVIDED TO CUSTOMER AS SET FORTH IN SUCH ORDER FORM. AS TO ANY PARTICULAR ORDER FORM, THE ORDER FORM, THE SERVICES DEFINITIONS AND SERVICE-SPECIFIC TERMS AND CONDITIONS, AND THESE TERMS TOGETHER CONSTITUTE THE AGREEMENT OF THE PARTIES AND ARE REFERRED TO COLLECTIVELY HEREIN AS THE “AGREEMENT.” IN THE EVENT OF ANY CONFLICT BETWEEN THE ORDER FORM AND THESE TERMS, THESE TERMS SHALL PREVAIL UNLESS THE ORDER FORM EXPRESSLY PROVIDES THAT IT IS MODIFYING THESE TERMS WITH RESPECT TO SUCH AGREEMENT.</p>
-        <p><b>Customer and Company agree as follows:</b></p>
-        
+        <p><strong>Customer and Company agree as follows:</strong></p>
         <p>“Company” means MobillionLabs, Inc. DBA SmartWinnr or one of its affiliates, as set forth in the Order Form.</p>
         <p>“Customer” means the party to whom Company is to provide products or services pursuant to the Order Form (whether identified as “Customer”, “customer”, “client” or similar designation in the Order Form). If “Customer” includes more than one legal person, the obligations imposed upon each shall be joint and several. The act of, notice from or to, or signature of any one or more of the persons included within “Customer” shall be binding on all such persons with respect to all rights and obligations under this Agreement, including but not limited to any renewal, extension, termination or modification of this Agreement.</p><br>
         <h4 class="ml-margin-bottom10 ml_body_text_blue" id="customers-use-of-the-service"><b>1. Customer's Use of the Service.</b></h4>
@@ -149,6 +148,7 @@ title: SmartWinnr License Terms and Conditions
         <p><b>"Malicious Code"</b> means viruses, worms, time bombs, Trojan horses and other malicious code, files, scripts, agents or programs.</p>
         <p><b>"Order Form"</b> means the separate ORDER FORMs under which Customer subscribes to the Company Service pursuant to this Agreement that have been fully executed by the parties.</p>
         <p><b>"Service"</b> means Company's software-as-a-service applications as described in the Documentation and subscribed to under an Order Form.</p>
+        <p class="ml-margin-top20">Version: January 13, 2020</p>
       </div>
     </div>
   </div>
