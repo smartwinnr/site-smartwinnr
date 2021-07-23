@@ -447,6 +447,41 @@ layout: ml_layout
   </div>
 </section>
 
+<section class="ml-background-white">
+  <div class="padding50">
+    <div class="row ml_text_flex_row">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Keep Your Team Up-to-date with Right Knowledge</h4>
+        <div class="ml-subtext">Automatically send and track bite-sized information on latest product knowledge, clinical data and competitive intelligence</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Digitize your Sales Contests for Higher RoI</h4>
+        <div class="ml-subtext">Drive real-time sales contests with points, badges, challenges and leaderboards to track and improve sales productivity.</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Drive Targeted Messaging for Physicians</h4>
+        <div class="ml-subtext">Use video coaching challenges to allow reps to practise targeted messaging for physicians in a safe and supportive environment.</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Better Handle Customer Objections</h4>
+        <div class="ml-subtext">Send regular quizzes and coaching challenges to improve customer objection handling capability</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Motivate and Engage with your Field Force Regularly</h4>
+        <div class="ml-subtext">Celebrate wins, share success stories, recognize achievements from a single platform to keep the teams motivated to win</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Easily Train Your Customers and Distributors</h4>
+        <div class="ml-subtext">Train customers and distributors on your product through mobile-first smart learning and gamified assessments</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <h4 class="ml-title-font">Managers Track Performance and Knowledge Easily</h4>
+        <div class="ml-subtext">Managers can track and coach individual reps on knowledge and performance easily and quickly through the SmartWinnr mobile app.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- <section class="ml_industries_banner ml_no_padding_bottom_right20">
   <div class="row ml_div_contents_in_center">
     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
