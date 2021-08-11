@@ -25499,6 +25499,12 @@ img {
   max-width: 100%;
 }
 
+.ml-blog-small-image {
+  width: auto;
+  height: 400px;
+  max-width: 100%;
+}
+
 .ml-dreamforce-image-wo-max-width {
   width: auto;
   height: 600px;
