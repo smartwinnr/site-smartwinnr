@@ -34,7 +34,7 @@ layout: ml_layout
       <a href="https://www.g2.com/products/smartwinnr/reviews/smartwinnr-review-4666830" rel="noreferrer" target="_blank"><img class="ml-image" alt="Image" src="/images/g2-review-img-banking.jpeg"></a>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      <h1 class="text-center">Customer Success Story - Large Private Bank with more than 50,000 users</h1>
+      <h1 class="text-center">Customer Success Story - Large Private Bank with more than 50,000 users </h1>
     </div>
   </div>
 </section>
