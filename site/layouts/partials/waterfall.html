@@ -16,9 +16,9 @@
         <div class="ml-featured-card">
           <div class="ml-featured-card-header">
             <a href="{{ .Permalink }}">{{ with .Params.featured_image }}<img class="ml-featured-blog-image" center-align src="{{ . }}">{{ end }}</a>
-            <a class="ml-featured-card-title" href="http://localhost:3000/post/{{ .Slug }}">{{ .Title }}</a>
+            <!-- <a class="ml-featured-card-title" href="http://localhost:3000/post/{{ .Slug }}">{{ .Title }}</a> -->
             <!-- <a class="ml-featured-card-title" href="http://192.168.0.10:3000/post{{ .Slug }}">{{ .Title }}</a> -->
-            <!--  <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a> -->
+            <a class="ml-featured-card-title" href="{{ .Permalink }}">{{ .Title }}</a>
           </div>
           <div class="ml-featured-card-content">
             {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
@@ -260,8 +260,8 @@
           <div class="card-content">
             <article class="article">
               {{ slicestr .Summary 0 200 }}{{ if .Truncated }}
-              <!-- <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a> -->
-              <a class="ml_body_text_blue ml-blog-tag" href="http://localhost:3000/post/{{ .Slug }}">read more</a>
+              <a class="ml_body_text_blue ml-blog-tag" href="{{ .Permalink }}">read more</a>
+              <!--<a class="ml_body_text_blue ml-blog-tag" href="http://localhost:3000/post/{{ .Slug }}">read more</a> -->
               {{ end }}
             </article>
 
