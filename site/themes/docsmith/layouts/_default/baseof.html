@@ -258,7 +258,7 @@
         {{block "main" .}}{{ end }}
         <footer>
             <!-- {{ partial "contribute_footer" . }} -->
-            {{ partial "footer" . }}
+            {{  partial "footer" . }}
         </footer>
         {{ if (getenv "HUGO_ENV") }}
             {{ partial "includes_body_end_prod" . }}
