@@ -85,8 +85,19 @@ layout: ml_layout
        <div class="ml_height_100_flex" >
           <center>   <img class="ml_company_logo_home ml_height_45 ml_padding_left" src="/images/org-logos/flexi-loans.webp" alt="Flexi Loans"></center>
        </div>
+       <!--
        <div class="ml_height_100_flex" >
           <center> <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.webp" alt="Maharishi Ayurveda"></center>
+       </div>
+       -->
+       <div class="ml_height_100_flex" >
+          <center> <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/twin.png" alt="Twin"></center>
+       </div>
+       <div class="ml_height_100_flex" >
+          <center> <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/cardekho.png" alt="Car Dekho"></center>
+       </div>
+       <div class="ml_height_100_flex" >
+          <center> <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/SamAsh.png" alt="SamAsh"></center>
        </div>
        <div class="ml_height_100_flex" >
           <center> <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/sud-life.webp" alt="SUD Life"></center>
@@ -98,7 +109,7 @@ layout: ml_layout
           <center> <img class="ml_company_logo_home  " src="/images/org-logos/bonalive.png " alt="Bonalive"></center>
        </div>
        <div class="ml_height_100_flex" >
-          <center> <img class="ml_company_logo_home ml_height_75   " src="/images/org-logos/sohar-bank.png " alt="Sohar Bank"></center>
+          <center> <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/sohar-bank.png " alt="Sohar Bank"></center>
        </div>
        <div class="ml_height_100_flex" >
           <center>   <img class="ml_company_logo_home  " src="/images/org-logos/thornley-groves.png " alt="Thornley Groves"></center>
