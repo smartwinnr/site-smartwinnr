@@ -21439,7 +21439,7 @@ h1.contribute {
   height: 300px !important;
   text-align: center;
   font-size: 18px;
-  opacity: 0;
+  opacity: 0.3;
 
   /* Center slide text vertically */
   display: -webkit-box;
@@ -21454,6 +21454,9 @@ h1.contribute {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
+}
+.swiper-slide-request {
+  opacity: 0;
 }
 @media (min-width: 300px) and (max-width:768px){
   .swiper-button-prev{
