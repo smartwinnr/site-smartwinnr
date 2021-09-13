@@ -21439,7 +21439,7 @@ h1.contribute {
   height: 300px !important;
   text-align: center;
   font-size: 18px;
-  opacity:0.3;
+  opacity: 0;
 
   /* Center slide text vertically */
   display: -webkit-box;
