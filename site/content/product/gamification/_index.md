@@ -28,7 +28,7 @@ layout: ml_layout
 </section>
 
 <section class="ml-background-white padding50 ">
-  <div class="swiper-container ml-padding-top-bottom50">
+  <div class="swiper-container ml-padding-top-bottom100">
     <div class="swiper-wrapper">
       <div class="swiper-slide"> 
         <div class="row">
