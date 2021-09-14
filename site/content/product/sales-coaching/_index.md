@@ -25,26 +25,113 @@ layout: ml_layout
 </div>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
-<section class="ml-chooseQP ml-background-white">
-  <div class="padding50">
-    <div class="row">
-      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-        <div class="ml_iframe_video_wrapper">
-          <iframe src="https://player.vimeo.com/video/474095648" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-        </div>
-      </div>
-      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ml-centered-half">
-        <h1 class="text-center">Case Study - Boston Scientific</h1>
-        <div class="ml-subtext ml-font20">Listen to Rebecca Meehan, APAC Regional Marketing, Training and Development Manager. Learn how SmartWinnr Video Coaching has improved sales call effectiveness amongst Boston Scientific sales teams.
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="ml-background-white padding50 ">
   <div class="swiper-container ml-padding-top-bottom50">
     <div class="swiper-wrapper">
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/1.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Leader Enterprise </h3>
+              <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/2.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Easiest To Do Business With Enterprise </h3>
+              <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/3.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Support Enterprise </h3>
+              <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/4.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Relationship Enterprise </h3>
+              <p>The Best Relationship product in the Relationship Index earned the highest Relationship rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/5.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Meets Requirements Enterprise </h3>
+              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/6.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Easiest To Use Enterprise </h3>
+              <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/7.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer Enterprise </h3>
+              <p>Products in the High Performer quadrant in the Enterprise Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/8.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Easiest Setup Enterprise </h3>
+              <p>The Easiest Setup product in the Implementation Index earned the highest Ease of Setup rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
@@ -52,7 +139,7 @@ layout: ml_layout
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Best Usability </h3>
+              <h3 class="ml-bold-text"> Best Usability </h3>
               <p>The Best Usability product in the Usability Index earned the highest Usability rating in its category </p>
             </div>
           </div>
@@ -65,7 +152,7 @@ layout: ml_layout
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Easiest To Use </h3>
+              <h3 class="ml-bold-text">Easiest To Use  </h3>
               <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category </p>
             </div>
           </div>
@@ -91,7 +178,7 @@ layout: ml_layout
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Best Meets Requirements Mid-Market </h3>
+              <h3 class="ml-bold-text">Best Meets Requirements  </h3>
               <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
             </div>
           </div>
@@ -104,58 +191,6 @@ layout: ml_layout
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Easiest To Use Mid-Market </h3>
-              <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/6.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Easiest Admin Mid-Market </h3>
-              <p>The Easiest Admin product in the Usability Index earned the highest Ease of Admin rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/7.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Best Usability Mid-Market </h3>
-              <p>The Best Usability product in the Usability Index earned the highest Usability rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/8.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Best Meets Requirements </h3>
-              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/9.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
               <h3 class="ml-bold-text">Users Most Likely To Recommend </h3>
               <p>The Users Most Likely to Recommend product in the Results Index earned the highest Likely to Recommend rating in its category </p>
             </div>
@@ -165,7 +200,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/10.png" class="swiper-img">
+              <img src="/images/g2badges/fall/6.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -178,11 +213,11 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/11.png" class="swiper-img">
+              <img src="/images/g2badges/fall/7.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Easiest To Do Business With </h3>
+              <h3 class="ml-bold-text">Easiest To Do Business With  </h3>
               <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category </p>
             </div>
           </div>
@@ -191,11 +226,11 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/12.png" class="swiper-img">
+              <img src="/images/g2badges/fall/8.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Best Support </h3>
+              <h3 class="ml-bold-text">Best Support  </h3>
               <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category </p>
             </div>
           </div>
@@ -204,7 +239,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/13.png" class="swiper-img">
+              <img src="/images/g2badges/fall/9.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -217,89 +252,11 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/14.png" class="swiper-img">
+              <img src="/images/g2badges/fall/10.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Easiest To Do Business With Enterprise </h3>
-              <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/15.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Best Support Enterprise </h3>
-              <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/16.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Best Relationship Enterprise </h3>
-              <p>The Best Relationship product in the Relationship Index earned the highest Relationship rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/17.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Leader Enterprise </h3>
-              <p>Products in the Leader quadrant in the Enterprise Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/18.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Best Meets Requirements Enterprise </h3>
-              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/19.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Easiest To Use Enterprise </h3>
-              <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/20.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Leader </h3>
+              <h3 class="ml-bold-text">Leader  </h3>
               <p>Products in the Leader quadrant in the Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores </p>
             </div>
           </div>
@@ -308,59 +265,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/21.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Easiest To Do Business With Mid-Market </h3>
-              <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/22.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Best Support Mid-Market </h3>
-              <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/23.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">High Performer Enterprise </h3>
-              <p>Products in the High Performer quadrant in the Enterprise Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/24.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">High Performer Mid-Market </h3>
-              <p>Products in the High Performer quadrant in the Mid-Market Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/25.png" class="swiper-img">
+              <img src="/images/g2badges/fall/11.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -373,7 +278,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/26.png" class="swiper-img">
+              <img src="/images/g2badges/fall/12.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -386,46 +291,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/27.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">High Performer Mid-Market </h3>
-              <p>Products in the High Performer quadrant in the Mid-Market Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/28.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">High Performer </h3>
-              <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/29.png" class="swiper-img">
-          </div>
-          <div class="col-lg-12">
-            <div class="card-title">
-              <h3 class="ml-bold-text">Easiest Setup Enterprise </h3>
-              <p>The Easiest Setup product in the Implementation Index earned the highest Ease of Setup rating in its category </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-slide"> 
-        <div class="row">
-          <div class="col-lg-12">
-              <img src="/images/g2badges/fall/30.png" class="swiper-img">
+              <img src="/images/g2badges/fall/13.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -438,12 +304,129 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/31.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/1.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Meets Requirements Mid-Market </h3>
+              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/2.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Easiest To Use Mid-Market </h3>
+              <p>The Easiest to Use product in the Usability Index earned the highest Ease of Use rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/3.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Easiest Admin Mid-Market </h3>
+              <p>The Easiest Admin product in the Usability Index earned the highest Ease of Admin rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/4.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Usability Mid-Market </h3>
+              <p>The Best Usability product in the Usability Index earned the highest Usability rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/5.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Easiest To Do Business With Mid-Market </h3>
+              <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/6.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Support Mid-Market </h3>
+              <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/7.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer Mid-Market </h3>
+              <p>Products in the High Performer quadrant in the Mid-Market Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/mid-market/8.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">Easiest Setup Mid-Market </h3>
               <p>The Easiest Setup product in the Implementation Index earned the highest Ease of Setup rating in its category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/asia-pacific/1.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer Mid-Market </h3>
+              <p>Products in the High Performer quadrant in the Mid-Market Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/asia-pacific/2.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer </h3>
+              <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
             </div>
           </div>
         </div>
@@ -454,6 +437,7 @@ layout: ml_layout
     <div class="swiper-button-prev"></div>
   </div>  
 </section>
+
 
 <div class="row ml-margin0 padding50 ml-background-white ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
