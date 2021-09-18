@@ -9,13 +9,14 @@ tiles:
 type: ml_layout
 layout: ml_layout
 ---
+<!-- This is a check for deploy build using Ubuntu 20. Changes are done in Netlify server.  -->
 <section class="">
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
       <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 ">
         <img src="/images/g2badges/fall/10.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
-        <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams.</div></br>
+        <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams</div></br>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
