@@ -21369,6 +21369,10 @@ h1.contribute {
   height: 230px !important;
   width: auto  !important;
 }
+.swiper-slide-active .swiper-img-h-85{
+  height: 190px !important;
+  width: auto  !important;
+}
 .swiper-slide-active .swiper-img-asia{
   height: 200px !important;
   width: auto  !important;
