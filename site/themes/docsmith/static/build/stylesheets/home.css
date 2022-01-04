@@ -27078,8 +27078,8 @@ img {
 }
 
 .ml_sx_small_image {
-  height: 100px !important;
-  width: 100px !important;
+  height: 80px !important;
+  width: 80px !important;
   margin-bottom: 10px !important;
   float: left;
   margin-right : 10px;
@@ -27093,8 +27093,22 @@ img {
   padding-top: 10px;
   padding-bottom: 0;
   line-height: 1rem !important;
+  color : black;
+}
+
+.ml_industries_container .ml-subtext {
+  color : black;
+}
+
+.ml_industries_container .ml-title-font:hover {
+  color: #423dce !important;
+}
+
+.ml_industries_container .ml-subtext:hover {
+  color: #423dce !important;
 }
 
 .ml_industries_container a:hover {
   background-image: linear-gradient(to left, #f8f8f8, #fafafa, #fbfcfb, #fdfdfd, #ffffff);
+  color: #423dce !important;
 }

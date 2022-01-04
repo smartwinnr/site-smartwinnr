@@ -876,12 +876,12 @@ layout: ml_layout
   <div class="padding50">
     <div class="row text-center">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <h1 class="text-center ml-margin-bottom20">Serving <b>Different Industries</b></h1>
+        <h1 class="text-center ml-margin-bottom20">Serving Different Industries</h1>
         <h4>Learn how large companies all over the world are using SmartWinnr to drive results</h4>
       </div>
     </div>
     <div class="row ml-margin-bottom20 ml_text_flex_row ml_industries_container">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml-industries-item">
         <a class="" href="/solutions/technology">
           <div>
             <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/technology.png">
