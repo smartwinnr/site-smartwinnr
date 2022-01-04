@@ -4,8 +4,8 @@ author:
   email: smartwinnr@mobillionlabs.com
 title: Contact Us | SmartWinnr
 og_title: Contact Us | SmartWinnr
-description: Contact Mobillionlabs
-description: Contact Mobillionlabs
+description: Contact SmartWinnr
+description: Contact SmartWinnr
 keywords: ["smartwinnr"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
