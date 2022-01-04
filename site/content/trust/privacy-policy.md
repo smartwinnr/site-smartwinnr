@@ -38,7 +38,7 @@ layout: ml_layout
               <li>Other important privacy information</li>
           </ul>
           <p>
-          This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed.  SmartWinnr, we and us refers to Mobillionlabs, Inc. and any of our corporate affiliates.  "Services" in this policy refers to all products and services offered by SmartWinnr.    
+          This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed.  SmartWinnr, we and us refers to SmartWinnr, Inc. and any of our corporate affiliates.  "Services" in this policy refers to all products and services offered by SmartWinnr.    
           This policy also explains your choices surrounding how we use information about you, which include how you can object to certain uses of information about you and how you can access and update certain information about you. <b> If you do not agree with this policy, do not access or use our Services or interact with any other aspect of our business.</b>  
           <br></p>
           <p id="information-we-collect-about-you">
@@ -499,7 +499,7 @@ layout: ml_layout
     <div>
       <h4><b>Contact Us</b></h4>
           <p>
-               MobillionLabs, Inc.<br>
+              SmartWinnr, Inc.<br>
               340 S Lemon Ave #9775, Walnut, <br>
               California 91789<br>
               USA
