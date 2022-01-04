@@ -17,7 +17,7 @@ layout: ml_layout
         <img src="/images/g2badges/enterprise/1.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams</div></br>
-        <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
+        <p align="center" class="ml-padding-top ml-padding-bottom-40"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
         <img class="ml-image ml-margin-bottom0" alt="Image" src="./images/Home-hero-isometric_itr4yx.webp">
@@ -135,6 +135,7 @@ layout: ml_layout
 </section>
 
 <!-- this section is used for displaying company logos -->
+<!--
 <section>
   <div class="ml-background-white padding50">
     <div class="ml-container">
@@ -167,6 +168,55 @@ layout: ml_layout
     </div>
   </div>
 </section>
+-->
+
+<section>
+  <div class="ml-background-white padding50">
+    <div class="card-container">
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-pink">
+            <div class="ml-card-icon">
+             <h1 class="fg-pink"><i class="icon-arrow-up-circle"></i><span>22%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-pink-title">Quota Attainment</h4>
+            </div>
+          </div>
+        </div>
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-purple">
+            <div class="ml-card-icon">
+              <h1 class="fg-purple"><i class="icon-arrow-up-circle"></i><span>91%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-purple-title">Increase Engagement</h4>
+            </div>
+          </div>
+        </div>
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-orange">
+            <div class="ml-card-icon">
+              <h1 class="fg-orange"><i class="icon-arrow-down-circle"></i><span>30%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-orange-title">Reduce Cost</h4>
+            </div>
+          </div>
+        </div>
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-blue">
+            <div class="ml-card-icon">
+              <h1 class="fg-blue"><i class="icon-arrow-down-circle"></i><span>67%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-blue-title">Improve Knowledge Retention</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</section>
+
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
 <section class="ml-background-white padding50 ">
@@ -821,6 +871,87 @@ layout: ml_layout
     </div>
   </div>
 </section> -->
+
+<section class="ml-background-white">
+  <div class="padding50">
+    <div class="row text-center">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <h1 class="text-center ml-margin-bottom20">Serving <b>Different Industries</b></h1>
+        <h4>Learn how large companies all over the world are using SmartWinnr to drive results</h4>
+      </div>
+    </div>
+    <div class="row ml-margin-bottom20 ml_text_flex_row ml_industries_container">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/technology">
+          <div>
+            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/technology.png">
+            <div>
+              <h3 class="ml-title-font">Technology</h3>
+              <div class="ml-subtext">Driving powerful and engaging learning/sales events for inside and channel sales</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/pharma">
+          <div>
+            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/pharma.png">
+            <div>
+              <h3 class="ml-title-font">Pharma</h3>
+              <div class="ml-subtext">Supercharging the sales productivity of medical reps</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/senior-living">
+          <div>
+            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/seniorliving.jpg">
+            <div>
+              <h3 class="ml-title-font">Senior Living</h3>
+              <div class="ml-subtext">Driving higher occupancy rates by gamifying the leading indicators of your scale.</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/insurance">
+          <div>
+            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/insurance.png">
+            <div>
+              <h3 class="ml-title-font">Insurance</h3>
+              <div class="ml-subtext">Improving sales productivity and reducing attrition of insurance agents through proven sales effectiveness program</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/medical-devices">
+          <div>
+            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/medical.png">
+            <div>
+              <h3 class="ml-title-font">Medical</h3>
+              <div class="ml-subtext">Improving sales call effectiveness</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/banking">
+          <div>
+            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/banking.png">
+            <div>
+              <h3 class="ml-title-font">Banking</h3>
+              <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <!-- <div class="row ml-margin-bottom20">
+    </div> -->
+  </div>
+</section>
 
 <!-- start of Poly - Laura video section -->
 <section class="ml-chooseQP ml-background-white">
