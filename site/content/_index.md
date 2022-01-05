@@ -174,32 +174,32 @@ layout: ml_layout
   <div class="ml-background-white padding50">
     <div class="card-container">
         <div class="ml-cards">
-          <div class="ml-card-item bg-c-pink">
+          <div class="ml-card-item bg-c-blue">
             <div class="ml-card-icon">
-             <h1 class="fg-pink"><i class="icon-arrow-up-circle"></i><span>22%</span></h1>
+             <h1 class="fg-blue"><i class="icon-arrow-up-circle"></i><span>22%</span></h1>
             </div>
             <div class="ml-card-info">
-              <h4 class="ml-card-title ml-card-pink-title">Quota Attainment</h4>
+              <h4 class="ml-card-title ml-card-blue-title">Quota Attainment</h4>
             </div>
           </div>
         </div>
         <div class="ml-cards">
-          <div class="ml-card-item bg-c-purple">
+          <div class="ml-card-item bg-c-blue">
             <div class="ml-card-icon">
-              <h1 class="fg-purple"><i class="icon-arrow-up-circle"></i><span>91%</span></h1>
+              <h1 class="fg-blue"><i class="icon-arrow-up-circle"></i><span>91%</span></h1>
             </div>
             <div class="ml-card-info">
-              <h4 class="ml-card-title ml-card-purple-title">Increase Engagement</h4>
+              <h4 class="ml-card-title ml-card-blue-title">Increase Engagement</h4>
             </div>
           </div>
         </div>
         <div class="ml-cards">
-          <div class="ml-card-item bg-c-orange">
+          <div class="ml-card-item bg-c-blue">
             <div class="ml-card-icon">
-              <h1 class="fg-orange"><i class="icon-arrow-down-circle"></i><span>30%</span></h1>
+              <h1 class="fg-blue"><i class="icon-arrow-down-circle"></i><span>30%</span></h1>
             </div>
             <div class="ml-card-info">
-              <h4 class="ml-card-title ml-card-orange-title">Reduce Cost</h4>
+              <h4 class="ml-card-title ml-card-blue-title">Reduce Cost</h4>
             </div>
           </div>
         </div>
@@ -216,8 +216,7 @@ layout: ml_layout
       </div>
   </div>
 </section>
-
-<img class="swoop" src="/images/swoop_mask.min.svg">
+<img class="swoop ml_swoop_second_section" src="/images/swoop_mask.min.svg">
 
 <section class="ml-background-white padding50 ">
   <div class="swiper-container ml-padding-top-bottom100">
@@ -883,9 +882,9 @@ layout: ml_layout
     <div class="row ml-margin-bottom20 ml_text_flex_row ml_industries_container">
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml-industries-item">
         <a class="" href="/solutions/technology">
-          <div>
-            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/technology.png">
-            <div>
+          <div class="ml_body_info">
+            <span class="icon-desktop ml_sx_small_image"></span>
+            <div class="ml_text_black">
               <h3 class="ml-title-font">Technology</h3>
               <div class="ml-subtext">Driving powerful and engaging learning/sales events for inside and channel sales</div>
             </div>
@@ -894,9 +893,9 @@ layout: ml_layout
       </div>
        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/pharma">
-          <div>
-            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/pharma.png">
-            <div>
+          <div class="ml_body_info">
+            <span class="icon-aid-kit ml_sx_small_image"></span>
+            <div class="ml_text_black">
               <h3 class="ml-title-font">Pharma</h3>
               <div class="ml-subtext">Supercharging the sales productivity of medical reps</div>
             </div>
@@ -905,9 +904,9 @@ layout: ml_layout
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/senior-living">
-          <div>
-            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/seniorliving.jpg">
-            <div>
+          <div class="ml_body_info">
+            <span class="icon-users ml_sx_small_image"></span>
+            <div class="ml_text_black">
               <h3 class="ml-title-font">Senior Living</h3>
               <div class="ml-subtext">Driving higher occupancy rates by gamifying the leading indicators of your scale.</div>
             </div>
@@ -916,9 +915,9 @@ layout: ml_layout
       </div>
        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/insurance">
-          <div>
-            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/insurance.png">
-            <div>
+          <div class="ml_body_info">
+            <span class="icon-umbrella ml_sx_small_image"></span>
+            <div class="ml_text_black">
               <h3 class="ml-title-font">Insurance</h3>
               <div class="ml-subtext">Improving sales productivity and reducing attrition of insurance agents through proven sales effectiveness program</div>
             </div>
@@ -927,9 +926,9 @@ layout: ml_layout
       </div>
        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/medical-devices">
-          <div>
-            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/medical.png">
-            <div>
+          <div class="ml_body_info">
+            <span class="icon-heart-pulse ml_sx_small_image"></span>
+            <div class="ml_text_black">
               <h3 class="ml-title-font">Medical</h3>
               <div class="ml-subtext">Improving sales call effectiveness</div>
             </div>
@@ -938,9 +937,9 @@ layout: ml_layout
       </div>
        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/banking">
-          <div>
-            <img class="ml_sx_small_image" alt="Image" src="../images/industries-icons/banking.png">
-            <div>
+          <div class="ml_body_info">
+            <span class="icon-library ml_sx_small_image"></span>
+            <div class="ml_text_black">
               <h3 class="ml-title-font">Banking</h3>
               <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
             </div>

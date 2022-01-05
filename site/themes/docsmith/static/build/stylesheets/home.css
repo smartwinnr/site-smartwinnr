@@ -25094,6 +25094,45 @@ img {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-umbrella:before {
+  content: "\e63f";
+}
+.icon-users:before {
+  content: "\e722";
+}
+.icon-users2:before {
+  content: "\e723";
+}
+.icon-desktop:before {
+  content: "\e7af";
+}
+.icon-heart-pulse:before {
+  content: "\e7e8";
+}
+.icon-pulse:before {
+  content: "\e7e9";
+}
+.icon-syringe:before {
+  content: "\e7ea";
+}
+.icon-pills:before {
+  content: "\e7eb";
+}
+.icon-first-aid:before {
+  content: "\e7ec";
+}
+.icon-bandage:before {
+  content: "\e7ee";
+}
+.icon-bandages:before {
+  content: "\e7ef";
+}
+.icon-ambulance:before {
+  content: "\e856";
+}
+.icon-train:before {
+  content: "\e85a";
+}
 .icon-pen2:before {
   content: "\e617";
 }
@@ -25166,8 +25205,8 @@ img {
 .icon-profile:before {
   content: "\e71b";
 }
-.icon-users2:before {
-  content: "\e723";
+.icon-users21:before {
+  content: "\e724";
 }
 .icon-bag-dollar:before {
   content: "\e75e";
@@ -25196,9 +25235,6 @@ img {
 .icon-diamond2:before {
   content: "\e807";
 }
-.icon-speed-fast:before {
-  content: "\1f348";
-}
 .icon-icons:before {
   content: "\e87e";
 }
@@ -25216,6 +25252,9 @@ img {
 }
 .icon-clock3:before {
   content: "\e8e8";
+}
+.icon-lamp2:before {
+  content: "\e900";
 }
 .icon-file-preview:before {
   content: "\e911";
@@ -25256,8 +25295,20 @@ img {
 .icon-arrow-right-square:before {
   content: "\e994";
 }
-.icon-lamp2:before {
-  content: "\e900";
+.icon-speed-fast:before {
+  content: "\1f348";
+}
+.icon-library:before {
+  content: "\e921";
+}
+.icon-users1:before {
+  content: "\e972";
+}
+.icon-aid-kit:before {
+  content: "\e998";
+}
+.icon-airplane:before {
+  content: "\e9af";
 }
 
 .ml-tile-image {
@@ -26951,17 +27002,6 @@ img {
   font-size : 3.5rem;
 }
 
-@media(min-width: 56rem) and (max-width: 70rem){
-  .ml-card-icon i {
-    font-size: 2.9rem;
-    vertical-align: bottom;
-  }
-  
-  .ml-card-icon span {
-    font-size : 2.9rem;
-  }
-}
-
 .fg-pink {
   color: #ff006a;
 }
@@ -26995,11 +27035,13 @@ img {
 }
 
 .ml_sx_small_image {
-  height: 80px !important;
+  height: 80px;
   width: 80px !important;
   margin-bottom: 10px !important;
   float: left;
-  margin-right : 10px;
+  margin-top : 10px;
+  font-size : 60px;
+  color: #423dce !important;
 }
 
 .ml_industries_container {
@@ -27010,22 +27052,72 @@ img {
   padding-top: 10px;
   padding-bottom: 0;
   line-height: 1rem !important;
+}
+
+.ml_text_black {
   color : black;
 }
 
-.ml_industries_container .ml-subtext {
-  color : black;
-}
-
-.ml_industries_container .ml-title-font:hover {
+.ml_text_black:hover {
   color: #423dce !important;
 }
 
-.ml_industries_container .ml-subtext:hover {
+.ml_body_info:hover {
   color: #423dce !important;
 }
 
 .ml_industries_container a:hover {
   background-image: linear-gradient(to left, #f8f8f8, #fafafa, #fbfcfb, #fdfdfd, #ffffff);
   color: #423dce !important;
+}
+
+.ml_margin_right_10 {
+  margin-right: 10px;
+}
+
+@media(min-width: 56rem) and (max-width: 70rem){
+  .ml-card-icon i {
+    font-size: 2.9rem;
+    vertical-align: bottom;
+  }
+  
+  .ml-card-icon span {
+    font-size : 2.9rem;
+  }
+}
+
+@media (max-width:320px){
+  .ml_sx_small_image {
+    height: 135px !important;
+  }
+}
+
+@media (min-width: 321px) and (max-width:425px){
+  .ml_sx_small_image {
+    height: 90px !important;
+  }
+  .ml_swoop_second_section {
+    margin-top: -3% !important;
+  }
+}
+@media (min-width: 426px) and (max-width:768px){
+  .ml_sx_small_image {
+    height: 110px !important;
+  }
+  .ml_swoop_second_section {
+    margin-top: -3% !important;
+  }
+}
+@media (min-width: 769px) and (max-width:1024px){
+  .ml_sx_small_image {
+    height: 140px !important;
+  }
+  .ml_swoop_second_section {
+    margin-top: -3% !important;
+  }
+}
+@media (min-width: 1025px){
+  .ml_sx_small_image {
+    height: 100px !important;
+  }
 }
