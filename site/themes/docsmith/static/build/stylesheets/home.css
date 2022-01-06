@@ -25097,6 +25097,9 @@ img {
 .icon-umbrella:before {
   content: "\e63f";
 }
+.icon-library2:before {
+  content: "\e719";
+}
 .icon-users:before {
   content: "\e722";
 }

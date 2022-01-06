@@ -130,6 +130,12 @@ layout: ml_layout
        <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/tynor-logo.png" alt="Tynor"></center>
        </div>
+       <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/fitterfly.png" alt="Flitterfly"></center>
+       </div>
+       <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/mfs.png" alt="MFS"></center>
+       </div>
       </div>
    </div>
 </section>
@@ -894,7 +900,7 @@ layout: ml_layout
        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/pharma">
           <div class="ml_body_info">
-            <span class="icon-aid-kit ml_sx_small_image"></span>
+            <span class="icon-first-aid ml_sx_small_image"></span>
             <div class="ml_text_black">
               <h3 class="ml-title-font">Pharma</h3>
               <div class="ml-subtext">Supercharging the sales productivity of medical reps</div>
@@ -905,7 +911,7 @@ layout: ml_layout
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/senior-living">
           <div class="ml_body_info">
-            <span class="icon-users ml_sx_small_image"></span>
+            <span class="icon-users2 ml_sx_small_image"></span>
             <div class="ml_text_black">
               <h3 class="ml-title-font">Senior Living</h3>
               <div class="ml-subtext">Driving higher occupancy rates by gamifying the leading indicators of your scale.</div>
@@ -929,8 +935,8 @@ layout: ml_layout
           <div class="ml_body_info">
             <span class="icon-heart-pulse ml_sx_small_image"></span>
             <div class="ml_text_black">
-              <h3 class="ml-title-font">Medical</h3>
-              <div class="ml-subtext">Improving sales call effectiveness</div>
+              <h3 class="ml-title-font">Medical Devices</h3>
+              <div class="ml-subtext">Train and coach your sales teams for better performance. Run engaging sales contests to drive better sales numbers</div>
             </div>
           </div>
         </a>
@@ -938,7 +944,7 @@ layout: ml_layout
        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="" href="/solutions/banking">
           <div class="ml_body_info">
-            <span class="icon-library ml_sx_small_image"></span>
+            <span class="icon-library2 ml_sx_small_image"></span>
             <div class="ml_text_black">
               <h3 class="ml-title-font">Banking</h3>
               <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
