@@ -577,21 +577,7 @@ layout: ml_layout
     </div>
   </div>
 </section> -->
-<section class="ml_industries_banner ml_no_padding_bottom_right20">
-  <div class="row ml_div_contents_in_center">
-    <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
-      <h1 >Want to know how SmartWinnr can help you?</h1>
-      <h2 class=" padding0">Get a no-obligation, free 30 min demo session.</h2>
-      <h2 class=" padding0">Start your <u>free-1-month trial</u> today!</h2>
-      <div class="ml_industries_banner_button_div text-center">
-        <a class="ml_industries_banner_button" align="center" href="/request-demo">Request for Demo</a>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-4 col-sm-5 col-xs-12 ml-margin-bottom0 text-center padding0">
-      <img class="ml_industries_banner_image" alt="" src="/images/industryBanners/Banking.png" class="ml-padding-top0 ml-padding-bottom0">
-    </div>
-  </div>
-</section>
+
 <section class="ml_background padding50">
     <div class="row ml-margin-bottom20">
       <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 ml-text-on-image">

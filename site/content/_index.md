@@ -17,7 +17,7 @@ layout: ml_layout
         <img src="/images/g2badges/enterprise/1.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams</div></br>
-        <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
+        <p align="center" class="ml-padding-top  ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
         <img class="ml-image ml-margin-bottom0" alt="Image" src="./images/Home-hero-isometric_itr4yx.webp">
@@ -130,11 +130,18 @@ layout: ml_layout
        <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/tynor-logo.png" alt="Tynor"></center>
        </div>
+       <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/fitterfly.png" alt="Flitterfly"></center>
+       </div>
+       <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/mfs.png" alt="MFS"></center>
+       </div>
       </div>
    </div>
 </section>
 
 <!-- this section is used for displaying company logos -->
+<!--
 <section>
   <div class="ml-background-white padding50">
     <div class="ml-container">
@@ -167,7 +174,55 @@ layout: ml_layout
     </div>
   </div>
 </section>
-<img class="swoop" src="/images/swoop_mask.min.svg">
+-->
+
+<section>
+  <div class="ml-background-white padding50">
+    <div class="card-container">
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-blue">
+            <div class="ml-card-icon">
+             <h1 class="fg-blue"><i class="icon-arrow-up-circle"></i><span>22%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-blue-title">Quota Attainment</h4>
+            </div>
+          </div>
+        </div>
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-blue">
+            <div class="ml-card-icon">
+              <h1 class="fg-blue"><i class="icon-arrow-up-circle"></i><span>91%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-blue-title">Increase Engagement</h4>
+            </div>
+          </div>
+        </div>
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-blue">
+            <div class="ml-card-icon">
+              <h1 class="fg-blue"><i class="icon-arrow-down-circle"></i><span>30%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-blue-title">Reduce Cost</h4>
+            </div>
+          </div>
+        </div>
+        <div class="ml-cards">
+          <div class="ml-card-item bg-c-blue">
+            <div class="ml-card-icon">
+              <h1 class="fg-blue"><i class="icon-arrow-down-circle"></i><span>67%</span></h1>
+            </div>
+            <div class="ml-card-info">
+              <h4 class="ml-card-title ml-card-blue-title">Improve Knowledge Retention</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</section>
+<img class="swoop ml_swoop_second_section" src="/images/swoop_mask.min.svg">
 
 <section class="ml-background-white padding50 ">
   <div class="swiper-container ml-padding-top-bottom100">
@@ -821,6 +876,87 @@ layout: ml_layout
     </div>
   </div>
 </section> -->
+
+<section class="ml-background-white">
+  <div class="padding50">
+    <div class="row text-center">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <h1 class="text-center ml-margin-bottom20">Serving Different Industries</h1>
+        <h4>Learn how large companies all over the world are using SmartWinnr to drive results</h4>
+      </div>
+    </div>
+    <div class="row ml-margin-bottom20 ml_text_flex_row ml_industries_container">
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ml-industries-item">
+        <a class="" href="/solutions/technology">
+          <div class="ml_body_info">
+            <span class="icon-desktop ml_sx_small_image"></span>
+            <div class="ml_text_black">
+              <h3 class="ml-title-font">Technology</h3>
+              <div class="ml-subtext">Driving powerful and engaging learning/sales events for inside and channel sales</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/pharma">
+          <div class="ml_body_info">
+            <span class="icon-first-aid ml_sx_small_image"></span>
+            <div class="ml_text_black">
+              <h3 class="ml-title-font">Pharma</h3>
+              <div class="ml-subtext">Supercharging the sales productivity of medical reps</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/senior-living">
+          <div class="ml_body_info">
+            <span class="icon-users2 ml_sx_small_image"></span>
+            <div class="ml_text_black">
+              <h3 class="ml-title-font">Senior Living</h3>
+              <div class="ml-subtext">Driving higher occupancy rates by gamifying the leading indicators of your scale.</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/insurance">
+          <div class="ml_body_info">
+            <span class="icon-umbrella ml_sx_small_image"></span>
+            <div class="ml_text_black">
+              <h3 class="ml-title-font">Insurance</h3>
+              <div class="ml-subtext">Improving sales productivity and reducing attrition of insurance agents through proven sales effectiveness program</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/medical-devices">
+          <div class="ml_body_info">
+            <span class="icon-heart-pulse ml_sx_small_image"></span>
+            <div class="ml_text_black">
+              <h3 class="ml-title-font">Medical Devices</h3>
+              <div class="ml-subtext">Train and coach your sales teams for better performance. Run engaging sales contests to drive better sales numbers</div>
+            </div>
+          </div>
+        </a>
+      </div>
+       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="" href="/solutions/banking">
+          <div class="ml_body_info">
+            <span class="icon-library2 ml_sx_small_image"></span>
+            <div class="ml_text_black">
+              <h3 class="ml-title-font">Banking</h3>
+              <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <!-- <div class="row ml-margin-bottom20">
+    </div> -->
+  </div>
+</section>
 
 <!-- start of Poly - Laura video section -->
 <section class="ml-chooseQP ml-background-white">
