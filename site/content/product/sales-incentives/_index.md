@@ -30,7 +30,7 @@ layout: ml_layout
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
 <section class="ml-background-white">
-  <div class="ml-container ">
+  <div class="ml-container ml_div_contents_in_center">
     <div class="row ml-margin-bottom0 padding50">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-centered align="center">
     <img class="ml-image" alt="Image" src="/images/Setup_Manage_Report.png"/>      </div>
