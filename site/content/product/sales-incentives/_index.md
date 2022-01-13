@@ -31,7 +31,7 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="ml-container ">
-    <div class="row ml-margin0 ml-background-white padding30 ml_div_contents_in_center">
+    <div class="row ml-margin-bottom0 padding50">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-centered align="center">
     <img class="ml-image" alt="Image" src="/images/Setup_Manage_Report.png"/>      </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding30">
