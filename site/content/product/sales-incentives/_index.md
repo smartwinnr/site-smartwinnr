@@ -31,10 +31,10 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="ml-container ">
-    <div class="row ml-margin-bottom0">
-      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 a ml-centered padding30 ml-margin-top50" align="center">
+    <div class="row ml-margin-bottom0 padding50">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-centered align="center">
     <img class="ml-image" alt="Image" src="/images/Setup_Manage_Report.png"/>      </div>
-      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding55 ml-margin-top50">
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding30">
         <div class="row ml-margin-bottom20">
           <div>
             <h2 class="ml-title-adjustable ml_body_text_black">Setup complicated compensation plans in minutes</h2>

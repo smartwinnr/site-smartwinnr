@@ -349,6 +349,12 @@ layout: ml_layout
                     <label class="ml_font_weight_normal" for="sales_coaching"> Sales Coaching </label>
                   </span>
                 </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
+                  <span class="ml-margin-right10">
+                    <input type="checkbox" class="ml_checbox_input" name="sales_incentives" id="sales_incentives" value="Sales Incentives">
+                    <label class="ml_font_weight_normal" for="sales_incentives"> Sales Incentives </label>
+                  </span>
+                </div>
               </div>
             </fieldset>
             <div  class="form-item">
