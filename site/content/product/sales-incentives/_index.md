@@ -29,6 +29,7 @@ layout: ml_layout
 </section>
 <img class="swoop" src="/images/swoop_mask.min.svg">
 
+
 <section class="ml-background-white">
   <div class="ml-container ">
     <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
@@ -60,12 +61,12 @@ layout: ml_layout
 </section>
 
 <section class="ml-background-white">
-<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
-  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+<div class="row ml-margin0 ml-background-white ml-padding-left30 ml_div_contents_in_center">
+  <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 padding30">
     <h2 class="ml_body_text_black ml-margin-bottom10">Realtime Visibility into Incentives Anytime, Anywhere</h2>
     <p class="ml-subtext ml_body_text_black">Give your sales reps realtime visibility into their commissions, directly from the SmartWinnr mobile app, anytime anywhere. Track attainment history, compensation breakups, status of current achievements that affect their incentives and more.</p>
   </div>
-  <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/Realtime_Visibility_into_Incentives_Anytime_Anywhere.png"/>
   </div>
 </div>
