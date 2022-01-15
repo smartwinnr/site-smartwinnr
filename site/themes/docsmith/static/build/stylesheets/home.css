@@ -27126,6 +27126,6 @@ img {
 }
 @media(min-width:1200px){
   .ml_sales_incentive_2nd{
-    margin-top: 3em;
+    padding: 91px !important;
   }
 }

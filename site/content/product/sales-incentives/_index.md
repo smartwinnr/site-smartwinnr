@@ -31,10 +31,11 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="ml-container ">
-    <div class="row ml-margin-bottom0 padding50">
-      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-centered align="center">
+    <div class="row ml-margin0 ml-background-white padding30 ml_sales_incentive_2nd ml_div_contents_in_center">
+      <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 align="center">
     <img class="ml-image" alt="Image" src="/images/Setup_Manage_Report.png"/>      </div>
-      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 padding30">
+      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 " style="
+    padding: 36px;">
         <div class="row ml-margin-bottom20">
           <div>
             <h2 class="ml-title-adjustable ml_body_text_black">Setup complicated compensation plans in minutes</h2>
@@ -65,12 +66,12 @@ layout: ml_layout
 </section>
 
 <section class="ml-background-white">
-<div class="row ml-margin0 ml-background-white ml-padding-left30 ml_div_contents_in_center">
-  <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 padding30">
+<div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 padding30">
     <h2 class="ml_body_text_black ml-margin-bottom10">Realtime Visibility into Incentives Anytime, Anywhere</h2>
     <p class="ml-subtext ml_body_text_black">Give your sales reps realtime visibility into their commissions, directly from the SmartWinnr mobile app, anytime anywhere. Track attainment history, compensation breakups, status of current achievements that affect their incentives and more.</p>
   </div>
-  <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 text-center">
+  <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="/images/Realtime_Visibility_into_Incentives_Anytime_Anywhere.png"/>
   </div>
 </div>
