@@ -31,35 +31,29 @@ layout: ml_layout
 
 <section class="ml-background-white">
   <div class="ml-container ">
-    <div class="row ml-margin0 ml-background-white padding30 ml_sales_incentive_2nd ml_div_contents_in_center">
-      <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 align="center">
-    <img class="ml-image" alt="Image" src="/images/Setup_Manage_Report.png"/>      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 " style="
-    padding: 36px;">
-        <div class="row ml-margin-bottom20">
+    <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
+      <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center">
+        <img class="ml-image" alt="Image" src="/images/Setup_Manage_Report.png"/>
+      </div>
+      <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
           <div>
             <h2 class="ml-title-adjustable ml_body_text_black">Setup complicated compensation plans in minutes</h2>
             <div class="ml-subtext ml_body_text_black">
               Link different data sources together. Use our powerful Formula Builder to create complex formulas based on your incentive plans. Build flexible payout structures and different incentive components to cater to all sales roles and designations in your organization. Setup workflows for approvals.
             </div>
-          </div> 
         </div>
-        <div class="row ml-margin-bottom20">
           <div>
             <h2 class="ml-title-adjustable ml_body_text_black">Manage across months, hassle-free</h2>
             <div class="ml-subtext ml_body_text_black">
              Manage the entire incentive process from start to finish inside SmartWinnr. Maintain sales hierarchies easily through automated sync with your HRMS. You have the flexibility to do manual adjustments, if it's needed. Seamlessly manage exceptions and territory changes in a few clicks. Run easy reconciliations through audit trails.
             </div>
-          </div>
         </div>
-        <div class="row ml-margin-bottom20">
           <div>
             <h2 class="ml-title-adjustable ml_body_text_black">Reporting made Easy</h2>
             <div class="ml-subtext ml_body_text_black">
               Create customised dashboards and reports for your sales reps, managers and senior leaders. Provide real-time visibility into attainment numbers. Your HR and Finance teams also has access to payout details. Download reports as Excel for easy analysis.
             </div>
           </div>
-        </div>
       </div>
     </div>
   </div>
@@ -67,7 +61,7 @@ layout: ml_layout
 
 <section class="ml-background-white">
 <div class="row ml-margin0 ml-background-white padding50 ml_div_contents_in_center">
-  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 padding30">
+  <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black ml-margin-bottom10">Realtime Visibility into Incentives Anytime, Anywhere</h2>
     <p class="ml-subtext ml_body_text_black">Give your sales reps realtime visibility into their commissions, directly from the SmartWinnr mobile app, anytime anywhere. Track attainment history, compensation breakups, status of current achievements that affect their incentives and more.</p>
   </div>
