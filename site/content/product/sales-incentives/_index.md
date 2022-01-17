@@ -78,7 +78,7 @@ layout: ml_layout
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <h2 class="ml_body_text_black ml-margin-bottom10"> Motivate with an Incentive Simulator</h2>
-    <p class="ml-subtext ml_body_text_black"> Especially in complicated incentive plans, sales reps don’t folow which component links to which incentive. Motivate them with a simulator that shows ‘What-if’ scenarios and helps them to understand the breakups and enables them to take proactive actions.</p>
+    <p class="ml-subtext ml_body_text_black"> Especially in complicated incentive plans, sales reps don’t follow which component links to which incentive. Motivate them with a simulator that shows ‘What-if’ scenarios and helps them to understand the breakups and enables them to take proactive actions.</p>
   </div>
 </div>
 
