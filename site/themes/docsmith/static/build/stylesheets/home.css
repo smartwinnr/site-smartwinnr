@@ -25710,8 +25710,8 @@ img {
 }
 
 .ml-homepage-first-section {
-  /* background: #FFC400 !important; */
-  background: linear-gradient(to right, #FFC400, #ff991f);
+  background: #F4F5F7 !important;
+  /* background: linear-gradient(to right, #FFC400, #ff991f); */
   color: #000 !important;
   /* padding: 5% !important; */
 }
