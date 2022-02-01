@@ -22,34 +22,34 @@ layout: ml_layout
       <div class="ml_iframe_video_wrapper">
         <iframe src="https://player.vimeo.com/video/474128361" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         <!-- <iframe class="" src="https://www.youtube.com/embed/_B4mkaocG-M?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-        <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video>
+        <!-- <video id="video-player" controls preload muted class="cld-video-player cld-fluid" data-cld-colors='{ "base": "#3c36c2", "accent": "#00e64c", "text": "#fff" }'></video> -->
         <div class="ml_video_popup" id="ml_popup">
           <div class="popup_close" onclick="hidePopup()"><i class="fa fa-times-circle"></i></div>
           <div class="popup_message"> Do you want to know more? </div>
           <div class="text-center popup_button"> <a href="/request-demo/">Request Free Demo</a></div>
-        </div> -->
+        </div>
       </div>
     </div>
   </div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
-<!-- start of HCR ManorCare video section -->
+<!-- start of Artis Senor Living video section -->
 <section class="ml-chooseQP ml-background-white">
   <div class="padding50">
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-        <script src="https://fast.wistia.com/embed/medias/grbzvz2e6b.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_grbzvz2e6b videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/grbzvz2e6b/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+        <iframe src="https://player.vimeo.com/video/672335814?h=c226dd342d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-        <h1 class="text-center">Customer Success Story - HCR ManorCare</h1>
-        <div class="ml-subtext ml-font20">Listen to Marty Tanner, Director of Sales Training, HCR ManorCare, on how SmartWinnr is driving knowledge and engagement of their field sales force
+        <h1 class="text-center">Customer Success Story - Artis Senior Living</h1>
+        <div class="ml-subtext ml-font20">Listen to Andrea Marchesotti and Sharelle Thornton, sales leaders from Artis Senior Living, talk about why they love SmartWinnr for their sales teams
         </div>
       </div>
     </div>
   </div>
 </section>
-<!-- end of HCR ManorCare video section -->
+<!-- end of Artis Senor Living video section -->
 
 <section class="ml-background-white padding50 ">
   <div class="swiper-container ml-padding-top-bottom100">
@@ -546,6 +546,31 @@ layout: ml_layout
     </div>
   </div>
 </section>
+
+<!-- start of HCR ManorCare video section -->
+<section class="ml-chooseQP ml-background-white">
+  <div class="padding50">
+    <div class="row ml_div_contents_in_center">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+        <script src="https://fast.wistia.com/embed/medias/grbzvz2e6b.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_grbzvz2e6b videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/grbzvz2e6b/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+        <h1 class="text-center">Customer Success Story - HCR ManorCare</h1>
+        <div class="ml-subtext ml-font20">Listen to Marty Tanner, Director of Sales Training, HCR ManorCare, on how SmartWinnr is driving knowledge and engagement of their field sales force
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end of HCR ManorCare video section -->
+
+<div class="row ml-margin0 ml-whySM">
+  <div class="col-md-12 col-sm-12">
+    <h1 class="ml_body_text_white text-center">Are you ready to take your Tour to Move-in ratio and Occupancy Rates to the next level?</h1>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop">Schedule a demo with us today, to see how SmartWinnr can improve your sales KPIs and keep your sales teams engaged.</div>
+    <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/request-demo">Contact us today</a></p>
+  </div>
+</div>
 
 <script>
    var swiper = new Swiper('.swiper-container', {

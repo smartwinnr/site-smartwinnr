@@ -46,6 +46,23 @@ layout: ml_layout
   </div>
 </section>
 
+<!-- start of Artis Senor Living video section -->
+<section class="ml-chooseQP ml-background-white">
+  <div class="padding50">
+    <div class="row ml_div_contents_in_center">
+      <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+        <iframe src="https://player.vimeo.com/video/672335814?h=c226dd342d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+        <h1 class="text-center">Customer Success Story - Artis Senior Living</h1>
+        <div class="ml-subtext ml-font20">Listen to Andrea Marchesotti and Sharelle Thornton, sales leaders from Artis Senior Living, talk about why they love SmartWinnr for their sales teams
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end of Artis Senor Living video section -->
+
 <!-- Hana Kneblova (NN) customer stories -->
 <section class="ml-chooseQP ml-background-white">
   <div class="padding50">
