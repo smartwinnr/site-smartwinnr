@@ -40,7 +40,7 @@ layout: ml_layout
       <div class="ml_label ml_smartfeed_badge"  style="margin-top: 25px; margin-bottom: 20px;">Senior Living</div><br>
       <h1  style="margin-top: 50px;">Improve Occupancy Rates across your communities</h1>
       <div class=" ml-subtext ml-font20 padding0" style="margin-top: 25px;"> Motivate your sales teams with engaging sales contests, empower them with targeted trainings, and help them improve their conversation skills through regular practise in a supportive environment.</div></br>
-      <p align="left" class="ml-padding-top ml-padding-bottom10"  style="margin-top: 25px; margin-bottom: 30px;"><a class="ml-button" align="center"  style=" background-color:blue;" href="/request-demo">Request demo</a></p>
+      <p align="left" class="ml-padding-top ml-margin-bottom100"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
   </div>
   <!-- <div class="ml_no_padding_top50">
@@ -71,7 +71,7 @@ layout: ml_layout
       </div>
     </div>
   </div> -->
-    <img class="swoop" src="/images/swoop_mask.min.svg">
+  <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
 <!-- start of Artis Senor Living video section -->
@@ -560,34 +560,33 @@ layout: ml_layout
 </section>
 
 <section  class="padding50 ml-background-white">
-  <div class="ml_no_padding_top50">
-    <div class="row ml_text_flex_row">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Drive Up Occupancy Rates and Revenue</h4>
-        <div class="ml-subtext">Create competitive sales contests focusing on each step of the sales funnel from lead to move-in. Leading to higher close rates, increased sales velocity and healthy pipeline during slow months.</div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Ensure Right Messaging to Prospects</h4>
-        <div class="ml-subtext">Train Marketing and Executive Directors to deliver the right message to prospective residents, their families and hospital administrators, using video coaching challenges.</div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Improve Sales Effectiveness</h4>
-        <div class="ml-subtext">Automated knowledge reinforcements, gamified quizzes and coaching challenges help the Marketing and Executive Directors to become better experts in counseling prospects for higher close rates.</div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Reduce Caregiver Attrition</h4>
-        <div class="ml-subtext">Motivate, train and engage with caregivers through automated learning content and gamified quizzes. Increase engagement and community building through regular communication, recognizing achievements and gamification.</div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Drive Operational Excellence</h4>
-        <div class="ml-subtext">Replicate successful models quickly and efficiently across communities through uniform process checklists, gamified performance benchmarks and more</div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <h4 class="ml-title-font">Ensure Uniform Service Quality Across Communities</h4>
-        <div class="ml-subtext">Digitize your inspection checklists like room inspection checklist, property inspection checklist and more, within minutes. Fill out the checklists from the easy-to-use SmartWinnr mobile app and track the results for continuous process improvements.</div>
-      </div>
+  <div class="row ml_text_flex_row">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Drive Up Occupancy Rates and Revenue</h4>
+      <div class="ml-subtext">Create competitive sales contests focusing on each step of the sales funnel from lead to move-in. Leading to higher close rates, increased sales velocity and healthy pipeline during slow months.</div>
     </div>
-  </div></section>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Ensure Right Messaging to Prospects</h4>
+      <div class="ml-subtext">Train Marketing and Executive Directors to deliver the right message to prospective residents, their families and hospital administrators, using video coaching challenges.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Improve Sales Effectiveness</h4>
+      <div class="ml-subtext">Automated knowledge reinforcements, gamified quizzes and coaching challenges help the Marketing and Executive Directors to become better experts in counseling prospects for higher close rates.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Reduce Caregiver Attrition</h4>
+      <div class="ml-subtext">Motivate, train and engage with caregivers through automated learning content and gamified quizzes. Increase engagement and community building through regular communication, recognizing achievements and gamification.</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Drive Operational Excellence</h4>
+      <div class="ml-subtext">Replicate successful models quickly and efficiently across communities through uniform process checklists, gamified performance benchmarks and more</div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <h4 class="ml-title-font">Ensure Uniform Service Quality Across Communities</h4>
+      <div class="ml-subtext">Digitize your inspection checklists like room inspection checklist, property inspection checklist and more, within minutes. Fill out the checklists from the easy-to-use SmartWinnr mobile app and track the results for continuous process improvements.</div>
+    </div>
+  </div>
+</section>
 
 <!-- <section class="padding50 ml-background-white">
   <div class="row ml_div_contents_in_center">
