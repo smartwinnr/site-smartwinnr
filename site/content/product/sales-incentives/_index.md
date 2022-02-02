@@ -18,8 +18,9 @@ layout: ml_layout
     <div class="row ml_div_contents_in_center " >
       <div class="col-lg-4 ml-padding-top50">
         <h1 class=" ml-margin-bottom30 ml_body_text_white">Automate your Sales Incentive Calculations</h1>
-            <div class=" ml-margin-bottom30 ml_body_text_white ml-font20">SmartWinnr handles complicated incentive plans, helps to motivate your sales team with real-time visibility and gives transparency to the process. </div >
-                <p align="center" style="margin-left: -2em;" class="ml-margin-top30 padding20"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
+            <div class=" ml-margin-bottom30 ml_body_text_white ml-font20">SmartWinnr handles complicated incentive plans, helps to motivate your sales team with real-time visibility and gives transparency to the process.
+             </div >
+              <p align="center" style="margin-left: -2em;" class="ml-margin-top30 padding20"><a class="ml-button" align="center" href="/request-demo">Request for demo</a></p>
       </div>
       <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center" style="margin-bottom: 2em;">
     <img class="ml-image" alt="Image" src="/images/Title _Picture_sales_incentive.png"/>

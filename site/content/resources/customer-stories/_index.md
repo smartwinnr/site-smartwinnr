@@ -27,21 +27,22 @@ layout: ml_layout
 <!-- Rebecca (BSC) video -->
 <section class="ml-background-white padding50">
   <div class="row ml_div_contents_in_center">
-    <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-      <div class="ml_iframe_video_wrapper">
-        <iframe src="https://player.vimeo.com/video/474095648" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      </div>
-    </div>
-    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
       <div class="text-center">
         <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
       </div>
-      <div class="ml-subtext ml-font20">Learn about how Boston Scientific uses SmartWinnr video coaching to</div>
+        <h1 class="text-center">Learn about how Boston Scientific uses SmartWinnr video coaching to</h1>
+      <!-- <div class="ml-subtext ml-font20">Learn about how Boston Scientific uses SmartWinnr video coaching to</div> -->
       <ul class="ml_ul_tick">
-        <li>drive better sales conversations with physicians</li>
-        <li>keep sales teams engaged and motivated</li>
-        <li>empower sales teams to deliver on the Boston Scientific brand promise</li>
+        <li class="ml-subtext ml-font20">drive better sales conversations with physicians</li>
+        <li class="ml-subtext ml-font20">keep sales teams engaged and motivated</li>
+        <li class="ml-subtext ml-font20">empower sales teams to deliver on the Boston Scientific brand promise</li>
       </ul>
+    </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      <div class="ml_iframe_video_wrapper">
+        <iframe src="https://player.vimeo.com/video/474095648" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
 </section>
