@@ -37,9 +37,11 @@ layout: ml_layout
 <section class="ml_senior_living_top_section">
   <div class="row ml_no_padding_bottom50">
     <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-      <div class="ml_label ml_smartfeed_badge"  style="margin-top: 25px; margin-bottom: 20px;">Senior Living</div><br>
-      <h1  style="margin-top: 50px;">Improve Occupancy Rates across your communities</h1>
-      <div class=" ml-subtext ml-font20 padding0" style="margin-top: 25px;"> Motivate your sales teams with engaging sales contests, empower them with targeted trainings, and help them improve their conversation skills through regular practise in a supportive environment.</div></br>
+      <div class="ml_sr_living_badge">      
+        <div class="ml_label ml_smartfeed_badge" >Senior Living</div><br>
+      </div>
+      <h1>Improve Occupancy Rates across your communities</h1>
+      <div class=" ml-subtext ml-font20 padding0 ml_sr_living_badge" > Motivate your sales teams with engaging sales contests, empower them with targeted trainings, and help them improve their conversation skills through regular practise in a supportive environment.</div></br>
       <p align="left" class="ml-padding-top ml-margin-bottom100"><a class="ml-button" align="center" href="/request-demo">Request demo</a></p>
     </div>
   </div>
@@ -79,7 +81,11 @@ layout: ml_layout
   <div class="padding50">
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-        <iframe src="https://player.vimeo.com/video/672335814?h=c226dd342d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <div class="ml_iframe_video_container">
+          <div class="ml_iframe_video_wrapper">
+            <iframe src="https://player.vimeo.com/video/672335814?h=c226dd342d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
         <h1 class="text-center">Customer Success Story - Artis Senior Living</h1>

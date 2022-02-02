@@ -26958,6 +26958,9 @@ img {
   }
 }
 
+.ml_sr_living_badge{
+  padding-top: 35px;
+} 
 .ml-card-item {
   display: flex;
   flex-direction: column;
