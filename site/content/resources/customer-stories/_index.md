@@ -52,11 +52,11 @@ layout: ml_layout
   <div class="padding50">
     <div class="row ml_div_contents_in_center">
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-        <div class="ml_iframe_video_container">
+        <!-- <div class="ml_iframe_video_container"> -->
           <div class="ml_iframe_video_wrapper">
             <iframe src="https://player.vimeo.com/video/672335814?h=c226dd342d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
           </div>
-        </div>
+        <!-- </div> -->
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
         <h1 class="text-center">Customer Success Story - Artis Senior Living</h1>
