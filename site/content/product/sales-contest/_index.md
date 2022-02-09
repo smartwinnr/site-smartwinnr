@@ -165,6 +165,7 @@ layout: ml_layout
    </div>
 </section>
 
+<!-- {{ partial "g2-badges" . }} -->
 
 <section class="ml-background-white padding50 ">
   <div class="swiper-container ml-padding-top-bottom100">
@@ -612,7 +613,6 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <!-- Add Arrows -->
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
   </div>  
@@ -621,7 +621,7 @@ layout: ml_layout
 
 
 
-<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+<!-- <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/kpi_explainer_gzxtcn.png"/>
   </div>
@@ -678,6 +678,80 @@ layout: ml_layout
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/individual-team-leaderboard-combined_heynkl.png"/>
+  </div>
+</div> -->
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/kpi_explainer_gzxtcn.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Creating a Sales Contest has never been so easy </h2>
+    <p>Create sales contests in just 3 clicks. Long running contests, on-the-spot contests, leagues, tournaments - use readymade themes within SmartWinnr to reduce the go-live time.</p>
+    <p>Create different leaderboards to make the contest fun and exciting - by sales reps, by regions, by zones, by headquarters, by teams. Sales reps check their rankings from their mobile phones on-the-go. 
+    </p>
+  </div>
+</div>
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Integrate with your CRM for Sales Data </h2>
+    <p>Data gets updated automatically into SmartWinnr through integration with your CRM. We also have provisions to upload data through excel, or provide forms to capture data from directly inside SmartWinnr.</p>
+    <p>SmartWinnr can integrate with CRMs like Salesforce.com, SAP, HubSpot, Pipedrive, Microsoft Dynamics and more. <a href="/request-demo" class="ml_body_text_blue">Contact us</a> today to learn more.</p>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/Integrate with your CRM for Sales Data.png"/>
+  </div>
+</div>
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/Creating a Sales Contest has never been so easy.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Sales Reps Track their Progress through SmartWinnr Mobile App </h2>
+    <p>Field teams can track how far they are from winning a contest, directly through our mobile app. Which gives more visibility and transparency. You get freedom from sharing MIS reports that no one really looks at.</p>
+    <p>If you use Salesforce.com, your teams can track progress through the Salesforce One Mobile app or from directly inside Salesforce.com</p>
+  </div>
+</div>
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Send Alerts and Notifications on new contest launch, contest updates </h2>
+    <p>Keep your teams motivated and excited by sending notifications on launch of a new contest, updates of an ongoing contest. Create chat groups to encourage conversations, team bonding and competition.</p>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/notification.png"/>
+  </div>
+</div>
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/manager-user-card_combined_jsnxnd.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Rolled up view for Managers, Drilled Down View for Sales People </h2>
+    <p>Managers get visibility into progress by targets, by team. They can drill down to an individual salesperson. Each salesperson has a clear view of her targets and focuses on them.</p>
+  </div>
+</div>
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> SmartWinnr Sales TV to drive Visibility and Transparency </h2>
+    <p>If you’re running a team of SDRs or a team on the sales floor, you already know that sales TVs can be very powerful. It's a sure shot way to motivate and engage your sales people. Celebrate wins, display leaderboards, track winners, motivate newcomers and a lot more with the SmartWinnr Sales TV.</p>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/Sales Tv.png"/>
+  </div>
+</div>
+
+<div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/user-manager_challenge-combined_fvu552.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <h2 class="ml_body_text_black"> Run Challenges to make it more competitive </h2>
+    <p>Take your contests to a whole different level by introducing one-on-one and team vs team challenges. This is especially helpful when you want to drive the performance of your top performers and top teams.</p>
   </div>
 </div>
 
