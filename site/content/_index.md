@@ -212,7 +212,7 @@ layout: ml_layout
         <div class="ml-cards">
           <div class="ml-card-item bg-c-blue">
             <div class="ml-card-icon">
-              <h1 class="fg-blue"><i class="icon-arrow-down-circle"></i><span>67%</span></h1>
+              <h1 class="fg-blue"><i class="icon-arrow-up-circle"></i><span>67%</span></h1>
             </div>
             <div class="ml-card-info">
               <h4 class="ml-card-title ml-card-blue-title">Improve Knowledge Retention</h4>
