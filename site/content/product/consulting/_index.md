@@ -115,9 +115,6 @@ layout: ml_layout
        <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/bayer-logo.svg" alt="Bayer"></center>
        </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/ake.png" alt="AKE"></center>
-       </div>
        <div class="ml_height_100_flex">
           <center><img class="ml_company_logo_home ml_height_75 ml-margin-top10" src="/images/org-logos/artis.png" alt="ASL"></center>
        </div>
