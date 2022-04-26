@@ -600,6 +600,35 @@ layout: ml_layout
   </div>  
 </section>
 
+<div class="row ml-margin0 padding50 white ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <!-- <img class="ml-image" alt="Image" src="https://res.cloudinary.com/smartwinnr/image/upload/f_auto,q_auto/v1581427073/website/Images/khub_explainer_tmjhwb.png"/> -->
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/khub_explainer_tmjhwb.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <div class="row">
+      <h2>Your Content at your Fingertips</h2>
+      <p class="ml-subtext ml_body_text_black">Product videos, installation manuals, service manuals, sales decks, training videos, crucial announcements and more</p>
+    </div>
+    <div class="row">
+      <h2>Intelligent Search</h2>
+      <p class="ml-subtext ml_body_text_black">Looking for a document? Just search for it. Our SmartSearch can search even within images. With autocomplete, typeahead and full text search, the document you’re looking for is just a click away.</p>
+    </div>
+    <div class="row">
+      <h2>Multiple Languages</h2>
+      <p class="ml-subtext ml_body_text_black">Running a global team with documents in different languages? Upload documents in different languages for teams from different countries. SmartWinnr shows documents in the correct language to each sales person.</p>
+    </div>
+    <div class="row">
+      <h2>Offline Access</h2>
+      <p class="ml-subtext ml_body_text_black">Poor network? No problem. K-Hub documents can be accessed offline. But only for documents that you choose. It won’t eat up more space in your phone than what’s needed.</p>
+    </div>
+    <div class="row">
+      <h2>Sharing Documents</h2>
+      <p class="ml-subtext ml_body_text_black">Reps can share documents with customers right within the app in a click. You can control which documents are shareable based on your company policy.</p>
+    </div>
+  </div>
+</div>
+
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
     <h1 class="ml_body_text_white text-center">Ready to empower your sales teams with latest information from their mobile devices?</h1>
