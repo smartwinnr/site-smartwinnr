@@ -825,7 +825,7 @@ layout: ml_layout
         </div>
       </div>
     </div>
-    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/2016-09-reduce-ramp-up-time-for-new-sales/';">
+    <div class="waterfall__item" onclick="location.href='https://www.smartwinnr.com/post/2016/09/reduce-ramp-up-time-for-new-sales/';">
       <div class="card post post-summary reveal enter">
         <div class="card-header postinfo">
           <img src="/images/blog4.png">
