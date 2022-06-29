@@ -132,91 +132,105 @@ layout: ml_layout
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/1.png" class="swiper-img">
+                      <img src="/images/g2badges/enterprise/13.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/2.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/1.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/3.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/2.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/4.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/3.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/5.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/4.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/6.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/5.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/7.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/6.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/8.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/7.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/9.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/8.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/10.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/9.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/11.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/10.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/12.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/11.png" class="swiper-img">
                   </div>
                 </div>
               </div>
               <div class="swiper-slide swiper-slide-request"> 
                 <div class="row">
                   <div class="col-lg-12">
-                      <img src="/images/g2badges/spring/13.png" class="swiper-img">
+                      <img src="/images/g2badges/summer/12.png" class="swiper-img">
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide swiper-slide-request"> 
+                <div class="row">
+                  <div class="col-lg-12">
+                      <img src="/images/g2badges/summer/13.png" class="swiper-img">
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide swiper-slide-request"> 
+                <div class="row">
+                  <div class="col-lg-12">
+                      <img src="/images/g2badges/summer/14.png" class="swiper-img">
                   </div>
                 </div>
               </div>
