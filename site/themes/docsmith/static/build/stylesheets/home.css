@@ -26765,6 +26765,9 @@ img {
     margin-top:30px  !important;
   }
 }
+.ml_height_25 {
+  height: 25px !important;
+}
 .ml_height_30 {
   height: 30px !important;
 }
@@ -26786,8 +26789,17 @@ img {
 .ml_height_45 {
   height: 45px !important;
 }
+.ml_height_60 {
+  height: 60px !important;
+}
 .ml_height_75 {
   height: 75px !important;
+}
+.ml_height_125 {
+  height: 125px !important;
+}
+.ml_height_150 {
+  height: 150px !important;
 }
 .ml_height_500 {
   height: 500px !important;

@@ -158,6 +158,18 @@ layout: ml_layout
        <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/mfs.png" alt="MFS"></center>
        </div>
+        <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_125" src="/images/org-logos/applause-logo.png" alt="Applause"></center>
+       </div>
+        <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/nice.png" alt="NICE"></center>
+       </div>
+        <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_30" src="/images/org-logos/tiaa.png" alt="TIAA"></center>
+       </div>
+        <div class="ml_height_100_flex" >
+          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/herofincorp.png" alt="HeroFinCorp"></center>
+       </div>
       </div>
    </div>
 </section>
