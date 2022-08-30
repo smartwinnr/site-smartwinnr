@@ -22330,6 +22330,12 @@ p {
   height: auto;
   /* margin-top: 10% !important; */
 }
+.ml-mobileview {
+  width: 400px;
+  height: 650px;
+  /* margin-top: 10% !important; */
+}
+
 /* Blog CSS */
 body {
     background: #ebecee !important;
