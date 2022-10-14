@@ -405,6 +405,7 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      <!--
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
@@ -418,6 +419,7 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      -->
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
@@ -548,6 +550,7 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      <!--
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
@@ -561,6 +564,7 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      -->
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
@@ -629,7 +633,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/Fall-2022/mid-market/13.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/13.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -713,6 +717,19 @@ layout: ml_layout
             <div class="card-title">
               <h3 class="ml-bold-text">High Performer </h3>
               <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/small-business/1.png" class="swiper-img swiper-img-h-85">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer Small-Business </h3>
+              <p>Products in the High Performer quadrant in the Small-Business Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
             </div>
           </div>
         </div>
