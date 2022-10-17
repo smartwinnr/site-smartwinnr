@@ -182,7 +182,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/1.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/14.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -195,7 +195,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/2.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/24.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -208,7 +208,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/3.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/23.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -221,7 +221,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/4.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/22.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -234,7 +234,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/5.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/15.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -247,7 +247,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/6.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/16.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -260,7 +260,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/7.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/17.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -273,7 +273,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/8.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/18.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -286,7 +286,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/9.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/19.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -299,7 +299,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/10.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/20.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -312,7 +312,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/11.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/21.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -325,7 +325,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/12.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/26.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -338,7 +338,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/13.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/25.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -348,10 +348,11 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      <!--
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/1.png" class="swiper-img">
+              <img src="/images/g2badges/fall/10.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -361,10 +362,11 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      -->
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/2.png" class="swiper-img">
+              <img src="/images/g2badges/fall/17.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -377,7 +379,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/3.png" class="swiper-img">
+              <img src="/images/g2badges/fall/15.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -390,7 +392,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/4.png" class="swiper-img">
+              <img src="/images/g2badges/fall/14.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -403,7 +405,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/5.png" class="swiper-img">
+              <img src="/images/g2badges/fall/16.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -416,7 +418,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/6.png" class="swiper-img">
+              <img src="/images/g2badges/fall/18.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -429,7 +431,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/7.png" class="swiper-img">
+              <img src="/images/g2badges/fall/19.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -442,7 +444,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/8.png" class="swiper-img">
+              <img src="/images/g2badges/fall/24.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -455,7 +457,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/9.png" class="swiper-img">
+              <img src="/images/g2badges/fall/21.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -468,7 +470,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/10.png" class="swiper-img">
+              <img src="/images/g2badges/fall/22.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -481,7 +483,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/11.png" class="swiper-img">
+              <img src="/images/g2badges/fall/20.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -491,6 +493,7 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      <!--
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
@@ -504,10 +507,11 @@ layout: ml_layout
           </div>
         </div>
       </div>
+      -->
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/13.png" class="swiper-img">
+              <img src="/images/g2badges/fall/25.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -520,7 +524,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/summer/14.png" class="swiper-img">
+              <img src="/images/g2badges/fall/23.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -533,7 +537,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/1.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/10.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -546,7 +550,7 @@ layout: ml_layout
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/2.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/11.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -559,7 +563,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/3.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/14.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -572,7 +576,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/4.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/13.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -585,7 +589,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/5.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/mid-market/9.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -598,7 +602,7 @@ layout: ml_layout
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/6.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/mid-market/16.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -611,7 +615,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/7.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/12.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -624,7 +628,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/8.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/mid-market/15.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -637,7 +641,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/asia-pacific/1.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/asia-pacific/3.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -650,12 +654,25 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/asia-pacific/2.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/asia-pacific/4.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">High Performer </h3>
               <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/small-business/1.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer </h3>
+              <p>Products in the High Performer quadrant in the Small-Business Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
             </div>
           </div>
         </div>
