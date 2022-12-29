@@ -34,7 +34,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/14.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/27.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -47,7 +47,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/24.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/28.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -60,7 +60,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/23.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/29.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -73,7 +73,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/22.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/30.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -86,12 +86,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/15.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/31.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text"> Best Meets Requirements Enterprise </h3>
-              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
+              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category</p>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/16.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/32.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -112,7 +112,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/17.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/33.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -125,7 +125,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/18.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/34.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -138,7 +138,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/19.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/35.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -151,12 +151,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/20.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/36.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">Best Support Enterprise </h3>
-              <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category </p>
+              <p>The Highest Quality of Support product in the Relationship Index earned the highest Quality of Support rating in its category</p>
             </div>
           </div>
         </div>
@@ -164,7 +164,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/21.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/37.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -177,12 +177,25 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/26.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/38.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">High Performer Enterprise </h3>
-              <p>Products in the High Performer quadrant in the Enterprise Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+              <p>Products in the High Performer quadrant in the Enterprise Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/39.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">High Performer Enterprise </h3>
+              <p>Products in the High Performer quadrant in the Enterprise India Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
             </div>
           </div>
         </div>
@@ -190,35 +203,46 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/enterprise/25.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/40.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">High Performer Enterprise </h3>
-              <p>Products in the High Performer quadrant in the Enterprise India Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+              <h3 class="ml-bold-text">Users Most Likely To Recommend Enterprise </h3>
+              <p>The Users Most Likely to Recommend product in the Results Index earned the highest Likely to Recommend rating in its category </p>
             </div>
           </div>
         </div>
       </div>
-      <!--
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/10.png" class="swiper-img">
+              <img src="/images/g2badges/enterprise/41.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">Leader </h3>
-              <p>Products in the Leader quadrant in the Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores </p>
+              <h3 class="ml-bold-text">Best Results Enterprise </h3>
+              <p>The Best Results product in the Results Index earned the highest overall Results rating in its category </p>
             </div>
           </div>
         </div>
       </div>
-      -->
+            <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/enterprise/42.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Best Estimated ROI Enterprise </h3>
+              <p>The Best Estimated ROI product in the Results Index earned the best estimated ROI rating in its category based on a combination of estimated time to achieve ROI and time to go live </p>
+            </div>
+          </div>
+        </div>
+      </div>
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/17.png" class="swiper-img">
+              <img src="/images/g2badges/winter/13.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -231,12 +255,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/15.png" class="swiper-img">
+              <img src="/images/g2badges/winter/14.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text"> Best Meets Requirements  </h3>
-              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category </p>
+              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category</p>
             </div>
           </div>
         </div>
@@ -244,7 +268,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/14.png" class="swiper-img">
+              <img src="/images/g2badges/winter/15.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -257,7 +281,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/16.png" class="swiper-img">
+              <img src="/images/g2badges/winter/16.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -270,7 +294,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/18.png" class="swiper-img">
+              <img src="/images/g2badges/winter/17.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -283,7 +307,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/19.png" class="swiper-img">
+              <img src="/images/g2badges/winter/18.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -296,7 +320,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/24.png" class="swiper-img">
+              <img src="/images/g2badges/winter/19.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -309,7 +333,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/21.png" class="swiper-img">
+              <img src="/images/g2badges/winter/20.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -322,7 +346,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/22.png" class="swiper-img">
+              <img src="/images/g2badges/winter/21.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -335,7 +359,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/20.png" class="swiper-img">
+              <img src="/images/g2badges/winter/22.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -363,7 +387,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/25.png" class="swiper-img">
+              <img src="/images/g2badges/winter/23.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -376,7 +400,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/fall/23.png" class="swiper-img">
+              <img src="/images/g2badges/winter/24.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -386,10 +410,23 @@ layout: ml_layout
           </div>
         </div>
       </div>
+        <div class="swiper-slide"> 
+        <div class="row">
+          <div class="col-lg-12">
+              <img src="/images/g2badges/winter/25.png" class="swiper-img">
+          </div>
+          <div class="col-lg-12">
+            <div class="card-title">
+              <h3 class="ml-bold-text">Leader </h3>
+              <p>Products in the Leader quadrant in the Grid® Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores </p>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/10.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/17.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -402,7 +439,7 @@ layout: ml_layout
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/11.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/18.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -415,12 +452,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/14.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/19.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">Easiest To Do Business With Mid-Market </h3>
-              <p>The Easiest Doing Business With product in the Relationship Index earned the highest Ease of Doing Business With rating in its category </p>
+              <p>The Best Meets Requirements product in the Usability Index earned the highest Meets Requirements rating in its category</p>
             </div>
           </div>
         </div>
@@ -428,7 +465,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/13.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/20.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -441,7 +478,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/9.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/mid-market/21.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -454,7 +491,7 @@ layout: ml_layout
        <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/16.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/mid-market/22.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -467,7 +504,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/12.png" class="swiper-img">
+              <img src="/images/g2badges/mid-market/23.png" class="swiper-img">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -480,7 +517,7 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/mid-market/15.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/mid-market/24.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
@@ -493,12 +530,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/asia-pacific/3.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/asia-pacific/5.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">High Performer Mid-Market </h3>
-              <p>Products in the High Performer quadrant in the Mid-Market Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+              <p>Products in the High Performer quadrant in the Mid-Market Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
             </div>
           </div>
         </div>
@@ -506,12 +543,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/asia-pacific/4.png" class="swiper-img swiper-img-h-85">
+              <img src="/images/g2badges/small-business/2.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
               <h3 class="ml-bold-text">High Performer </h3>
-              <p>Products in the High Performer quadrant in the Asia Pacific Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
+              <p>Products in the High Performer quadrant in the Small-Business Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
             </div>
           </div>
         </div>
@@ -519,12 +556,12 @@ layout: ml_layout
       <div class="swiper-slide"> 
         <div class="row">
           <div class="col-lg-12">
-              <img src="/images/g2badges/small-business/1.png" class="swiper-img">
+              <img src="/images/g2badges/Southeast-Asia/1.png" class="swiper-img swiper-img-h-85">
           </div>
           <div class="col-lg-12">
             <div class="card-title">
-              <h3 class="ml-bold-text">High Performer </h3>
-              <p>Products in the High Performer quadrant in the Small-Business Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category</p>
+              <h3 class="ml-bold-text">High Performer Southeast-Asia </h3>
+              <p>Products in the High Performer quadrant in the Southeast Asia Regional Grid® Report have high customer Satisfaction scores and low Market Presence scores compared to the rest of the category </p>
             </div>
           </div>
         </div>
