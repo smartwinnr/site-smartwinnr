@@ -14,7 +14,7 @@ layout: ml_layout
   <div class="ml-homepage-first-section ml_no_padding_bottom_right50">
     <div class="row ml-margin0 ml_div_contents_in_center">
       <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 ">
-        <img src="/images/f81b34d94a3b6ada63b8488e2da8d925.png" class="g2-badge" alt="">
+        <img src="/images/G2BestSoftware2023-Badge-Sales.png" class="g2-badge" alt="">
         <h1>World’s #1 mobile-first Sales Productivity Platform</h1>
         <div class="ml-font20">A single platform to drive sales contests, sales learning and sales coaching for remote sales teams</div></br>
         <p align="center" class="ml-padding-top  ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
