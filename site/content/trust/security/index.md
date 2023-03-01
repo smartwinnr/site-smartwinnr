@@ -78,11 +78,11 @@ layout: ml_layout
 <section class="ml-pure-white-background ml-padding-left-right50">
   <h2 class="text-center ml-padding-bottom20 ml_text_bold">SOC 2</h2>
   <div class="row ml-padding-left5 ml-padding-bottom40">
-    <div class="col-lg-8">
-      <h4>SmartWinnr is SOC2 Type II compliant which provides customers with the assurance that SmartWinnr has the right operational and security controls in place to  ensure data and process security.</h4>
-    </div>
     <div class="col-lg-4">
       <img src="/images/soc2.png" class="ml-csl-logo">
+    </div>
+    <div class="col-lg-8">
+      <h4>SmartWinnr is SOC2 Type II compliant which provides customers with the assurance that SmartWinnr has the right operational and security controls in place to  ensure data and process security.</h4>
     </div>
   </div>
 </section>
