@@ -96,16 +96,10 @@ layout: ml_layout
           <center><img class="ml_company_logo_home " src="/images/org-logos/nn-logo.png" alt="NN Logo"></center>
        </div>
         <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/icici-securities-logo1.webp" alt="ICICI Securities Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home" src="/images/org-logos/convatec-logo.png" alt="Convatec Logo"></center>
        </div>
       <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home " src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_45 ml_padding_left" src="/images/org-logos/flexi-loans.webp" alt="Flexi Loans"></center>
        </div>
        <!--
        <div class="ml_height_100_flex" >
@@ -114,12 +108,6 @@ layout: ml_layout
        -->
        <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/SamAsh.png" alt="SamAsh"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35 " src="/images/org-logos/key-factors-logo.webp" alt="Key Factors"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home  " src="/images/org-logos/thornley-groves.png" alt="Thornley Groves"></center>
        </div>
        <div class="ml_height_100_flex"> 
           <center><img class="ml_company_logo_home ml_height_40 " src="/images/org-logos/j-j-logo.png" alt="Johnson & Johnson"></center>
