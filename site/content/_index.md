@@ -182,7 +182,7 @@ layout: ml_layout
              <h1 class="fg-blue"><i class="icon-arrow-up-circle"></i><span>22%</span></h1>
             </div>
             <div class="ml-card-info">
-              <h4 class="ml-card-title ml-card-blue-title">Quota Attainment</h4>
+              <h4 class="ml-card-title ml-card-blue-title">Sales Productivity</h4>
             </div>
           </div>
         </div>

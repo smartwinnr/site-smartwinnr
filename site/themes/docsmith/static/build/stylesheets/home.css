@@ -25716,8 +25716,8 @@ img {
 }
 
 .ml-homepage-first-section {
-  background: #F4F5F7 !important;
-  /* background: linear-gradient(to right, #FFC400, #ff991f); */
+  /* background: #F4F5F7 !important; */
+  background: linear-gradient(to right, #FFC400, #ff991f);
   color: #000 !important;
   /* padding: 5% !important; */
 }
@@ -26983,8 +26983,9 @@ img {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
-  padding : 10px 20px 10px;
+  padding : 0 20px 10px;
   line-height: 1.5em;
+  text-align: center;
 }
 
 .ml-card-title {
@@ -27002,6 +27003,7 @@ img {
   opacity: 0.91;
   padding : 25px 20px 10px;
   font-weight: 700;
+  text-align: center;
 }
 
 .ml-card-icon i {
