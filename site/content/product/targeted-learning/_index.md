@@ -53,117 +53,116 @@ layout: ml_layout
         <h4 class="text-center ml_body_text_black ml-margin-bottom20">Global enterprises rely on SmartWinnr.</h4>
       </div>
     </div>
-   <div class="row text-center paddingLogo ">
+    <div class="row text-center paddingLogo ">
       <div class="ml_logo_slider ml_div_contents_in_center ml_padding_left_right20">
-        <div  class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
-         <img class="ml_company_logo_home ml_height_55"  src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/SIXT-logo.png" alt="SIXT Logo">
         </div>
-        <div class="ml_height_100_flex"> 
-          <center><img class="ml_company_logo_home ml_height_40 " src="/images/org-logos/icici_bank_logo.webp" alt="ICICI Logo"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center> <img class="ml_company_logo_home " src="/images/org-logos/poly-logo.svg" alt="Polycom Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/Lupin-Logo.png" alt="Lupin Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/baxter-logo.png" alt="Baxter Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/Sun-Pharma.png" alt="Sun Pharma Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/L&T-Finance-logo.png"
+            alt="L&T Finance Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/Janssen-logo.png" alt="Janssen Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/Stryker-Logo.png" alt="Stryker Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/Terumo-logo.png" alt="Terumo Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_40 " src="/images/org-logos/icici_bank_logo.webp"
+              alt="ICICI Logo"></center>
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center">
+          <center><img class="ml_company_logo_home ml_height_40" src="/images/org-logos/Indian-Immunologicals-Ltd-logo.png"
+              alt="Indian Immunologicals Ltd Logo"></center>
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/Twin-Health-Logo.png"
+            alt="Twin Health Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/goStops-logo.png" alt="goStops Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_60" src="/images/org-logos/Kshipra-Health-logo.png"
+            alt="Kshipra Health Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/Wockhardt-logo.png" alt="Wockhardt Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center" style="display:flex !important;">
+          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/Ujjivan-logo.png" alt="Ujjivan Logo">
+        </div>
+        <div class="ml_height_100_flex">
           <center><img class="ml_company_logo_home " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home " src="/images/org-logos/skf-logo.webp" alt="SKF Logo"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home " src="/images/org-logos/elkem-logo.png" alt="Elkem Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home " src="/images/org-logos/skf-logo.png" alt="SKF Logo"></center>
+        </div>
+        <div class="ml_height_100_flex">
           <center><img class="ml_company_logo_home " src="/images/org-logos/nn-logo.png" alt="NN Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home" src="/images/org-logos/canara-hsbc-logo.webp" alt="Canara HSBC Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/icici-securities-logo1.webp" alt="ICICI Securities Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home" src="/images/org-logos/convatech-logo.webp" alt="Convatec Logo"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo"></center>
-       </div>
-      <div class="ml_height_100_flex" >
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home" src="/images/org-logos/convatec-logo.png" alt="Convatec Logo"></center>
+        </div>
+        <div class="ml_height_100_flex">
           <center><img class="ml_company_logo_home " src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo"></center>
-       </div>
-      <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/Regrow-biosciences-logo.webp" alt="Regrow Logo"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home" src="/images/org-logos/hcr-logo-2x.png" alt="HCR Logo"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_50 ml_padding" src="/images/org-logos/transforce-logo.webp" alt="Transforce Logo"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_45 ml_padding_left" src="/images/org-logos/flexi-loans.webp" alt="Flexi Loans"></center>
-       </div>
-       <!--
-       <div class="ml_height_100_flex" >
-          <center> <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.webp" alt="Maharishi Ayurveda"></center>
-       </div>
-       -->
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/twin.png" alt="Twin"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/cardekho.png" alt="Car Dekho"></center>
-       </div>
-       <div class="ml_height_100_flex" >
+        </div>
+        <!--
+           <div class="ml_height_100_flex" >
+              <center> <img class="ml_company_logo_home ml_height_75" src="/images/org-logos/maharishi-ayurveda-logo.webp" alt="Maharishi Ayurveda"></center>
+           </div>
+           -->
+        <div class="ml_height_100_flex">
           <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/SamAsh.png" alt="SamAsh"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/sud-life.webp" alt="SUD Life"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35 " src="/images/org-logos/key-factors-logo.webp" alt="Key Factors"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home  " src="/images/org-logos/bonalive.png" alt="Bonalive"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/sohar-bank.png" alt="Sohar Bank"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home  " src="/images/org-logos/thornley-groves.png" alt="Thornley Groves"></center>
-       </div>
-       <div class="ml_height_100_flex"> 
-          <center><img class="ml_company_logo_home ml_height_40 " src="/images/org-logos/j-j-logo.png" alt="Johnson & Johnson"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/bayer-logo.svg" alt="Bayer"></center>
-       </div>
-       <div class="ml_height_100_flex">
-          <center><img class="ml_company_logo_home ml_height_75 ml-margin-top10" src="/images/org-logos/artis.png" alt="ASL"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/tynor-logo.png" alt="Tynor"></center>
-       </div>
-       <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/fitterfly.png" alt="Flitterfly"></center>
-       </div>
-       <div class="ml_height_100_flex" >
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_40 " src="/images/org-logos/j-j-logo.png"
+              alt="Johnson & Johnson"></center>
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/bayer-logo.svg" alt="Bayer">
+          </center>
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_75 ml-margin-top10" src="/images/org-logos/artis.png"
+              alt="ASL"></center>
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/tynor-logo.png" alt="Tynor">
+          </center>
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/fitterfly.png" alt="Flitterfly">
+          </center>
+        </div>
+        <div class="ml_height_100_flex">
           <center><img class="ml_company_logo_home ml_height_55" src="/images/org-logos/mfs.png" alt="MFS"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75" src="/images/org-logos/applause-logo.png" alt="Applause"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_35" src="/images/org-logos/nice.png" alt="NICE"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_30" src="/images/org-logos/tiaa.png" alt="TIAA"></center>
-       </div>
-        <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home ml_height_75 ml-margin-top10" src="/images/org-logos/herofincorp.png" alt="HeroFinCorp"></center>
-       </div>
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_30" src="/images/org-logos/TIAA-Logo.png" alt="TIAA"></center>
+        </div>
+        <div class="ml_height_100_flex">
+          <center><img class="ml_company_logo_home ml_height_75 ml-margin-top10" src="/images/org-logos/Hero_FinCorp.png"
+              alt="HeroFinCorp"></center>
+        </div>
       </div>
-   </div>
+    </div>
 </section>
 
 

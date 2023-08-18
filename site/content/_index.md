@@ -90,7 +90,7 @@ layout: ml_layout
           <center><img class="ml_company_logo_home " src="/images/org-logos/viatris-logo.png" alt="Viatris Logo"></center>
        </div>
         <div class="ml_height_100_flex" >
-          <center><img class="ml_company_logo_home " src="/images/org-logos/skf-logo.webp" alt="SKF Logo"></center>
+          <center><img class="ml_company_logo_home " src="/images/org-logos/skf-logo.png" alt="SKF Logo"></center>
        </div>
         <div class="ml_height_100_flex" >
           <center><img class="ml_company_logo_home " src="/images/org-logos/nn-logo.png" alt="NN Logo"></center>
