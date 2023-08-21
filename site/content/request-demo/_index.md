@@ -36,7 +36,7 @@ layout: ml_layout
         </div>
         <div class="ml_text_blue ml_font_1_point_one ml_text_bold ml-margin-bottom20 ml-margin-top30">Global enterprises rely on SmartWinnr</div>
         <div class="row text-center">
-          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/fedex-logistics-logo.png" alt="FTN Logo">
+          <img class="ml_company_logo_in_request_demo" src="/images/org-logos/SIXT-logo.png" alt="SIXT Logo">
           <img class="ml_company_logo_in_request_demo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
           <img class="ml_company_logo_in_request_demo" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
           <img class="ml_company_logo_in_request_demo" src="/images/org-logos/icici logo.png" alt="ICICI Logo">
