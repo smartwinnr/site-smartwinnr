@@ -796,5 +796,6 @@ layout: ml_layout
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
+      initialSlide: 1
     });
 </script>

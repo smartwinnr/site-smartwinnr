@@ -14,18 +14,24 @@ layout: ml_layout
 ---
 
 <section class="">
-  <div class="ml_sales_contest_top_section">
-    <div class="padding50 ml_body_text_white text-center ">
-      <h1 class="ml-margin-top-sections">Targeted Learning</h1>
-      <div class="ml-font20">A completely new approach to training sales teams.</div>
-      <div class="ml-font20">Harness the power of AI to identify areas of improvement.</div>
+  <div class="ml_sales_contest_top_section  ml-padding-top-left7">
+    <div class="row ml_div_contents_in_center ">
+        <div class="col-lg-5 ml-padding-top50">
+            <h1 class=" ml-margin-bottom30 ml_body_text_white">Targeted Learning</h1>
+            <div class="ml_body_text_white ml-font20">A completely new approach to training sales teams.</div>
+            <div class=" ml-margin-bottom30 ml_body_text_white ml-font20">Harness the power of AI to identify areas of improvement.</div>
+        </div>
+        <div class="col-lg-7 ml-padding-top50 ">
+            <div class="ml_iframe_video_container ml-margin-left0 ">
+                <div class="ml_iframe_video_wrapper">
+                    <iframe
+                        src="https://player.vimeo.com/video/474097714"
+                        width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="ml_iframe_video_container">
-      <div class="ml_iframe_video_wrapper">
-        <iframe src="https://player.vimeo.com/video/474097714" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      </div>
-    </div>
-  </div>
+</div>
   <img class="swoop" src="/images/swoop_mask.min.svg">
 </section>
 
@@ -756,7 +762,7 @@ layout: ml_layout
   </div>
 </div>
 
-<div class="row ml-margin0 padding50 ml_targeted_learning_report_image white ml_div_contents_in_center ">
+<div class="row ml-margin0 padding50 ml_targeted_learning_report_image ml-background-white white ml_div_contents_in_center ">
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_smartfeed_badge">Reports</div><br>
     <h2 class="ml_body_text_black ml-margin-bottom10">Get access to detailed reports  by business unit, country or team.</h2>
@@ -769,6 +775,34 @@ layout: ml_layout
   </div>
   <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 text-center padding0">
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Targeted-Learning_2020-03-23_09_46/reports_upbur5.png"/>
+  </div>
+</div>
+
+<div class="row ml-margin0 padding50 white ml_div_contents_in_center">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center">
+    <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/khub_explainer_tmjhwb.png"/>
+  </div>
+  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <div class="row">
+      <h2>Your Content at your Fingertips</h2>
+      <p class="ml-subtext ml_body_text_black">Product videos, installation manuals, service manuals, sales decks, training videos, crucial announcements and more</p>
+    </div>
+    <div class="row">
+      <h2>Intelligent Search</h2>
+      <p class="ml-subtext ml_body_text_black">Looking for a document? Just search for it. Our SmartSearch can search even within images. With autocomplete, typeahead and full text search, the document you’re looking for is just a click away.</p>
+    </div>
+    <div class="row">
+      <h2>Multiple Languages</h2>
+      <p class="ml-subtext ml_body_text_black">Running a global team with documents in different languages? Upload documents in different languages for teams from different countries. SmartWinnr shows documents in the correct language to each sales person.</p>
+    </div>
+    <div class="row">
+      <h2>Offline Access</h2>
+      <p class="ml-subtext ml_body_text_black">Poor network? No problem. K-Hub documents can be accessed offline. But only for documents that you choose. It won’t eat up more space in your phone than what’s needed.</p>
+    </div>
+    <div class="row">
+      <h2>Sharing Documents</h2>
+      <p class="ml-subtext ml_body_text_black">Reps can share documents with customers right within the app in a click. You can control which documents are shareable based on your company policy.</p>
+    </div>
   </div>
 </div>
 
@@ -940,5 +974,6 @@ layout: ml_layout
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
+      initialSlide: 1
     });
 </script>

@@ -11939,6 +11939,11 @@ blockquote strong {
   src: url('../fonts/roboto/Roboto-Thin.ttf') format('truetype');
   font-style: normal;
 }
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/poppins/Poppins-Light.ttf') format('truetype');
+  font-style: normal;
+}
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -21856,14 +21861,14 @@ body {
   }
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 400; 
   margin-top: 0 !important;
   scroll-margin-top: 50px; /* this will let the link not hide under fixed header*/
 }
 h1 {
   font-size: 2.8rem !important;
-  line-height: 110%;
+  line-height: 1.15;
 }
 h2 {
   font-size: 2rem !important;
@@ -26473,6 +26478,7 @@ img {
 
 .ml_ul_tick {
   list-style-image: url('https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/tick_uzrclf.png');
+  padding-left: 30px;
 }
 
 .ml_no_padding_right50 {
@@ -27139,4 +27145,8 @@ img {
   .ml_sales_incentive_2nd{
     padding: 91px !important;
   }
+}
+
+.ml_padding_right_left_30{
+  padding: 0 30px !important;
 }
