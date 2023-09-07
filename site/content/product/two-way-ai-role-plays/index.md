@@ -736,8 +736,8 @@ layout: ml_layout
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h2 class="ml_body_text_black ml-margin-bottom10">Customized Role-Plays</h2>
-        <h5 class="ml-subtext ml_body_text_black">Targeted Practice Opportunities to Elevate Sales Conversations.</h5>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <div class="ml-subtext ml_body_text_black ml-font20">Targeted Practice Opportunities to Elevate Sales Conversations.</div>
+        <ul class="ml_font_1 ml_ul_tick">
             <li class="ml-margin-top10">2-way real-time role plays, tailored to your products, and your sales
                 methodology.</li>
             <li class="ml-margin-top10">Reps hone their skills with product-specific, customer-centric role plays.</li>
@@ -758,8 +758,8 @@ layout: ml_layout
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h2 class="ml_body_text_black ml-margin-bottom10">Instant Feedback and Evaluation</h2>
-        <h5 class="ml-subtext ml_body_text_black">Accelerated Learning Curve resulting in Higher Sales Performance</h5>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <div class="ml-subtext ml_body_text_black ml-font20">Accelerated Learning Curve resulting in Higher Sales Performance</div>
+        <ul class="ml_font_1 ml_ul_tick">
             <li class="ml-margin-top10">Reps receive instant feedback on their pitches.</li>
             <li class="ml-margin-top10">Identify strengths and areas for improvement in real-time against your
                 evaluation criteria.</li>
@@ -772,9 +772,9 @@ layout: ml_layout
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h2 class="ml_body_text_black ml-margin-bottom10">Realistic Simulations with SmartWinnr Neo AI</h2>
-        <h5 class="ml-subtext ml_body_text_black">Authentic Learning Environment for Faster Onboarding & Skill
-            Development</h5>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <div class="ml-subtext ml_body_text_black ml-font20">Authentic Learning Environment for Faster Onboarding & Skill
+            Development</div>
+        <ul class="ml_font_1 ml_ul_tick">
             <li class="ml-margin-top10">Neo AI's simulations replicate real customer interactions, enabling risk-free
                 refinement.</li>
             <li class="ml-margin-top10">Reps perfect their approach in a true-to-life environment.</li>
@@ -795,8 +795,8 @@ layout: ml_layout
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h2 class="ml_body_text_black ml-margin-bottom10">Efficiency at Scale</h2>
-        <h5 class="ml-subtext ml_body_text_black">Scalable Training Solution leading to Consistency Across Teams</h5>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <div class="ml-subtext ml_body_text_black ml-font20">Scalable Training Solution leading to Consistency Across Teams</div>
+        <ul class="ml_font_1 ml_ul_tick">
             <li class="ml-margin-top10">Overcome limited number of trainers with SmartWinnr Neo AI's scalable platform.
             </li>
             <li class="ml-margin-top10">Every sales person receives consistent, high-quality training.</li>

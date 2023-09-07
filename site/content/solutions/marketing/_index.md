@@ -36,7 +36,7 @@ layout: ml_layout
     <img class="ml-image" alt="Image" src="/images/new-product-launch.jpeg"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-    <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+    <ul class="ml_font_1 ml_ul_tick">
       <li class="ml-margin-top10">Run campaigns for your internal sales team and external partners</li>
       <li class="ml-margin-top10">Send new product information through bite-sized SmartFeeds</li>
       <li class="ml-margin-top10">Check knowledge readiness through AI-driven quizzes</li>

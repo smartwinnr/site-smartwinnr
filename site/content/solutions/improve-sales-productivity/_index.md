@@ -29,7 +29,7 @@ layout: ml_layout
     <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/sales_productivity_dxfy3v.png"/>
   </div>
   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-    <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+    <ul class="ml_font_1 ml_ul_tick">
       <li class="ml-margin-top10">Gamify sales KPIs through real-time leaderboards and challenges</li>
       <li class="ml-margin-top10">Make learning fun through bite-sized SmartFeeds and AI-driven quizzes</li>
       <li class="ml-margin-top10">Identify performance bottlenecks through comprehensive coaching</li>

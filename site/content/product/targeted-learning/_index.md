@@ -754,7 +754,7 @@ layout: ml_layout
     <div class="ml_label ml_survey_badge">Surveys</div ><br>
     <h2 class="ml_body_text_black ml-margin-bottom10">Align training outcomes with learner expectations</h2>
     <p class="ml-subtext ml_body_text_black">Easy-to-administer survey gives insights from your sales team to make your training more relevant and effective</p>
-    <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+    <ul class="ml_font_1 ml_ul_tick">
       <li class="ml-margin-top10">Pre-training survey to capture expectations</li>
       <li class="ml-margin-top10">Post-training surveys to evaluate the experience</li>
       <li class="ml-margin-top10">Gather feedback for training need analysis</li>
@@ -766,7 +766,7 @@ layout: ml_layout
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
     <div class="ml_label ml_smartfeed_badge">Reports</div><br>
     <h2 class="ml_body_text_black ml-margin-bottom10">Get access to detailed reports  by business unit, country or team.</h2>
-    <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+    <ul class="ml_font_1 ml_ul_tick">
       <li class="ml-margin-top10">Track engagement and completion</li>
       <li class="ml-margin-top10">Identify knowledge hotspots that can impact sales</li>
       <li class="ml-margin-top10">Monitor knowledge improvement across time</li>

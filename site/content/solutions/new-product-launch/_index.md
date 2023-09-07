@@ -24,7 +24,7 @@ layout: ml_layout
         <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/new-product_launch_yjlqaf.png"/>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <ul class="ml_font_1 ml_ul_tick">
           <li class="ml-margin-top10">Make your sales team deeply knowledgeable on the new product features and benefits through automated microlearning and quizzes</li>
           <li class="ml-margin-top10">Gamify sales KPIs through competitions and live leaderboards during new product launch to boost sales</li>
           <li class="ml-margin-top10">Assess communication readiness of your team through video coaching</li>

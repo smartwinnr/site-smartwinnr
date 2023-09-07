@@ -35,7 +35,7 @@ layout: ml_layout
     <img class="ml-dreamforce-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Sales%20Contest_2020-03-23_09_46/individual-team-leaderboard-combined_heynkl.png"/>
   </div>
   <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-    <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+    <ul class="ml_font_1 ml_ul_tick">
       <li class="ml-margin-top10">Improve first call resolution time</li>
       <li class="ml-margin-top10">Improve Net Promoter Score</li>
       <li class="ml-margin-top10">Make new agents productive rapidly</li>

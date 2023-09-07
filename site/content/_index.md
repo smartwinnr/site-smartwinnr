@@ -748,12 +748,12 @@ layout: ml_layout
         <!-- <h3>Smarter Executives = Higher Performance</h3> -->
         <h1 class="text-center">Customer Success Story - Boston Scientific</h1>
         <div class="ml-subtext ml-font20">Experience how Boston Scientific uses SmartWinnr to
-          <ul class="ml_ul_tick">
+        </div>
+        <ul class="ml_ul_tick ml-margin-top10">
             <li>achieve YoY growth</li>
             <li>above 90% field-force engagement</li>
             <li>high knowledge retention amongst the field-force</li>
           </ul>
-        </div>
         <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button-blue" align="center" href="/request-demo">Learn More</a></p>
       </div>
     </div>

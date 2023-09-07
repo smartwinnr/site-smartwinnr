@@ -21,7 +21,7 @@ layout: ml_layout
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h4>Make Your Sales Events Fun</h4>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <ul class="ml_font_1 ml_ul_tick">
           <li class="ml-margin-top10">Gamify the sales event learning experience</li>
           <li class="ml-margin-top10">Get quantitative insights about sales events training RoI</li>
           <li class="ml-margin-top10">Drive knowledge in a fun way through gamification using badges, real-time leaderboards, competitions and more</li>

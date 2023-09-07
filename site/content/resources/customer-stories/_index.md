@@ -75,7 +75,7 @@ layout: ml_layout
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-margin-bottom20">
         <h1 class="text-center">Customer Success Story - NN Czech Republic</h1>
         <div class="ml-subtext ml-font20">Europe's leading insurance provider have utilized SmartWinnr to run contests for their agents and managers with</div>
-        <ul class="ml_ul_tick">
+        <ul class="ml_ul_tick ml-margin-top10">
           <li>high engagement</li>
           <li>very successful games</li>
           <li>huge amount of collaboration</li>
@@ -145,7 +145,7 @@ layout: ml_layout
         <img class="ml_company_logo" src="/images/org-logos/poly-logo.svg" alt="Polycom Logo">
       </div>
       <div class="ml-subtext ml-font20">Learn how Polycom uses SmartWinnr to:</div>
-      <ul class="ml_ul_tick">
+      <ul class="ml_ul_tick ml-margin-top10">
         <li>Increase product knowledge retention</li>
         <li>Drive global sales learning events</li>
         <li>Make learning fun and engaging</li>
@@ -163,7 +163,7 @@ layout: ml_layout
         <img class="ml_company_logo" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
       </div>
       <div class="ml-subtext ml-font20">Experience how Boston Scientific uses SmartWinnr to</div>
-      <ul class="ml_ul_tick">
+      <ul class="ml_ul_tick ml-margin-top10">
         <li>achieve YoY growth</li>
         <li>above 90% field-force engagement</li>
         <li>high knowledge retention amongst the field-force</li>

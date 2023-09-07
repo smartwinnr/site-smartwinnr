@@ -139,7 +139,7 @@ layout: ml_layout
       </div>
       <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
         <h2>We help you develop a complete gameplan for sales gamification</h2>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <ul class="ml_font_1 ml_ul_tick">
           <li class="ml-margin-top10">A structured process on game design</li>
           <li class="ml-margin-top10">Optimize game duration, structure, team size and more for maximum impact</li>
           <li class="ml-margin-top10">Align game outcomes with strategic sales objectives</li>

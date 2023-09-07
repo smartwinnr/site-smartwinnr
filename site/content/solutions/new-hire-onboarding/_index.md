@@ -24,7 +24,7 @@ layout: ml_layout
         <img class="ml-image ml-margin-bottom0" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/new-hire-onboarding_krfm8c.png"/>
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <ul class="ml_font_1 ml_ul_tick">
           <li class="ml-margin-top10">Accelerate learning on company processes, systems, products, competitors through microlearning SmartFeeds</li>
           <li class="ml-margin-top10">Improve retention of key knowledge through AI-driven quizzes</li>
           <li class="ml-margin-top10">Create a structured learning journey through SmartPaths</li>
@@ -43,7 +43,7 @@ layout: ml_layout
       <img class="ml-image" alt="Image" src="https://d2htycb3ayzv6u.cloudfront.net/Images_2020-03-23_09_45/onboarding_ldbhff.png"/>
     </div>
     <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-      <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+      <ul class="ml_font_1 ml_ul_tick">
         <li class="ml-margin-top10">Reduce classroom training time of new hires by 80%</li>
         <li class="ml-margin-top10">Reduce time to productivity by up to 40%</li>
         <li class="ml-margin-top10">Reduce new hire training cost and ramp-up time</li>

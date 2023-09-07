@@ -44,13 +44,13 @@ layout: ml_layout
     </div>
     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
       <h1 class="text-center">Customer Success Story - Boston Scientific</h1>
-      <div class="ml-subtext">Experience how Boston Scientific uses SmartWinnr to
-        <ul class="ml_ul_tick">
+      <div class="ml-subtext ml-font20">Experience how Boston Scientific uses SmartWinnr to
+      </div>
+      <ul class="ml_ul_tick ml-margin-top10">
           <li>achieve YoY growth</li>
           <li>above 90% field-force engagement</li>
           <li>high knowledge retention amongst the field-force</li>
         </ul>
-      </div>
       <p align="center" class="ml-padding-top ml-padding-bottom10"><a class="ml-button-blue" align="center" href="/request-demo">Learn More</a></p>
     </div>
   </div>

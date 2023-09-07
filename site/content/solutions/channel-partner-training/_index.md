@@ -21,7 +21,7 @@ layout: ml_layout
       </div>
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h4>Use SmartWinnr for total sales channel activation including your internal team and external distributors. Ensure that sales teams across channels are having the same level of information on product messaging on your new products.</h4>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <ul class="ml_font_1 ml_ul_tick">
           <li class="ml-margin-top10">Reduce time and effort for training channel- partners on product knowledge</li>
           <li class="ml-margin-top10">Send short micro-learning content with quizzes to drive new feature awareness</li>
           <li class="ml-margin-top10">Use gamified learning paths with rewards mechanism to keep channel partners engaged</li>

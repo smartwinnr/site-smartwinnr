@@ -156,7 +156,7 @@ layout: ml_layout
       </div>
       <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
         <h2>We sweat the details so that you don’t have to</h2>
-        <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+        <ul class="ml_font_1 ml_ul_tick">
           <li class="ml-margin-top10">Benefit from our experience of rolling out SmartWinnr for hundreds of customers</li>
           <li class="ml-margin-top10">Get access to a dedicated customer success manager for a smooth rollout</li>
           <li class="ml-margin-top10">Help with system-level integrations and IT coordination</li>

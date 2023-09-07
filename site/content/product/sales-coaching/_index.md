@@ -660,7 +660,7 @@ layout: ml_layout
       <div class="ml_label ml_smartfeed_badge">Video Coaching</div><br>
       <h2 class="ml_body_text_black ml-margin-bottom10">Video Coaching: Practice makes it perfect</h2>
       <p class="ml-subtext ml_body_text_black">Get your sales team practice in a supportive environment. Help to master price objections, account transitions, new product sales scripts and more. Pick a scenario and get your sales team to record a video response through the SmartWinnr app. Review and give helpful feedback. Share the best videos with everyone driving peer learning.</p>
-      <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+      <ul class="ml_font_1 ml_ul_tick">
         <li class="ml-margin-top10">Drive sales pitch contest</li>
         <li class="ml-margin-top10">Improve sales script delivery through positive feedbacks</li>
         <li class="ml-margin-top10">Make reps master pitch for a new product and ace handling customer FAQs</li>
@@ -723,7 +723,7 @@ layout: ml_layout
   <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
       <!-- <div class="ml_label ml_smartfeed_badge">Reports</div><br> -->
       <h4 class="ml_body_text_black ml-margin-bottom10">Improve sales Productivity through systematic coaching</h4>
-      <ul class="ml-margin-top30 ml_font_1 ml_ul_tick">
+      <ul class="ml_font_1 ml_ul_tick">
         <li class="ml-margin-top10">Increase call effectiveness and drive productivity</li>
         <li class="ml-margin-top10">Gain helpful qualitative data for the sales training team</li>
         <li class="ml-margin-top10">Make manager and reps jointly responsible for performance improvement</li>

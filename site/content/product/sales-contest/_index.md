@@ -37,7 +37,7 @@ layout: ml_layout
       <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ml-margin-bottom20">
         <h2 class="ml_body_text_black">Customer Success Story - NN Czech Republic</h2>
         <div class="ml-subtext ml-font20">Europe's leading insurance provider have utilized SmartWinnr to run contests for their agents and managers with</div>
-        <ul class="ml_ul_tick">
+        <ul class="ml_ul_tick ml-margin-top10">
           <li>high engagement</li>
           <li>very successful games</li>
           <li>huge amount of collaboration</li>
