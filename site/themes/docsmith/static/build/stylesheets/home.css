@@ -27150,3 +27150,16 @@ img {
 .ml_padding_right_left_30{
   padding: 0 30px !important;
 }
+
+.ml_height_170{
+  height: 170px !important;
+  width: auto !important;
+}
+.ml_height_180{
+  height: 180px !important;
+  width: auto !important;
+}
+.ml_height_200{
+  height: 200px !important;
+  width: auto !important;
+}
