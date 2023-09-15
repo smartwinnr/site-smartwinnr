@@ -1126,6 +1126,13 @@ layout: ml_layout
         <div class="ml-subtext">SmartWinnr helps you to answer - How ready is my sales team to launch the new product? Tailor training plans, reinforce and measure retention of product launch information.</div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <a class="ml_body_text_blue" href="/product/two-way-ai-role-plays">
+          <img class="ml_small_image" alt="Image" src="../images/home_two_way_ai.jpg">
+          <h4 class="ml-title-font">Two-way AI Role Plays</h4>
+        </a>
+        <div class="ml-subtext">Elevate your sales conversations with SmartWinnr Neo AI Coaching, offering personalized guidance and real-time feedback for smarter, more effective training</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <a class="ml_body_text_blue" href="/solutions/channel-partner-training">
           <img class="ml_small_image" alt="Image" src="../images/home_refresher_product_training.webp">
           <h4 class="ml-title-font">Refresher Product Trainings</h4>
@@ -1145,13 +1152,6 @@ layout: ml_layout
           <h4 class="ml-title-font">New Hire Onboarding</h4>
         </a>
         <div class="ml-subtext">Reduce time to productivity of your new hires. Create contests and leaderboards, quiz them on sessions and get them excited to be part of your organization.</div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-        <a class="ml_body_text_blue" href="/solutions/sales-events">
-          <img class="ml_small_image" alt="Image" src="../images/home_sales_events.webp">
-          <h4 class="ml-title-font">Drive Engaging Sales Events</h4>
-        </a>
-        <div class="ml-subtext">Use SmartWinnr to amplify and reinforce learning during key sales events.</div>
       </div>
     </div>
     <!-- <div class="row ml-margin-bottom20">
