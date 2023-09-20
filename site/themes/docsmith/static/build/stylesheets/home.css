@@ -25490,6 +25490,9 @@ img {
   .ml_padding_desktop {
     padding: 0 10% !important;
   }
+  .ml_padding_desktop_20 {
+    padding: 0 10% !important;
+  }
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
@@ -25510,6 +25513,9 @@ img {
     height: 400px !important;
   }
   .ml_padding_desktop {
+    padding: 0 10% !important;
+  }
+  .ml_padding_desktop_20 {
     padding: 0 10% !important;
   }
   .ml-subtext {
@@ -25780,6 +25786,10 @@ img {
 
 .ml_padding_desktop {
   padding: 0 30%;
+}
+
+.ml_padding_desktop_20 {
+  padding: 0 20%;
 }
 
 .ml_nav_container {
