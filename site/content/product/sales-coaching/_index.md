@@ -917,7 +917,7 @@ layout: ml_layout
   <div class="col-md-12 col-sm-12">
     <h1 class="ml_body_text_white text-center">SmartWinnr Neo AI: Elevate Your Coaching with Two-Way AI Role-Plays </h1>
     <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop_20">Experience the future of coaching with SmartWinnr Neo AI – a cutting-edge platform that empowers video coaching through interactive two-way AI role-plays. Take your coaching sessions to the next level today </div>
-    <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/product/two-way-ai-role-plays/">Explore SmartWinnr Neo AI > </a></p>
+    <p align="center" class="ml-margin-top50"><a class="ml-button text-capitalize" align="center" href="/product/two-way-ai-role-plays/">Explore SmartWinnr Neo AI > </a></p>
   </div>
 </div>
 

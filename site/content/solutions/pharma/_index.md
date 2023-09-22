@@ -641,8 +641,8 @@ layout: ml_layout
 <div class="row ml-margin0 ml-whySM">
   <div class="col-md-12 col-sm-12">
     <h1 class="ml_body_text_white text-center">Drive better conversations with HCPs through AI Powered Role Plays</h1>
-    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop_20">Smartwinnr Neo AI's AI-powered role plays enable pharmaceutical professionals to practice and refine their conversations with HCPs, ensuring more effective and confident dialogues in the field.</div>
-    <p align="center" class="ml-margin-top50"><a class="ml-button" align="center" href="/product/two-way-ai-role-plays/">Explore SmartWinnr Neo AI ></a></p>
+    <div class="ml_body_text_white ml-subtext text-center ml_padding_desktop_20">Smartwinnr Neo AI enables your sales reps to practice and refine their conversations with HCPs, ensuring more effective and confident dialogues in the field.</div>
+    <p align="center" class="ml-margin-top50"><a class="ml-button text-capitalize" align="center" href="/product/two-way-ai-role-plays/">Explore SmartWinnr Neo AI ></a></p>
   </div>
 </div>
 
