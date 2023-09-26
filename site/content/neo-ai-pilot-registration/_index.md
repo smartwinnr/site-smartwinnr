@@ -20,7 +20,7 @@ no_header_footer: true
       <div class="row ml_div_contents_in_center">
         <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
           <h1 class="ml-margin-top-sections">SmartWinnr NEO AI :</h1>
-          <h1 class="ml-margin-top-sections">Role Plays Redefined.</h1>
+          <h1 class="ml-margin-top-sections">Role Plays Redefined</h1>
           <div class="ml-font20">SmartWinnr's Neo AI empowers your sales team with cutting-edge AI designed to
             revolutionize the way you engage with customers, ensuring meaningful conversations and remarkable results.
           </div>
@@ -59,7 +59,7 @@ no_header_footer: true
                 <label class="" for="edit-submitted-email">Company Business Email:<span class="form-required"
                   title="This field is required.">*</span></label>
                 <input required="required" class="email form-text form-email required" placeholder="Please enter your business email"
-                  type="email" id="edit-submitted-email" name="submitted[company_email]" size="60" />
+                  type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
               </div>
               <div class="form-item">
                 <label class="" for="edit-submitted-company-name">Company Name:<span class="form-required"
@@ -71,7 +71,7 @@ no_header_footer: true
                 <label class="" for="edit-submitted-sales-people">Number of sales people in your company:<span class="form-required"
                   title="This field is required.">*</span></label>
                 <input required="required" class="email form-text form-email required" placeholder="Please enter a number"
-                  type="number" id="edit-submitted-email" name="submitted[sales_people_number]" size="60" />
+                  type="number" id="edit-submitted-sales-people" name="submitted[sales_people_number]" maxlength="128" />
               </div>
               
               <div class="form-item">
@@ -93,7 +93,7 @@ no_header_footer: true
             <img class="ml-image-icon" alt="Realistic Simulations Image" src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/realistic_simulations_icon.png" />
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Realistic Simulations :</h4>
+            <h4 class="ml-title-adjustable ml-title-font">Realistic Simulations</h4>
             <div class="ml-subtext">Authentic Learning Environment for Faster Onboarding
               & Skill Development. Neo AI's simulations replicate real
               customer interactions, enabling risk-free refinement.</div>
@@ -104,12 +104,8 @@ no_header_footer: true
             <img class="ml-image-icon" alt="Customized Role Plays Image" src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/customised_role_plays_icon.png" />
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Customized Role-Plays :</h4>
-            <div class="ml-subtext">Authentic Learning Environment for Faster Onboarding
-              & Skill Development. Neo AI's simulations replicate real
-              customer interactions, enabling risk-free refinement.
-              Realistic Simulations :
-              Targeted Practice Opportunities to Elevate Sales
+            <h4 class="ml-title-adjustable ml-title-font">Customized Role-Plays</h4>
+            <div class="ml-subtext">Targeted Practice Opportunities to Elevate Sales
               Conversations. Reps hone their skills with product-
               specific, customer-centric role plays.</div>
           </div>
@@ -119,7 +115,7 @@ no_header_footer: true
             <img class="ml-image-icon" alt="Instant Feedback and Evaluation Image" src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/instant_feedback_icon.png" />
           </div>
           <div class="col-lg-10 col-md-10">
-            <h4 class="ml-title-adjustable ml-title-font">Instant Feedback and Evaluation :</h4>
+            <h4 class="ml-title-adjustable ml-title-font">Instant Feedback and Evaluation</h4>
             <div class="ml-subtext">Accelerated Learning Curve resulting in Higher Sales
               Performance.Identify strengths and areas for
               improvement in real-time against your evaluation
@@ -139,7 +135,7 @@ no_header_footer: true
       SmartWinnr Neo AI – a cutting-edge platform that empowers video coaching through interactive two-way AI
       role-plays. Take your coaching sessions to the next level today </div>
     <p align="center" class="ml-margin-top50"><a class="ml-button text-capitalize" align="center"
-        href="/product/two-way-ai-role-plays/">Explore SmartWinnr Neo AI > </a></p>
+        href="#webform-client-form-ai-11">Sign Up</a></p>
   </div>
 </div>
 
@@ -210,3 +206,12 @@ no_header_footer: true
       </div>
     </div>
 </section>
+
+<script>
+  document.getElementById('edit-submitted-sales-people').addEventListener("keypress", function (evt) {
+    if (evt.which != 8 && evt.which != 0 && evt.which < 48 || evt.which > 57)
+    {
+        evt.preventDefault();
+    }
+  });
+</script>
