@@ -253,13 +253,18 @@
         <!-- End Google Tag Manager (noscript) -->
         {{ end }}
         <header>
+            {{if not .Page.Params.no_header_footer}}
+            
             {{ partial "nav" . }}
             {{ partial "subnav" . }}
+
+            {{end}}
         </header>
         {{block "main" .}}{{ end }}
         <footer>
-            <!-- {{ partial "contribute_footer" . }} -->
+            {{if not .Page.Params.no_header_footer}}
             {{  partial "footer" . }}
+            {{ end }}
         </footer>
         {{ if (getenv "HUGO_ENV") }}
             {{ partial "includes_body_end_prod" . }}

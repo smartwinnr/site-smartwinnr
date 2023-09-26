@@ -11,6 +11,7 @@ license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2017-04-14
 type: ml_layout
 layout: ml_layout
+no_header_footer: true
 ---
 
 <section>
