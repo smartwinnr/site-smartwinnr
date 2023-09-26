@@ -25550,6 +25550,10 @@ img {
   padding-right: 0px !important;
 }
 
+.ml-padding-right0 {
+  padding-right: 0px !important;
+}
+
 .ml-underline {
   border-bottom: 1px solid #000 !important;
   padding-bottom: 1px !important;
@@ -27173,3 +27177,65 @@ img {
   height: 200px !important;
   width: auto !important;
 }
+
+/** Start of smartwinnr neo ai demo request form styles */
+
+.ml_neo_request_demo_signup {
+  background: #e9e9e9;
+  font-size: 1rem !important;
+  padding: 5% 8% !important;
+  color: #272640;
+  margin-bottom: 10px;
+  /* border-radius: 5px; */
+  /* margin: 0 20% 0 0 !important; */
+}
+
+.ml_neo_request_demo_signup input {
+  display: block;
+  width: 100%;
+  color: #000 !important;
+  height: 35px;
+  padding: 5px;
+  font-size: .9rem;
+  text-indent: 2%;
+  border: 1px solid #ABB0B2;
+  /* border-radius: 5px; */
+}
+
+.ml_neo_request_demo_signup textarea {
+  display: block;
+  width: 100%;
+  color: #000 !important;
+  padding: 5px;
+  /* text-indent: 2%; */
+  font-size: .9rem;
+  border: 1px solid #ABB0B2;
+  /* border-radius: 5px; */
+}
+
+.ml_neo_request_demo_signup input.form-submit {
+  width: 50% !important;
+  margin: auto !important;
+  font-weight: 600;
+  border: 2px solid #5951ff !important;
+  background: #5951ff;
+  color: #fff !important;
+  font-size: .9rem;
+  text-transform: uppercase;
+}
+.ml_neo_request_demo_signup .form-required {
+  color: red !important;
+}
+
+.ml_neo_request_demo_signup input.form-submit:hover {
+  background: #4e6bdf;
+  color: #fff !important;
+}
+
+@media only screen and (max-width: 992px){
+  .ml-image-icon{
+    width: 30% !important;
+  }
+}
+
+/** End of smartwinnr neo ai demo request form styles */
