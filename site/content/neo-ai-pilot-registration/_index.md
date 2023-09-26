@@ -205,3 +205,12 @@ layout: ml_layout
       </div>
     </div>
 </section>
+
+<script>
+  document.getElementById('edit-submitted-sales-people').addEventListener("keypress", function (evt) {
+    if (evt.which != 8 && evt.which != 0 && evt.which < 48 || evt.which > 57)
+    {
+        evt.preventDefault();
+    }
+  });
+</script>
