@@ -827,6 +827,8 @@ layout: ml_layout
     </div>
 </div>
 
+<div class='padding50 ml-background-white'><a href="https://www.smartwinnr.com/neo-ai-pilot-registration/?utm_source=product_page&utm_medium=web&utm_campaign=launch" rel="noreferrer" target="_blank"><img class="border_radius_10" alt="" src="/images/banners/neo_ai_pilot_crosslink_banner.jpg" class="ml-padding-top0 ml-padding-bottom0"></a></div>
+
 <div class="row ml-margin0 ml-whySM">
     <div class="col-md-12 col-sm-12">
         <h1 class="ml_body_text_white text-center">Ready to double your sales numbers?</h1>

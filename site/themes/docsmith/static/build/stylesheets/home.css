@@ -27239,3 +27239,7 @@ img {
 }
 
 /** End of smartwinnr neo ai demo request form styles */
+
+.border_radius_10 {
+  border-radius: 10px !important;
+}
