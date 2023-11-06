@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: Improve call effectiveness for customer facing teams with SmartWinnr field coaching, audio coaching and video-based coaching
 title: Video Coaching and Field Coaching for Sales Teams | SmartWinnr
 og_title: Video Coaching and Field Coaching for Sales Teams | SmartWinnr

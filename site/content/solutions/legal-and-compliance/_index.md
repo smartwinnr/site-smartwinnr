@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Drive your Legal and Compliance trainings through SmartWInnr
 title: Drive your Legal and Compliance trainings through SmartWInnr
 description: Make your compliance and regulatory trainings fun and engaging with SmartWinnr.

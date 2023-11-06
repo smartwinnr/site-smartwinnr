@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr NEO AI Pilot Registration
 og_title: SmartWinnr NEO AI Pilot Registration
 description: Register for  SmartWinnr Neo AI Pilot, Smartwinnr Neo AI enables your sales reps to practice and refine their conversations with HCPs, ensuring more effective and confident dialogues in the field. 

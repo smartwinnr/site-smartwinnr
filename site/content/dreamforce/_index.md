@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: 'Learn how to drive automated continuous learning for a distributed team with top-of-the-mind recall'
 og_description: 'Learn how to drive automated continuous learning for a distributed team with top-of-the-mind recall'
 keywords: ["contact-us", "dreamforce"]

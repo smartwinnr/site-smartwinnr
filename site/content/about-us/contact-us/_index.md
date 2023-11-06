@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Contact Us | SmartWinnr
 og_title: Contact Us | SmartWinnr
 description: Contact SmartWinnr

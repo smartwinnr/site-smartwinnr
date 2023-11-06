@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr for Banking Industry
 og_title: SmartWinnr for Banking Industry
 og_description: SmartWinnr helps you to reimagine how you drive performance and knowledge across branches. Track individual and branch-level KPIs | Train team on the latest product, process, and regulatory knowledge | Share important regulatory and product information.

@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr Improves Sales Productivity in Insurance Industry
 og_title: SmartWinnr Improves Sales Productivity in Insurance Industry
 og_description: Improve sales productivity and reduce attrition of your insurance agents with SmartWinnr’s proven Sales effectiveness program.

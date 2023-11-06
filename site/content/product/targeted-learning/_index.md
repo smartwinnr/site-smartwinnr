@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Targeted and continuous learning for on-the-field teams | SmartWinnr
 og_title: Video Coaching and Field Coaching for Sales Teams | SmartWinnr
 og_description: Drive continuous Sales Learning with SmartWinnr’s micro-learning feeds, gamified assessments, structured learning paths and detailed training needs analysis reports.

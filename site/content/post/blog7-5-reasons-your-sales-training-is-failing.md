@@ -7,7 +7,7 @@ categories: ["ACM"]
 id: 7
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 weight: -7
 slug: "/5-reasons-your-sales-training-is-failing"
 featured_image: /images/blog-7.png

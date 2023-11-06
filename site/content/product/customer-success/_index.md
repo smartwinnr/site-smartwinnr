@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Make every rollout a success with Customer Success Support | SmartWinnr
 og_title: Make every rollout a success with Customer Success Support | SmartWinnr
 og_description: Our Customer Success Team will be with you, every step of the way, starting from roll-out to continuous support.

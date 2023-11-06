@@ -1,7 +1,7 @@
 ---
 author:
 name: SmartWinnr
-email: smartwinnr@mobillionlabs.com
+email: contact@smartwinnr.com
 title: SmartWinnr Neo AI | AI Powered Sales Coaching
 description: Elevate sales conversation with SmartWinnr Neo AI Coaching. Personalized guidance and real-time feedback for smarter, more effective training.
 og_title: SmartWinnr Neo AI | AI Powered Sales Coaching

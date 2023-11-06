@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: How SmartWinnr empowers Call Center agents and managers
 og_title: How SmartWinnr empowers Call Center agents and managers
 og_description: SmartWinnr equips your customer support agents with the right knowledge and motivation to improve first call resolution time

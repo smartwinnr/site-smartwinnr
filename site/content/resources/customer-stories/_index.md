@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Customer Success Stories | SmartWinnr
 og_title: Customer Success Stories | SmartWinnr
 og_description: SmartWinnr has improved sales productivity for our customers. Read their success stories and best practices.

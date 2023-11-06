@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: 'Privacy Policy of SmartWinnr'
 title: Compliance
 type: ml_layout

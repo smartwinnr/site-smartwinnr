@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: New Hire Onboarding | SmartWinnr
 og_title: New Hire Onboarding | SmartWinnr
 og_description: Organizations can take up to 6 months to make their new hires fully productive. SmartWinnr reduces ramp up time by 50% while keeping the new hires engaged and motivated

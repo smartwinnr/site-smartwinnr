@@ -7,7 +7,7 @@ categories: ["ACM"]
 id: 8
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 weight: -8
 slug: "/top10-CEOs-who-started-as-salesreps"
 featured_image: /images/Top-10-CEOs-who-started-as-Sales-Reps.png

@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Gamification makes activities fun and engaging | SmartWinnr
 og_title: Gamification makes activities fun and engaging | SmartWinnr
 og_description: Use SmartWinnr’s gamification engine to engage, motivate and improve the performance of your teams.

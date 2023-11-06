@@ -7,7 +7,7 @@ categories: ["ACM"]
 id: 3
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 weight: -3
 slug: "/2017/12/3-insights"
 featured_image: /images/blog1.png

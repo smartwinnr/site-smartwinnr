@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Case Studies & Whitepapers | SmartWinnr
 og_title: Case Studies & Whitepapers | SmartWinnr
 og_description: Want to know how SmartWinnr can improve your sales team’s performance? Check out our videos, whitepapers and case studies here.

@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr for Medical Devices Industry
 og_title: SmartWinnr for Medical Devices Industry
 og_description: Train, coach, motivate and engage your medical reps through SmartWinnr's unified platform. 

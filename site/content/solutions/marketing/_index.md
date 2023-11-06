@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Empower your Marketing team 
 og_title: Empower your Marketing team 
 og_description: SmartWinnr empowers the marketing team to run successful product trainings, collect feedback directly from the field

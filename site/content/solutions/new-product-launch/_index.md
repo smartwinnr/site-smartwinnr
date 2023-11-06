@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: New Product Launch | SmartWinnr
 og_title: New Product Launch | SmartWinnr
 og_description: SmartWinnr helps to train, motivate and drives the sales of your new products through the new product launch program.

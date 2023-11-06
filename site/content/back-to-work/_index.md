@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: SmartWinnr provides digital solutions which are designed to help organizations reopen as soon as possible after the COVID-19 lockdowns. We focus on keeping your employees, suppliers, distributors and external partners safe and aware during the COVID-19 crisis and beyond.
 keywords: ["smartwinnr", "sales training", "gamification", "sales coaching", "sales performance", "sales enablement", "solutions"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

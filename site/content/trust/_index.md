@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: 'Privacy Policy of SmartWinnr'
 title: SmartWinnr Trust Center
 type: ml_layout

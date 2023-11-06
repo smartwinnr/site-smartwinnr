@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Automate your Sales Incentive and Compensation Calculations | SmartWinnr
 description: SmartWinnr handles complicated incentive plans, helps to motivate your sales team with real-time visibility and gives transparency to the process.
 og_title: Automate your Sales Incentive and Compensation Calculations | SmartWinnr

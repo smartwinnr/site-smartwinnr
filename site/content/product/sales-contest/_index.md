@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Sales Contest Software | SmartWinnr
 description: Use SmartWinnr Sales Gamification app to drive successful sales contests, remove tedious excel calculations, generate leaderboards automatically and send real-time updates.
 og_title: Sales Contest Software | SmartWinnr

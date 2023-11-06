@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Central Content Repository for easy access | SmartWinnr
 og_title: Central Content Repository for easy access | SmartWinnr
 og_description: Use KHub as a central content repository, easily accessible from mobile app. 

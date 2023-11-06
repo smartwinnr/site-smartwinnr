@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr for Senior Living Industry
 og_title: SmartWinnr for Senior Living Industry
 og_description: SmartWinnr for Senior Living-- Drive occupancy rates, improve resident satisfaction and reduce caregiver attrition using one single platform.

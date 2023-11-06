@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Consulting Services | SmartWinnr
 og_title: Consulting Services | SmartWinnr
 og_description: We consult Fortune 500 companies on gamifying their sales productivity. Request a Demo today to talk to our experts on your requirements

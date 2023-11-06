@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: Join us to build the most efficient sales enablement platform that’s used by fortune 500 companies. Work with us at the most exciting place-- T-Hub, Hyderabad.
 keywords: ["smartwinnr", "job", "opening", "marketing", "developer", "full stack developer", "customer support"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
@@ -44,7 +44,7 @@ layout: ml_layout
                 <!-- <a href="/about-us/company">Learn more about our values.</a> -->
                 <p></p><p></p>
                 <p>
-                  <a href="mailto:contact@mobillionlabs.com?subject=Apply for Full Stack Developer" class="btn btn-large btn-success"><span>Apply Now</span></a>
+                  <a href="mailto:contact@smartwinnr.com?subject=Apply for Full Stack Developer" class="btn btn-large btn-success"><span>Apply Now</span></a>
                 </p>
             </div>
           </div>
@@ -68,7 +68,7 @@ layout: ml_layout
               <p></p>
               <p></p>
               <p>
-                <a href="mailto:contact@mobillionlabs.com?subject=Apply for Product Marketing Specialist" class="btn btn-large btn-success "><span>Apply Now</span></a>
+                <a href="mailto:contact@smartwinnr.com?subject=Apply for Product Marketing Specialist" class="btn btn-large btn-success "><span>Apply Now</span></a>
             </p>
             </div>
             </div>
@@ -86,7 +86,7 @@ layout: ml_layout
       					<p></p>
       					<p></p>
       					<p>
-                  <a href="mailto:contact@mobillionlabs.com?subject=Apply for Software Engineer Recent Graduate" class="btn btn-large btn-success"><span>Apply Now</span></a>
+                  <a href="mailto:contact@smartwinnr.com?subject=Apply for Software Engineer Recent Graduate" class="btn btn-large btn-success"><span>Apply Now</span></a>
                 </p>
               </div>
           </div>

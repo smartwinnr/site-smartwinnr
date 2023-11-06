@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Enterprise Ready Features for large enterprises | SmartWinnr
 og_title: Enterprise Ready Features for large enterprises | SmartWinnr
 og_description: SmartWinnr is enterprise-ready with high availability, scalability, enterprise-grade security, SSO and ready-made integration with other systems.

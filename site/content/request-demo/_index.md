@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Free Demo of SmartWinn'r Software
 og_title: Free Demo of SmartWinn'r Software
 description: Request a demo of SmartWinnr's sales training, sales coaching and sales contest Software which can help you to create a world class sales team

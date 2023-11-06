@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr Modules and Features
 og_title: SmartWinnr Modules and Features
 og_description: Get more details about the modules and services SmartWinnr offers and the features associated with those modules.

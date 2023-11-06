@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Drive your Channel Partner Training through SmartWinnr
 og_title: Drive your Channel Partner Training through SmartWinnr
 og_description: SmartWinnr enables complete sales channel activation - internal sales to channel partners.

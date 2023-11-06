@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Drive Sales with SmartWinnr
 og_title: Drive Sales with SmartWinnr
 og_description: SmartWinnr gives your sales team the winning edge. Motivate, train and coach from a single platform.

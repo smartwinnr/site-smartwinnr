@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr for Technology Industry
 og_title: SmartWinnr for Technology Industry
 og_description: SmartWinnr helps Technology-based companies to drive their sales performance through a unified platform of sales contests, sales learning, and sales coaching.

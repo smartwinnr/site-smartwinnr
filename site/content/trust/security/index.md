@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 description: 'Privacy Policy of SmartWinnr'
 title: Security
 type: ml_layout

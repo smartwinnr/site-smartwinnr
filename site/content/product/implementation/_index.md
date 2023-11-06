@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Implementation and Roll-out Services | SmartWinnr
 og_title: Implementation and Roll-out Services | SmartWinnr
 og_description: Easy to implement. Easy to use. We make implementation a breeze with a structured process that works every time.

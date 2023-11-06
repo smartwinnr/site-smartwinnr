@@ -7,7 +7,7 @@ categories: ["ACM"]
 id: 10
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 weight: -10
 slug: "/ramp-up-new-hire-with-preboarding-activities"
 featured_image: "/images/10. ramp up your new hire by using pre-boarding activities.png"

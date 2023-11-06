@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: Run engaging and exciting Sales Events with SmartWinnr
 og_title: Run engaging and exciting Sales Events with SmartWinnr
 og_description: Run your sales events with SmartWinnr to make them fun and engaging. Gamify your event, communicate with your audience, drive knowledge in a fun way and get insights on the event’s ROI - all from one platform.

@@ -1,7 +1,7 @@
 ---
 author:
   name: SmartWinnr
-  email: smartwinnr@mobillionlabs.com
+  email: contact@smartwinnr.com
 title: SmartWinnr for Pharma Industry
 og_title: SmartWinnr for Pharma Industry
 og_description: Train, motivate and coach your medical reps for superlative sales performance using SmartWinnr
