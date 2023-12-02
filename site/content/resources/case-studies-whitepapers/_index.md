@@ -48,6 +48,7 @@ layout: ml_layout
     </div> -->
     <div class="row">
       <h1 class="ml-title text-center" id="caseStudies">Case Studies</h1>
+      <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="ml_iframe_video_wrapper">
           <iframe src="https://player.vimeo.com/video/474095648" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -56,6 +57,14 @@ layout: ml_layout
       <div class="col-md-6 col-sm-12">
         <div class="ml_iframe_video_wrapper">
           <iframe src="https://player.vimeo.com/video/474098651" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+      </div>
+      </div>
+      <div class="row ml_div_contents_in_center">
+        <div class="col-md-6 col-sm-12 media">
+          <div class="ml_iframe_video_wrapper">
+            <iframe src="https://player.vimeo.com/video/889009223" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
     </div>
