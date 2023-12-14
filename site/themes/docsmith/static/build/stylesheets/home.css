@@ -27243,3 +27243,7 @@ img {
 .border_radius_10 {
   border-radius: 10px !important;
 }
+
+.ml_width_90 {
+  width: 90% !important
+}

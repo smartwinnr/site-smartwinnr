@@ -20,7 +20,7 @@ layout: ml_layout
         <p align="center" class="ml-padding-top  ml-padding-bottom10"><a class="ml-request-demo-button" align="center" href="/request-demo">Request demo</a></p>
       </div>
       <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 padding0 ml-margin0 ml_zindex1">
-        <img class="ml-image ml-margin-bottom0" alt="Image" src="./images/Homepage_final.png">
+        <img class="ml-image ml-margin-bottom0 ml_width_90" alt="Image" src="./images/homepage_final_1.png">
       </div>
     </div>
   </div>
