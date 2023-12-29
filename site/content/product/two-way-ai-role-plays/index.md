@@ -767,14 +767,14 @@ layout: ml_layout
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center ml_padding_right_left_30">
         <img class="ml-image" alt="Image"
-            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Coaching%401x.png" />
+            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Coaching.png" />
     </div>
 </div>
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center ml_padding_right_left_30">
         <img class="ml-image" alt="Image"
-            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Analytics%401x.png" />
+            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Analytics.png" />
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h2 class="ml_body_text_black ml-margin-bottom10">Instant Feedback and Evaluation</h2>
@@ -804,14 +804,14 @@ layout: ml_layout
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center ml_padding_right_left_30">
         <img class="ml-image" alt="Image"
-            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Simulation%401x.png" />
+            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Simulation.png" />
     </div>
 </div>
 
 <div class="row ml-background-white ml-margin0 padding50 ml_div_contents_in_center">
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center ml_padding_right_left_30">
         <img class="ml-image" alt="Image"
-            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Efficiency%401x.png" />
+            src="https://d2htycb3ayzv6u.cloudfront.net/2WayAI_Coaching/Efficiency.png" />
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <h2 class="ml_body_text_black ml-margin-bottom10">Efficiency at Scale</h2>
