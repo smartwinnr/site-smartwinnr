@@ -27247,3 +27247,15 @@ img {
 .ml_width_90 {
   width: 90% !important
 }
+
+.ml_padding_left_40{
+  padding-left: 40px !important;
+}
+
+.ml_boxed {
+  background: #F2F2F2 !important;
+  color: black !important;
+  border: 2px solid #808080 !important;
+  padding: 10px !important;
+  border-radius: 10px !important;
+}
