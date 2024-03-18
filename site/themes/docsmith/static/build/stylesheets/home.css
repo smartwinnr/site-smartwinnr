@@ -27259,3 +27259,7 @@ img {
   padding: 10px !important;
   border-radius: 10px !important;
 }
+
+.ml_checked_list{
+  list-style-type: '\2713';
+}
