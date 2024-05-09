@@ -584,6 +584,14 @@ layout: ml_layout
                   <input required="required" placeholder="Please enter your organization" type="text" id="edit-submitted-company-name" name="submitted[company_name]" value="" size="60" maxlength="128" class="form-text required" />
                 </div>
               <!-- </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding0 ml_padding_left_10"> -->
+                <div  class="form-item">
+                  <label class="" for="edit-submitted-sales-people">Number of sales people in your company:<span class="form-required"
+                  title="This field is required.">*</span></label>
+                  <input required="required" class="email form-text form-email required" placeholder="Please enter a number"
+                  type="number" id="edit-submitted-sales-people" name="submitted[sales_people_number]" maxlength="128" />
+                </div>
+              <!-- </div>
             </div> -->
             <fieldset>
               <legend class="ml_form_legend ml_body_text_white">What are you interested in?</legend>
