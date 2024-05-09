@@ -588,7 +588,7 @@ layout: ml_layout
                 <div  class="form-item">
                   <label class="" for="edit-submitted-sales-people">Number of sales people in your company:<span class="form-required"
                   title="This field is required.">*</span></label>
-                  <input required="required" class="email form-text form-email required" placeholder="Please enter a number"
+                  <input required="required" class="" placeholder="Please enter a number"
                   type="number" id="edit-submitted-sales-people" name="submitted[sales_people_number]" maxlength="128" />
                 </div>
               <!-- </div>
@@ -598,26 +598,26 @@ layout: ml_layout
               <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
                   <span class="ml-margin-right10">
-                    <input type="checkbox" class="ml_checbox_input" name="sales_contest" id="sales_contest" value="Sales Contests">
-                    <label class="ml_font_weight_normal" for="sales_contest"> Sales Contests </label>
+                    <input type="checkbox" class="ml_checbox_input" name="Learning" id="Learning" value="Learning">
+                    <label class="ml_font_weight_normal" for="sales_contest"> Learning  </label>
                   </span>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
                   <span class="ml-margin-right10">
-                    <input type="checkbox" class="ml_checbox_input" name="sales_learning" id="sales_learning" value="Sales Learning">
-                    <label class="ml_font_weight_normal" for="sales_learning"> Sales Learning </label>
+                    <input type="checkbox" class="ml_checbox_input" name="contests" id="Contests" value="Contests">
+                    <label class="ml_font_weight_normal" for="Contests">Contests </label>
                   </span>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
                   <span class="ml-margin-right10">
-                    <input type="checkbox" class="ml_checbox_input" name="sales_coaching" id="sales_coaching" value="Sales Coaching">
-                    <label class="ml_font_weight_normal" for="sales_coaching"> Sales Coaching </label>
+                    <input type="checkbox" class="ml_checbox_input" name="coaching" id="Coaching" value="Coaching">
+                    <label class="ml_font_weight_normal" for="coaching"> Coaching </label>
                   </span>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 padding0 ml_padding_left_10">
                   <span class="ml-margin-right10">
-                    <input type="checkbox" class="ml_checbox_input" name="sales_incentives" id="sales_incentives" value="Sales Incentives">
-                    <label class="ml_font_weight_normal" for="sales_incentives"> Sales Incentives </label>
+                    <input type="checkbox" class="ml_checbox_input" name="incentives" id="Incentives" value="Incentives">
+                    <label class="ml_font_weight_normal" for="icentives"> Incentives </label>
                   </span>
                 </div>
               </div>
