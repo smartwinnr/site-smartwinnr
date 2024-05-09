@@ -87,10 +87,10 @@ layout: ml_layout
           <img class="ml_company_logo_home ml_height_50" src="/images/org-logos/bsc.png" alt="Boston Scientific Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/convatec-logo.png" alt="Convatec Logo">
+          <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/convatec-logo.png" alt="Convatec Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/icici_bank_logo.webp" alt="ICICI Logo">
+          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/icici_bank_logo.webp" alt="ICICI Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/Ujjivan-logo.png" alt="Ujjivan Logo">
