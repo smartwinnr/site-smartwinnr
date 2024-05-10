@@ -24381,6 +24381,9 @@ img {
 .padding50 {
   padding: 5% 10% !important;
 }
+.padding53 {
+  padding: 5%  !important;
+}
 .padding80 {
   padding: 7% !important;
 }
@@ -27263,17 +27266,19 @@ img {
 .ml_checked_list{
   list-style-type: '\2713';
 }
+@media (max-width: 768px) {
+  .ml_request_demo_signup input.form-submit  {
+    width: 59% !important;
+  }
+}
 
 @media (max-width: 767px) {
 
-  h1 {
+  .submitted h1 {
     margin-top: 26px !important;
   }
-
-}
-@media (max-width: 767px) {
-   .padding50{
+  .padding53{
     padding: 7% 10% !important;
    }
 
-  }
+}
