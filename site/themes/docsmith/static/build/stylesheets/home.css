@@ -27263,8 +27263,17 @@ img {
 .ml_checked_list{
   list-style-type: '\2713';
 }
-@media (max-width: 768px) {
-  .ml_request_demo_signup input.form-submit  {
-    width: 55% !important;
+
+@media (max-width: 767px) {
+
+  h1 {
+    margin-top: 26px !important;
   }
+
 }
+@media (max-width: 767px) {
+   .padding50{
+    padding: 7% 10% !important;
+   }
+
+  }
