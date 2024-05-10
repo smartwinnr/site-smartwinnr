@@ -27267,15 +27267,10 @@ img {
   .ml_request_demo_signup input.form-submit  {
     width: 59% !important;
   }
-}
-
-@media (max-width: 767px) {
-
   .submitted h1 {
     margin-top: 26px !important;
   }
   .padding53{
     padding: 7% 10% !important;
    }
-
 }
