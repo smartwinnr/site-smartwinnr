@@ -24644,7 +24644,12 @@ img {
     text-align: center;
   }
 }
-
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+  .ml-youtube-video{
+      width: 100%;
+      max-height: 200px;
+    }
+  }  
 
 .ml-blog-tag {
   /* background-color: #c0cfe8 !important; */
@@ -25827,9 +25832,9 @@ img {
     display: block !important;
     width: 100% !important;
   }
-  /* .ml_div_contents_in_center {
+  .ml_div_contents_in_center {
     display: block !important;
-  } */
+  }
   .ml_logo_contents_in_center img{ 
     display: block;
     margin-left: auto !important;
