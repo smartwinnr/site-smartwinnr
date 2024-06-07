@@ -39,6 +39,25 @@ layout: ml_layout
     </div>
   </div>
   <div class="ml-container padding30 text-center">
+    <div class="row">
+      <h1 class="ml-title text-center" id="aiCaseStudies">AI Case Studies</h1>
+      <div class="row">
+        <div class="col-md-12 col-sm-12">
+          <a href="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/BSC_Case_Study_May.pdf"
+            target="_blank">
+            <img
+              src="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/BS_Case+Study_page-0001.jpg"
+              class="mythumbnail" /></a>
+          <a href="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/JNJ_Case_Study.pdf"
+            target="_blank">
+            <img
+              src="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/JNJ_Case+Study_Compressed_page-0001.jpg"
+              class="mythumbnail" /></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ml-container padding30 text-center">
     <!-- <h1 class="ml-title" id="caseStudies">Case Studies</h1>
     <div class="row">
       <div class="col-md-12 col-sm-12">
