@@ -40,9 +40,6 @@ layout: ml_layout
           <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/TATA_consumer.png" alt="tata Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/SamAsh.png" alt="SamAsh logo">
-        </div>
-        <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/Lupin-Logo.png" alt="Lupin Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
@@ -52,7 +49,9 @@ layout: ml_layout
           <img class="ml_company_logo_home ml_height_55" src="/images/org-logos/bayer-logo.svg" alt="Bayer logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/Johnson-Johnson-Innovative-Medicine-logo.png" alt="Johnson and Johnson Innovative Medicine">
+          <img class="ml_company_logo_home ml_height_25"
+            src="/images/org-logos/Johnson-Johnson-Innovative-Medicine-logo.png"
+            alt="Johnson and Johnson Innovative Medicine">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/Astra_zeneca.png" alt="Astra Zeneca">
@@ -64,19 +63,25 @@ layout: ml_layout
           <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/The_Himalaya_Drug_Company_logo.png" alt="Himalaya Logo">
+          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/The_Himalaya_Drug_Company_logo.png"
+            alt="Himalaya Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/Wockhardt-logo.png" alt="Wockhardt Logo">
+          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/Wockhardt-logo.png"
+            alt="Wockhardt Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_50" src="/images/org-logos/Shalina_healthcare.png" alt="Shalina Logo">
+          <img class="ml_company_logo_home ml_height_50" src="/images/org-logos/Shalina_healthcare.png"
+            alt="Shalina Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/Abbott.png" alt="abbott logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/JnJ_MedTech.png" alt="JnJ Medtech Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center">
+          <img class="ml_company_logo_home ml_height_18" src="/images/org-logos/medtronic.png" alt="Medtronic Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_20" src="/images/org-logos/Stryker-Logo.png" alt="Stryker Logo">
@@ -97,28 +102,32 @@ layout: ml_layout
           <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/Ujjivan-logo.png" alt="Ujjivan Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_55 ml-margin-top10" src="/images/org-logos/Hero_FinCorp.png" alt="HeroFinCorp">
+          <img class="ml_company_logo_home ml_height_55 ml-margin-top10" src="/images/org-logos/Hero_FinCorp.png"
+            alt="HeroFinCorp">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_35 ml-margin-top10" src="/images/org-logos/Aadhar_housing_finance.png" alt="Aadhar logo">
+          <img class="ml_company_logo_home ml_height_35 ml-margin-top10"
+            src="/images/org-logos/Aadhar_housing_finance.png" alt="Aadhar logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_20" src="/images/org-logos/TIAA-Logo.png" alt="TIAA">
         </div>
-         <div class="ml_height_100_flex ml_div_contents_in_center">
+        <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/HDFC-life.png" alt="HDFC LifeLogo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center">
+          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/icici_prudential.png"
+            alt="ICICI Prudential Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/telenor_new_lockup_black.png" alt="Telenor Logo">
+          <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/telenor_new_lockup_black.png"
+            alt="Telenor Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/nn-logo.png" alt="NN Logo">
-        </div>
-        <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/tynor-logo.png" alt="Tynor">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo">
