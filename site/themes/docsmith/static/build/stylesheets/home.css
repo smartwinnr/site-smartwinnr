@@ -27311,3 +27311,129 @@ img {
     max-width: 120px;
   }
 }
+
+.ml-hero-section{
+  background: url(/images/ai-landing-page/Hero-Section/Hero-Section_BG.png); 
+  background-size: cover; 
+  background-position: center; 
+}
+
+.logo{
+  color: #0000c9;
+  font-size: 30px;
+}
+.ml-demo-btn {
+  background-color:#2C2CFF;
+  color: white;
+  border: none;
+  border-radius: 24px;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: 600;
+  color: #161616  ;
+}
+.ml-custom-gradient-text {
+  font-family: 'Inter', sans-serif;
+  font-weight:800;
+  background: linear-gradient(to right, #0000C9, #6100FF, #FF00FF); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.ml-hero-section-content{
+  font-size: 20px;
+  font-weight: 400;
+  color: #161616  ;
+}
+.ml-gradient-button {
+  background: linear-gradient(110.28deg, #2C2CFF 1.11%, #FB76FF 102.01%); 
+  color: white;
+  border: none; 
+  border-radius: 54px; 
+  padding: 10px 20px; 
+  font-size: 25px; 
+  font-weight: bold;
+  cursor: pointer; 
+  transition: background-color 0.3s, box-shadow 0.3s;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.ml-heroSectionImage{
+  width:442px;
+  height:447px
+}
+.ml-video-section{
+  background-image: url('../../../../../static/images/ai-landing-page/Video-Section/Video-Section_BG.png'); 
+  background-size: cover; 
+  background-position: cover; 
+}
+.ml-gradient-div {
+  width: 100%;
+  position: relative;
+  height: 629.44px;
+  background: linear-gradient(110.28deg, #161616 1.11%, #353535 102.01%);
+  border-radius: 45px;
+}
+.ml-play-button{
+  position: absolute;
+  width: 205.26px;
+  height: 102.16px;
+  border-radius: 54px ;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.fa-play {
+  font-size: 51px;
+}
+.ml-realistic-simulations{
+  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Realistic-Simulations_BG.png'); 
+  background-size: cover; 
+  background-position: cover; 
+  color:#FFFFFF;
+}
+.ml-feature-section-header{
+font-size: 40px;
+font-weight: 700;
+color:#FFCE00
+}
+.ml-feature-section-para{
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 500;
+
+}
+.ml-feature-section-image{
+  width: 611.31px;
+  height: 409.12px;
+}
+.ml-customized-role-play{
+  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Customized-Role-Play_BG.png'); 
+  background-size: cover; 
+  background-position: cover; 
+  color:#FFFFFF;
+}
+
+.ml-instant-feedback-evaluation{
+  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Instant-Feedback_BG.png'); 
+  background-size: cover; 
+  background-position: cover; 
+  color:#FFFFFF;
+}
+
+.ml-scale-efficiently{
+  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Scale-Efficiency_BG.png'); 
+  background-size: cover; 
+  background-position: cover; 
+  color:#FFFFFF;
+}
+
+.ml-margin-bottom40 {
+  margin-bottom: 40px !important;
+}
