@@ -26829,6 +26829,11 @@ img {
   width: auto !important;
 }
 
+.ml_height_426 {
+  height: 426px !important;
+  width: auto !important;
+}
+
 .ml_custom_link {
   color: #0065FF !important;
 }
@@ -27190,6 +27195,10 @@ img {
   height: 200px !important;
   width: auto !important;
 }
+.ml_height_250{
+  height: 250px !important;
+  width: auto !important;
+}
 
 /** Start of smartwinnr neo ai demo request form styles */
 
@@ -27312,16 +27321,44 @@ img {
   }
 }
 
-.ml-hero-section{
-  background: url(/images/ai-landing-page/Hero-Section/Hero-Section_BG.png); 
-  background-size: cover; 
-  background-position: center; 
+.ml_height_450_auto{
+  height: 450px;
+  width: auto;
 }
 
-.logo{
-  color: #0000c9;
-  font-size: 30px;
+.ml_primary_3{
+  color: #0000C9 !important;
 }
+
+/** Start of AI coaching landing page styles */
+
+#ai_coaching_landing_page h1{
+  font-size: 50px;
+  font-weight: 600;
+  color: #161616  ;
+}
+
+#ai_coaching_landing_page #feature_section h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #FFCE00 !important;
+}
+
+#ai_coaching_landing_page #demo_form_section h1 {
+  font-size: 40px;
+  font-weight: 700;
+  /* color: #FFCE00 !important; */
+}
+
+#ai_coaching_landing_page .highlight_text{
+  font-weight: 900;
+  font-size: 2.5rem;
+}
+
+#ai_coaching_landing_page img{
+  margin-bottom: 0;
+}
+
 .ml-demo-btn {
   background-color:#2C2CFF;
   color: white;
@@ -27334,11 +27371,6 @@ img {
   transition: background-color 0.3s, box-shadow 0.3s;
 }
 
-h1{
-  font-size: 50px;
-  font-weight: 600;
-  color: #161616  ;
-}
 .ml-custom-gradient-text {
   font-family: 'Inter', sans-serif;
   font-weight:800;
@@ -27364,10 +27396,7 @@ h1{
   transition: background-color 0.3s, box-shadow 0.3s;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
 }
-.ml-heroSectionImage{
-  width:442px;
-  height:447px
-}
+
 .ml-video-section{
   background-image: url('../../../../../static/images/ai-landing-page/Video-Section/Video-Section_BG.png'); 
   background-size: cover; 
@@ -27393,18 +27422,10 @@ h1{
   font-size: 51px;
 }
 .ml-realistic-simulations{
-  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Realistic-Simulations_BG.png'); 
-  background-size: cover; 
-  background-position: cover; 
   color:#FFFFFF;
 }
-.ml-feature-section-header{
-font-size: 40px;
-font-weight: 700;
-color:#FFCE00
-}
 .ml-feature-section-para{
-  font-family: Inter;
+  /* font-family: Inter; */
   font-size: 25px;
   font-weight: 500;
 
@@ -27413,27 +27434,226 @@ color:#FFCE00
   width: 611.31px;
   height: 409.12px;
 }
-.ml-customized-role-play{
-  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Customized-Role-Play_BG.png'); 
-  background-size: cover; 
-  background-position: cover; 
-  color:#FFFFFF;
-}
-
-.ml-instant-feedback-evaluation{
-  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Instant-Feedback_BG.png'); 
-  background-size: cover; 
-  background-position: cover; 
-  color:#FFFFFF;
-}
-
-.ml-scale-efficiently{
-  background-image: url('../../../../../static/images/ai-landing-page/Feature-Section/Scale-Efficiency_BG.png'); 
-  background-size: cover; 
-  background-position: cover; 
-  color:#FFFFFF;
-}
-
 .ml-margin-bottom40 {
   margin-bottom: 40px !important;
+}
+
+.ml_100vh{
+  height: 100vh !important;
+}
+
+/** Start of AI coaching landing page demo request form styles */
+
+.ml_ai_coaching_landing_page_form {
+  background: #ffffff;
+  font-size: 1rem !important;
+  padding: 5% 8% !important;
+  color: #272640;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  /* margin: 0 20% 0 0 !important; */
+  -webkit-box-shadow: 10px 10px 12px -7px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 12px -7px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 12px -7px rgba(0,0,0,0.75);
+}
+
+.ml_ai_coaching_landing_page_form input {
+  display: block;
+  width: 100%;
+  color: #000 !important;
+  height: 35px;
+  padding: 5px;
+  font-size: .9rem;
+  text-indent: 2%;
+  border-radius: 5px;
+}
+
+.ml_ai_coaching_landing_page_form input.form-submit {
+  width: 50% !important;
+  margin: auto !important;
+  font-weight: 600;
+  background: linear-gradient(135deg, #0000c9, #FF00FF);
+  color: #fff !important;
+  font-size: .9rem;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 20px;
+}
+.ml_ai_coaching_landing_page_form .form-required {
+  color: red !important;
+}
+
+.ml_ai_coaching_landing_page_form input.form-submit:hover {
+  background: #4e6bdf;
+  color: #fff !important;
+}
+
+@media only screen and (max-width: 992px){
+  .ml-image-icon{
+    width: 30% !important;
+  }
+}
+
+/** End of smartwinnr AI coaching landing page demo request form styles */
+
+.glass_card {
+  backdrop-filter: blur(4px) saturate(181%);
+  -webkit-backdrop-filter: blur(4px) saturate(181%);
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.ml_shadow {
+  -webkit-box-shadow: 10px 10px 12px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 12px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 12px -7px rgba(0, 0, 0, 0.75);
+}
+
+.ai_coaching_landing_page_footer_grid_5 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 0px;
+}
+.ai_coaching_landing_page_footer_grid_2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 0px;
+}
+
+.ml_footer_logo_200 {
+  height: 55px !important;
+  width: 250px !important;
+}
+
+#testimonials_section .slick-dots{
+  position: relative !important;
+}
+
+.ml_border_with_gradient {
+  position: relative;
+}
+.ml_border_with_gradient::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 2px;
+  border-radius: 15px; 
+  background: linear-gradient(135deg, #0000c9, #FF00FF); 
+  -webkit-mask: 
+     linear-gradient(#fff 0 0) content-box, 
+     linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude; 
+}
+
+#ai_coaching_landing_page .ml_font_2em_pad_10_20{
+  font-size: 2em;
+  padding: 10px 20px;
+  background: -webkit-linear-gradient(135deg, #FF00FF, #0000c9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+#ai_coaching_landing_page #demo_form_section .ml_demo_section_info{
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 30px;
+  color: #000000;
+}
+
+/** End of AI coaching landing page styles */
+
+.ml_border_8_gray {
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  outline: none;
+  border: none;
+}
+
+.ml_width_100{
+  width: 100% !important;
+}
+
+.ml_drop_down {
+  width: 100%;
+  padding: 2% 1%;
+}
+
+.ml_testimonial_button {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 24px;
+  border-radius: 20px;
+  background: #0000C9;
+  background: -webkit-gradient(135deg, left top, left bottom, from(#0000C9), to(#FF00FF));
+  background: -moz-linear-gradient(135deg, #0000C9, #FF00FF);
+  background: linear-gradient(135deg, #0000C9, #FF00FF);
+  font: normal normal bold 20px arial;
+  color: #ffffff;
+  text-decoration: none;
+  width: 200px;
+}
+.ml_testimonial_button:hover,
+.ml_testimonial_button:focus {
+  border: 0px solid #360ae1;
+  background: #a21eff;
+  background: -webkit-gradient(135deg, left top, left bottom, from(#a21eff), to(#3b0bf4));
+  background: -moz-linear-gradient(135deg, #a21eff, #3b0bf4);
+  background: linear-gradient(135deg, #a21eff, #3b0bf4);
+  color: #ffffff;
+  text-decoration: none;
+}
+.ml_testimonial_button:active {
+  background: #0000C9;
+  background: -webkit-gradient(135deg, left top, left bottom, from(#0000C9), to(#FF00FF));
+  background: -moz-linear-gradient(135deg, #0000C9, #FF00FF);
+  background: linear-gradient(135deg, #0000C9, #FF00FF);
+}
+
+
+@media only screen and (max-width: 1024px){
+  #ai_coaching_landing_page #demo_form_section .ml_demo_section_info{
+    font-size: 1.2em;
+  }
+
+  #ai_coaching_landing_page h1{
+    font-size: 1.2rem;
+  }
+
+}
+
+@media only screen and (max-width: 669px){
+  #ai_coaching_landing_page .ml_center_align{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+  }
+  #ai_coaching_landing_page .ml_height_450_auto{
+    height: auto;
+  }
+  #ai_coaching_landing_page .ml_height_426{
+    height: auto;
+    box-sizing: border-box;
+  }
+
+  #ai_coaching_landing_page #demo_form_section .ml_demo_section_info{
+    font-size: 1em;
+    text-align: center;
+  }
+  #ai_coaching_landing_page .ml-gradient-button{
+    font-size: 1em;
+    text-align: center;
+  }
+
+  #ai_coaching_landing_page .ml_font_2em_pad_10_20{
+    font-size: 1.8em;
+  }
 }
