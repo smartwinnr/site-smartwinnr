@@ -38,7 +38,7 @@ layout: ml_layout
       <!-- </div> -->
     </div>
   </div>
-  <!-- <div class="ml-container padding30 text-center">
+  <div class="ml-container padding30 text-center">
     <div class="row">
       <h1 class="ml-title text-center" id="aiCaseStudies">AI Case Studies</h1>
       <div class="row">
@@ -56,7 +56,7 @@ layout: ml_layout
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
   <div class="ml-container padding30 text-center">
     <!-- <h1 class="ml-title" id="caseStudies">Case Studies</h1>
     <div class="row">
