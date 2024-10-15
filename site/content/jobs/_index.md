@@ -23,7 +23,6 @@ layout: ml_layout
   <div class="ml-background-white">
     <div class="padding50" id="jobs">
       <ul class="nav nav-tabs" id="tab1"><li class="active"><a data-toggle="tab" href="#tab1-item1" aria-expanded="true">Full Stack Developer</a></li>
-          <li class=""><a data-toggle="tab" href="#tab1-item2" aria-expanded="false">Product Marketing Specialist</a></li>
           <li class=""><a data-toggle="tab" href="#tab1-item3" aria-expanded="false">Software Engineer (Recent Graduate)</a></li>
       </ul><div class="tab-content">
           <div id="tab1-item1" class="tab-pane fade active in">
@@ -48,30 +47,6 @@ layout: ml_layout
                 </p>
             </div>
           </div>
-          <div id="tab1-item2" class="tab-pane fade">
-            <h1 class="ml-title ml-font24 text-center">Product Marketing Specialist</h1>
-            <div class="ml_body_text_black">
-              <p>We are growing rapidly at SmartWinnr. We release new features and improvements to our products regularly to improve how sales teams can best use our products to optimise their sales processes. The Product Marketing Specialist will manage these launches. You will be the lead in Marketing Operations. </p>
-              <h3>Responsibilities</h3>
-                <p>Experience in a product marketing, or digital marketing role</p>
-                <p>You understand what channels to leverage to make a marketing launch successful</p>
-      					<p>Deep understanding of marketing metrics</p>
-      					<p>Ability to collaborate with key stakeholders to develop a marketing plan for a product launch</p>
-      					<p>Comfortable editing content about technology, specifically product marketing content</p>
-              <h3>You Are</h3>
-                <p>B2B marketing experience</p>
-                <p>Experience in marketing SaaS based products</p>
-                <p>Passionate about working in emerging technologies</p>
-                <p></p>
-                <p></p>
-                <!-- <p> <a href="/about-us/company">Learn more about our values.</a></p> -->
-              <p></p>
-              <p></p>
-              <p>
-                <a href="mailto:contact@smartwinnr.com?subject=Apply for Product Marketing Specialist" class="btn btn-large btn-success "><span>Apply Now</span></a>
-            </p>
-            </div>
-            </div>
           <div id="tab1-item3" class="tab-pane fade">
               <h1 class="ml-title ml-font24 text-center">Software Engineer (Recent Graduate)</h1>
               <div class="ml_body_text_black">
