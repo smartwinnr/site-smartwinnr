@@ -82,9 +82,6 @@ layout: ml_layout
             alt="Johnson and Johnson Innovative Medicine">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/Astra_zeneca.png" alt="Astra Zeneca">
-        </div>
-        <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/Dr_reddys.png" alt="Dr Reddys logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
