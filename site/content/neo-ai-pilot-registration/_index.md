@@ -237,6 +237,9 @@ no_header_footer: true
             alt="ICICI Prudential Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
+          <img class="ml_company_logo_home ml_height_100" src="/images/org-logos/aditya-birla-group-logo.png" alt="Aditya Birla Logo">
+        </div>
+        <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_25" src="/images/org-logos/skf-logo.png" alt="SKF Logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
@@ -245,9 +248,6 @@ no_header_footer: true
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_40" src="/images/org-logos/nn-logo.png" alt="NN Logo">
-        </div>
-        <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_35" src="/images/org-logos/nouvmed logo.webp" alt="Nouvmed Logo">
         </div>
       </div>
     </div>

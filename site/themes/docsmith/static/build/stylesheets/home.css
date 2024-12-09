@@ -26824,6 +26824,9 @@ img {
 .ml_height_75 {
   height: 75px !important;
 }
+.ml_height_100 {
+  height: 100px !important;
+}
 .ml_height_500 {
   height: 500px !important;
   width: auto !important;
