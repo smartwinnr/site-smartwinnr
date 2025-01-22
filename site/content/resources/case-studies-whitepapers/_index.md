@@ -48,11 +48,11 @@ layout: ml_layout
             <img
               src="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/BS_Case+Study_page-0001.jpg"
               class="mythumbnail" /></a>
-          <a href="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/JNJ_Case_Study.pdf"
+          <!-- <a href="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/JNJ_Case_Study.pdf"
             target="_blank">
             <img
               src="https://s3.us-west-2.amazonaws.com/marketing.resource.smartwinnr.com/campaign_resources/JNJ_Case+Study_Compressed_page-0001.jpg"
-              class="mythumbnail" /></a>
+              class="mythumbnail" /></a> -->
         </div>
       </div>
     </div>
