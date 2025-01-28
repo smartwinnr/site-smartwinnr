@@ -78,9 +78,6 @@ layout: ml_layout
           <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/Dr_reddys.png" alt="Dr Reddys logo">
         </div>
         <div class="ml_height_100_flex ml_div_contents_in_center">
-          <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/viatris-logo.png" alt="Viatris Logo">
-        </div>
-        <div class="ml_height_100_flex ml_div_contents_in_center">
           <img class="ml_company_logo_home ml_height_30" src="/images/org-logos/The_Himalaya_Drug_Company_logo.png"
             alt="Himalaya Logo">
         </div>
